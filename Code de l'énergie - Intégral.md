@@ -1,5 +1,5 @@
 # Code de l'énergie  
-Version Consolidée au 2011-06-01
+Version Consolidée au 2011-07-31
 ## Contenu: 
   - [Partie législative (art. L100-1 à L731-1)](#1)
     - [LIVRE IER : L'ORGANISATION GENERALE  DU SECTEUR DE L'ENERGIE (art. L100-1 à L161-6)](#2)
@@ -225,7 +225,7 @@ relatives à la vente de biogaz (art. L446-1 à L446-4)](#191)
       - [TITRE II : LA RECHERCHE ET L'EXPLOITATION  DES GITES CONTENANT DU PETROLE (art. L621-1)](#215)
         - [Chapitre unique (art. L621-1)](#216)
       - [TITRE III : LE TRANSPORT (art. L631-1 à L632-2)](#217)
-        - [Chapitre Ier : Le transport par navire (art. L631-1 à L631-3)](#218)
+        - [Chapitre Ier : Le transport par navire (art. L631-1 à L631-5)](#218)
         - [Chapitre II : Le transport par canalisation (art. L632-1 à L632-2)](#219)
           - [Section unique (art. L632-1 à L632-2)](#220)
       - [TITRE IV : LE RAFFINAGE ET LE STOCKAGE (art. L641-1 à L642-10)](#221)
@@ -4392,7 +4392,8 @@ _Cite_:
 ###### Article L121-9
 
 Le ministre chargé de l'énergie arrête chaque année le montant des charges, sur proposition de la Commission de régulation de
-l'énergie. 
+l'énergie. A défaut d'un arrêté fixant le montant des charges avant le 31 décembre de l'année précédente, le montant proposé
+par la Commission de régulation de l'énergie entre en vigueur le 1er janvier.  
 
 Les charges imputables aux missions de service public définies aux articles L. 121-7 et L. 121-8 sont calculées sur la base
 d'une comptabilité appropriée tenue par les opérateurs qui les supportent. 
@@ -4412,9 +4413,9 @@ _Codifié par_:
 
   - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
+  - Loi n°2011-900 du 29 juillet 2011 - art. 56 (V)
 
 _Cité par_:
 
@@ -4425,7 +4426,7 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de l'énergie - art. L121-7 (V)
+  - Code de l'énergie - art. L121-7
 
 
 ###### Article L121-10
@@ -4532,7 +4533,8 @@ _Créé par_:
 Le montant de la contribution applicable à chaque kilowattheure est calculé de sorte que les contributions couvrent
 l'ensemble des charges imputables aux missions de service public, ainsi que les frais de gestion exposés par la Caisse des
 dépôts et consignations et le budget du médiateur national de l'énergie. Le ministre chargé de l'énergie fixe chaque année ce
-montant par un arrêté pris sur proposition de la Commission de régulation de l'énergie.
+montant par un arrêté pris sur proposition de la Commission de régulation de l'énergie. L'augmentation du montant de la
+contribution peut être échelonnée sur un an.  
 
 A défaut d'arrêté fixant le montant de la contribution due pour une année donnée avant le 31 décembre de l'année précédente,
 le montant proposé par la Commission de régulation de l'énergie en application de l'alinéa précédent entre en vigueur le 1er
@@ -4541,17 +4543,13 @@ cette date.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Loi n°2000-108 du 10 février 2000 - art. 5 (VT), I, alinéas 12 et 13
-
 _Codifié par_:
 
   - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
+  - Loi n°2011-900 du 29 juillet 2011 - art. 56 (V)
 
 _Cité par_:
 
@@ -8649,7 +8647,7 @@ _Cite_:
 
 ###### Article L142-15
 
-En cas de manquement aux obligations prescrites par les articles L. 631-1 et L. 631-2, un procès-verbal de manquement est
+I.-En cas de manquement aux obligations prescrites par les articles L. 631-1 et L. 631-2, un procès-verbal de manquement est
 dressé par les agents assermentés désignés par le ministre chargé de l'énergie ou le ministre chargé de la marine marchande. 
 
 Les agents désignés par le ministre chargé de la marine marchande sont assermentés dans des conditions fixées par décret en
@@ -8658,21 +8656,23 @@ Conseil d'Etat.
 Une copie de ce procès-verbal est remise à la personne physique ou morale qui en fait l'objet. Cette personne a accès au
 dossier et est mise à même de présenter ses observations écrites dans un délai d'un mois sur les manquements relevés. 
 
-La sanction susceptible d'être infligée est définie à l'article L. 631-3.
+La sanction susceptible d'être infligée est définie à l'article L. 631-3. 
+
+II.-En cas de manquement à l'obligation prescrite par l'article L. 631-4, dans le délai prévu au second alinéa du même
+article, un procès-verbal de manquement est dressé par les agents assermentés désignés par le ministre chargé de l'énergie.
+Une copie de ce procès-verbal est remise à la personne physique ou morale qui en fait l'objet. Cette personne a accès au
+dossier et est mise à même de présenter ses observations écrites dans un délai d'un mois à compter de la communication dudit
+procès-verbal sur les manquements relevés. La sanction susceptible d'être infligée est définie à l'article L. 631-5.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°92-1443 du 31 décembre 1992 - art. 13 (VT) alinéa 1 à alinéa 13
 
 _Codifié par_:
 
   - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
+  - Loi n°2011-900 du 29 juillet 2011 - art. 18
 
 _Cité par_:
 
@@ -8683,7 +8683,8 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de l'énergie - art. L631-1 (V)
+  - Code de l'énergie - art. L631-1
+  - Code de l'énergie - art. L631-4
 
 
 ###### Article L142-16
@@ -8718,29 +8719,25 @@ _Cite_:
 
 ###### Article L142-17
 
-Les amendes et l'astreinte mentionnées aux articles L. 142-12, L. 631-3, L. 641-3 et L. 642-10 sont versées au Trésor. Leur
-recouvrement est poursuivi comme en matière de douane.
+Les amendes et les astreintes  mentionnées aux articles L. 142-12, L. 631-3, L. 631-5, L. 641-3 et L. 642-10 sont versées au
+Trésor. Leur recouvrement est poursuivi comme en matière de douane.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°92-1443 du 31 décembre 1992 - art. 15 (Ab)
 
 _Codifié par_:
 
   - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
+  - Loi n°2011-900 du 29 juillet 2011 - art. 18
 
 _Cite_:
 
-  - Code de l'énergie - art. L142-12 (V)
-  - Code de l'énergie - art. L631-3 (V)
-  - Code de l'énergie - art. L641-3 (V)
-  - Code de l'énergie - art. L642-10 (V)
+  - Code de l'énergie - art. L142-12
+  - Code de l'énergie - art. L631-3
+  - Code de l'énergie - art. L641-3
+  - Code de l'énergie - art. L642-10
 
 
 ###### Article L142-18
@@ -22525,32 +22522,28 @@ _Cite_:
 
 ###### Article L611-1
 
-Les dispositions des articles L. 142-10 à L. 142-18, L. 143-7 et L. 143-8, L. 631-1 à L. 631-3, L. 641-2, L. 641-3, L. 642-1
+Les dispositions des articles L. 142-10 à L. 142-18, L. 143-7 et L. 143-8, L. 631-1 à L. 631-5, L. 641-2, L. 641-3, L. 642-1
 à L. 642-10 et L. 651-1 ne s'appliquent pas aux opérations qui sont conduites sous la responsabilité du ministre chargé de la
 défense.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Loi n°92-1443 du 31 décembre 1992 - art. 18 (Ab)
-
 _Codifié par_:
 
   - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
+  - Loi n°2011-900 du 29 juillet 2011 - art. 18
 
 _Cite_:
 
-  - Code de l'énergie - art. L142-10 (V)
-  - Code de l'énergie - art. L143-7 (V)
-  - Code de l'énergie - art. L631-1 (V)
-  - Code de l'énergie - art. L641-2 (V)
-  - Code de l'énergie - art. L642-1 (V)
-  - Code de l'énergie - art. L651-1 (V)
+  - Code de l'énergie - art. L142-10
+  - Code de l'énergie - art. L143-7
+  - Code de l'énergie - art. L631-1
+  - Code de l'énergie - art. L641-2
+  - Code de l'énergie - art. L642-1
+  - Code de l'énergie - art. L651-1
 
 
 ### TITRE II : LA RECHERCHE ET L'EXPLOITATION  DES GITES CONTENANT DU PETROLE<a id=215></a>
@@ -22656,24 +22649,20 @@ _Cite_:
 ###### Article L631-3
 
 L'autorité administrative peut infliger une amende à la personne qui a commis un manquement aux obligations définies à
-l'article L. 631-1 dans les conditions définies à l'article L. 142-15. 
+l'article L. 631-1 dans les conditions définies au I de l'article L. 142-15. 
 
 Le montant de cette amende ne peut excéder 1,5 euro par tonne de pétrole brut entrée dans l'usine exercée de raffinage en
 méconnaissance des dispositions de cet article.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Loi n°92-1443 du 31 décembre 1992 - art. 13 (VT), alinéas 4 et 6
-
 _Codifié par_:
 
   - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
+  - Loi n°2011-900 du 29 juillet 2011 - art. 18
 
 _Cité par_:
 
@@ -22683,7 +22672,47 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de l'énergie - art. L631-1 (V)
+  - Code de l'énergie - art. L631-1
+
+
+###### Article L631-4
+
+Toute personne qui, au cours de l'année civile, a reçu des quantités d'hydrocarbures donnant lieu à contribution aux fonds
+internationaux d'indemnisation pour les dommages dus à la pollution par les hydrocarbures, conformément aux articles 1.3 et
+10 de la convention du 27 novembre 1992 portant création d'un fonds international d'indemnisation pour les dommages dus à la
+pollution par les hydrocarbures et aux articles 1.7 et 10 du protocole du 16 mai 2003 à la convention précitée portant
+création du fonds complémentaire est soumise à contribution aux fonds.
+
+Les contributions annuelles sont dues au plus tard au 31 décembre de l'année qui suit celle au cours de laquelle l'assemblée
+a décidé de percevoir ces contributions.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2011-900 du 29 juillet 2011 - art. 18
+
+_Cité par_:
+
+  - Code de l'énergie - art. L142-15 (V)
+
+
+###### Article L631-5
+
+Au vu du procès-verbal et des observations mentionnés au II de l'article L. 142-15, l'autorité administrative peut prendre
+une décision motivée ordonnant une astreinte par jour de retard, d'un montant déterminé par arrêté, proportionnel aux
+contributions dues, dans la limite maximale de 1 500 €.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2011-900 du 29 juillet 2011 - art. 18
+
+_Cité par_:
+
+  - Arrêté du 15 février 2012 - art. 1 (V)
+  - Code de l'énergie - art. L142-15 (V)
 
 
 #### Chapitre II : Le transport par canalisation<a id=219></a>
