@@ -1,5 +1,5 @@
 # Code de l'énergie  
-Version Consolidée au 2011-09-17
+Version Consolidée au 2011-12-30
 ## Contenu: 
   - [Partie législative (art. L100-1 à L731-1)](#1)
     - [LIVRE IER : L'ORGANISATION GENERALE  DU SECTEUR DE L'ENERGIE (art. L100-1 à L161-6)](#2)
@@ -219,7 +219,7 @@ relatives à la vente de biogaz (art. L446-1 à L446-4)](#191)
         - [Chapitre III : Les redevances proportionnelles (art. L521-22 à L521-23)](#209)
       - [TITRE III : LES DISPOSITIONS RELATIVES  AUX INSTALLATIONS HYDRAULIQUES AUTORISEES (art. L531-1 à L531-6)](#210)
         - [Chapitre unique (art. L531-1 à L531-6)](#211)
-    - [LIVRE VI : LES DISPOSITIONS RELATIVES  AU PETROLE (art. L611-1 à L661-9)](#212)
+    - [LIVRE VI : LES DISPOSITIONS RELATIVES  AU PETROLE, AUX BIOCARBURANTS ET BIOLIQUIDES (art. L611-1 à L671-1)](#212)
       - [TITRE IER : GENERALITES (art. L611-1)](#213)
         - [Chapitre unique (art. L611-1)](#214)
       - [TITRE II : LA RECHERCHE ET L'EXPLOITATION  DES GITES CONTENANT DU PETROLE (art. L621-1)](#215)
@@ -235,30 +235,22 @@ relatives à la vente de biogaz (art. L446-1 à L446-4)](#191)
         - [Chapitre II : Le stockage (art. L642-1 à L642-10)](#225)
       - [TITRE V : LA DISTRIBUTION (art. L651-1)](#226)
         - [Chapitre unique (art. L651-1)](#227)
-      - [TITRE VI : LES DISPOSITIONS PARTICULIERES  A L'OUTRE MER (art. L661-1 à L661-9)](#228)
+      - [TITRE VI : LES BIOCARBURANTS ET BIOLIQUIDES (art. L661-1 à L661-9)](#228)
         - [Chapitre unique (art. L661-1 à L661-9)](#229)
-    - [LIVRE VI : LES DISPOSITIONS RELATIVES  AU PETROLE, AUX BIOCARBURANTS ET BIOLIQUIDES (art.  à L671-1)](#230)
-      - [TITRE IER : GENERALITES (art.  à L661-9)](#231)
-      - [TITRE II : LA RECHERCHE ET L'EXPLOITATION  DES GITES CONTENANT DU PETROLE (art.  à L661-9)](#232)
-      - [TITRE III : LE TRANSPORT (art.  à L661-9)](#233)
-      - [TITRE IV : LE RAFFINAGE ET LE STOCKAGE (art.  à L661-9)](#234)
-      - [TITRE V : LA DISTRIBUTION (art.  à L661-9)](#235)
-      - [TITRE VI : LES BIOCARBURANTS ET BIOLIQUIDES (art.  à L661-9)](#236)
-        - [Chapitre unique (art.  à L661-9)](#237)
-      - [TITRE VII : LES DISPOSITIONS PARTICULIERES A L'OUTRE-MER (art. L671-1)](#238)
-        - [Chapitre unique (art. L671-1)](#239)
-    - [LIVRE VII : LES DISPOSITIONS RELATIVES  AUX RESEAUX DE CHALEUR ET DE FROID (art. L711-1 à L731-1)](#240)
-      - [TITRE IER : LA PRODUCTION DE CHALEUR ET LE CLASSEMENT  DES RESEAUX DE CHALEUR ET DE FROID (art. L711-1 à L713-2)](#241)
-        - [Chapitre Ier : La production de chaleur (art. L711-1 à L711-3)](#242)
-        - [Chapitre II : Le classement des réseaux de chaleur et de froid (art. L712-1 à L712-5)](#243)
-          - [Section 1 : Principes et modalités de classement des réseaux de chaleur et de froid (art. L712-1 à L712-3)](#244)
-          - [Section 2 : Constatation des infractions (art. L712-4)](#245)
-          - [Section 3 : Sanctions pénales (art. L712-5)](#246)
-        - [Chapitre III : Dispositions diverses (art. L713-1 à L713-2)](#247)
-      - [TITRE II : LE PASSAGE DES CANALISATIONS DE TRANSPORT  ET DE DISTRIBUTION DE CHALEUR ET DE FROID (art. L721-1 à L721-12)](#248)
-        - [Chapitre unique (art. L721-1 à L721-12)](#249)
-      - [TITRE III : LE STOCKAGE DE CHALEUR (art. L731-1)](#250)
-        - [Chapitre unique (art. L731-1)](#251)
+      - [TITRE VII : LES DISPOSITIONS PARTICULIERES A L'OUTRE-MER (art. L671-1)](#230)
+        - [Chapitre unique (art. L671-1)](#231)
+    - [LIVRE VII : LES DISPOSITIONS RELATIVES  AUX RESEAUX DE CHALEUR ET DE FROID (art. L711-1 à L731-1)](#232)
+      - [TITRE IER : LA PRODUCTION DE CHALEUR ET LE CLASSEMENT  DES RESEAUX DE CHALEUR ET DE FROID (art. L711-1 à L713-2)](#233)
+        - [Chapitre Ier : La production de chaleur (art. L711-1 à L711-3)](#234)
+        - [Chapitre II : Le classement des réseaux de chaleur et de froid (art. L712-1 à L712-5)](#235)
+          - [Section 1 : Principes et modalités de classement des réseaux de chaleur et de froid (art. L712-1 à L712-3)](#236)
+          - [Section 2 : Constatation des infractions (art. L712-4)](#237)
+          - [Section 3 : Sanctions pénales (art. L712-5)](#238)
+        - [Chapitre III : Dispositions diverses (art. L713-1 à L713-2)](#239)
+      - [TITRE II : LE PASSAGE DES CANALISATIONS DE TRANSPORT  ET DE DISTRIBUTION DE CHALEUR ET DE FROID (art. L721-1 à L721-12)](#240)
+        - [Chapitre unique (art. L721-1 à L721-12)](#241)
+      - [TITRE III : LE STOCKAGE DE CHALEUR (art. L731-1)](#242)
+        - [Chapitre unique (art. L731-1)](#243)
 # Partie législative<a id=1></a>
 
 ## LIVRE IER : L'ORGANISATION GENERALE  DU SECTEUR DE L'ENERGIE<a id=2></a>
@@ -4287,14 +4279,14 @@ En matière de production d'électricité, les charges imputables aux missions d
 
 1° Les surcoûts qui résultent, le cas échéant, de la mise en œuvre des dispositions des articles L. 311-10 et L. 314-1 par
 rapport aux coûts évités à Electricité de France ou, le cas échéant, à ceux évités aux entreprises locales de distribution
-qui seraient concernées. Les coûts évités sont calculés par référence aux prix de marché de l'électricité ou, pour les
-entreprises locales de distribution, par référence aux tarifs de cession mentionnés à l'article L. 337-1 à proportion de la
-part de l'électricité acquise à ces tarifs dans leur approvisionnement total, déduction faite des quantités acquises au titre
-des articles L. 311-10 et L. 314-1. Les mêmes valeurs de coûts évités servent de références pour déterminer les surcoûts
-compensés lorsque les installations concernées sont exploitées par Electricité de France ou par une entreprise locale de
-distribution. Lorsque l'objet des contrats est l'achat de l'électricité produite par une installation de production implantée
-dans une zone non interconnectée au réseau métropolitain continental, les surcoûts sont calculés par rapport à la part
-relative à la production dans les tarifs réglementés de vente d'électricité ; 
+qui seraient concernées. Les coûts évités sont calculés par référence aux prix de marché de l'électricité sauf, pour les
+entreprises locales de distribution, pour les quantités acquises au titre des articles L. 311-10 et L. 314-1 se substituant
+aux quantités d'électricité acquises aux tarifs de cession mentionnés à l'article L. 337-1, par référence à ces tarifs. Les
+mêmes valeurs de coûts évités servent de références pour déterminer les surcoûts compensés lorsque les installations
+concernées sont exploitées par Electricité de France ou par une entreprise locale de distribution. Lorsque l'objet des
+contrats est l'achat de l'électricité produite par une installation de production implantée dans une zone non interconnectée
+au réseau métropolitain continental, les surcoûts sont calculés par rapport à la part relative à la production dans les
+tarifs réglementés de vente d'électricité ; 
 
 2° Les surcoûts de production dans les zones non interconnectées au réseau métropolitain continental qui, en raison des
 particularités du parc de production inhérentes à la nature de ces zones, ne sont pas couverts par la part relative à la
@@ -4316,9 +4308,9 @@ _Codifié par_:
 
   - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
+  - Loi n°2011-1978 du 28 décembre 2011 - art. 62
 
 _Cité par_:
 
@@ -4357,9 +4349,9 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de l'énergie - art. L311-10 (V)
-  - Code de l'énergie - art. L314-1 (V)
-  - Code de l'énergie - art. L337-1 (V)
+  - Code de l'énergie - art. L311-10
+  - Code de l'énergie - art. L314-1
+  - Code de l'énergie - art. L337-1
 
 
 ###### Article L121-8
@@ -22374,14 +22366,16 @@ calculés comme la valorisation de la production ou de la consommation d'électr
 de chaque redevance ne peut excéder un taux plafond, déterminé par l'autorité concédante dans le cadre de la procédure de
 mise en concurrence.
 
-Un tiers de la redevance est affecté aux départements sur le territoire desquels coulent les cours d'eau utilisés,
-l'éventuelle répartition entre plusieurs départements étant proportionnelle à la puissance moyenne hydraulique devenue
-indisponible dans les limites de chaque département du fait de l'usine.
+40 % de la redevance sont affectés aux départements sur le territoire desquels coulent les cours d'eau utilisés, l'éventuelle
+répartition entre plusieurs départements étant proportionnelle à la puissance moyenne hydraulique devenue indisponible dans
+les limites de chaque département du fait de l'usine.
 
-Un sixième de la redevance est affecté aux communes sur le territoire desquelles coulent les cours d'eau utilisés ou à leurs
-groupements sous réserve de l'accord explicite de chacune d'entre elles, la répartition entre les communes étant
-proportionnelle à la puissance moyenne hydraulique devenue indisponible dans les limites de chaque commune du fait de
-l'exploitation de l'ouvrage hydroélectrique.
+Toutefois,  pour les ouvrages hydroélectriques d'une puissance installée inférieure  à 4 500 kilowatts, un tiers de la
+redevance est affecté aux  départements sur le territoire desquels coulent les cours d'eau  utilisés, et un sixième aux
+communes concernées au même chef ou à leurs  groupements sous réserve de l'accord explicite de chacune d'entre elles.
+L'éventuelle répartition entre plusieurs départements ou plusieurs  communes est proportionnelle à la puissance moyenne
+hydraulique devenue  indisponible dans les limites de chacune des collectivités du fait de  l'exploitation de l'ouvrage
+hydroélectrique.
 
 **Liens relatifs à cet article**
 
@@ -22389,9 +22383,9 @@ _Codifié par_:
 
   - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
+  - Loi n°2011-1977 du 28 décembre 2011 - art. 41
 
 
 ### TITRE III : LES DISPOSITIONS RELATIVES  AUX INSTALLATIONS HYDRAULIQUES AUTORISEES<a id=210></a>
@@ -22572,7 +22566,7 @@ _Cite_:
   - Code de l'énergie -  Section 3 : L'occupation ou la traversée des pr... (V)
 
 
-## LIVRE VI : LES DISPOSITIONS RELATIVES  AU PETROLE<a id=212></a>
+## LIVRE VI : LES DISPOSITIONS RELATIVES  AU PETROLE, AUX BIOCARBURANTS ET BIOLIQUIDES<a id=212></a>
 
 ### TITRE IER : GENERALITES<a id=213></a>
 
@@ -23502,7 +23496,7 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 1655 quater (V)
 
 
-### TITRE VI : LES DISPOSITIONS PARTICULIERES  A L'OUTRE MER<a id=228></a>
+### TITRE VI : LES BIOCARBURANTS ET BIOLIQUIDES<a id=228></a>
 
 #### Chapitre unique<a id=229></a>
 
@@ -23764,25 +23758,9 @@ _Créé par_:
   - Ordonnance n°2011-1105 du 14 septembre 2011 - art. 4
 
 
-## LIVRE VI : LES DISPOSITIONS RELATIVES  AU PETROLE, AUX BIOCARBURANTS ET BIOLIQUIDES<a id=230></a>
+### TITRE VII : LES DISPOSITIONS PARTICULIERES A L'OUTRE-MER<a id=230></a>
 
-### TITRE IER : GENERALITES<a id=231></a>
-
-### TITRE II : LA RECHERCHE ET L'EXPLOITATION  DES GITES CONTENANT DU PETROLE<a id=232></a>
-
-### TITRE III : LE TRANSPORT<a id=233></a>
-
-### TITRE IV : LE RAFFINAGE ET LE STOCKAGE<a id=234></a>
-
-### TITRE V : LA DISTRIBUTION<a id=235></a>
-
-### TITRE VI : LES BIOCARBURANTS ET BIOLIQUIDES<a id=236></a>
-
-#### Chapitre unique<a id=237></a>
-
-### TITRE VII : LES DISPOSITIONS PARTICULIERES A L'OUTRE-MER<a id=238></a>
-
-#### Chapitre unique<a id=239></a>
+#### Chapitre unique<a id=231></a>
 
 ###### Article L671-1
 
@@ -23833,11 +23811,11 @@ _Anciens textes_:
   - Code de l'énergie - art. L661-1 (T)
 
 
-## LIVRE VII : LES DISPOSITIONS RELATIVES  AUX RESEAUX DE CHALEUR ET DE FROID<a id=240></a>
+## LIVRE VII : LES DISPOSITIONS RELATIVES  AUX RESEAUX DE CHALEUR ET DE FROID<a id=232></a>
 
-### TITRE IER : LA PRODUCTION DE CHALEUR ET LE CLASSEMENT  DES RESEAUX DE CHALEUR ET DE FROID<a id=241></a>
+### TITRE IER : LA PRODUCTION DE CHALEUR ET LE CLASSEMENT  DES RESEAUX DE CHALEUR ET DE FROID<a id=233></a>
 
-#### Chapitre Ier : La production de chaleur<a id=242></a>
+#### Chapitre Ier : La production de chaleur<a id=234></a>
 
 ###### Article L711-1
 
@@ -23927,9 +23905,9 @@ _Cité par_:
   - Code de l'énergie - art. R711-4 (V)
 
 
-#### Chapitre II : Le classement des réseaux de chaleur et de froid<a id=243></a>
+#### Chapitre II : Le classement des réseaux de chaleur et de froid<a id=235></a>
 
-##### Section 1 : Principes et modalités de classement des réseaux de chaleur et de froid<a id=244></a>
+##### Section 1 : Principes et modalités de classement des réseaux de chaleur et de froid<a id=236></a>
 
 ###### Article L712-1
 
@@ -24030,7 +24008,7 @@ _Créé par_:
   - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
 
 
-##### Section 2 : Constatation des infractions<a id=245></a>
+##### Section 2 : Constatation des infractions<a id=237></a>
 
 ###### Article L712-4
 
@@ -24062,7 +24040,7 @@ _Cité par_:
   - Code de l'énergie - art. R712-12 (V)
 
 
-##### Section 3 : Sanctions pénales<a id=246></a>
+##### Section 3 : Sanctions pénales<a id=238></a>
 
 ###### Article L712-5
 
@@ -24087,7 +24065,7 @@ _Cite_:
   - Code de l'énergie - art. L712-3 (V)
 
 
-#### Chapitre III : Dispositions diverses<a id=247></a>
+#### Chapitre III : Dispositions diverses<a id=239></a>
 
 ###### Article L713-1
 
@@ -24137,9 +24115,9 @@ _Cité par_:
   - Code de l'énergie - art. L714-2 (V)
 
 
-### TITRE II : LE PASSAGE DES CANALISATIONS DE TRANSPORT  ET DE DISTRIBUTION DE CHALEUR ET DE FROID<a id=248></a>
+### TITRE II : LE PASSAGE DES CANALISATIONS DE TRANSPORT  ET DE DISTRIBUTION DE CHALEUR ET DE FROID<a id=240></a>
 
-#### Chapitre unique<a id=249></a>
+#### Chapitre unique<a id=241></a>
 
 ###### Article L721-1
 
@@ -24519,9 +24497,9 @@ _Cite_:
   - Code de l'énergie - art. L721-8 (V)
 
 
-### TITRE III : LE STOCKAGE DE CHALEUR<a id=250></a>
+### TITRE III : LE STOCKAGE DE CHALEUR<a id=242></a>
 
-#### Chapitre unique<a id=251></a>
+#### Chapitre unique<a id=243></a>
 
 ###### Article L731-1
 
