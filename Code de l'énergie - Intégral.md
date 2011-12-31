@@ -1,5 +1,5 @@
 # Code de l'énergie  
-Version Consolidée au 2011-12-30
+Version Consolidée au 2012-01-01
 ## Contenu: 
   - [Partie législative (art. L100-1 à L731-1)](#1)
     - [LIVRE IER : L'ORGANISATION GENERALE  DU SECTEUR DE L'ENERGIE (art. L100-1 à L161-6)](#2)
@@ -4624,25 +4624,22 @@ _Créé par_:
 La Caisse des dépôts et consignations reverse quatre fois par an aux opérateurs qui supportent les charges résultant des
 missions définies aux articles L. 121-7 et L. 121-8 les sommes collectées. 
 
-Elle verse au médiateur national de l'énergie une somme égale au montant de son budget le 1er janvier de chaque année.
+Elle verse au médiateur national de l'énergie une somme, plafonnée conformément au I de l'article 46 de la loi n° 2011-1977
+du 28 décembre 2011 de finances pour 2012 et égale au montant de son budget le 1er janvier de chaque année.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°2000-108 du 10 février 2000 - art. 5 (VT), I, alinéa 16
 
 _Codifié par_:
 
   - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
+  - Loi n°2011-1977 du 28 décembre 2011 - art. 46 (V)
 
 _Cite_:
 
-  - Code de l'énergie - art. L121-7 (V)
+  - Code de l'énergie - art. L121-7
 
 _Cité par_:
 
