@@ -1,5 +1,5 @@
 # Code de l'énergie  
-Version Consolidée au 2012-03-24
+Version Consolidée au 2012-04-21
 ## Contenu: 
   - [Partie législative (art. L100-1 à L731-1)](#1)
     - [LIVRE IER : L'ORGANISATION GENERALE  DU SECTEUR DE L'ENERGIE (art. L100-1 à L161-6)](#2)
@@ -17810,7 +17810,13 @@ _Cite_:
 Le taux de rémunération du capital immobilisé dans des moyens de production d'électricité, mentionné à l'article L. 121-7,
 est déterminé de façon à favoriser le développement du système électrique. 
 
-Les tarifs de vente de l'électricité sont identiques à ceux pratiqués en métropole.
+Les tarifs de vente de l'électricité sont identiques à ceux pratiqués en métropole. 
+
+Les tarifs d'utilisation des réseaux publics de distribution de l'électricité, ainsi que la part correspondante de ces tarifs
+dans les tarifs réglementés de vente mentionnés à l'article L. 337-4, sont égaux aux coûts d'utilisation des réseaux publics
+de distribution de l'électricité de Mayotte réellement supportés par la société concessionnaire mentionnée à l'article L.
+362-1. La méthodologie utilisée pour établir ces tarifs est fixée, sur proposition de la société concessionnaire mentionnée à
+l'article L. 362-1, par la Commission de régulation de l'énergie.
 
 **Liens relatifs à cet article**
 
@@ -17822,9 +17828,9 @@ _Codifié par_:
 
   - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
+  - Ordonnance n°2012-510 du 18 avril 2012 - art. 1
 
 _Cité par_:
 
@@ -17832,7 +17838,9 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de l'énergie - art. L121-7 (V)
+  - Code de l'énergie - art. L121-7
+  - Code de l'énergie - art. L337-4
+  - Code de l'énergie - art. L362-1
 
 
 ###### Article L362-5
