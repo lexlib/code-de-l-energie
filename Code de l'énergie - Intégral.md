@@ -1,5 +1,5 @@
 # Code de l'énergie  
-Version Consolidée au 2012-04-21
+Version Consolidée au 2012-08-18
 ## Contenu: 
   - [Partie législative (art. L100-1 à L731-1)](#1)
     - [LIVRE IER : L'ORGANISATION GENERALE  DU SECTEUR DE L'ENERGIE (art. L100-1 à L161-6)](#2)
@@ -22339,16 +22339,14 @@ calculés comme la valorisation de la production ou de la consommation d'électr
 de chaque redevance ne peut excéder un taux plafond, déterminé par l'autorité concédante dans le cadre de la procédure de
 mise en concurrence.
 
-40 % de la redevance sont affectés aux départements sur le territoire desquels coulent les cours d'eau utilisés, l'éventuelle
-répartition entre plusieurs départements étant proportionnelle à la puissance moyenne hydraulique devenue indisponible dans
-les limites de chaque département du fait de l'usine.
+Un tiers de la redevance est affecté aux départements sur le territoire desquels coulent les cours d'eau utilisés,
+l'éventuelle répartition entre plusieurs départements étant proportionnelle à la puissance moyenne hydraulique devenue
+indisponible dans les limites de chaque département du fait de l'usine.
 
-Toutefois,  pour les ouvrages hydroélectriques d'une puissance installée inférieure  à 4 500 kilowatts, un tiers de la
-redevance est affecté aux  départements sur le territoire desquels coulent les cours d'eau  utilisés, et un sixième aux
-communes concernées au même chef ou à leurs  groupements sous réserve de l'accord explicite de chacune d'entre elles.
-L'éventuelle répartition entre plusieurs départements ou plusieurs  communes est proportionnelle à la puissance moyenne
-hydraulique devenue  indisponible dans les limites de chacune des collectivités du fait de  l'exploitation de l'ouvrage
-hydroélectrique.
+Un sixième de la redevance est affecté aux communes sur le territoire desquelles coulent les cours d'eau utilisés ou à leurs
+groupements sous réserve de l'accord explicite de chacune d'entre elles, la répartition entre les communes étant
+proportionnelle à la puissance moyenne hydraulique devenue indisponible dans les limites de chaque commune du fait de
+l'exploitation de l'ouvrage hydroélectrique.
 
 **Liens relatifs à cet article**
 
@@ -22358,7 +22356,15 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2011-1977 du 28 décembre 2011 - art. 41
+  - Loi n°2012-958 du 16 août 2012 - art. 46
+
+**Liens**:
+
+  - TRANSFERE: Loi n°2013-619 du 16 juillet 2013 - art. 38 (V)
+
+_Nouveaux textes_:
+
+  - Code de l'énergie - art. L523-2 (M)
 
 
 ### TITRE III : LES DISPOSITIONS RELATIVES  AUX INSTALLATIONS HYDRAULIQUES AUTORISEES<a id=210></a>
