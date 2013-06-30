@@ -1,5 +1,5 @@
 # Code de l'énergie  
-Version Consolidée au 2013-04-17
+Version Consolidée au 2013-07-01
 ## Contenu: 
   - [Partie législative (art. L100-1 à L731-1)](#1)
     - [LIVRE IER : L'ORGANISATION GENERALE  DU SECTEUR DE L'ENERGIE (art. L100-1 à L161-6)](#2)
@@ -98,164 +98,163 @@ d'électricité et de gaz (art. L122-1 à L122-7)](#42)
       - [TITRE II : LES CERTIFICATS D'ECONOMIES D'ENERGIE (art. L221-1 à L222-9)](#93)
         - [Chapitre Ier : Le dispositif des certificats d'économies d'énergie (art. L221-1 à L221-11)](#94)
         - [Chapitre II : Les sanctions administratives et pénales (art. L222-1 à L222-9)](#95)
-      - [TITRE III : LA PERFORMANCE ENERGETIQUE DANS L'HABITAT (art.  à L232-1)](#96)
-        - [Chapitre unique (art.  à L222-9)](#97)
-        - [Chapitre Ier :  Dispositions générales (art. L231-1 à L231-4)](#98)
-        - [Chapitre II :  Service public de la performance énergétique de l'habitat (art. L232-1)](#99)
-      - [TITRE IV : LES INSTALLATIONS DE CHAUFFAGE  ET DE CLIMATISATION (art. L241-1 à L241-11)](#100)
-        - [Chapitre unique (art. L241-1 à L241-11)](#101)
-      - [TITRE V : LES MESURES PARTICULIERES AUX VEHICULES (art. L251-1 à L251-2)](#102)
-        - [Chapitre unique (art. L251-1 à L251-2)](#103)
-      - [TITRE VI : LES DISPOSITIONS PARTICULIERES A MAYOTTE (art. L261-1)](#104)
-        - [Chapitre unique (art. L261-1)](#105)
-      - [TITRE VII : L'EFFACEMENT DE CONSOMMATION D'ÉLECTRICITÉ (art. L271-1)](#106)
-        - [Chapitre unique (art. L271-1)](#107)
-    - [LIVRE III : LES DISPOSITIONS  RELATIVES A L'ELECTRICITE (art. L311-1 à L362-5)](#108)
-      - [TITRE IER : LA PRODUCTION (art. L311-1 à L314-17)](#109)
-        - [Chapitre Ier : Les dispositions générales relatives à la production d'électricité (art. L311-1 à L311-19)](#110)
-          - [Section 1 : Les règles générales relatives à la production (art. L311-1 à L311-4)](#111)
-          - [Section 2 : L'autorisation d'exploiter (art. L311-5 à L311-9)](#112)
-          - [Section 3 : L'appel d'offres (art. L311-10 à L311-13)](#113)
-          - [Section 4 : Les sanctions administratives et pénales (art. L311-14 à L311-19)](#114)
-        - [Chapitre II : Les dispositions particulières à la production hydroélectrique (art. L312-1 à L312-2)](#115)
-        - [Chapitre III : Les dispositions particulières à la production d'électricité nucléaire (art. L313-1 à L313-2)](#116)
-        - [Chapitre IV : Les dispositions particulières à l'électricité produite à partir d'énergies renouvelables (art. L314-1 à L314-17)](#117)
-          - [Section 1 : L'obligation d'achat (art. L314-1 à L314-13)](#118)
-          - [Section 2 : Les garanties d'origine (art. L314-14 à L314-17)](#119)
-      - [TITRE II : LE TRANSPORT ET LA DISTRIBUTION (art. L321-1 à L324-2)](#120)
-        - [Chapitre Ier : Le transport (art. L321-1 à L321-19)](#121)
-          - [Section 1 : L'autorité concédante du réseau public de transport d'électricité et la consistance de ce réseau (art. L321-1 à L321-5)](#122)
-          - [Section 2 : Les missions du gestionnaire du réseau de transport (art. L321-6 à L321-17)](#123)
-          - [Section 3 : La qualité de l'électricité (art. L321-18 à L321-19)](#124)
-        - [Chapitre II : La distribution (art. L322-1 à L322-12)](#125)
-          - [Section 1 : Les autorités organisatrices du réseau public de distribution d'électricité et la consistance de ce réseau (art. L322-1 à L322-7)](#126)
-          - [Section 2 : Les missions du gestionnaire du réseau de distribution (art. L322-8 à L322-11)](#127)
-          - [Section 3 : La qualité de l'électricité (art. L322-12)](#128)
-        - [Chapitre III : Les ouvrages de transport et de distribution (art. L323-1 à L323-13)](#129)
-          - [Section 1 : L'occupation du domaine public par les ouvrages de transport et de distribution (art. L323-1 à L323-2)](#130)
-          - [Section 2 : La traversée des propriétés privées par les ouvrages de transport et de distribution (art. L323-3 à L323-9)](#131)
-          - [Section 3 : Les servitudes pour voisinage des ouvrages de transport ou de distribution (art. L323-10)](#132)
-          - [Section 4 : Le contrôle de la construction et de l'exploitation des ouvrages de transport et de distribution (art. L323-11 à L323-13)](#133)
-        - [Chapitre IV : La distribution aux services publics (art. L324-1 à L324-2)](#134)
-      - [TITRE III : LA COMMERCIALISATION (art. L331-1 à L337-16)](#135)
-        - [Chapitre Ier : Le choix d'un fournisseur (art. L331-1 à L331-4)](#136)
-        - [Chapitre II : Les contrats de vente (art. L332-1 à L332-6)](#137)
-        - [Chapitre III : L'achat pour revente (art. L333-1 à L333-3)](#138)
-        - [Chapitre IV : Dispositions particulières (art. L334-1 à L334-3)](#139)
+      - [TITRE III : LA PERFORMANCE ENERGETIQUE DANS L'HABITAT (art. L231-1 à L232-1)](#96)
+        - [Chapitre Ier :  Dispositions générales (art. L231-1 à L231-4)](#97)
+        - [Chapitre II :  Service public de la performance énergétique de l'habitat (art. L232-1)](#98)
+      - [TITRE IV : LES INSTALLATIONS DE CHAUFFAGE  ET DE CLIMATISATION (art. L241-1 à L241-11)](#99)
+        - [Chapitre unique (art. L241-1 à L241-11)](#100)
+      - [TITRE V : LES MESURES PARTICULIERES AUX VEHICULES (art. L251-1 à L251-2)](#101)
+        - [Chapitre unique (art. L251-1 à L251-2)](#102)
+      - [TITRE VI : LES DISPOSITIONS PARTICULIERES A MAYOTTE (art. L261-1)](#103)
+        - [Chapitre unique (art. L261-1)](#104)
+      - [TITRE VII : L'EFFACEMENT DE CONSOMMATION D'ÉLECTRICITÉ (art. L271-1)](#105)
+        - [Chapitre unique (art. L271-1)](#106)
+    - [LIVRE III : LES DISPOSITIONS  RELATIVES A L'ELECTRICITE (art. L311-1 à L362-5)](#107)
+      - [TITRE IER : LA PRODUCTION (art. L311-1 à L314-17)](#108)
+        - [Chapitre Ier : Les dispositions générales relatives à la production d'électricité (art. L311-1 à L311-19)](#109)
+          - [Section 1 : Les règles générales relatives à la production (art. L311-1 à L311-4)](#110)
+          - [Section 2 : L'autorisation d'exploiter (art. L311-5 à L311-9)](#111)
+          - [Section 3 : L'appel d'offres (art. L311-10 à L311-13)](#112)
+          - [Section 4 : Les sanctions administratives et pénales (art. L311-14 à L311-19)](#113)
+        - [Chapitre II : Les dispositions particulières à la production hydroélectrique (art. L312-1 à L312-2)](#114)
+        - [Chapitre III : Les dispositions particulières à la production d'électricité nucléaire (art. L313-1 à L313-2)](#115)
+        - [Chapitre IV : Les dispositions particulières à l'électricité produite à partir d'énergies renouvelables (art. L314-1 à L314-17)](#116)
+          - [Section 1 : L'obligation d'achat (art. L314-1 à L314-13)](#117)
+          - [Section 2 : Les garanties d'origine (art. L314-14 à L314-17)](#118)
+      - [TITRE II : LE TRANSPORT ET LA DISTRIBUTION (art. L321-1 à L324-2)](#119)
+        - [Chapitre Ier : Le transport (art. L321-1 à L321-19)](#120)
+          - [Section 1 : L'autorité concédante du réseau public de transport d'électricité et la consistance de ce réseau (art. L321-1 à L321-5)](#121)
+          - [Section 2 : Les missions du gestionnaire du réseau de transport (art. L321-6 à L321-17)](#122)
+          - [Section 3 : La qualité de l'électricité (art. L321-18 à L321-19)](#123)
+        - [Chapitre II : La distribution (art. L322-1 à L322-12)](#124)
+          - [Section 1 : Les autorités organisatrices du réseau public de distribution d'électricité et la consistance de ce réseau (art. L322-1 à L322-7)](#125)
+          - [Section 2 : Les missions du gestionnaire du réseau de distribution (art. L322-8 à L322-11)](#126)
+          - [Section 3 : La qualité de l'électricité (art. L322-12)](#127)
+        - [Chapitre III : Les ouvrages de transport et de distribution (art. L323-1 à L323-13)](#128)
+          - [Section 1 : L'occupation du domaine public par les ouvrages de transport et de distribution (art. L323-1 à L323-2)](#129)
+          - [Section 2 : La traversée des propriétés privées par les ouvrages de transport et de distribution (art. L323-3 à L323-9)](#130)
+          - [Section 3 : Les servitudes pour voisinage des ouvrages de transport ou de distribution (art. L323-10)](#131)
+          - [Section 4 : Le contrôle de la construction et de l'exploitation des ouvrages de transport et de distribution (art. L323-11 à L323-13)](#132)
+        - [Chapitre IV : La distribution aux services publics (art. L324-1 à L324-2)](#133)
+      - [TITRE III : LA COMMERCIALISATION (art. L331-1 à L337-16)](#134)
+        - [Chapitre Ier : Le choix d'un fournisseur (art. L331-1 à L331-4)](#135)
+        - [Chapitre II : Les contrats de vente (art. L332-1 à L332-6)](#136)
+        - [Chapitre III : L'achat pour revente (art. L333-1 à L333-3)](#137)
+        - [Chapitre IV : Dispositions particulières (art. L334-1 à L334-3)](#138)
           - [Section 1 : La commercialisation par une entreprise
-locale de distribution (art. L334-1 à L334-2)](#140)
-          - [Section 2 : La fourniture d'électricité et les contrats de concession (art. L334-3)](#141)
-        - [Chapitre V : La contribution des fournisseurs à la sécurité d'approvisionnement en électricité (art. L335-1 à L335-8)](#142)
-          - [Section 1 : Le dispositif de contribution des fournisseurs à la sécurité d'approvisionnement en électricité (art. L335-1 à L335-6)](#143)
-          - [Section 2 : Les sanctions administratives (art. L335-7 à L335-8)](#144)
-        - [Chapitre VI : L'accès régulé à l'électricité nucléaire historique (art. L336-1 à L336-10)](#145)
-        - [Chapitre VII : Les tarifs et les prix (art. L337-1 à L337-16)](#146)
-          - [Section 1 : Dispositions applicables à l'ensemble des tarifs et des prix (art. L337-1 à L337-2)](#147)
-          - [Section 2 : Dispositions applicables aux tarifs de vente (art. L337-3 à L337-9)](#148)
-            - [Sous-section 1 : La tarification spéciale "produit de première nécessité" (art. L337-3)](#149)
-            - [Sous-section 2 : Les tarifs réglementés de vente (art. L337-4 à L337-9)](#150)
-          - [Section 3 : Dispositions particulières applicables aux tarifs de cession aux entreprises locales de distribution (art. L337-10 à L337-12)](#151)
+locale de distribution (art. L334-1 à L334-2)](#139)
+          - [Section 2 : La fourniture d'électricité et les contrats de concession (art. L334-3)](#140)
+        - [Chapitre V : La contribution des fournisseurs à la sécurité d'approvisionnement en électricité (art. L335-1 à L335-8)](#141)
+          - [Section 1 : Le dispositif de contribution des fournisseurs à la sécurité d'approvisionnement en électricité (art. L335-1 à L335-6)](#142)
+          - [Section 2 : Les sanctions administratives (art. L335-7 à L335-8)](#143)
+        - [Chapitre VI : L'accès régulé à l'électricité nucléaire historique (art. L336-1 à L336-10)](#144)
+        - [Chapitre VII : Les tarifs et les prix (art. L337-1 à L337-16)](#145)
+          - [Section 1 : Dispositions applicables à l'ensemble des tarifs et des prix (art. L337-1 à L337-2)](#146)
+          - [Section 2 : Dispositions applicables aux tarifs de vente (art. L337-3 à L337-9)](#147)
+            - [Sous-section 1 : La tarification spéciale "produit de première nécessité" (art. L337-3)](#148)
+            - [Sous-section 2 : Les tarifs réglementés de vente (art. L337-4 à L337-9)](#149)
+          - [Section 3 : Dispositions particulières applicables aux tarifs de cession aux entreprises locales de distribution (art. L337-10 à L337-12)](#150)
           - [Section 4 : Dispositions applicables aux prix d'accès
-régulé à l'électricité nucléaire historique (art. L337-13 à L337-16)](#152)
-      - [TITRE IV : L'ACCES ET LE RACCORDEMENT AUX RESEAUX (art. L341-1 à L343-6)](#153)
-        - [Chapitre Ier : L'accès aux réseaux (art. L341-1 à L341-5)](#154)
-        - [Chapitre II : Le raccordement aux réseaux (art. L342-1 à L342-12)](#155)
-        - [Chapitre III : Les lignes directes (art. L343-1 à L343-6)](#156)
-      - [TITRE VI : LES DISPOSITIONS RELATIVES A L'OUTRE MER (art. L362-1 à L362-5)](#157)
-        - [Chapitre unique (art. L362-1 à L362-5)](#158)
-    - [LIVRE IV : LES DISPOSITIONS RELATIVES AU GAZ (art. L400-1 à L453-7)](#159)
-      - [TITRE IER : LA RECHERCHE ET L'EXPLOITATION DES GITES  CONTENANT DU GAZ NATUREL (art. L411-1)](#160)
-        - [Chapitre unique (art. L411-1)](#161)
-      - [TITRE II : LE STOCKAGE (art. L421-1 à L421-16)](#162)
-        - [Chapitre unique (art. L421-1 à L421-16)](#163)
-      - [TITRE III : LE TRANSPORT ET LA DISTRIBUTION (art. L431-1 à L433-25)](#164)
-        - [Chapitre Ier : Le transport (art. L431-1 à L431-8)](#165)
-          - [Section 1 : Le régime d'autorisation de transport (art. L431-1 à L431-2)](#166)
-            - [Sous-section 1 : Obligation d'une autorisation (art. L431-1)](#167)
-            - [Sous-section 2 : Sanctions (art. L431-2)](#168)
-          - [Section 2 : Les missions des gestionnaires de réseaux de transport (art. L431-3 à L431-6)](#169)
-          - [Section 3 : La participation des autres opérateurs à l'équilibrage des réseaux de transport (art. L431-7 à L431-8)](#170)
-        - [Chapitre II : La distribution (art. L432-1 à L432-12)](#171)
-          - [Section 1 : Les autorités organisatrices des réseaux de distribution (art. L432-1 à L432-7)](#172)
-          - [Section 2 : Les missions des gestionnaires de réseaux de distribution (art. L432-8 à L432-12)](#173)
-        - [Chapitre III : Les ouvrages de transport et de distribution (art. L433-1 à L433-25)](#174)
-          - [Section 1 :  L'occupation du domaine public ou la traversée des propriétés privées par les ouvrages de transport et de distribution (art. L433-1 à L433-11)](#175)
-            - [Sous-section 1 : Dispositions applicables au transport (art. L433-1 à L433-2)](#176)
-            - [Sous-section 2 : Dispositions applicables à la distribution (art. L433-3 à L433-11)](#177)
-          - [Section 2 : Le contrôle de la construction et de l'exploitation des ouvrages de transport et de distribution (art. L433-12 à L433-19)](#178)
-            - [Sous-section 1 : Dispositions relatives aux ouvrages de transport (art. L433-12)](#179)
-            - [Sous-section 2 : Dispositions relatives aux ouvrages de distribution (art. L433-13 à L433-19)](#180)
+régulé à l'électricité nucléaire historique (art. L337-13 à L337-16)](#151)
+      - [TITRE IV : L'ACCES ET LE RACCORDEMENT AUX RESEAUX (art. L341-1 à L343-6)](#152)
+        - [Chapitre Ier : L'accès aux réseaux (art. L341-1 à L341-5)](#153)
+        - [Chapitre II : Le raccordement aux réseaux (art. L342-1 à L342-12)](#154)
+        - [Chapitre III : Les lignes directes (art. L343-1 à L343-6)](#155)
+      - [TITRE VI : LES DISPOSITIONS RELATIVES A L'OUTRE MER (art. L362-1 à L362-5)](#156)
+        - [Chapitre unique (art. L362-1 à L362-5)](#157)
+    - [LIVRE IV : LES DISPOSITIONS RELATIVES AU GAZ (art. L400-1 à L453-7)](#158)
+      - [TITRE IER : LA RECHERCHE ET L'EXPLOITATION DES GITES  CONTENANT DU GAZ NATUREL (art. L411-1)](#159)
+        - [Chapitre unique (art. L411-1)](#160)
+      - [TITRE II : LE STOCKAGE (art. L421-1 à L421-16)](#161)
+        - [Chapitre unique (art. L421-1 à L421-16)](#162)
+      - [TITRE III : LE TRANSPORT ET LA DISTRIBUTION (art. L431-1 à L433-25)](#163)
+        - [Chapitre Ier : Le transport (art. L431-1 à L431-8)](#164)
+          - [Section 1 : Le régime d'autorisation de transport (art. L431-1 à L431-2)](#165)
+            - [Sous-section 1 : Obligation d'une autorisation (art. L431-1)](#166)
+            - [Sous-section 2 : Sanctions (art. L431-2)](#167)
+          - [Section 2 : Les missions des gestionnaires de réseaux de transport (art. L431-3 à L431-6)](#168)
+          - [Section 3 : La participation des autres opérateurs à l'équilibrage des réseaux de transport (art. L431-7 à L431-8)](#169)
+        - [Chapitre II : La distribution (art. L432-1 à L432-12)](#170)
+          - [Section 1 : Les autorités organisatrices des réseaux de distribution (art. L432-1 à L432-7)](#171)
+          - [Section 2 : Les missions des gestionnaires de réseaux de distribution (art. L432-8 à L432-12)](#172)
+        - [Chapitre III : Les ouvrages de transport et de distribution (art. L433-1 à L433-25)](#173)
+          - [Section 1 :  L'occupation du domaine public ou la traversée des propriétés privées par les ouvrages de transport et de distribution (art. L433-1 à L433-11)](#174)
+            - [Sous-section 1 : Dispositions applicables au transport (art. L433-1 à L433-2)](#175)
+            - [Sous-section 2 : Dispositions applicables à la distribution (art. L433-3 à L433-11)](#176)
+          - [Section 2 : Le contrôle de la construction et de l'exploitation des ouvrages de transport et de distribution (art. L433-12 à L433-19)](#177)
+            - [Sous-section 1 : Dispositions relatives aux ouvrages de transport (art. L433-12)](#178)
+            - [Sous-section 2 : Dispositions relatives aux ouvrages de distribution (art. L433-13 à L433-19)](#179)
           - [Section 3 : Les mesures de protection des ouvrages
-de transport et de distribution (art. L433-20 à L433-25)](#181)
-            - [Sous-section 1 : Dispositions relatives aux ouvrages de transport (art. L433-20)](#182)
-            - [Sous-section 2 : Dispositions relatives aux ouvrages de distribution (art. L433-21 à L433-25)](#183)
-      - [TITRE IV : LA COMMERCIALISATION (art. L441-1 à L446-4)](#184)
-        - [Chapitre Ier : Le choix du fournisseur (art. L441-1 à L441-5)](#185)
-        - [Chapitre II : Les contrats de vente (art. L442-1 à L442-3)](#186)
-        - [Chapitre III : Le régime de la fourniture (art. L443-1 à L443-12)](#187)
-          - [Section 1 : L'obligation d'une autorisation (art. L443-1 à L443-9)](#188)
-          - [Section 2 : Les sanctions (art. L443-10 à L443-12)](#189)
-            - [Sous-section 1 : Sanctions pénales (art. L443-10 à L443-11)](#190)
-            - [Sous-section 2 : Sanctions administratives (art. L443-12)](#191)
+de transport et de distribution (art. L433-20 à L433-25)](#180)
+            - [Sous-section 1 : Dispositions relatives aux ouvrages de transport (art. L433-20)](#181)
+            - [Sous-section 2 : Dispositions relatives aux ouvrages de distribution (art. L433-21 à L433-25)](#182)
+      - [TITRE IV : LA COMMERCIALISATION (art. L441-1 à L446-4)](#183)
+        - [Chapitre Ier : Le choix du fournisseur (art. L441-1 à L441-5)](#184)
+        - [Chapitre II : Les contrats de vente (art. L442-1 à L442-3)](#185)
+        - [Chapitre III : Le régime de la fourniture (art. L443-1 à L443-12)](#186)
+          - [Section 1 : L'obligation d'une autorisation (art. L443-1 à L443-9)](#187)
+          - [Section 2 : Les sanctions (art. L443-10 à L443-12)](#188)
+            - [Sous-section 1 : Sanctions pénales (art. L443-10 à L443-11)](#189)
+            - [Sous-section 2 : Sanctions administratives (art. L443-12)](#190)
         - [Chapitre IV : Le cas particulier de la commercialisation 
-par une entreprise locale de distribution (art. L444-1 à L444-2)](#192)
-        - [Chapitre V : Les tarifs (art. L445-1 à L445-5)](#193)
-          - [Section 1 : Les tarifs réglementés de vente (art. L445-1 à L445-4)](#194)
-          - [Section 2 : Le tarif spécial de solidarité (art. L445-5)](#195)
+par une entreprise locale de distribution (art. L444-1 à L444-2)](#191)
+        - [Chapitre V : Les tarifs (art. L445-1 à L445-5)](#192)
+          - [Section 1 : Les tarifs réglementés de vente (art. L445-1 à L445-4)](#193)
+          - [Section 2 : Le tarif spécial de solidarité (art. L445-5)](#194)
         - [Chapitre VI : Les dispositions particulières 
-relatives à la vente de biogaz (art. L446-1 à L446-4)](#196)
-      - [TITRE V : L'ACCES ET LE RACCORDEMENT AUX RESEAUX  ET INSTALLATIONS (art. L451-1 à L453-7)](#197)
-        - [Chapitre Ier : L'accès aux réseaux et installations (art. L451-1 à L451-3)](#198)
-        - [Chapitre II : Les tarifs d'utilisation des réseaux de transport, de distribution de gaz naturel et les tarifs d'utilisation des installations de gaz naturel liquéfié (art. L452-1 à L452-6)](#199)
-        - [Chapitre III : Le raccordement aux réseaux et installations (art. L453-1 à L453-7)](#200)
-    - [LIVRE V : DISPOSITIONS RELATIVES A L'UTILISATION  DE L'ENERGIE HYDRAULIQUE (art. L511-1 à L531-6)](#201)
-      - [TITRE IER : LES DISPOSITIONS COMMUNES AUX INSTALLATIONS HYDRAULIQUES AUTORISEES OU CONCEDEES (art. L511-1 à L512-3)](#202)
-        - [Chapitre Ier : Les caractéristiques générales des régimes d'exploitation de l'énergie hydraulique (art. L511-1 à L511-13)](#203)
-        - [Chapitre II : La constatation des infractions et les sanctions pénales (art. L512-1 à L512-3)](#204)
-          - [Section 1 : La constatation des infractions (art. L512-1)](#205)
-          - [Section 2 : Les sanctions (art. L512-2 à L512-3)](#206)
-      - [TITRE II : LES DISPOSITIONS RELATIVES  AUX INSTALLATIONS HYDRAULIQUES CONCEDEES (art. L521-1 à L521-23)](#207)
-        - [Chapitre Ier : La procédure applicable aux concessions (art. L521-1 à L521-17)](#208)
-          - [Section 1 : L'octroi de la concession (art. L521-1 à L521-3)](#209)
-          - [Section 2 : Le cahier des charges de la concession (art. L521-4 à L521-6)](#210)
-          - [Section 3 : L'occupation ou la traversée des propriétés privées (art. L521-7 à L521-14)](#211)
-          - [Section 4 : Les dispositions particulières à la fin de la concession et à son renouvellement (art. L521-15 à L521-17)](#212)
-        - [Chapitre II : Les réserves en énergie (art. L521-18 à L521-21)](#213)
-        - [Chapitre III : Les redevances proportionnelles (art. L521-22 à L521-23)](#214)
-      - [TITRE III : LES DISPOSITIONS RELATIVES  AUX INSTALLATIONS HYDRAULIQUES AUTORISEES (art. L531-1 à L531-6)](#215)
-        - [Chapitre unique (art. L531-1 à L531-6)](#216)
-    - [LIVRE VI : LES DISPOSITIONS RELATIVES  AU PETROLE, AUX BIOCARBURANTS ET BIOLIQUIDES (art. L611-1 à L671-1)](#217)
-      - [TITRE IER : GENERALITES (art. L611-1)](#218)
-        - [Chapitre unique (art. L611-1)](#219)
-      - [TITRE II : LA RECHERCHE ET L'EXPLOITATION  DES GITES CONTENANT DU PETROLE (art. L621-1)](#220)
-        - [Chapitre unique (art. L621-1)](#221)
-      - [TITRE III : LE TRANSPORT (art. L631-1 à L632-2)](#222)
-        - [Chapitre Ier : Le transport par navire (art. L631-1 à L631-5)](#223)
-        - [Chapitre II : Le transport par canalisation (art. L632-1 à L632-2)](#224)
-          - [Section unique (art. L632-1 à L632-2)](#225)
-      - [TITRE IV : LE RAFFINAGE ET LE STOCKAGE (art. L641-1 à L642-10)](#226)
-        - [Chapitre Ier : Le raffinage et les produits pétroliers (art. L641-1 à L641-8)](#227)
-          - [Section 1 : Le raffinage (art. L641-1 à L641-3)](#228)
-          - [Section 2 : Produits pétroliers et carburants renouvelables (art. L641-4 à L641-8)](#229)
-        - [Chapitre II : Le stockage (art. L642-1 à L642-10)](#230)
-      - [TITRE V : LA DISTRIBUTION (art. L651-1)](#231)
-        - [Chapitre unique (art. L651-1)](#232)
-      - [TITRE VI : LES BIOCARBURANTS ET BIOLIQUIDES (art. L661-1 à L661-9)](#233)
-        - [Chapitre unique (art. L661-1 à L661-9)](#234)
-      - [TITRE VII : LES DISPOSITIONS PARTICULIERES A L'OUTRE-MER (art. L671-1)](#235)
-        - [Chapitre unique (art. L671-1)](#236)
-    - [LIVRE VII : LES DISPOSITIONS RELATIVES  AUX RESEAUX DE CHALEUR ET DE FROID (art. L711-1 à L731-1)](#237)
-      - [TITRE IER : LA PRODUCTION DE CHALEUR ET LE CLASSEMENT  DES RESEAUX DE CHALEUR ET DE FROID (art. L711-1 à L713-2)](#238)
-        - [Chapitre Ier : La production de chaleur (art. L711-1 à L711-3)](#239)
-        - [Chapitre II : Le classement des réseaux de chaleur et de froid (art. L712-1 à L712-5)](#240)
-          - [Section 1 : Principes et modalités de classement des réseaux de chaleur et de froid (art. L712-1 à L712-3)](#241)
-          - [Section 2 : Constatation des infractions (art. L712-4)](#242)
-          - [Section 3 : Sanctions pénales (art. L712-5)](#243)
-        - [Chapitre III : Dispositions diverses (art. L713-1 à L713-2)](#244)
-      - [TITRE II : LE PASSAGE DES CANALISATIONS DE TRANSPORT  ET DE DISTRIBUTION DE CHALEUR ET DE FROID (art. L721-1 à L721-12)](#245)
-        - [Chapitre unique (art. L721-1 à L721-12)](#246)
-      - [TITRE III : LE STOCKAGE DE CHALEUR (art. L731-1)](#247)
-        - [Chapitre unique (art. L731-1)](#248)
+relatives à la vente de biogaz (art. L446-1 à L446-4)](#195)
+      - [TITRE V : L'ACCES ET LE RACCORDEMENT AUX RESEAUX  ET INSTALLATIONS (art. L451-1 à L453-7)](#196)
+        - [Chapitre Ier : L'accès aux réseaux et installations (art. L451-1 à L451-3)](#197)
+        - [Chapitre II : Les tarifs d'utilisation des réseaux de transport, de distribution de gaz naturel et les tarifs d'utilisation des installations de gaz naturel liquéfié (art. L452-1 à L452-6)](#198)
+        - [Chapitre III : Le raccordement aux réseaux et installations (art. L453-1 à L453-7)](#199)
+    - [LIVRE V : DISPOSITIONS RELATIVES A L'UTILISATION  DE L'ENERGIE HYDRAULIQUE (art. L511-1 à L531-6)](#200)
+      - [TITRE IER : LES DISPOSITIONS COMMUNES AUX INSTALLATIONS HYDRAULIQUES AUTORISEES OU CONCEDEES (art. L511-1 à L512-3)](#201)
+        - [Chapitre Ier : Les caractéristiques générales des régimes d'exploitation de l'énergie hydraulique (art. L511-1 à L511-13)](#202)
+        - [Chapitre II : La constatation des infractions et les sanctions pénales (art. L512-1 à L512-3)](#203)
+          - [Section 1 : La constatation des infractions (art. L512-1)](#204)
+          - [Section 2 : Les sanctions (art. L512-2 à L512-3)](#205)
+      - [TITRE II : LES DISPOSITIONS RELATIVES  AUX INSTALLATIONS HYDRAULIQUES CONCEDEES (art. L521-1 à L521-23)](#206)
+        - [Chapitre Ier : La procédure applicable aux concessions (art. L521-1 à L521-17)](#207)
+          - [Section 1 : L'octroi de la concession (art. L521-1 à L521-3)](#208)
+          - [Section 2 : Le cahier des charges de la concession (art. L521-4 à L521-6)](#209)
+          - [Section 3 : L'occupation ou la traversée des propriétés privées (art. L521-7 à L521-14)](#210)
+          - [Section 4 : Les dispositions particulières à la fin de la concession et à son renouvellement (art. L521-15 à L521-17)](#211)
+        - [Chapitre II : Les réserves en énergie (art. L521-18 à L521-21)](#212)
+        - [Chapitre III : Les redevances proportionnelles (art. L521-22 à L521-23)](#213)
+      - [TITRE III : LES DISPOSITIONS RELATIVES  AUX INSTALLATIONS HYDRAULIQUES AUTORISEES (art. L531-1 à L531-6)](#214)
+        - [Chapitre unique (art. L531-1 à L531-6)](#215)
+    - [LIVRE VI : LES DISPOSITIONS RELATIVES  AU PETROLE, AUX BIOCARBURANTS ET BIOLIQUIDES (art. L611-1 à L671-1)](#216)
+      - [TITRE IER : GENERALITES (art. L611-1)](#217)
+        - [Chapitre unique (art. L611-1)](#218)
+      - [TITRE II : LA RECHERCHE ET L'EXPLOITATION  DES GITES CONTENANT DU PETROLE (art. L621-1)](#219)
+        - [Chapitre unique (art. L621-1)](#220)
+      - [TITRE III : LE TRANSPORT (art. L631-1 à L632-2)](#221)
+        - [Chapitre Ier : Le transport par navire (art. L631-1 à L631-5)](#222)
+        - [Chapitre II : Le transport par canalisation (art. L632-1 à L632-2)](#223)
+          - [Section unique (art. L632-1 à L632-2)](#224)
+      - [TITRE IV : LE RAFFINAGE ET LE STOCKAGE (art. L641-1 à L642-10)](#225)
+        - [Chapitre Ier : Le raffinage et les produits pétroliers (art. L641-1 à L641-8)](#226)
+          - [Section 1 : Le raffinage (art. L641-1 à L641-3)](#227)
+          - [Section 2 : Produits pétroliers et carburants renouvelables (art. L641-4 à L641-8)](#228)
+        - [Chapitre II : Le stockage (art. L642-1 à L642-10)](#229)
+      - [TITRE V : LA DISTRIBUTION (art. L651-1)](#230)
+        - [Chapitre unique (art. L651-1)](#231)
+      - [TITRE VI : LES BIOCARBURANTS ET BIOLIQUIDES (art. L661-1 à L661-9)](#232)
+        - [Chapitre unique (art. L661-1 à L661-9)](#233)
+      - [TITRE VII : LES DISPOSITIONS PARTICULIERES A L'OUTRE-MER (art. L671-1)](#234)
+        - [Chapitre unique (art. L671-1)](#235)
+    - [LIVRE VII : LES DISPOSITIONS RELATIVES  AUX RESEAUX DE CHALEUR ET DE FROID (art. L711-1 à L731-1)](#236)
+      - [TITRE IER : LA PRODUCTION DE CHALEUR ET LE CLASSEMENT  DES RESEAUX DE CHALEUR ET DE FROID (art. L711-1 à L713-2)](#237)
+        - [Chapitre Ier : La production de chaleur (art. L711-1 à L711-3)](#238)
+        - [Chapitre II : Le classement des réseaux de chaleur et de froid (art. L712-1 à L712-5)](#239)
+          - [Section 1 : Principes et modalités de classement des réseaux de chaleur et de froid (art. L712-1 à L712-3)](#240)
+          - [Section 2 : Constatation des infractions (art. L712-4)](#241)
+          - [Section 3 : Sanctions pénales (art. L712-5)](#242)
+        - [Chapitre III : Dispositions diverses (art. L713-1 à L713-2)](#243)
+      - [TITRE II : LE PASSAGE DES CANALISATIONS DE TRANSPORT  ET DE DISTRIBUTION DE CHALEUR ET DE FROID (art. L721-1 à L721-12)](#244)
+        - [Chapitre unique (art. L721-1 à L721-12)](#245)
+      - [TITRE III : LE STOCKAGE DE CHALEUR (art. L731-1)](#246)
+        - [Chapitre unique (art. L731-1)](#247)
 # Partie législative<a id=1></a>
 
 ## LIVRE IER : L'ORGANISATION GENERALE  DU SECTEUR DE L'ENERGIE<a id=2></a>
@@ -10672,8 +10671,8 @@ _Cite_:
 
 Les dispositions relatives à la recherche et à la constatation des infractions à la réglementation intervenue, en application
 des articles L. 224-1 et L. 224-2 du code de l'environnement, en vue de réduire la consommation d'énergie et de limiter les
-sources d'émission de substances polluantes nocives pour la santé humaine et l'environnement, sont énoncées aux articles L.
-226-2 à L. 226-5 de ce même code.
+sources d'émission de substances polluantes nocives pour la santé humaine et l'environnement, sont énoncées au chapitre II du
+titre VII du livre Ier du même code.
 
 **Liens relatifs à cet article**
 
@@ -10681,14 +10680,13 @@ _Codifié par_:
 
   - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
+  - Ordonnance n°2012-34 du 11 janvier 2012 - art. 24
 
 _Cite_:
 
-  - Code de l'environnement - art. L224-1 (V)
-  - Code de l'environnement - art. L226-2 (V)
+  - Code de l'environnement - art. L224-1
 
 
 ### TITRE II : LES CERTIFICATS D'ECONOMIES D'ENERGIE<a id=93></a>
@@ -11334,44 +11332,36 @@ _Cité par_:
 
 ###### Article L222-9
 
-Les fonctionnaires et agents des services de l'Etat chargés de l'industrie mentionnés au 2° de l'article L. 226-2 du code de
+Les fonctionnaires et agents des services de l'Etat chargés de l'industrie mentionnés à l'article L. 172-1 du code de
 l'environnement sont habilités à rechercher et à constater l'infraction prévue à l'article L. 222-8 dans les conditions
-prévues aux articles L. 226-3 et L. 226-5 du même code. 
+prévues au chapitre II du titre VII du livre Ier du même code. 
 
 Le fait de faire obstacle à l'exercice des fonctions confiées par l'alinéa précédent aux fonctionnaires et agents est puni de
 six mois d'emprisonnement et de 7 500 euros d'amende. 
 
 Les peines encourues par les personnes morales responsables de l'infraction définie au présent article sont celles prévues à
-l'article L. 226-10 du code de l'environnement.
+l'article L. 173-8 du code de l'environnement.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°2005-781 du 13 juillet 2005 - art. 17 (Ab), II
 
 _Codifié par_:
 
   - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
+  - Ordonnance n°2012-34 du 11 janvier 2012 - art. 24
 
 _Cite_:
 
-  - Code de l'environnement - art. L226-10 (V)
-  - Code de l'environnement - art. L226-2 (V)
-  - Code de l'environnement - art. L226-3 (V)
-  - Code de l'environnement - art. L226-5 (V)
-  - Code de l'énergie - art. L222-8 (V)
+  - Code de l'environnement - art. L172-1
+  - Code de l'environnement - art. L226-10
+  - Code de l'énergie - art. L222-8
 
 
 ### TITRE III : LA PERFORMANCE ENERGETIQUE DANS L'HABITAT<a id=96></a>
 
-#### Chapitre unique<a id=97></a>
-
-#### Chapitre Ier :  Dispositions générales<a id=98></a>
+#### Chapitre Ier :  Dispositions générales<a id=97></a>
 
 ###### Article L231-1
 
@@ -11454,7 +11444,7 @@ _Cite_:
   - Code monétaire et financier - art. L221-27
 
 
-#### Chapitre II :  Service public de la performance énergétique de l'habitat<a id=99></a>
+#### Chapitre II :  Service public de la performance énergétique de l'habitat<a id=98></a>
 
 ###### Article L232-1
 
@@ -11477,9 +11467,9 @@ _Cité par_:
   - Code de la construction et de l'habitation. - art. L326-1 (V)
 
 
-### TITRE IV : LES INSTALLATIONS DE CHAUFFAGE  ET DE CLIMATISATION<a id=100></a>
+### TITRE IV : LES INSTALLATIONS DE CHAUFFAGE  ET DE CLIMATISATION<a id=99></a>
 
-#### Chapitre unique<a id=101></a>
+#### Chapitre unique<a id=100></a>
 
 ###### Article L241-1
 
@@ -11795,9 +11785,9 @@ _Cite_:
   - Code de l'énergie - art. L241-1
 
 
-### TITRE V : LES MESURES PARTICULIERES AUX VEHICULES<a id=102></a>
+### TITRE V : LES MESURES PARTICULIERES AUX VEHICULES<a id=101></a>
 
-#### Chapitre unique<a id=103></a>
+#### Chapitre unique<a id=102></a>
 
 ###### Article L251-1
 
@@ -11839,9 +11829,9 @@ _Cite_:
   - Code de la route. - art. L318-1 (V)
 
 
-### TITRE VI : LES DISPOSITIONS PARTICULIERES A MAYOTTE<a id=104></a>
+### TITRE VI : LES DISPOSITIONS PARTICULIERES A MAYOTTE<a id=103></a>
 
-#### Chapitre unique<a id=105></a>
+#### Chapitre unique<a id=104></a>
 
 ###### Article L261-1
 
@@ -11867,9 +11857,9 @@ _Cite_:
   - Code de l'énergie - art. L241-2 (V)
 
 
-### TITRE VII : L'EFFACEMENT DE CONSOMMATION D'ÉLECTRICITÉ<a id=106></a>
+### TITRE VII : L'EFFACEMENT DE CONSOMMATION D'ÉLECTRICITÉ<a id=105></a>
 
-#### Chapitre unique<a id=107></a>
+#### Chapitre unique<a id=106></a>
 
 ###### Article L271-1
 
@@ -11914,13 +11904,13 @@ _Cite_:
   - Code de l'énergie - art. L321-10
 
 
-## LIVRE III : LES DISPOSITIONS  RELATIVES A L'ELECTRICITE<a id=108></a>
+## LIVRE III : LES DISPOSITIONS  RELATIVES A L'ELECTRICITE<a id=107></a>
 
-### TITRE IER : LA PRODUCTION<a id=109></a>
+### TITRE IER : LA PRODUCTION<a id=108></a>
 
-#### Chapitre Ier : Les dispositions générales relatives à la production d'électricité<a id=110></a>
+#### Chapitre Ier : Les dispositions générales relatives à la production d'électricité<a id=109></a>
 
-##### Section 1 : Les règles générales relatives à la production<a id=111></a>
+##### Section 1 : Les règles générales relatives à la production<a id=110></a>
 
 ###### Article L311-1
 
@@ -12063,7 +12053,7 @@ _Cite_:
   - Code de l'énergie - art. L311-5 (V)
 
 
-##### Section 2 : L'autorisation d'exploiter<a id=112></a>
+##### Section 2 : L'autorisation d'exploiter<a id=111></a>
 
 ###### Article L311-5
 
@@ -12227,7 +12217,7 @@ _Créé par_:
   - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
 
 
-##### Section 3 : L'appel d'offres<a id=113></a>
+##### Section 3 : L'appel d'offres<a id=112></a>
 
 ###### Article L311-10
 
@@ -12455,7 +12445,7 @@ _Cité par_:
   - Code de l'énergie - art. L335-5 (V)
 
 
-##### Section 4 : Les sanctions administratives et pénales<a id=114></a>
+##### Section 4 : Les sanctions administratives et pénales<a id=113></a>
 
 ###### Article L311-14
 
@@ -12658,7 +12648,7 @@ _Cite_:
   - Code de l'énergie - art. L311-12 (V)
 
 
-#### Chapitre II : Les dispositions particulières à la production hydroélectrique<a id=115></a>
+#### Chapitre II : Les dispositions particulières à la production hydroélectrique<a id=114></a>
 
 ###### Article L312-1
 
@@ -12698,7 +12688,7 @@ _Cite_:
   - Code de l'énergie - art. L311-5 (V)
 
 
-#### Chapitre III : Les dispositions particulières à la production d'électricité nucléaire<a id=116></a>
+#### Chapitre III : Les dispositions particulières à la production d'électricité nucléaire<a id=115></a>
 
 ###### Article L313-1
 
@@ -12746,9 +12736,9 @@ _Modifié par_:
   - Ordonnance n°2012-6 du 5 janvier 2012 - art. 5, v. init.
 
 
-#### Chapitre IV : Les dispositions particulières à l'électricité produite à partir d'énergies renouvelables<a id=117></a>
+#### Chapitre IV : Les dispositions particulières à l'électricité produite à partir d'énergies renouvelables<a id=116></a>
 
-##### Section 1 : L'obligation d'achat<a id=118></a>
+##### Section 1 : L'obligation d'achat<a id=117></a>
 
 ###### Article L314-1
 
@@ -13282,7 +13272,7 @@ _Cité par_:
   - Code de l'énergie - art. R314-52-2 (V)
 
 
-##### Section 2 : Les garanties d'origine<a id=119></a>
+##### Section 2 : Les garanties d'origine<a id=118></a>
 
 ###### Article L314-14
 
@@ -13417,11 +13407,11 @@ _Cite_:
   - Code de l'énergie - art. L314-14
 
 
-### TITRE II : LE TRANSPORT ET LA DISTRIBUTION<a id=120></a>
+### TITRE II : LE TRANSPORT ET LA DISTRIBUTION<a id=119></a>
 
-#### Chapitre Ier : Le transport<a id=121></a>
+#### Chapitre Ier : Le transport<a id=120></a>
 
-##### Section 1 : L'autorité concédante du réseau public de transport d'électricité et la consistance de ce réseau<a id=122></a>
+##### Section 1 : L'autorité concédante du réseau public de transport d'électricité et la consistance de ce réseau<a id=121></a>
 
 ###### Article L321-1
 
@@ -13587,7 +13577,7 @@ _Cité par_:
   - Code de l'énergie - art. R321-6 (V)
 
 
-##### Section 2 : Les missions du gestionnaire du réseau de transport<a id=123></a>
+##### Section 2 : Les missions du gestionnaire du réseau de transport<a id=122></a>
 
 ###### Article L321-6
 
@@ -14178,7 +14168,7 @@ _Cité par_:
   - Code de l'énergie - art. R335-1 (V)
 
 
-##### Section 3 : La qualité de l'électricité<a id=124></a>
+##### Section 3 : La qualité de l'électricité<a id=123></a>
 
 ###### Article L321-18
 
@@ -14242,9 +14232,9 @@ _Cité par_:
   - Arrêté du 3 octobre 2016 - art. 1
 
 
-#### Chapitre II : La distribution<a id=125></a>
+#### Chapitre II : La distribution<a id=124></a>
 
-##### Section 1 : Les autorités organisatrices du réseau public de distribution d'électricité et la consistance de ce réseau<a id=126></a>
+##### Section 1 : Les autorités organisatrices du réseau public de distribution d'électricité et la consistance de ce réseau<a id=125></a>
 
 ###### Article L322-1
 
@@ -14454,7 +14444,7 @@ _Cite_:
   - Code général des collectivités territoriales - art. L2224-31 (V)
 
 
-##### Section 2 : Les missions du gestionnaire du réseau de distribution<a id=127></a>
+##### Section 2 : Les missions du gestionnaire du réseau de distribution<a id=126></a>
 
 ###### Article L322-8
 
@@ -14614,7 +14604,7 @@ _Cite_:
   - Code de l'énergie - art. L322-8
 
 
-##### Section 3 : La qualité de l'électricité<a id=128></a>
+##### Section 3 : La qualité de l'électricité<a id=127></a>
 
 ###### Article L322-12
 
@@ -14655,9 +14645,9 @@ _Cité par_:
   - Code général des collectivités territoriales - art. L2224-31 (VT)
 
 
-#### Chapitre III : Les ouvrages de transport et de distribution<a id=129></a>
+#### Chapitre III : Les ouvrages de transport et de distribution<a id=128></a>
 
-##### Section 1 : L'occupation du domaine public par les ouvrages de transport et de distribution<a id=130></a>
+##### Section 1 : L'occupation du domaine public par les ouvrages de transport et de distribution<a id=129></a>
 
 ###### Article L323-1
 
@@ -14728,7 +14718,7 @@ _Cité par_:
   - Code de l'énergie - art. L322-3 (V)
 
 
-##### Section 2 : La traversée des propriétés privées par les ouvrages de transport et de distribution<a id=131></a>
+##### Section 2 : La traversée des propriétés privées par les ouvrages de transport et de distribution<a id=130></a>
 
 ###### Article L323-3
 
@@ -14938,7 +14928,7 @@ _Cite_:
   - Code de l'énergie - art. L323-6 (V)
 
 
-##### Section 3 : Les servitudes pour voisinage des ouvrages de transport ou de distribution<a id=132></a>
+##### Section 3 : Les servitudes pour voisinage des ouvrages de transport ou de distribution<a id=131></a>
 
 ###### Article L323-10
 
@@ -14988,7 +14978,7 @@ _Cité par_:
   - Code de l'énergie - art. R323-22 (V)
 
 
-##### Section 4 : Le contrôle de la construction et de l'exploitation des ouvrages de transport et de distribution<a id=133></a>
+##### Section 4 : Le contrôle de la construction et de l'exploitation des ouvrages de transport et de distribution<a id=132></a>
 
 ###### Article L323-11
 
@@ -15085,7 +15075,7 @@ _Créé par_:
   - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
 
 
-#### Chapitre IV : La distribution aux services publics<a id=134></a>
+#### Chapitre IV : La distribution aux services publics<a id=133></a>
 
 ###### Article L324-1
 
@@ -15136,9 +15126,9 @@ _Créé par_:
   - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
 
 
-### TITRE III : LA COMMERCIALISATION<a id=135></a>
+### TITRE III : LA COMMERCIALISATION<a id=134></a>
 
-#### Chapitre Ier : Le choix d'un fournisseur<a id=136></a>
+#### Chapitre Ier : Le choix d'un fournisseur<a id=135></a>
 
 ###### Article L331-1
 
@@ -15272,7 +15262,7 @@ _Cite_:
   - Code de l'énergie - art. L331-1 (V)
 
 
-#### Chapitre II : Les contrats de vente<a id=137></a>
+#### Chapitre II : Les contrats de vente<a id=136></a>
 
 ###### Article L332-1
 
@@ -15431,7 +15421,7 @@ _Créé par_:
   - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
 
 
-#### Chapitre III : L'achat pour revente<a id=138></a>
+#### Chapitre III : L'achat pour revente<a id=137></a>
 
 ###### Article L333-1
 
@@ -15548,10 +15538,10 @@ _Cité par_:
   - Code de l'énergie - art. L335-8 (T)
 
 
-#### Chapitre IV : Dispositions particulières<a id=139></a>
+#### Chapitre IV : Dispositions particulières<a id=138></a>
 
 ##### Section 1 : La commercialisation par une entreprise
-locale de distribution<a id=140></a>
+locale de distribution<a id=139></a>
 
 ###### Article L334-1
 
@@ -15616,7 +15606,7 @@ _Cite_:
   - Code de l'énergie - art. L331-1 (V)
 
 
-##### Section 2 : La fourniture d'électricité et les contrats de concession<a id=141></a>
+##### Section 2 : La fourniture d'électricité et les contrats de concession<a id=140></a>
 
 ###### Article L334-3
 
@@ -15656,9 +15646,9 @@ _Cite_:
   - Code de l'énergie - art. L331-1 (V)
 
 
-#### Chapitre V : La contribution des fournisseurs à la sécurité d'approvisionnement en électricité<a id=142></a>
+#### Chapitre V : La contribution des fournisseurs à la sécurité d'approvisionnement en électricité<a id=141></a>
 
-##### Section 1 : Le dispositif de contribution des fournisseurs à la sécurité d'approvisionnement en électricité<a id=143></a>
+##### Section 1 : Le dispositif de contribution des fournisseurs à la sécurité d'approvisionnement en électricité<a id=142></a>
 
 ###### Article L335-1
 
@@ -15904,7 +15894,7 @@ _Cité par_:
   - Code de l'énergie - art. L321-16 (V)
 
 
-##### Section 2 : Les sanctions administratives<a id=144></a>
+##### Section 2 : Les sanctions administratives<a id=143></a>
 
 ###### Article L335-7
 
@@ -15990,7 +15980,7 @@ _Nouveaux textes_:
   - Code de l'énergie - art. L333-4 (V)
 
 
-#### Chapitre VI : L'accès régulé à l'électricité nucléaire historique<a id=145></a>
+#### Chapitre VI : L'accès régulé à l'électricité nucléaire historique<a id=144></a>
 
 ###### Article L336-1
 
@@ -16435,9 +16425,9 @@ _Cite_:
   - Code de l'énergie - art. L336-2 (V)
 
 
-#### Chapitre VII : Les tarifs et les prix<a id=146></a>
+#### Chapitre VII : Les tarifs et les prix<a id=145></a>
 
-##### Section 1 : Dispositions applicables à l'ensemble des tarifs et des prix<a id=147></a>
+##### Section 1 : Dispositions applicables à l'ensemble des tarifs et des prix<a id=146></a>
 
 ###### Article L337-1
 
@@ -16526,9 +16516,9 @@ _Cite_:
   - Code de l'énergie - art. L337-4 (V)
 
 
-##### Section 2 : Dispositions applicables aux tarifs de vente<a id=148></a>
+##### Section 2 : Dispositions applicables aux tarifs de vente<a id=147></a>
 
-##### Sous-section 1 : La tarification spéciale "produit de première nécessité"<a id=149></a>
+##### Sous-section 1 : La tarification spéciale "produit de première nécessité"<a id=148></a>
 
 ###### Article L337-3
 
@@ -16599,7 +16589,7 @@ _Cite_:
   - Code de la construction et de l'habitation. - art. L633-1
 
 
-##### Sous-section 2 : Les tarifs réglementés de vente<a id=150></a>
+##### Sous-section 2 : Les tarifs réglementés de vente<a id=149></a>
 
 ###### Article L337-4
 
@@ -16793,7 +16783,7 @@ _Cite_:
   - Code de l'énergie - art. L337-8 (V)
 
 
-##### Section 3 : Dispositions particulières applicables aux tarifs de cession aux entreprises locales de distribution<a id=151></a>
+##### Section 3 : Dispositions particulières applicables aux tarifs de cession aux entreprises locales de distribution<a id=150></a>
 
 ###### Article L337-10
 
@@ -16886,7 +16876,7 @@ _Créé par_:
 
 
 ##### Section 4 : Dispositions applicables aux prix d'accès
-régulé à l'électricité nucléaire historique<a id=152></a>
+régulé à l'électricité nucléaire historique<a id=151></a>
 
 ###### Article L337-13
 
@@ -17011,9 +17001,9 @@ _Créé par_:
   - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
 
 
-### TITRE IV : L'ACCES ET LE RACCORDEMENT AUX RESEAUX<a id=153></a>
+### TITRE IV : L'ACCES ET LE RACCORDEMENT AUX RESEAUX<a id=152></a>
 
-#### Chapitre Ier : L'accès aux réseaux<a id=154></a>
+#### Chapitre Ier : L'accès aux réseaux<a id=153></a>
 
 ###### Article L341-1
 
@@ -17232,7 +17222,7 @@ _Cite_:
   - Code de l'énergie - art. L341-4 (V)
 
 
-#### Chapitre II : Le raccordement aux réseaux<a id=155></a>
+#### Chapitre II : Le raccordement aux réseaux<a id=154></a>
 
 ###### Article L342-1
 
@@ -17649,7 +17639,7 @@ _Cite_:
   - Code de l'énergie - art. L321-7 (V)
 
 
-#### Chapitre III : Les lignes directes<a id=156></a>
+#### Chapitre III : Les lignes directes<a id=155></a>
 
 ###### Article L343-1
 
@@ -17874,9 +17864,9 @@ _Cité par_:
   - Code de l'énergie - art. L344-12 (V)
 
 
-### TITRE VI : LES DISPOSITIONS RELATIVES A L'OUTRE MER<a id=157></a>
+### TITRE VI : LES DISPOSITIONS RELATIVES A L'OUTRE MER<a id=156></a>
 
-#### Chapitre unique<a id=158></a>
+#### Chapitre unique<a id=157></a>
 
 ###### Article L362-1
 
@@ -18005,7 +17995,7 @@ _Cite_:
   - Code de l'énergie - art. L311-6 (V)
 
 
-## LIVRE IV : LES DISPOSITIONS RELATIVES AU GAZ<a id=159></a>
+## LIVRE IV : LES DISPOSITIONS RELATIVES AU GAZ<a id=158></a>
 
 ###### Article L400-1
 
@@ -18027,9 +18017,9 @@ _Créé par_:
   - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
 
 
-### TITRE IER : LA RECHERCHE ET L'EXPLOITATION DES GITES  CONTENANT DU GAZ NATUREL<a id=160></a>
+### TITRE IER : LA RECHERCHE ET L'EXPLOITATION DES GITES  CONTENANT DU GAZ NATUREL<a id=159></a>
 
-#### Chapitre unique<a id=161></a>
+#### Chapitre unique<a id=160></a>
 
 ###### Article L411-1
 
@@ -18047,9 +18037,9 @@ _Créé par_:
   - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
 
 
-### TITRE II : LE STOCKAGE<a id=162></a>
+### TITRE II : LE STOCKAGE<a id=161></a>
 
-#### Chapitre unique<a id=163></a>
+#### Chapitre unique<a id=162></a>
 
 ###### Article L421-1
 
@@ -18505,13 +18495,13 @@ _Créé par_:
   - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
 
 
-### TITRE III : LE TRANSPORT ET LA DISTRIBUTION<a id=164></a>
+### TITRE III : LE TRANSPORT ET LA DISTRIBUTION<a id=163></a>
 
-#### Chapitre Ier : Le transport<a id=165></a>
+#### Chapitre Ier : Le transport<a id=164></a>
 
-##### Section 1 : Le régime d'autorisation de transport<a id=166></a>
+##### Section 1 : Le régime d'autorisation de transport<a id=165></a>
 
-##### Sous-section 1 : Obligation d'une autorisation<a id=167></a>
+##### Sous-section 1 : Obligation d'une autorisation<a id=166></a>
 
 ###### Article L431-1
 
@@ -18537,7 +18527,7 @@ _Cité par_:
   - Code de l'énergie - art. L142-31 (V)
 
 
-##### Sous-section 2 : Sanctions<a id=168></a>
+##### Sous-section 2 : Sanctions<a id=167></a>
 
 ###### Article L431-2
 
@@ -18587,7 +18577,7 @@ _Cité par_:
   - Code de l'énergie - art. R433-19 (V)
 
 
-##### Section 2 : Les missions des gestionnaires de réseaux de transport<a id=169></a>
+##### Section 2 : Les missions des gestionnaires de réseaux de transport<a id=168></a>
 
 ###### Article L431-3
 
@@ -18752,7 +18742,7 @@ _Cité par_:
   - Code de l'énergie - art. R432-6 (V)
 
 
-##### Section 3 : La participation des autres opérateurs à l'équilibrage des réseaux de transport<a id=170></a>
+##### Section 3 : La participation des autres opérateurs à l'équilibrage des réseaux de transport<a id=169></a>
 
 ###### Article L431-7
 
@@ -18797,9 +18787,9 @@ _Cité par_:
   - Code de l'énergie - art. L134-3 (V)
 
 
-#### Chapitre II : La distribution<a id=171></a>
+#### Chapitre II : La distribution<a id=170></a>
 
-##### Section 1 : Les autorités organisatrices des réseaux de distribution<a id=172></a>
+##### Section 1 : Les autorités organisatrices des réseaux de distribution<a id=171></a>
 
 ###### Article L432-1
 
@@ -18993,7 +18983,7 @@ _Cité par_:
   - Code de l'énergie - art. R453-1 (V)
 
 
-##### Section 2 : Les missions des gestionnaires de réseaux de distribution<a id=173></a>
+##### Section 2 : Les missions des gestionnaires de réseaux de distribution<a id=172></a>
 
 ###### Article L432-8
 
@@ -19156,11 +19146,11 @@ _Cité par_:
   - Code de l'énergie - art. R432-12 (V)
 
 
-#### Chapitre III : Les ouvrages de transport et de distribution<a id=174></a>
+#### Chapitre III : Les ouvrages de transport et de distribution<a id=173></a>
 
-##### Section 1 :  L'occupation du domaine public ou la traversée des propriétés privées par les ouvrages de transport et de distribution<a id=175></a>
+##### Section 1 :  L'occupation du domaine public ou la traversée des propriétés privées par les ouvrages de transport et de distribution<a id=174></a>
 
-##### Sous-section 1 : Dispositions applicables au transport<a id=176></a>
+##### Sous-section 1 : Dispositions applicables au transport<a id=175></a>
 
 ###### Article L433-1
 
@@ -19201,7 +19191,7 @@ _Cite_:
   - Code de l'environnement - art. L555-30 (VD)
 
 
-##### Sous-section 2 : Dispositions applicables à la distribution<a id=177></a>
+##### Sous-section 2 : Dispositions applicables à la distribution<a id=176></a>
 
 ###### Article L433-3
 
@@ -19468,9 +19458,9 @@ _Cite_:
   - Code de l'énergie - art. L433-8 (V)
 
 
-##### Section 2 : Le contrôle de la construction et de l'exploitation des ouvrages de transport et de distribution<a id=178></a>
+##### Section 2 : Le contrôle de la construction et de l'exploitation des ouvrages de transport et de distribution<a id=177></a>
 
-##### Sous-section 1 : Dispositions relatives aux ouvrages de transport<a id=179></a>
+##### Sous-section 1 : Dispositions relatives aux ouvrages de transport<a id=178></a>
 
 ###### Article L433-12
 
@@ -19488,7 +19478,7 @@ _Créé par_:
   - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
 
 
-##### Sous-section 2 : Dispositions relatives aux ouvrages de distribution<a id=180></a>
+##### Sous-section 2 : Dispositions relatives aux ouvrages de distribution<a id=179></a>
 
 ###### Article L433-13
 
@@ -19732,9 +19722,9 @@ _Cité par_:
 
 
 ##### Section 3 : Les mesures de protection des ouvrages
-de transport et de distribution<a id=181></a>
+de transport et de distribution<a id=180></a>
 
-##### Sous-section 1 : Dispositions relatives aux ouvrages de transport<a id=182></a>
+##### Sous-section 1 : Dispositions relatives aux ouvrages de transport<a id=181></a>
 
 ###### Article L433-20
 
@@ -19756,7 +19746,7 @@ _Abrogé par_:
   - Ordonnance n°2016-282 du 10 mars 2016 - art. 5
 
 
-##### Sous-section 2 : Dispositions relatives aux ouvrages de distribution<a id=183></a>
+##### Sous-section 2 : Dispositions relatives aux ouvrages de distribution<a id=182></a>
 
 ###### Article L433-21
 
@@ -19915,9 +19905,9 @@ _Cite_:
   - Code pénal - art. 131-39
 
 
-### TITRE IV : LA COMMERCIALISATION<a id=184></a>
+### TITRE IV : LA COMMERCIALISATION<a id=183></a>
 
-#### Chapitre Ier : Le choix du fournisseur<a id=185></a>
+#### Chapitre Ier : Le choix du fournisseur<a id=184></a>
 
 ###### Article L441-1
 
@@ -20051,7 +20041,7 @@ _Cite_:
   - Code de l'énergie - art. L441-1 (VD)
 
 
-#### Chapitre II : Les contrats de vente<a id=186></a>
+#### Chapitre II : Les contrats de vente<a id=185></a>
 
 ###### Article L442-1
 
@@ -20136,9 +20126,9 @@ _Cite_:
   - Code de l'énergie - art. L442-1 (VD)
 
 
-#### Chapitre III : Le régime de la fourniture<a id=187></a>
+#### Chapitre III : Le régime de la fourniture<a id=186></a>
 
-##### Section 1 : L'obligation d'une autorisation<a id=188></a>
+##### Section 1 : L'obligation d'une autorisation<a id=187></a>
 
 ###### Article L443-1
 
@@ -20381,9 +20371,9 @@ _Cite_:
   - Code de l'énergie - art. L121-32 (VD)
 
 
-##### Section 2 : Les sanctions<a id=189></a>
+##### Section 2 : Les sanctions<a id=188></a>
 
-##### Sous-section 1 : Sanctions pénales<a id=190></a>
+##### Sous-section 1 : Sanctions pénales<a id=189></a>
 
 ###### Article L443-10
 
@@ -20453,7 +20443,7 @@ _Cite_:
   - Code de l'énergie - art. L443-10 (VD)
 
 
-##### Sous-section 2 : Sanctions administratives<a id=191></a>
+##### Sous-section 2 : Sanctions administratives<a id=190></a>
 
 ###### Article L443-12
 
@@ -20491,7 +20481,7 @@ _Cité par_:
 
 
 #### Chapitre IV : Le cas particulier de la commercialisation 
-par une entreprise locale de distribution<a id=192></a>
+par une entreprise locale de distribution<a id=191></a>
 
 ###### Article L444-1
 
@@ -20556,9 +20546,9 @@ _Cite_:
   - Code de l'énergie - art. L441-1 (V)
 
 
-#### Chapitre V : Les tarifs<a id=193></a>
+#### Chapitre V : Les tarifs<a id=192></a>
 
-##### Section 1 : Les tarifs réglementés de vente<a id=194></a>
+##### Section 1 : Les tarifs réglementés de vente<a id=193></a>
 
 ###### Article L445-1
 
@@ -20683,7 +20673,7 @@ _Cite_:
   - Code de l'énergie - art. L445-3 (V)
 
 
-##### Section 2 : Le tarif spécial de solidarité<a id=195></a>
+##### Section 2 : Le tarif spécial de solidarité<a id=194></a>
 
 ###### Article L445-5
 
@@ -20748,7 +20738,7 @@ _Cite_:
 
 
 #### Chapitre VI : Les dispositions particulières 
-relatives à la vente de biogaz<a id=196></a>
+relatives à la vente de biogaz<a id=195></a>
 
 ###### Article L446-1
 
@@ -20872,9 +20862,9 @@ _Cité par_:
   - Code de l'énergie - art. R121-31 (V)
 
 
-### TITRE V : L'ACCES ET LE RACCORDEMENT AUX RESEAUX  ET INSTALLATIONS<a id=197></a>
+### TITRE V : L'ACCES ET LE RACCORDEMENT AUX RESEAUX  ET INSTALLATIONS<a id=196></a>
 
-#### Chapitre Ier : L'accès aux réseaux et installations<a id=198></a>
+#### Chapitre Ier : L'accès aux réseaux et installations<a id=197></a>
 
 ###### Article L451-1
 
@@ -20941,7 +20931,7 @@ _Créé par_:
   - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
 
 
-#### Chapitre II : Les tarifs d'utilisation des réseaux de transport, de distribution de gaz naturel et les tarifs d'utilisation des installations de gaz naturel liquéfié<a id=199></a>
+#### Chapitre II : Les tarifs d'utilisation des réseaux de transport, de distribution de gaz naturel et les tarifs d'utilisation des installations de gaz naturel liquéfié<a id=198></a>
 
 ###### Article L452-1
 
@@ -21150,7 +21140,7 @@ _Cité par_:
   - Code de l'énergie - art. R452-1 (V)
 
 
-#### Chapitre III : Le raccordement aux réseaux et installations<a id=200></a>
+#### Chapitre III : Le raccordement aux réseaux et installations<a id=199></a>
 
 ###### Article L453-1
 
@@ -21363,11 +21353,11 @@ _Cité par_:
   - Code de la consommation - art. D224-26 (VD)
 
 
-## LIVRE V : DISPOSITIONS RELATIVES A L'UTILISATION  DE L'ENERGIE HYDRAULIQUE<a id=201></a>
+## LIVRE V : DISPOSITIONS RELATIVES A L'UTILISATION  DE L'ENERGIE HYDRAULIQUE<a id=200></a>
 
-### TITRE IER : LES DISPOSITIONS COMMUNES AUX INSTALLATIONS HYDRAULIQUES AUTORISEES OU CONCEDEES<a id=202></a>
+### TITRE IER : LES DISPOSITIONS COMMUNES AUX INSTALLATIONS HYDRAULIQUES AUTORISEES OU CONCEDEES<a id=201></a>
 
-#### Chapitre Ier : Les caractéristiques générales des régimes d'exploitation de l'énergie hydraulique<a id=203></a>
+#### Chapitre Ier : Les caractéristiques générales des régimes d'exploitation de l'énergie hydraulique<a id=202></a>
 
 ###### Article L511-1
 
@@ -21746,9 +21736,9 @@ _Cite_:
   - Code civil - art. 2060
 
 
-#### Chapitre II : La constatation des infractions et les sanctions pénales<a id=204></a>
+#### Chapitre II : La constatation des infractions et les sanctions pénales<a id=203></a>
 
-##### Section 1 : La constatation des infractions<a id=205></a>
+##### Section 1 : La constatation des infractions<a id=204></a>
 
 ###### Article L512-1
 
@@ -21790,7 +21780,7 @@ _Cité par_:
   - Code de l'énergie - art. L512-3 (V)
 
 
-##### Section 2 : Les sanctions<a id=206></a>
+##### Section 2 : Les sanctions<a id=205></a>
 
 ###### Article L512-2
 
@@ -21856,11 +21846,11 @@ _Cite_:
   - Code de l'énergie - art. L512-2
 
 
-### TITRE II : LES DISPOSITIONS RELATIVES  AUX INSTALLATIONS HYDRAULIQUES CONCEDEES<a id=207></a>
+### TITRE II : LES DISPOSITIONS RELATIVES  AUX INSTALLATIONS HYDRAULIQUES CONCEDEES<a id=206></a>
 
-#### Chapitre Ier : La procédure applicable aux concessions<a id=208></a>
+#### Chapitre Ier : La procédure applicable aux concessions<a id=207></a>
 
-##### Section 1 : L'octroi de la concession<a id=209></a>
+##### Section 1 : L'octroi de la concession<a id=208></a>
 
 ###### Article L521-1
 
@@ -21942,7 +21932,7 @@ _Créé par_:
   - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
 
 
-##### Section 2 : Le cahier des charges de la concession<a id=210></a>
+##### Section 2 : Le cahier des charges de la concession<a id=209></a>
 
 ###### Article L521-4
 
@@ -22069,7 +22059,7 @@ _Cité par_:
   - Code de l'énergie - art. R521-45 (V)
 
 
-##### Section 3 : L'occupation ou la traversée des propriétés privées<a id=211></a>
+##### Section 3 : L'occupation ou la traversée des propriétés privées<a id=210></a>
 
 ###### Article L521-7
 
@@ -22326,7 +22316,7 @@ _Cite_:
   - Code de l'énergie - art. L521-8 (V)
 
 
-##### Section 4 : Les dispositions particulières à la fin de la concession et à son renouvellement<a id=212></a>
+##### Section 4 : Les dispositions particulières à la fin de la concession et à son renouvellement<a id=211></a>
 
 ###### Article L521-15
 
@@ -22450,7 +22440,7 @@ _Cite_:
   - Code de l'énergie - art. L511-12 (V)
 
 
-#### Chapitre II : Les réserves en énergie<a id=213></a>
+#### Chapitre II : Les réserves en énergie<a id=212></a>
 
 ###### Article L521-18
 
@@ -22582,7 +22572,7 @@ _Nouveaux textes_:
   - Code de l'énergie - art. L522-4 (V)
 
 
-#### Chapitre III : Les redevances proportionnelles<a id=214></a>
+#### Chapitre III : Les redevances proportionnelles<a id=213></a>
 
 ###### Article L521-22
 
@@ -22671,9 +22661,9 @@ _Nouveaux textes_:
   - Code de l'énergie - art. L523-2 (M)
 
 
-### TITRE III : LES DISPOSITIONS RELATIVES  AUX INSTALLATIONS HYDRAULIQUES AUTORISEES<a id=215></a>
+### TITRE III : LES DISPOSITIONS RELATIVES  AUX INSTALLATIONS HYDRAULIQUES AUTORISEES<a id=214></a>
 
-#### Chapitre unique<a id=216></a>
+#### Chapitre unique<a id=215></a>
 
 ###### Article L531-1
 
@@ -22844,11 +22834,11 @@ _Cite_:
   - Code de l'énergie -  Section 3 : L'occupation ou la traversée des pr... (V)
 
 
-## LIVRE VI : LES DISPOSITIONS RELATIVES  AU PETROLE, AUX BIOCARBURANTS ET BIOLIQUIDES<a id=217></a>
+## LIVRE VI : LES DISPOSITIONS RELATIVES  AU PETROLE, AUX BIOCARBURANTS ET BIOLIQUIDES<a id=216></a>
 
-### TITRE IER : GENERALITES<a id=218></a>
+### TITRE IER : GENERALITES<a id=217></a>
 
-#### Chapitre unique<a id=219></a>
+#### Chapitre unique<a id=218></a>
 
 ###### Article L611-1
 
@@ -22876,9 +22866,9 @@ _Cite_:
   - Code de l'énergie - art. L651-1
 
 
-### TITRE II : LA RECHERCHE ET L'EXPLOITATION  DES GITES CONTENANT DU PETROLE<a id=220></a>
+### TITRE II : LA RECHERCHE ET L'EXPLOITATION  DES GITES CONTENANT DU PETROLE<a id=219></a>
 
-#### Chapitre unique<a id=221></a>
+#### Chapitre unique<a id=220></a>
 
 ###### Article L621-1
 
@@ -22900,9 +22890,9 @@ _Cite_:
   - Code minier -  Livre Ier : Régime général (V)
 
 
-### TITRE III : LE TRANSPORT<a id=222></a>
+### TITRE III : LE TRANSPORT<a id=221></a>
 
-#### Chapitre Ier : Le transport par navire<a id=223></a>
+#### Chapitre Ier : Le transport par navire<a id=222></a>
 
 ###### Article L631-1
 
@@ -23045,9 +23035,9 @@ _Cité par_:
   - Code de l'énergie - art. L142-15 (V)
 
 
-#### Chapitre II : Le transport par canalisation<a id=224></a>
+#### Chapitre II : Le transport par canalisation<a id=223></a>
 
-##### Section unique<a id=225></a>
+##### Section unique<a id=224></a>
 
 ###### Article L632-1
 
@@ -23094,11 +23084,11 @@ _Cité par_:
   - Code de l'énergie - art. L632-1 (M)
 
 
-### TITRE IV : LE RAFFINAGE ET LE STOCKAGE<a id=226></a>
+### TITRE IV : LE RAFFINAGE ET LE STOCKAGE<a id=225></a>
 
-#### Chapitre Ier : Le raffinage et les produits pétroliers<a id=227></a>
+#### Chapitre Ier : Le raffinage et les produits pétroliers<a id=226></a>
 
-##### Section 1 : Le raffinage<a id=228></a>
+##### Section 1 : Le raffinage<a id=227></a>
 
 ###### Article L641-1
 
@@ -23187,7 +23177,7 @@ _Cite_:
   - Code de l'énergie - art. L641-2 (V)
 
 
-##### Section 2 : Produits pétroliers et carburants renouvelables<a id=229></a>
+##### Section 2 : Produits pétroliers et carburants renouvelables<a id=228></a>
 
 ###### Article L641-4
 
@@ -23337,7 +23327,7 @@ _Cite_:
   - Code de l'énergie - art. L641-7
 
 
-#### Chapitre II : Le stockage<a id=230></a>
+#### Chapitre II : Le stockage<a id=229></a>
 
 ###### Article L642-1
 
@@ -23742,9 +23732,9 @@ _Cite_:
   - Code de l'énergie - art. L642-2 (V)
 
 
-### TITRE V : LA DISTRIBUTION<a id=231></a>
+### TITRE V : LA DISTRIBUTION<a id=230></a>
 
-#### Chapitre unique<a id=232></a>
+#### Chapitre unique<a id=231></a>
 
 ###### Article L651-1
 
@@ -23774,9 +23764,9 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 1655 quater (V)
 
 
-### TITRE VI : LES BIOCARBURANTS ET BIOLIQUIDES<a id=233></a>
+### TITRE VI : LES BIOCARBURANTS ET BIOLIQUIDES<a id=232></a>
 
-#### Chapitre unique<a id=234></a>
+#### Chapitre unique<a id=233></a>
 
 ###### Article L661-1
 
@@ -24034,9 +24024,9 @@ _Créé par_:
   - Ordonnance n°2011-1105 du 14 septembre 2011 - art. 4
 
 
-### TITRE VII : LES DISPOSITIONS PARTICULIERES A L'OUTRE-MER<a id=235></a>
+### TITRE VII : LES DISPOSITIONS PARTICULIERES A L'OUTRE-MER<a id=234></a>
 
-#### Chapitre unique<a id=236></a>
+#### Chapitre unique<a id=235></a>
 
 ###### Article L671-1
 
@@ -24087,11 +24077,11 @@ _Anciens textes_:
   - Code de l'énergie - art. L661-1 (T)
 
 
-## LIVRE VII : LES DISPOSITIONS RELATIVES  AUX RESEAUX DE CHALEUR ET DE FROID<a id=237></a>
+## LIVRE VII : LES DISPOSITIONS RELATIVES  AUX RESEAUX DE CHALEUR ET DE FROID<a id=236></a>
 
-### TITRE IER : LA PRODUCTION DE CHALEUR ET LE CLASSEMENT  DES RESEAUX DE CHALEUR ET DE FROID<a id=238></a>
+### TITRE IER : LA PRODUCTION DE CHALEUR ET LE CLASSEMENT  DES RESEAUX DE CHALEUR ET DE FROID<a id=237></a>
 
-#### Chapitre Ier : La production de chaleur<a id=239></a>
+#### Chapitre Ier : La production de chaleur<a id=238></a>
 
 ###### Article L711-1
 
@@ -24181,9 +24171,9 @@ _Cité par_:
   - Code de l'énergie - art. R711-4 (V)
 
 
-#### Chapitre II : Le classement des réseaux de chaleur et de froid<a id=240></a>
+#### Chapitre II : Le classement des réseaux de chaleur et de froid<a id=239></a>
 
-##### Section 1 : Principes et modalités de classement des réseaux de chaleur et de froid<a id=241></a>
+##### Section 1 : Principes et modalités de classement des réseaux de chaleur et de froid<a id=240></a>
 
 ###### Article L712-1
 
@@ -24284,7 +24274,7 @@ _Créé par_:
   - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
 
 
-##### Section 2 : Constatation des infractions<a id=242></a>
+##### Section 2 : Constatation des infractions<a id=241></a>
 
 ###### Article L712-4
 
@@ -24316,7 +24306,7 @@ _Cité par_:
   - Code de l'énergie - art. R712-12 (V)
 
 
-##### Section 3 : Sanctions pénales<a id=243></a>
+##### Section 3 : Sanctions pénales<a id=242></a>
 
 ###### Article L712-5
 
@@ -24341,7 +24331,7 @@ _Cite_:
   - Code de l'énergie - art. L712-3 (V)
 
 
-#### Chapitre III : Dispositions diverses<a id=244></a>
+#### Chapitre III : Dispositions diverses<a id=243></a>
 
 ###### Article L713-1
 
@@ -24391,9 +24381,9 @@ _Cité par_:
   - Code de l'énergie - art. L714-2 (V)
 
 
-### TITRE II : LE PASSAGE DES CANALISATIONS DE TRANSPORT  ET DE DISTRIBUTION DE CHALEUR ET DE FROID<a id=245></a>
+### TITRE II : LE PASSAGE DES CANALISATIONS DE TRANSPORT  ET DE DISTRIBUTION DE CHALEUR ET DE FROID<a id=244></a>
 
-#### Chapitre unique<a id=246></a>
+#### Chapitre unique<a id=245></a>
 
 ###### Article L721-1
 
@@ -24773,9 +24763,9 @@ _Cite_:
   - Code de l'énergie - art. L721-8 (V)
 
 
-### TITRE III : LE STOCKAGE DE CHALEUR<a id=247></a>
+### TITRE III : LE STOCKAGE DE CHALEUR<a id=246></a>
 
-#### Chapitre unique<a id=248></a>
+#### Chapitre unique<a id=247></a>
 
 ###### Article L731-1
 
