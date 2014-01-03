@@ -1,5 +1,5 @@
 # Code de l'énergie  
-Version Consolidée au 2014-01-01
+Version Consolidée au 2014-01-04
 ## Contenu: 
   - [Partie législative (art. L100-1 à L731-1)](#1)
     - [LIVRE IER : L'ORGANISATION GENERALE  DU SECTEUR DE L'ENERGIE (art. L100-1 à L161-6)](#2)
@@ -15198,8 +15198,9 @@ dans chaque commune et ne peut avoir lieu qu'après approbation du projet de dé
 
 Des décrets en Conseil d'Etat déterminent :
 
-1° Les formes de l'instruction et de l'approbation des projets de construction des ouvrages de transport et de distribution
-d'électricité ;
+1° Les formes de l'instruction des projets de construction des ouvrages de transport et de distribution d'électricité. En
+outre, les ouvrages dont la tension maximale est supérieure à 50 kilovolts ainsi que les ouvrages privés qui empruntent le
+domaine public font l'objet d'une approbation par l'autorité administrative ; 
 
 2° L'organisation du contrôle de la construction et de l'exploitation de ces ouvrages, les frais du contrôle étant à la
 charge du concessionnaire ;
@@ -15213,10 +15214,6 @@ _Anciens textes_:
   - Loi du 15 juin 1906 - art. 18 (VT), ecqc l'électricité
 
 _Codifié par_:
-
-  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
-
-_Créé par_:
 
   - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
 
@@ -15237,6 +15234,10 @@ _Cité par_:
   - Code de l'énergie - art. R323-25 (V)
   - Code de l'énergie - art. R323-26 (V)
   - Code de la voirie routière - art. R*113-3 (V)
+
+_Modifié par_:
+
+  - Loi n°2014-1 du 2 janvier 2014 - art. 20
 
 
 ###### Article L323-12
