@@ -1,5 +1,5 @@
 # Code de l'énergie  
-Version Consolidée au 2014-03-19
+Version Consolidée au 2014-06-20
 ## Contenu: 
   - [Partie législative (art. L100-1 à L731-1)](#1)
     - [LIVRE IER : L'ORGANISATION GENERALE  DU SECTEUR DE L'ENERGIE (art. L100-1 à L161-6)](#2)
@@ -228,7 +228,7 @@ relatives à la vente de biogaz (art. L446-1 à L446-4)](#198)
         - [Chapitre III : Les redevances proportionnelles (art. L523-1 à L523-2)](#218)
       - [TITRE III : LES DISPOSITIONS RELATIVES  AUX INSTALLATIONS HYDRAULIQUES AUTORISEES (art. L531-1 à L531-6)](#219)
         - [Chapitre unique (art. L531-1 à L531-6)](#220)
-    - [LIVRE VI : LES DISPOSITIONS RELATIVES  AU PETROLE, AUX BIOCARBURANTS ET BIOLIQUIDES (art. L611-1 à L671-1)](#221)
+    - [LIVRE VI : LES DISPOSITIONS RELATIVES  AU PETROLE, AUX BIOCARBURANTS ET BIOLIQUIDES (art. L611-1 à L671-3)](#221)
       - [TITRE IER : GENERALITES (art. L611-1)](#222)
         - [Chapitre unique (art. L611-1)](#223)
       - [TITRE II : LA RECHERCHE ET L'EXPLOITATION  DES GITES CONTENANT DU PETROLE (art. L621-1)](#224)
@@ -246,8 +246,8 @@ relatives à la vente de biogaz (art. L446-1 à L446-4)](#198)
         - [Chapitre unique (art. L651-1)](#236)
       - [TITRE VI : LES BIOCARBURANTS ET BIOLIQUIDES (art. L661-1 à L661-9)](#237)
         - [Chapitre unique (art. L661-1 à L661-9)](#238)
-      - [TITRE VII : LES DISPOSITIONS PARTICULIERES A L'OUTRE-MER (art. L671-1)](#239)
-        - [Chapitre unique (art. L671-1)](#240)
+      - [TITRE VII : LES DISPOSITIONS PARTICULIERES A L'OUTRE-MER (art. L671-1 à L671-3)](#239)
+        - [Chapitre unique (art. L671-1 à L671-3)](#240)
     - [LIVRE VII : LES DISPOSITIONS RELATIVES  AUX RESEAUX DE CHALEUR ET DE FROID (art. L711-1 à L731-1)](#241)
       - [TITRE IER : LA PRODUCTION DE CHALEUR ET LE CLASSEMENT  DES RESEAUX DE CHALEUR ET DE FROID (art. L711-1 à L713-2)](#242)
         - [Chapitre Ier : La production de chaleur (art. L711-1 à L711-3)](#243)
@@ -23866,6 +23866,82 @@ _Cité par_:
 _Anciens textes_:
 
   - Code de l'énergie - art. L661-1 (T)
+
+
+###### Article L671-2
+
+Dans les collectivités relevant de l'article 73 de la Constitution et dans les collectivités d'outre-mer de Saint-Barthélemy,
+de Saint-Martin, de Saint-Pierre-et-Miquelon et de Wallis-et-Futuna, et pour le secteur des produits pétroliers, soumis à une
+réglementation des prix en application du deuxième alinéa de l'article L. 410-2 du code de commerce, les entreprises soumises
+à cette réglementation ne peuvent décider d'interrompre leur activité de distribution que dans les conditions fixées au
+présent article. 
+
+Chaque année, le représentant de l'Etat territorialement compétent rend public, après concertation avec les entreprises du
+secteur de la distribution en gros et l'organisation professionnelle représentative des exploitants des stations-service ou,
+à défaut d'existence d'une telle organisation, les exploitants des stations-service, un plan de prévention des ruptures
+d'approvisionnement. Le plan de prévention des ruptures d'approvisionnement garantit, en cas d'interruption volontaire de son
+activité par toute entreprise du secteur de la distribution de gros, la livraison de produits pétroliers pour au moins un
+quart des détaillants de son réseau de distribution. Ce plan contient la liste de ces détaillants, nommément désignés et
+répartis sur le territoire afin d'assurer au mieux les besoins de la population et de l'activité économique. La liste
+contenue dans le plan de prévention des ruptures d'approvisionnement peut être mise à jour chaque année dans les mêmes
+conditions. 
+
+Si, en cas d'interruption volontaire de son activité, une entreprise du secteur de la distribution en gros refuse
+d'approvisionner les détaillants de son réseau de distribution mentionnés au plan de prévention des ruptures
+d'approvisionnement, le représentant de l'Etat procède à sa réquisition, sans préjudice des pouvoirs de droit commun qu'il
+détient en vertu de l'article L. 2215-1 du code général des collectivités territoriales en cas de troubles, constatés ou
+prévisibles, à l'ordre public. 
+
+En cas de décision concertée des entreprises de distribution de détail du secteur des produits pétroliers d'interrompre leur
+activité, sans que cette interruption soit justifiée par la grève de leurs salariés ou par des circonstances exceptionnelles,
+l'organisation professionnelle représentative des exploitants des stations-service ou, à défaut d'existence d'une telle
+organisation, les exploitants des stations-service en informent le représentant de l'Etat territorialement compétent au moins
+trois jours ouvrables avant le début de leur action. Les points de vente figurant dans le plan de prévention des ruptures
+d'approvisionnement mentionné au deuxième alinéa du présent article ne peuvent faire l'objet d'une telle interruption. 
+
+Lorsque les points de vente figurant dans le plan de prévention des ruptures d'approvisionnement font l'objet d'une
+interruption de leur activité à la suite d'une décision concertée des entreprises de distribution de détail, le représentant
+de l'Etat procède à leur réquisition, dans les conditions prévues à l'article L. 2215-1 du code général des collectivités
+territoriales, sans préjudice des pouvoirs de droit commun qu'il détient en vertu du même article en cas de troubles,
+constatés ou prévisibles, à l'ordre public.
+
+**Nota:**
+
+Conformément à la loi n° 2014-626 du 18 juin 2014, article 69, le représentant de l'Etat territorialement compétent mentionné
+au deuxième alinéa de l'article L. 671-2 du code de l'énergie dispose d'un délai de trois mois à compter de la promulgation
+de la présente loi pour établir et rendre public un plan de prévention des ruptures d'approvisionnement.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Constitution du 4 octobre 1958 - art. 73 (V)
+  - Code de commerce - art. L410-2
+  - Code général des collectivités territoriales - art. L2215-1
+
+_Créé par_:
+
+  - Loi n°2014-626 du 18 juin 2014 - art. 69
+
+_Cité par_:
+
+  - Code de l'énergie - art. L671-3 (V)
+
+
+###### Article L671-3
+
+Est puni de 50 000 € d'amende le fait pour une entreprise du secteur de la distribution en gros de produits pétroliers de ne
+pas respecter le plan de prévention des ruptures d'approvisionnement mentionné à l'article L. 671-2.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2014-626 du 18 juin 2014 - art. 69
+
+_Cite_:
+
+  - Code de l'énergie - art. L671-2 (V)
 
 
 ## LIVRE VII : LES DISPOSITIONS RELATIVES  AUX RESEAUX DE CHALEUR ET DE FROID<a id=241></a>
