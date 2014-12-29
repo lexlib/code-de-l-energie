@@ -1,5 +1,5 @@
 # Code de l'énergie  
-Version Consolidée au 2014-08-24
+Version Consolidée au 2014-12-30
 ## Contenu: 
   - [Partie législative (art. L100-1 à L731-1)](#1)
     - [LIVRE IER : L'ORGANISATION GENERALE  DU SECTEUR DE L'ENERGIE (art. L100-1 à L161-6)](#2)
@@ -17571,10 +17571,11 @@ le bénéficiaire de l'autorisation d'occupation ou d'utilisation du sol ;
 correspondant aux équipements nécessaires à la zone est versée par l'aménageur ; 
 
 4° Lorsque le propriétaire acquitte la participation pour voirie et réseaux en application de la dernière phrase du troisième
-alinéa de l'article L. 332-11-1 du code de l'urbanisme directement à l'établissement public de coopération intercommunale ou
-au syndicat mixte compétent, ou lorsque le conseil municipal a convenu d'affecter au financement de ces travaux d'autres
-ressources avec l'accord de cet établissement public de coopération intercommunale ou de ce syndicat mixte, celui-ci est
-débiteur de la contribution relative à l'extension ; 
+alinéa de l'article L. 332-11-1 du code de l'urbanisme dans sa rédaction antérieure à la loi n° 2014-1655 du 29 décembre 2014
+de finances rectificative pour 2014, directement à l'établissement public de coopération intercommunale ou au syndicat mixte
+compétent, ou lorsque le conseil municipal a convenu d'affecter au financement de ces travaux d'autres ressources avec
+l'accord de cet établissement public de coopération intercommunale ou de ce syndicat mixte, celui-ci est débiteur de la
+contribution relative à l'extension ; 
 
 5° Lorsque l'extension de ces réseaux est destinée au raccordement d'un consommateur d'électricité en dehors d'une opération
 de construction ou d'aménagement autorisée en application du code de l'urbanisme, la contribution correspondant à cette
@@ -17593,7 +17594,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2013-619 du 16 juillet 2013 - art. 38 (V)
+  - Loi n°2014-1655 du 29 décembre 2014 - art. 44
 
 _Cite_:
 
