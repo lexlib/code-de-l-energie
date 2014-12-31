@@ -1,5 +1,5 @@
 # Code de l'énergie  
-Version Consolidée au 2014-12-30
+Version Consolidée au 2015-01-01
 ## Contenu: 
   - [Partie législative (art. L100-1 à L731-1)](#1)
     - [LIVRE IER : L'ORGANISATION GENERALE  DU SECTEUR DE L'ENERGIE (art. L100-1 à L161-6)](#2)
@@ -14976,8 +14976,8 @@ la capacité d'accueil d'habitants dans les périmètres où les servitudes ont 
 Lorsque l'institution des servitudes prévues au présent article entraîne un préjudice direct, matériel et certain, elle ouvre
 droit à une indemnité au profit des propriétaires, des titulaires de droits réels ou de leurs ayants droit. Le paiement des
 indemnités est à la charge de l'exploitant de la ligne électrique. A défaut d'accord amiable, l'indemnité est fixée par le
-juge judiciaire et est évaluée dans les conditions prévues par l'article L. 13-15 du code de l'expropriation pour cause
-d'utilité publique. 
+juge judiciaire et est évaluée dans les conditions prévues par les articles L. 322-2 à L. 322-7 du code de l'expropriation
+pour cause d'utilité publique. 
 
 Un décret en Conseil d'Etat fixe la liste des catégories d'ouvrages mentionnés au présent article, les conditions de
 délimitation des périmètres dans lesquelles les servitudes peuvent être instituées ainsi que les conditions d'établissement
@@ -14985,21 +14985,17 @@ de ces servitudes.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Loi du 15 juin 1906 - art. 12 bis (Ab)
-
 _Codifié par_:
 
   - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
+  - ORDONNANCE n°2014-1345 du 6 novembre 2014 - art. 5
 
 _Cite_:
 
-  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PU... - art. L13-15 (V)
+  - Code de l'expropriation pour cause d'utilité pu... - art. L322-2 (V)
 
 _Cité par_:
 
