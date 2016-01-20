@@ -1,5 +1,5 @@
 # Code de l'énergie  
-Version Consolidée au 2016-01-04
+Version Consolidée au 2016-01-21
 ## Contenu: 
   - [Partie législative (art. L100-1 à L731-1)](#1)
     - [LIVRE IER : L'ORGANISATION GENERALE  DU SECTEUR DE L'ENERGIE (art. L100-1 à L161-6)](#2)
@@ -393,10 +393,10 @@ relatives à la vente de biogaz (art. L446-1 à L446-4)](#221)
         - [Chapitre unique (art. R271-1 à R271-9)](#383)
           - [Section 1 : Définitions (art. R271-1 à R271-2)](#384)
           - [Section 2 : Méthodologie utilisée pour établir les règles permettant la valorisation des effacements de consommation d'électricité (art. R271-3 à R271-9)](#385)
-    - [LIVRE III : LES DISPOSITIONS RELATIVES À L'ÉLECTRICITÉ (art. R311-1 à R361-8)](#386)
-      - [TITRE Ier : LA PRODUCTION (art. R311-1 à R314-41)](#387)
-        - [Chapitre Ier : Les dispositions générales relatives à la production (art. R311-1 à R311-38)](#388)
-          - [Section 1 : L'autorisation d'exploiter (art. R311-1 à R311-11)](#389)
+    - [LIVRE III : LES DISPOSITIONS RELATIVES À L'ÉLECTRICITÉ (art. D311-1-1 à R361-8)](#386)
+      - [TITRE Ier : LA PRODUCTION (art. D311-1-1 à R314-41)](#387)
+        - [Chapitre Ier : Les dispositions générales relatives à la production (art. D311-1-1 à R311-38)](#388)
+          - [Section 1 : L'autorisation d'exploiter (art. D311-1-1 à R311-11)](#389)
           - [Section 2 : L'appel d'offres (art. R311-12 à R311-35)](#390)
             - [Sous-section 1 : Dispositions communes aux appels d'offres (art. R311-12 à R311-21)](#391)
             - [Sous-section 2 : Dispositions propres aux appels d'offres mis en œuvre selon la procédure ordinaire (art. R311-22 à R311-29)](#392)
@@ -38801,6 +38801,41 @@ _Cite_:
 #### Chapitre Ier : Les dispositions générales relatives à la production<a id=388></a>
 
 ##### Section 1 : L'autorisation d'exploiter<a id=389></a>
+
+###### Article D311-1-1
+
+Pour l'application de l'article L. 311-6, la puissance installée d'une installation de production d'électricité utilisant des
+sources d'énergies renouvelables est égale, par type d'énergie renouvelable utilisé, au cumul des puissances actives
+maximales produites dans un même établissement et : 
+
+1° Injectées, directement ou indirectement, sur les réseaux publics d'électricité ; 
+
+2° Utilisées pour le fonctionnement des auxiliaires de l'installation de production concernée ; 
+
+3° Le cas échéant, utilisées pour la consommation propre du producteur concerné. 
+
+Pour l'application du 3° de l'article R. 311-2, le pétitionnaire précise la valeur des différentes puissances mentionnées au
+présent article.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2015-1823 du 30 décembre 2015 - art.
+
+_Créé par_:
+
+  - Décret n°2016-23 du 18 janvier 2016 - art. 1
+
+_Abrogé par_:
+
+  - Décret n°2016-687 du 27 mai 2016 - art. 1
+
+_Cite_:
+
+  - Code de l'énergie - art. L311-6
+  - Code de l'énergie - art. R311-2
+
 
 ###### Article R311-1
 
