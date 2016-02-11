@@ -1,5 +1,5 @@
 # Code de l'énergie  
-Version Consolidée au 2016-01-29
+Version Consolidée au 2016-02-12
 ## Contenu: 
   - [Partie législative (art. L100-1 à L731-1)](#1)
     - [LIVRE IER : L'ORGANISATION GENERALE  DU SECTEUR DE L'ENERGIE (art. L100-1 à L161-6)](#2)
@@ -11,7 +11,7 @@ Version Consolidée au 2016-01-29
             - [Sous-section 1 : Règles communes aux entreprises de transport d'électricité et aux entreprises de transport de gaz (art. L111-2 à L111-39)](#8)
               - [Paragraphe 1 : Désignation des gestionnaires de réseaux de transport (art. L111-2 à L111-6)](#9)
               - [Paragraphe 2 : Principe de la séparation entre les activités de transport et les activités de production ou de fourniture (art. L111-7)](#10)
-              - [Paragraphe 3 : Règles applicables aux sociétés gestionnaires de réseaux de transport créées après le 3 septembre 2009 (art. L111-8)](#11)
+              - [Paragraphe 3 : Règles applicables aux sociétés gestionnaires de réseaux de transport créées après le 3 septembre 2009 (art. L111-8 à L111-8-4)](#11)
               - [Paragraphe 4 : Règles applicables aux sociétés gestionnaires de réseaux de transport appartenant, au 3 septembre 2009, à une entreprise verticalement intégrée (art. L111-9 à L111-38)](#12)
               - [Paragraphe 5 : Règles applicables aux sociétés gestionnaires de réseaux de transport transfrontaliers (art. L111-39)](#13)
             - [Sous-section 2 : Dispositions propres à l'entreprise de transport d'électricité issue de la séparation juridique prévue à l'article L. 111-7 (art. L111-40 à L111-46)](#14)
@@ -1055,8 +1055,8 @@ _Cite_:
 
 ###### Article L111-7
 
-La gestion d'un réseau de transport d'électricité ou de gaz est assurée par des personnes morales distinctes de celles qui
-exercent des activités de production ou de fourniture, selon le cas, d'électricité ou de gaz.
+La gestion d'un réseau de transport d'électricité ou de gaz est assurée par des personnes distinctes de celles qui exercent
+des activités de production ou de fourniture, selon le cas, d'électricité ou de gaz.
 
 **Liens relatifs à cet article**
 
@@ -1068,9 +1068,9 @@ _Codifié par_:
 
   - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
+  - Ordonnance n°2016-130 du 10 février 2016 - art. 1
 
 _Cité par_:
 
@@ -1086,24 +1086,8 @@ _Cité par_:
 
 ###### Article L111-8
 
-I. ― Toute société gestionnaire d'un réseau de transport d'électricité ou de gaz créée après le 3 septembre 2009 est soumise
-aux règles suivantes :
-
-1° Elle ne peut être contrôlée, directement ou indirectement, au sens de l'article L. 233-3 et du III de l'article L. 430-1
-du code de commerce, par une ou des sociétés exerçant des activités de production ou de fourniture, selon le cas,
-d'électricité ou de gaz ;
-
-2° Les membres de son conseil d'administration ou de son conseil de surveillance ne peuvent être désignés par une société
-exerçant une activité de production ou une activité de fourniture, selon le cas, d'électricité ou de gaz ;
-
-3° Les membres de son conseil d'administration ou de son conseil de surveillance ne peuvent être également membres du conseil
-d'administration ou du conseil de surveillance d'une société qui exerce une activité de production ou de fourniture, selon le
-cas, d'électricité ou de gaz.
-
-II. ― Les dispositions du I ne s'opposent pas à ce que des sociétés ayant une activité de production ou de fourniture
-détiennent dans une société gestionnaire d'un réseau de transport des participations minoritaires, dans la mesure où ces
-participations ne confèrent pas, individuellement ou conjointement, à leurs détenteurs le contrôle de la société gestionnaire
-du réseau de transport au sens de l'article L. 233-3 et du III de l'article L. 430-1 du code de commerce.
+Toute entreprise gestionnaire d'un réseau de transport d'électricité ou de gaz créée après le 3 septembre 2009 est soumise
+aux dispositions du présent paragraphe.
 
 **Liens relatifs à cet article**
 
@@ -1120,12 +1104,97 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2013-619 du 16 juillet 2013 - art. 38 (V)
+  - Ordonnance n°2016-130 du 10 février 2016 - art. 2
+
+
+###### Article L111-8-1
+
+Pour l'application du présent paragraphe : 
+
+1° La notion de contrôle direct ou indirect s'entend au sens de l'article L. 233-3 du code de commerce et du III de l'article
+L. 430-1 du même code ; 
+
+2° La notion de " quelconque pouvoir " correspond, en particulier :
+
+- au pouvoir d'exercer des droits de vote ;
+
+- au pouvoir de désigner les membres du conseil de surveillance, du conseil d'administration ou des organes représentant
+légalement l'entreprise ;
+
+- à la détention d'une part majoritaire dans le capital de l'entreprise. 
+
+Pour l'application des 1° et 2° de l'article L. 111-8-3, les termes : " gestionnaire de réseau de transport ", " réseau de
+transport ", " entreprise de production ou de fourniture " concernent indistinctement les secteurs de l'électricité et du
+gaz.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2016-130 du 10 février 2016 - art. 2
 
 _Cite_:
 
-  - Code de commerce - art. L233-3
-  - Code de commerce - art. L430-1
+  - Code de commerce - art. L233-3 (V)
+  - Code de commerce - art. L430-1 (V)
+  - Code de l'énergie - art. L111-8-3 (V)
+
+
+###### Article L111-8-2
+
+Toute entreprise qui possède un réseau de transport doit agir en qualité de gestionnaire de réseau de transport, conformément
+aux dispositions du paragraphe 1 de la section 2 du chapitre Ier du présent titre et du présent paragraphe.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2016-130 du 10 février 2016 - art. 2
+
+
+###### Article L111-8-3
+
+La ou les mêmes personnes ne peuvent : 
+
+1° Exercer un contrôle direct ou indirect sur une entreprise de production ou de fourniture et un contrôle direct ou indirect
+ou un quelconque pouvoir sur un gestionnaire de réseau de transport ou sur un réseau de transport ; 
+
+2° Exercer un contrôle direct ou indirect sur un gestionnaire de réseau de transport ou sur un réseau de transport et un
+contrôle direct ou indirect ou un quelconque pouvoir sur une entreprise de production ou de fourniture ; 
+
+3° Désigner les membres du conseil de surveillance, du conseil d'administration ou des organes représentant légalement
+l'entreprise gestionnaire de réseau de transport ou le réseau de transport et exercer un contrôle direct ou indirect ou un
+quelconque pouvoir sur une entreprise de production ou de fourniture ; 
+
+4° Etre membre du conseil de surveillance, du conseil d'administration ou des organes représentant légalement une entreprise
+de production ou de fourniture et du conseil de surveillance, du conseil d'administration ou des organes représentant
+légalement une entreprise gestionnaire de réseau de transport ou un réseau de transport.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2016-130 du 10 février 2016 - art. 2
+
+_Cité par_:
+
+  - Code de l'énergie - art. L111-8-1 (V)
+
+
+###### Article L111-8-4
+
+Les dispositions du présent paragraphe ne s'opposent pas à ce qu'une ou plusieurs personnes, qui exercent un contrôle direct
+ou indirect ou un quelconque pouvoir sur une entreprise de production ou de fourniture, détiennent des participations
+minoritaires dans une entreprise gestionnaire d'un réseau de transport ou dans un réseau de transport, dans la mesure où ces
+participations ne confèrent pas à leurs détenteurs, individuellement ou conjointement, le contrôle de l'entreprise
+gestionnaire du réseau de transport ou du réseau de transport et ne leur permettent pas d'exercer un quelconque pouvoir sur
+ces derniers.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2016-130 du 10 février 2016 - art. 2
 
 
 ##### Paragraphe 4 : Règles applicables aux sociétés gestionnaires de réseaux de transport appartenant, au 3 septembre 2009, à une entreprise verticalement intégrée<a id=12></a>
@@ -1166,18 +1235,17 @@ _Cité par_:
 ###### Article L111-10
 
 Lorsqu'une société gestionnaire d'un réseau de transport d'électricité est contrôlée, directement ou indirectement, au sens
-de l'article L. 233-3 et du III de l'article L. 430-1 du code de commerce, par une société ou des sociétés qui contrôlent,
-directement ou indirectement, au sens des mêmes articles du code de commerce, au sein de l'Espace économique européen, à la
-fois une société gestionnaire d'un réseau de transport d'électricité et une société exerçant une activité de production ou
-une activité de fourniture d'électricité, l'ensemble de ces sociétés est regardée, pour l'application du présent code, comme
+de l'article L. 233-3 du code de commerce et du III de l'article L. 430-1 du même code, par une ou des personnes qui
+contrôlent, directement ou indirectement au sens des mêmes dispositions, une entreprise exerçant une activité de production
+ou de fourniture d'électricité, l'ensemble de ces personnes est regardé, pour l'application du présent code, comme
 constituant une entreprise verticalement intégrée d'électricité. 
 
-Lorsqu'une société gestionnaire d'un réseau de transport de gaz est contrôlée, directement ou indirectement, au sens de
-l'article L. 233-3 et du III de l'article L. 430-1 du code de commerce, par une société ou des sociétés qui contrôlent,
-directement ou indirectement, au sens des mêmes articles du code de commerce, au sein de l'Espace économique européen, à la
-fois une société gestionnaire d'un réseau de transport de gaz et une société exerçant une activité de production ou une
-activité de fourniture de gaz, l'ensemble de ces sociétés est regardée, pour l'application du présent code, comme constituant
-une entreprise verticalement intégrée de gaz.
+Lorsqu'une société gestionnaire d'un réseau de transport de gaz ou une société exploitant un stockage souterrain de gaz
+naturel ou une installation de gaz naturel liquéfié est contrôlée, directement ou indirectement, au sens de l'article L.
+233-3 du code de commerce et du III de l'article L. 430-1 du même code, par une ou des personnes qui contrôlent, directement
+ou indirectement au sens des mêmes dispositions, une entreprise exerçant une activité de production ou une activité de
+fourniture de gaz, l'ensemble de ces personnes est regardé, pour l'application du présent code, comme constituant une
+entreprise verticalement intégrée de gaz.
 
 **Liens relatifs à cet article**
 
@@ -1185,14 +1253,14 @@ _Codifié par_:
 
   - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
+  - Ordonnance n°2016-130 du 10 février 2016 - art. 3
 
 _Cite_:
 
   - Code de commerce - art. L233-3
-  - Code de commerce - art. L430-1 (V)
+  - Code de commerce - art. L430-1
 
 _Cité par_:
 
@@ -1447,7 +1515,11 @@ financières requises. Elles emploient elles-mêmes le personnel nécessaire à 
 gestion quotidienne, y compris les services juridiques, les services de comptabilité et ceux chargés des technologies de
 l'information. 
 
-Toute mise à disposition de personnel de la part ou en faveur de l'entreprise verticalement intégrée est interdite.
+Toute mise à disposition de personnel de la part ou en faveur de l'entreprise verticalement intégrée est interdite. 
+
+Ces sociétés sont seules habilitées, au sein de l'entreprise verticalement intégrée, à percevoir les recettes destinées à
+couvrir les coûts des réseaux et, en particulier, les tarifs d'utilisation des réseaux mentionnés aux articles L. 341-2 et
+suivants et L. 452-1 et suivants.
 
 **Liens relatifs à cet article**
 
@@ -1455,9 +1527,9 @@ _Codifié par_:
 
   - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
+  - Ordonnance n°2016-130 du 10 février 2016 - art. 4
 
 _Cité par_:
 
@@ -1466,7 +1538,31 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de l'énergie - art. L111-9 (V)
+  - Code de l'énergie - art. L111-9
+  - Code de l'énergie - art. L341-2
+  - Code de l'énergie - art. L452-1
+
+
+###### Article L111-19-1
+
+Dans le cadre des compétences reconnues par les articles L. 111-13 et L. 111-14 au conseil d'administration ou de
+surveillance des sociétés gestionnaires de réseaux de transport, l'entreprise verticalement intégrée met en temps voulu à la
+disposition de la société gestionnaire de réseau de transport, lorsque cette dernière en a fait la demande, les ressources
+financières nécessaires à la réalisation de nouveaux investissements sur le réseau ou au remplacement des actifs existants. 
+
+La société gestionnaire de réseau de transport informe la Commission de régulation de l'énergie de la mise à disposition des
+ressources financières mentionnées à l'alinéa précédent.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2016-130 du 10 février 2016 - art. 5
+
+_Cite_:
+
+  - Code de l'énergie - art. L111-13
+  - Code de l'énergie - art. L111-14
 
 
 ###### Article L111-20
@@ -1886,7 +1982,9 @@ intégrée.
 Ce responsable est notamment chargé de vérifier l'application par la société gestionnaire du réseau de transport des
 engagements figurant dans le code de bonne conduite prévu à l'article L. 111-22. 
 
-Il établit un rapport annuel sur la mise en œuvre de ce code, qu'il transmet à la Commission de régulation de l'énergie. 
+Il avise, sans délai, la Commission de régulation de l'énergie de tout manquement substantiel dans la mise en œuvre des
+engagements mentionnés à l'alinéa précédent et établit un rapport annuel sur la mise en œuvre de ce code, qu'il lui
+transmet. 
 
 Il vérifie la bonne exécution du plan ou du schéma décennal de développement du réseau de transport de gaz ou d'électricité.
 Il avise, sans délai, la Commission de régulation de l'énergie de tout projet de décision reportant ou supprimant la
@@ -1899,10 +1997,6 @@ _Codifié par_:
 
   - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
 
-_Créé par_:
-
-  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
-
 _Cité par_:
 
   - Décret n°2011-1478 du 9 novembre 2011 - art. 14 (Ab)
@@ -1910,16 +2004,21 @@ _Cité par_:
   - Code de l'énergie - art. D111-14 (V)
   - Code de l'énergie - art. D111-15 (V)
 
+_Modifié par_:
+
+  - Ordonnance n°2016-130 du 10 février 2016 - art. 6
+
 _Cite_:
 
-  - Code de l'énergie - art. L111-22 (V)
+  - Code de l'énergie - art. L111-22
 
 
 ###### Article L111-35
 
 Le responsable de la conformité a accès aux assemblées générales, aux réunions du conseil d'administration ou du conseil de
 surveillance de la société gestionnaire du réseau de transport, aux réunions des comités spécialisés, ainsi qu'à toutes les
-réunions utiles à l'accomplissement de ses missions.
+réunions utiles à l'accomplissement de ses missions. Il rend compte de son activité au conseil d'administration ou de
+surveillance et peut formuler à son attention des recommandations portant sur le code de bonne conduite et sa mise en œuvre. 
 
 Dans l'exercice de ses missions, il a tous pouvoirs d'investigation sur pièces et sur place.
 
@@ -1939,9 +2038,9 @@ _Codifié par_:
 
   - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
+  - Ordonnance n°2016-130 du 10 février 2016 - art. 7
 
 
 ###### Article L111-36
@@ -6550,6 +6649,16 @@ La Commission de régulation de l'énergie surveille, pour l'électricité et po
 entre fournisseurs, négociants et producteurs, les transactions effectuées sur les marchés organisés ainsi que les échanges
 aux frontières. 
 
+Sans préjudice des dispositions des articles L. 321-6 et 431-6 (1), la Commission de régulation de l'énergie surveille les
+plans d'investissement des gestionnaires de réseaux de transport mentionnés aux paragraphes 3 et 4 de la sous-section 1 de la
+section 2 du chapitre Ier du titre Ier du présent livre. Son rapport annuel comporte l'analyse de leurs plans
+d'investissements, notamment au regard des besoins en matière d'investissement et de leur cohérence avec le plan européen
+élaboré par le Réseau européen des gestionnaires de réseau de transport institué, pour l'électricité, par le règlement (CE)
+n° 714/2009 du Parlement européen et du Conseil du 13 juillet 2009 sur les conditions d'accès au réseau pour les échanges
+transfrontaliers d'électricité et, pour le gaz, par le règlement (CE) n° 715/2009 du Parlement européen et du Conseil du 13
+juillet 2009 concernant les conditions d'accès aux réseaux de transport de gaz naturel. Cette analyse peut comprendre des
+recommandations en vue de modifier ces plans d'investissements. 
+
 Elle surveille la cohérence des offres, y compris de garanties de capacités, faites par les producteurs, négociants et
 fournisseurs, notamment vers les consommateurs finals, avec leurs contraintes économiques et techniques, le cas échéant leurs
 conditions d'approvisionnement par l'accès régulé à l'électricité nucléaire historique mentionné à l'article L. 336-1. Elle
@@ -6564,6 +6673,10 @@ ainsi que de l'obligation prévue à l'article 4 de ce même règlement.
 Ces interdictions et obligations s'appliquent également aux garanties de capacité mentionnées à l'article L. 335-2 du présent
 code. La Commission de régulation de l'énergie garantit leur respect.
 
+**Nota:**
+
+Au lieu de "431-6", il convient de lire "L. 431-6".
+
 **Liens relatifs à cet article**
 
 _Anciens textes_:
@@ -6576,12 +6689,14 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2013-619 du 16 juillet 2013 - art. 38 (V)
+  - Ordonnance n°2016-130 du 10 février 2016 - art. 9
 
 _Cite_:
 
+  - Code de l'énergie - art. L321-6
   - Code de l'énergie - art. L335-2
-  - Code de l'énergie - art. L336-1 (V)
+  - Code de l'énergie - art. L336-1
+  - Code de l'énergie - art. L431-6
 
 
 ###### Article L131-3
@@ -10744,21 +10859,24 @@ _Créé par_:
 En cas d'atteinte grave et immédiate à la sécurité et à la sûreté des réseaux publics de transport et de distribution
 d'électricité ou à la qualité de leur fonctionnement, et sans préjudice des pouvoirs reconnus aux gestionnaires de réseaux et
 à la Commission de régulation de l'énergie, le ministre chargé de l'énergie peut d'office ou sur proposition de la Commission
-de régulation de l'énergie ordonner les mesures conservatoires nécessaires.
+de régulation de l'énergie ordonner les mesures conservatoires nécessaires. 
+
+Dans le cadre des missions qui lui sont confiées par l'article L. 131-1, la Commission de régulation de l'énergie surveille
+la mise en œuvre des mesures prévues au présent article.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°2000-108 du 10 février 2000 - art. 21 (Ab), alinéa 1
 
 _Codifié par_:
 
   - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
+  - Ordonnance n°2016-130 du 10 février 2016 - art. 10
+
+_Cite_:
+
+  - Code de l'énergie - art. L131-1
 
 _Cité par_:
 
@@ -10769,7 +10887,10 @@ _Cité par_:
 
 En cas de menace pour la sécurité d'approvisionnement du pays en gaz naturel, le ministre chargé de l'énergie peut ordonner
 les mesures conservatoires strictement nécessaires, notamment en matière d'octroi ou de suspension des autorisations de
-fourniture ou de transport et des concessions de stockage souterrain de gaz naturel.
+fourniture ou de transport et des concessions de stockage souterrain de gaz naturel. 
+
+Dans le cadre des missions qui lui sont confiées par l'article L. 131-1, la Commission de régulation de l'énergie surveille
+la mise en œuvre des mesures prévues au présent article.
 
 **Liens relatifs à cet article**
 
@@ -10783,7 +10904,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2015-992 du 17 août 2015 - art. 169
+  - Ordonnance n°2016-130 du 10 février 2016 - art. 10
+
+_Cite_:
+
+  - Code de l'énergie - art. L131-1
 
 _Cité par_:
 
@@ -15807,7 +15932,7 @@ _Cité par_:
 
 ###### Article L321-6
 
-I. ― Le gestionnaire du réseau public de transport exploite et entretient le réseau public de transport d'électricité. Il est
+I. - Le gestionnaire du réseau public de transport exploite et entretient le réseau public de transport d'électricité. Il est
 responsable de son développement afin de permettre le raccordement des producteurs, des consommateurs, la connexion avec les
 réseaux publics de distribution et l'interconnexion avec les réseaux des autres pays européens. 
 
@@ -15832,10 +15957,10 @@ de régulation de l'énergie peut consulter l'Agence de coopération des régula
 (CE) n° 713/2009 du Parlement européen et du Conseil du 13 juillet 2009. Elle peut imposer au gestionnaire du réseau public
 de transport la modification du schéma décennal de développement du réseau. 
 
-Le schéma décennal de développement du réseau est également soumis, à intervalle maximal de quatre ans, à l'approbation du
-ministre chargé de l'énergie. 
+Le schéma décennal de développement du réseau est également transmis à l'autorité administrative, qui peut formuler des
+observations si elle estime que ce schéma ne prend pas en compte les objectifs de la politique énergétique.
 
-II. ― Pour l'application du schéma décennal, la direction générale ou le directoire de la société gestionnaire du réseau
+II. - Pour l'application du schéma décennal, la direction générale ou le directoire de la société gestionnaire du réseau
 public de transport établit un programme annuel d'investissements, qu'il soumet à l'approbation préalable de la Commission de
 régulation de l'énergie. 
 
@@ -15871,7 +15996,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2015-992 du 17 août 2015 - art. 176
+  - Ordonnance n°2016-130 du 10 février 2016 - art. 8
 
 _Cité par_:
 
@@ -19792,15 +19917,20 @@ _Créé par_:
 
 ###### Article L342-5
 
-Afin d'assurer la sécurité et la sûreté du réseau et la qualité de son fonctionnement, sont fixées par voie réglementaire les
-prescriptions techniques générales de conception et de fonctionnement auxquelles doivent satisfaire : 
+Un décret en Conseil d'Etat pris après avis de la Commission de régulation de l'énergie fixe les attributions respectives de
+l'autorité administrative et de la Commission de régulation de l'énergie dans la mise en œuvre des codes de réseau prévus à
+l'article 6 du règlement (CE) n° 714/2009 du Parlement européen et du Conseil du 13 juillet 2009 sur les conditions d'accès
+au réseau pour les échanges transfrontaliers d'électricité. Ce décret détermine en particulier la répartition des compétences
+pour définir les règles de raccordement au réseau prévues au point b) du paragraphe 6 de l'article 8 de ce règlement et, à
+cet effet, élaborer les méthodologies utilisées pour établir les prescriptions techniques fixant les exigences techniques
+minimales de conception et de fonctionnement auxquelles doivent satisfaire : 
 
-1° En cas de raccordement au réseau public de transport d'électricité, les installations des producteurs, les installations
-des consommateurs directement raccordés, les réseaux publics de distribution, les circuits d'interconnexion ainsi que les
-lignes directes mentionnées à l'article L. 343-1 ;
+1° En cas de raccordement au réseau public de transport d'électricité, les installations des utilisateurs du réseau, les
+réseaux publics de distribution, les circuits d'interconnexion ainsi que les lignes directes mentionnées à l'article L.
+343-1 ; 
 
-2° En cas de raccordement au réseau public de distribution d'électricité, les installations des utilisateurs de réseau, les
-circuits d'interconnexion ainsi que les lignes directes mentionnées à l'article L. 343-1.
+2° En cas de raccordement au réseau public de distribution d'électricité, les installations des utilisateurs du réseau, les
+réseaux de distribution ainsi que les lignes directes mentionnées à l'article L. 343-1.
 
 **Liens relatifs à cet article**
 
@@ -19825,7 +19955,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2015-992 du 17 août 2015 - art. 148
+  - Ordonnance n°2016-130 du 10 février 2016 - art. 11
 
 _Cite_:
 
