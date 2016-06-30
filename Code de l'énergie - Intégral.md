@@ -1,5 +1,5 @@
 # Code de l'énergie  
-Version Consolidée au 2016-06-22
+Version Consolidée au 2016-07-01
 ## Contenu: 
   - [Partie législative (art. L100-1 à L731-1)](#1)
     - [LIVRE IER : L'ORGANISATION GENERALE  DU SECTEUR DE L'ENERGIE (art. L100-1 à L161-6)](#2)
@@ -229,7 +229,7 @@ régulé à l'électricité nucléaire historique (art. L337-13 à L337-16)](#18
           - [Section 2 : Le contrôle de la construction et de l'exploitation des ouvrages de transport et de distribution (art. L433-12 à L433-19)](#222)
             - [Sous-section 1 : Dispositions relatives aux ouvrages de transport (art. L433-12)](#223)
             - [Sous-section 2 : Dispositions relatives aux ouvrages de distribution (art. L433-13 à L433-19)](#224)
-      - [TITRE IV : LA COMMERCIALISATION (art. L441-1 à L446-4)](#225)
+      - [TITRE IV : LA COMMERCIALISATION (art. L441-1 à L446-5)](#225)
         - [Chapitre Ier : Le choix du fournisseur (art. L441-1 à L441-5)](#226)
         - [Chapitre II : Les contrats de vente (art. L442-1 à L442-3)](#227)
         - [Chapitre III : Le régime de la fourniture (art. L443-1 à L443-12)](#228)
@@ -243,7 +243,7 @@ par une entreprise locale de distribution (art. L444-1 à L444-2)](#233)
           - [Section 1 : Les tarifs réglementés de vente (art. L445-1 à L445-4)](#235)
           - [Section 2 : Le tarif spécial de solidarité (art. L445-5 à L445-6)](#236)
         - [Chapitre VI : Les dispositions particulières 
-relatives à la vente de biogaz (art. L446-1 à L446-4)](#237)
+relatives à la vente de biogaz (art. L446-1 à L446-5)](#237)
       - [TITRE V : L'ACCES ET LE RACCORDEMENT AUX RESEAUX  ET INSTALLATIONS (art. L451-1 à L453-8)](#238)
         - [Chapitre Ier : L'accès aux réseaux et installations (art. L451-1 à L451-3)](#239)
         - [Chapitre II : Les tarifs d'utilisation des réseaux de transport, de distribution de gaz naturel et les tarifs d'utilisation des installations de gaz naturel liquéfié (art. L452-1 à L452-6)](#240)
@@ -6091,8 +6091,8 @@ d'électricité et de gaz<a id=45></a>
 
 Le médiateur national de l'énergie est chargé de recommander des solutions aux litiges entre les personnes physiques ou
 morales et les entreprises du secteur de l'énergie et de participer à l'information des consommateurs d'énergie sur leurs
-droits. Il accomplit sa mission de médiation de la consommation dans les conditions prévues au titre V du livre Ier du code
-de la consommation. Néanmoins, par dérogation au c de l'article L. 152-2 de ce code, la saisine d'un autre médiateur ne fait
+droits. Il accomplit sa mission de médiation de la consommation dans les conditions prévues au titre Ier du livre VI du code
+de la consommation. Néanmoins, par dérogation au 3° de l'article L. 612-2 de ce code, la saisine d'un autre médiateur ne fait
 pas obstacle au traitement d'un litige de consommation par le Médiateur national de l'énergie, dès lors que l'objet de ce
 litige relève de son champ de compétences.
 
@@ -6115,16 +6115,11 @@ reçoivent.
 _Cite_:
 
   - Loi n°2008-776 du 4 août 2008 - art. 51
-  - Code de la consommation
-  - Code de la consommation - art. L152-2 (V)
-
-_Codifié par_:
-
-  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
+  - Code de la consommation - art. L612-2 (V)
 
 _Modifié par_:
 
-  - ORDONNANCE n°2015-1033 du 20 août 2015 - art. 6
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 2 (V)
 
 _Cité par_:
 
@@ -18857,23 +18852,19 @@ _Cite_:
 
 ###### Article L332-1
 
-Les dispositions des articles L. 121-86 à L. 121-94 du code de la consommation sont applicables aux contrats conclus entre
-les fournisseurs d'électricité et les consommateurs et aux contrats conclus entre les fournisseurs et les non-professionnels
-pour une puissance électrique égale ou inférieure à 36 kilovoltampères, ainsi qu'aux offres correspondantes.
+Les dispositions des articles L. 224-1 à L. 224-16 du code de la consommation sont applicables aux contrats conclus entre les
+fournisseurs d'électricité et les consommateurs et aux contrats conclus entre les fournisseurs et les non-professionnels pour
+une puissance électrique égale ou inférieure à 36 kilovoltampères, ainsi qu'aux offres correspondantes.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
-
-_Créé par_:
-
-  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 2 (V)
 
 _Cite_:
 
-  - Code de la consommation - art. L121-86 (V)
+  - Code de la consommation - art. L224-1 (V)
 
 _Cité par_:
 
@@ -18882,30 +18873,26 @@ _Cité par_:
 
 ###### Article L332-2
 
-Les dispositions de l'article L. 121-87, à l'exception de ses 13° et 16°, de l'article L. 121-88, à l'exception de son 2°, et
-des articles L. 121-90 à L. 121-93 du code de la consommation sont applicables aux contrats conclus entre les fournisseurs
-d'électricité et les consommateurs finals non domestiques souscrivant une puissance électrique égale ou inférieure à 36
-kilovoltampères (kVA), ainsi qu'aux offres correspondantes. Ces dispositions sont d'ordre public.
+Les dispositions de l'article L. 224-2, de l'article L. 224-3, à l'exception de ses 13° et 16°, des articles L. 224-4, L.
+224-6, de l'article L. 224-7 à l'exception de son 2°, des articles L. 224-8 à L. 224-13 du code de la consommation sont
+applicables aux contrats conclus entre les fournisseurs d'électricité et les consommateurs finals non domestiques souscrivant
+une puissance électrique égale ou inférieure à 36 kilovoltampères (kVA), ainsi qu'aux offres correspondantes. Ces
+dispositions sont d'ordre public.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Loi n°2006-1537 du 7 décembre 2006 - art. 43 (Ab), ecqc l'électricité
-
-_Codifié par_:
-
-  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
-
-_Créé par_:
-
-  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 2 (V)
 
 _Cite_:
 
-  - Code de la consommation - art. L121-87 (V)
-  - Code de la consommation - art. L121-88 (V)
-  - Code de la consommation - art. L121-90 (V)
+  - Code de la consommation - art. L224-2 (V)
+  - Code de la consommation - art. L224-3 (VT)
+  - Code de la consommation - art. L224-4 (V)
+  - Code de la consommation - art. L224-6 (V)
+  - Code de la consommation - art. L224-7 (V)
+  - Code de la consommation - art. L224-8 (V)
 
 _Cité par_:
 
@@ -18915,26 +18902,18 @@ _Cité par_:
 
 ###### Article L332-3
 
-Dans les conditions fixées par l'article L. 121-92 du code de la consommation, les personnes mentionnées à l'article L. 332-1
+Dans les conditions fixées par l'article L. 224-8 du code de la consommation, les personnes mentionnées à l'article L. 332-1
 ont la possibilité de conclure un contrat unique portant sur la fourniture et la distribution d'électricité.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Loi n°2000-108 du 10 février 2000 - art. 22 (VT), VIII
-
-_Codifié par_:
-
-  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
-
-_Créé par_:
-
-  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 2 (V)
 
 _Cite_:
 
-  - Code de la consommation - art. L121-92
+  - Code de la consommation - art. L224-8 (V)
   - Code de l'énergie - art. L332-1 (V)
 
 _Cité par_:
@@ -24498,9 +24477,9 @@ _Cite_:
 
 ###### Article L442-1
 
-Les dispositions des articles L. 121-86 à L. 121-94 du code de la consommation sont applicables aux contrats conclus entre
-les fournisseurs de gaz naturel et les consommateurs ou les non-professionnels pour une consommation de gaz naturel
-inférieure à 30 000 kilowattheures par an, ainsi qu'aux offres correspondantes.
+Les dispositions des articles L. 224-1 à L. 224-16 du code de la consommation sont applicables aux contrats conclus entre les
+fournisseurs de gaz naturel et les consommateurs ou les non-professionnels pour une consommation de gaz naturel inférieure à
+30 000 kilowattheures par an, ainsi qu'aux offres correspondantes.
 
 **Liens relatifs à cet article**
 
@@ -24508,17 +24487,13 @@ _Anciens textes_:
 
   - Loi n°2003-8 du 3 janvier 2003 - art. 3 (Ab), ecqc le contrat unique
 
-_Codifié par_:
+_Modifié par_:
 
-  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
-
-_Créé par_:
-
-  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 2 (V)
 
 _Cite_:
 
-  - Code de la consommation - art. L121-86 (V)
+  - Code de la consommation - art. L224-1 (V)
 
 _Cité par_:
 
@@ -24527,26 +24502,26 @@ _Cité par_:
 
 ###### Article L442-2
 
-Les dispositions de l'article L. 121-87, à l'exception de ses 13° et 16°, de l'article L. 121-88, à l'exception de son 2°, et
-des articles L. 121-90 à L. 121-94 du code de la consommation sont applicables aux contrats conclus entre les fournisseurs de
-gaz naturel et les consommateurs finals non domestiques consommant moins de 30 000 kilowattheures par an ainsi qu'aux offres
-correspondantes.
+Les dispositions de l'article L. 224-2, de l'article L. 224-3, à l'exception de ses 13° et 16°, des articles L. 224-4, L.
+224-6, de l'article L. 224-7 à l'exception de son 2°, des articles L. 224-8 à L. 224-13 et de l'article L. 224-16 du code de
+la consommation sont applicables aux contrats conclus entre les fournisseurs de gaz naturel et les consommateurs finals non
+domestiques consommant moins de 30 000 kilowattheures par an ainsi qu'aux offres correspondantes.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
-
-_Créé par_:
-
-  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 2 (V)
 
 _Cite_:
 
-  - Code de la consommation - art. L121-87 (V)
-  - Code de la consommation - art. L121-88 (V)
-  - Code de la consommation - art. L121-90 (V)
+  - Code de la consommation - art. L224-16 (V)
+  - Code de la consommation - art. L224-2 (V)
+  - Code de la consommation - art. L224-3 (VT)
+  - Code de la consommation - art. L224-4 (V)
+  - Code de la consommation - art. L224-6 (V)
+  - Code de la consommation - art. L224-7 (V)
+  - Code de la consommation - art. L224-8 (V)
 
 _Cité par_:
 
@@ -24556,7 +24531,7 @@ _Cité par_:
 
 ###### Article L442-3
 
-Dans les conditions fixées par l'article L. 121-92 du code de la consommation, les personnes mentionnées à l'article L. 442-1
+Dans les conditions fixées par l'article L. 224-8 du code de la consommation, les personnes mentionnées à l'article L. 442-1
 ont la possibilité de conclure un contrat unique portant sur la fourniture et la distribution de gaz naturel.
 
 **Liens relatifs à cet article**
@@ -24565,17 +24540,13 @@ _Anciens textes_:
 
   - Loi n°2006-1537 du 7 décembre 2006 - art. 43 (Ab), ecqc le gaz
 
-_Codifié par_:
+_Modifié par_:
 
-  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
-
-_Créé par_:
-
-  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 2 (V)
 
 _Cite_:
 
-  - Code de la consommation - art. L121-92
+  - Code de la consommation - art. L224-8 (V)
   - Code de l'énergie - art. L442-1 (VD)
 
 
@@ -25375,6 +25346,73 @@ _Créé par_:
 _Cité par_:
 
   - Code de l'énergie - art. R121-31 (V)
+
+
+###### Article L446-5
+
+I. - Lorsque les capacités de production de biogaz destiné à être injecté dans le réseau de gaz ne répondent pas aux
+objectifs chiffrés de la programmation pluriannuelle de l'énergie, notamment ceux concernant les techniques de production et
+la localisation géographique des installations, l'autorité administrative peut recourir à une procédure d'appel d'offres. 
+
+II. - Sous réserve des articles L. 2224-32 et L. 2224-33 du code général des collectivités territoriales, toute personne
+exploitant ou désirant construire et exploiter une unité de production, installée sur le territoire d'un Etat membre de
+l'Union européenne ou, dans le cadre de l'exécution d'accords internationaux, sur le territoire de tout autre Etat, peut
+participer à l'appel d'offres. 
+
+III. - Les candidats retenus désignés par l'autorité administrative bénéficient, selon les modalités définies par l'appel
+d'offres, d'un contrat d'achat pour le biogaz injecté. L'acheteur du biogaz est un fournisseur de gaz naturel titulaire de
+l'autorisation administrative mentionnée à l'article L. 443-1 ou l'acheteur de dernier recours mentionné à l'article L.
+446-2. L'achat du biogaz s'effectue au prix résultant de l'appel d'offres. Les surcoûts éventuels qui en résultent pour le
+fournisseur font l'objet d'une compensation. 
+
+IV. - Pour examiner, au titre de la recevabilité ou de la sélection, les offres soumises, l'autorité administrative se fonde
+notamment sur les critères suivants : 
+
+1° Le prix du biogaz injecté ; 
+
+2° La sécurité et la sûreté des réseaux de gaz naturel, des installations et des équipements associés ; 
+
+3° Les capacités techniques, économiques et financières du candidat ; 
+
+4° Le choix des sites, l'occupation des sols et l'utilisation du domaine public ; 
+
+5° L'efficacité énergétique ; 
+
+6° La compatibilité avec les principes et les missions de service public, notamment avec les objectifs de programmation
+pluriannuelle de l'énergie et la protection de l'environnement ; 
+
+7° Les ressources destinées à la méthanisation disponibles dans chacun des territoires sur lesquels porte l'appel d'offres ; 
+
+8° Dans une mesure limitée, à titre de critère de sélection, la part du capital détenue par les habitants résidant à
+proximité du projet d'injection de biogaz ou par les collectivités territoriales ou leurs groupements sur le territoire
+desquels le projet doit être implanté par les sociétés porteuses du projet, qu'elles soient régies par le livre II du code de
+commerce, par les articles L. 1521-1 et suivants du code général des collectivités territoriales ou par la loi n° 47-1775 du
+10 septembre 1947 portant statut de la coopération, ainsi que la part du capital proposée à ces habitants, collectivités ou
+groupements. 
+
+V. - Les modalités de l'appel d'offres, notamment la pondération du critère de sélection mentionné au 8° du IV, sont définies
+par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi n°47-1775 du 10 septembre 1947 (V)
+  - Code de commerce -  LIVRE II : Des sociétés commerciales et des gro... (V)
+  - Code général des collectivités territoriales - art. L1521-1 (V)
+  - Code général des collectivités territoriales - art. L2224-32
+  - Code général des collectivités territoriales - art. L2224-33
+  - Code de l'énergie - art. L443-1 (V)
+  - Code de l'énergie - art. L446-2 (V)
+
+_Créé par_:
+
+  - Ordonnance n°2016-411 du 7 avril 2016 - art. 1
+
+_Cité par_:
+
+  - Arrêté du 13 décembre 2016 - art. 4 (V)
+  - Arrêté du 9 mai 2017 - art. 4 (V)
 
 
 ### TITRE V : L'ACCES ET LE RACCORDEMENT AUX RESEAUX  ET INSTALLATIONS<a id=238></a>
@@ -35160,39 +35198,39 @@ _Cite_:
 
 ###### Article R124-11
 
-I. - L'utilisation du chèque énergie comme moyen de paiement ne peut donner lieu à aucun remboursement en numéraire, ni total
-ni partiel.
+I.-L'utilisation du chèque énergie comme moyen de paiement ne peut donner lieu à aucun remboursement en numéraire, ni total
+ni partiel. 
 
-II. - Lorsque la valeur du chèque énergie utilisé par un bénéficiaire pour le paiement d'une facture d'électricité ou de gaz
+II.-Lorsque la valeur du chèque énergie utilisé par un bénéficiaire pour le paiement d'une facture d'électricité ou de gaz
 naturel est supérieure au montant de ladite facture, le trop-perçu est déduit de la ou, le cas échéant, des prochaines
 factures. Cela ne peut donner lieu à remboursement, sauf en cas d'émission d'une facture de clôture telle que prévue par
-l'article L. 121-89 du code de la consommation.
+l'article L. 224-15 du code de la consommation. 
 
 Lorsque le chèque est adressé à un fournisseur en dehors d'une période de facturation, sa valeur est déduite de la facture
 suivante et, si elle est supérieure à son montant, de la ou des factures suivantes. Toutefois, elle est affectée par
-priorité, en totalité ou en partie selon le cas, à une facture antérieure non soldée par le client.
+priorité, en totalité ou en partie selon le cas, à une facture antérieure non soldée par le client. 
 
 Lorsque le bénéficiaire a opté pour un paiement de sa facture par mensualisation, le fournisseur qui reçoit le chèque énergie
 déduit la valeur du chèque de la première mensualité à échoir, et de la ou des mensualités suivante si la première mensualité
-est inférieure au montant du chèque. Le cas échéant, le montant résiduel est déduit de la facture de régularisation.
+est inférieure au montant du chèque. Le cas échéant, le montant résiduel est déduit de la facture de régularisation. 
 
-III. - Lorsque le chèque énergie est présenté comme moyen de paiement à un gestionnaire de logement-foyer ou à un organisme
+III.-Lorsque le chèque énergie est présenté comme moyen de paiement à un gestionnaire de logement-foyer ou à un organisme
 gestionnaire d'habitation à loyer modéré, et que sa valeur est supérieure au montant à acquitter, le trop-perçu est affecté à
-l'échéance suivante. Il ne peut être reversé au résident qu'à l'issue du contrat de location.
+l'échéance suivante. Il ne peut être reversé au résident qu'à l'issue du contrat de location. 
 
-IV. - Les dispositions de la première phrase du II du présent article sont applicables au bénéficiaire du chèque énergie qui
+IV.-Les dispositions de la première phrase du II du présent article sont applicables au bénéficiaire du chèque énergie qui
 utilise celui-ci pour le paiement d'une dépense relative à la livraison de gaz de pétrole liquéfié livré en vrac. Le trop-
 perçu ne peut donner lieu à remboursement, sauf en cas de résiliation du contrat.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2016-555 du 6 mai 2016 - art. 1
+  - Décret n°2016-555 du 6 mai 2016 - art. 5 (V)
 
 _Cite_:
 
-  - Code de la consommation - art. L121-89
+  - Code de la consommation - art. L224-15 (VD)
 
 _Cité par_:
 
@@ -35287,16 +35325,16 @@ _Cite_:
 
 ###### Article R124-16
 
-I.-Les bénéficiaires du chèque énergie bénéficient également de la gratuité de la mise en service et de l'enregistrement de
+I. - Les bénéficiaires du chèque énergie bénéficient également de la gratuité de la mise en service et de l'enregistrement de
 leur contrat de fourniture d'électricité ou de gaz naturel ainsi que d'un abattement de 80 % sur la facturation d'un
 déplacement en raison d'une interruption de fourniture imputable à un défaut de règlement. 
 
 Les pertes de recettes et les coûts occasionnés par ces dispositions sont compensés dans le cadre des dispositions prévues
 aux articles L. 121-8 et L. 121-36. 
 
-II.-Le bénéfice des droits mentionnés au I du présent article ainsi que des protections spécifiques prévues au troisième
-alinéa de l'article L. 115-3 du code de l'action sociale et des familles, à l'article L. 121-92-1 du code de la consommation
-et à l'article 2 du décret n° 2008-780 du 13 août 2008 relatif à la procédure applicable en cas d'impayés des factures
+II. - Le bénéfice des droits mentionnés au I du présent article ainsi que des protections spécifiques prévues au troisième
+alinéa de l'article L. 115-3 du code de l'action sociale et des familles, à l'article L. 224-13 du code de la consommation et
+à l'article 2 du décret n° 2008-780 du 13 août 2008 relatif à la procédure applicable en cas d'impayés des factures
 d'électricité, de gaz, de chaleur et d'eau, est ouvert à compter du 1er avril de l'année au titre de laquelle la personne a
 bénéficié du chèque énergie et jusqu'au 30 avril de l'année suivante, lorsque celle-ci s'est fait connaître auprès du
 fournisseur concerné, par le règlement d'une facture avec son chèque énergie ou par la transmission à ce fournisseur de
@@ -35311,7 +35349,7 @@ qui se sont fait connaître auprès d'eux dans les mêmes conditions.
 _Cite_:
 
   - Décret n°2008-780 du 13 août 2008 - art. 2 (VT)
-  - Code de la consommation - art. L121-92-1
+  - Code de la consommation - art. L224-13 (VD)
   - Code de l'action sociale et des familles - art. L115-3
   - Code de l'énergie - art. L121-36
   - Code de l'énergie - art. L121-8
@@ -35323,9 +35361,9 @@ _Cité par_:
   - Décret n°2016-1618 du 29 novembre 2016 - art. 6 (VD)
   - Code de l'énergie - art. R124-2 (VD)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2016-555 du 6 mai 2016 - art. 1
+  - Décret n°2016-555 du 6 mai 2016 - art. 5 (V)
 
 
 ### TITRE III : LA COMMISSION DE RÉGULATION DE L'ÉNERGIE<a id=344></a>
