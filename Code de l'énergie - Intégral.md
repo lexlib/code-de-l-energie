@@ -1,5 +1,5 @@
 # Code de l'énergie  
-Version Consolidée au 2016-07-09
+Version Consolidée au 2016-07-13
 ## Contenu: 
   - [Partie législative (art. L100-1 à L731-1)](#1)
     - [LIVRE IER : L'ORGANISATION GENERALE  DU SECTEUR DE L'ENERGIE (art. L100-1 à L161-6)](#2)
@@ -436,7 +436,7 @@ relatives à la vente de biogaz (art. L446-1 à L446-5)](#237)
       - [TITRE Ier : LA PRODUCTION (art. D311-3 à R314-70)](#427)
         - [Chapitre Ier : Les dispositions générales relatives à la production (art. D311-3 à R311-30)](#428)
           - [Section 1 : L'autorisation d'exploiter (art. D311-3 à R311-12)](#429)
-          - [Section 2 : L'appel d'offres (art. R311-13 à D311-27-11)](#430)
+          - [Section 2 : L'appel d'offres (art. R311-12-1 à D311-27-11)](#430)
             - [Sous-section 1 : La procédure d'appel d'offres (art. R311-13 à R311-25)](#431)
             - [Sous-section 2 : Dispositions applicables aux candidats retenus (art. R311-26 à R311-27)](#432)
             - [Sous-section 3 : Mise en œuvre de l'obligation d'achat ou du complément de rémunération (art. R311-27-1 à R311-27-8)](#433)
@@ -464,10 +464,10 @@ relatives à la vente de biogaz (art. L446-1 à L446-5)](#237)
               - [Paragraphe 5 : Obligations d'information (art. R314-52-10 à R314-52-11)](#455)
           - [Section 2 : Les garanties d'origine (art. R314-53 à R314-70)](#456)
       - [TITRE II : LE TRANSPORT ET LA DISTRIBUTION (art. D321-7 à R323-48)](#457)
-        - [Chapitre Ier : Le transport (art. D321-7 à D321-23)](#458)
+        - [Chapitre Ier : Le transport (art. D321-7 à R321-24)](#458)
           - [Section 1 : La consistance du réseau public de transport (art. D321-7 à R321-6)](#459)
           - [Section 2 : Les missions du gestionnaire de réseau de transport en matière de raccordement des énergies renouvelables (art. D321-10 à D321-22)](#460)
-          - [Section 4 : Obligations au titre du mécanisme d'ajustement (art. D321-23)](#461)
+          - [Section 4 : Obligations au titre du mécanisme d'ajustement (art. D321-23 à R321-24)](#461)
         - [Chapitre II : La distribution (art. D322-1 à D322-10)](#462)
           - [Section 1 : Les missions des gestionnaires des réseaux publics de distribution en matière de qualité de l'électricité (art. D322-1 à D322-10)](#463)
             - [Sous-section 1 : Tenue et continuité globales de la tension sur le réseau de distribution (art. D322-2 à D322-8)](#464)
@@ -44349,6 +44349,21 @@ _Cité par_:
 
 ##### Section 2 : L'appel d'offres<a id=430></a>
 
+###### Article R311-12-1
+
+Lorsque l'appel d'offres porte sur la réalisation d'installations de cogénération de chaleur et d'électricité, le cahier des
+charges de l'appel d'offres impose le respect de caractéristiques minimales relatives à l'efficacité énergétique des
+installations, définies par référence à l'annexe II de la directive 2012/27/ UE du Parlement européen et du Conseil du 25
+octobre 2012 relative à l'efficacité énergétique, modifiant les directives 2009/125/ CE et 2010/30/ UE et abrogeant les
+directives 2004/8/ CE et 2006/32/ CE.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2016-944 du 11 juillet 2016 - art. 1
+
+
 ##### Sous-section 1 : La procédure d'appel d'offres<a id=431></a>
 
 ###### Article R311-13
@@ -47781,17 +47796,29 @@ d'un acheteur d'électricité, lorsque l'électricité fait l'objet d'un contrat
 121-27, L. 311-12 et L. 314-1. 
 
 Une garantie d'origine est un document électronique servant uniquement à prouver au client final qu'une part ou une quantité
-déterminée d'énergie a été produite à partir de sources renouvelables ou par cogénération.
+déterminée d'énergie a été produite à partir de sources renouvelables ou par cogénération. 
+
+Les transferts de garanties d'origine, pris séparément ou en liaison avec le transfert physique d'énergie, ne sont pas pris
+en compte pour le calcul de la part de l'énergie produite en France à partir de sources renouvelables dans la consommation
+finale brute nationale d'énergie et ne peuvent être utilisés pour atteindre les objectifs fixés au 4° du I de l'article L.
+100-4.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2016-682 du 27 mai 2016 - art. 2
+  - Décret n°2016-944 du 11 juillet 2016 - art. 4
 
 _Cité par_:
 
   - Décret n°2018-243 du 5 avril 2018 (V)
+
+_Cite_:
+
+  - Code de l'énergie - art. L100-4 (V)
+  - Code de l'énergie - art. L121-27 (V)
+  - Code de l'énergie - art. L311-12 (V)
+  - Code de l'énergie - art. L314-1 (V)
 
 _Anciens textes_:
 
@@ -47938,11 +47965,18 @@ l'entier inférieuR. Les dates de début et de fin de la période de production 
 d'origine peuvent être demandées doivent correspondre à des dates de relevés des données de comptage stipulées par les
 contrats liant l'installation de production d'électricité au gestionnaire du réseau.
 
+La période de production d'électricité pour laquelle des garanties d'origine peuvent être demandées ne peut être supérieure à
+un mois. Toutefois, elle peut être portée à cinq mois au plus dans le cas où la production n'atteint pas le seuil du
+mégawattheure durant la période considérée. 
+
+Sans préjudice des dispositions prévues à l'article R. 314-66, la demande de garanties d'origine doit être adressée cinq mois
+au plus tard après le dernier jour de la période de production faisant l'objet de la demande.
+
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2016-682 du 27 mai 2016 - art. 2
+  - Décret n°2016-944 du 11 juillet 2016 - art. 4
 
 _Anciens textes_:
 
@@ -48117,7 +48151,7 @@ accessibles au public sont :
 
 5° La source d'énergie à partir de laquelle l'électricité a été produite ; 
 
-6° Les dates de début et de fin de la période sur laquelle portait la demande de garanties d'origine ; 
+6° Les dates de début et de fin de la période sur laquelle portait la demande de garanties d'origine ;
 
 7° La date à laquelle l'installation a été mise en service ; 
 
@@ -48125,7 +48159,8 @@ accessibles au public sont :
 niveau du tarif d'achat et la durée du contrat lorsque l'installation fait l'objet d'un contrat d'achat régi par les
 dispositions des articles L. 311-12, L. 314-1 et L. 121-27 ; 
 
-9° Le cas échéant, la mention de l'enregistrement prévu à l'article R. 314-66. 
+9° Le cas échéant, la mention de l'enregistrement prévu à l'article R. 314-66 ainsi que le nom du titulaire qui utilise la
+garantie d'origine. 
 
 L'organisme procède, au moins tous les mois, à la mise à jour du registre. 
 
@@ -48134,13 +48169,17 @@ de l'année précédente.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2016-682 du 27 mai 2016 - art. 2
+  - Décret n°2016-944 du 11 juillet 2016 - art. 4
 
 _Anciens textes_:
 
   - Code de l'énergie - art. R314-35 (T)
+
+_Cite_:
+
+  - Code de l'énergie - art. R314-66 (V)
 
 
 ###### Article R314-65
@@ -48163,26 +48202,31 @@ _Anciens textes_:
 
 Une garantie d'origine peut être utilisée par son titulaire pour attester de la source renouvelable de l'électricité ou de sa
 production par cogénération. Dans ce cas, le titulaire indique à l'organisme chargé de la délivrance des garanties d'origine,
-parmi les garanties qu'il détient, celles qu'il souhaite utiliseR. L'organisme procède alors à l'annulation de ces garanties
+parmi les garanties qu'il détient, celles qu'il souhaite utiliser. L'organisme procède alors à l'annulation de ces garanties
 d'origine en inscrivant sur le registre le nom de leur utilisateur et la date de leur utilisation.
 
-Lorsque le titulaire est un fournisseur d'énergie, la garantie d'origine peut être utilisée par celui-ci afin de démontrer à
-ses clients la part ou la quantité d'électricité de ses offres commerciales ayant une source renouvelable ou produite par
-cogénération. Dans ce cas, le fournisseur d'électricité indique à l'organisme, parmi les garanties d'origine qu'il détient,
-celles qu'il souhaite utiliseR. L'organisme procède alors à l'annulation de ces garanties d'origine en inscrivant sur le
-registre la date de leur utilisation. Le nom du fournisseur dont une garantie d'origine a été annulée est conservé par
-l'organisme dans la partie du registre non accessible au public.
+Lorsque le titulaire est un fournisseur d'énergie souhaitant garantir à son client que l'électricité délivrée dans le cadre
+de son offre commerciale contient une part provenant de source renouvelable ou produite par cogénération, il doit utiliser
+les garanties d'origine correspondant à la part d'électricité dont la source est ainsi garantie. Le fournisseur d'électricité
+indique à l'organisme, parmi les garanties d'origine qu'il détient, celles qu'il souhaite utiliser. L'organisme procède alors
+à l'annulation de ces garanties d'origine en inscrivant sur le registre le nom du fournisseur ayant utilisé la garantie
+d'origine et la date de leur utilisation.
 
 Chaque garantie d'origine ne peut être utilisée qu'une seule fois et ne peut être utilisée que dans les douze mois suivant la
-date du début de la période sur laquelle porte la demande de garanties d'origine.
+date de fin de la période sur laquelle porte la demande de garanties d'origine.
+
+Pour attester de la source renouvelable de l'électricité consommée au titre d'une année civile, les garanties d'origine
+doivent être utilisées avant le 31 mars de l'année civile suivante. Les garanties d'origine issues d'une production d'une
+année civile donnée et utilisées après le 31 mars de l'année civile suivante certifient la consommation au titre de l'année
+civile suivante. 
 
 Les garanties d'origine doivent être délivrées, transférées et annulées de manière électronique.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2016-682 du 27 mai 2016 - art. 2
+  - Décret n°2016-944 du 11 juillet 2016 - art. 4
 
 _Cité par_:
 
@@ -49126,6 +49170,28 @@ _Créé par_:
 _Cite_:
 
   - Code de l'énergie - art. L321-13 (V)
+
+
+###### Article R321-24
+
+Les critères de choix mentionnés au deuxième alinéa de l'article L. 321-10 incluent une priorité, entre deux offres
+d'ajustement à la hausse équivalentes et à coût égal : 
+
+a) Aux installations de production d'électricité à partir d'énergies renouvelables sur d'autres installations de production, 
+
+b) Aux installations de production combinée de chaleur et d'électricité présentant une efficacité énergétique particulière,
+définie par arrêté du ministre chargé de l'énergie, sur d'autres installations qui ne sont pas des installations de
+production d'électricité à partir d'énergies renouvelables.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2016-944 du 11 juillet 2016 - art. 2
+
+_Cite_:
+
+  - Code de l'énergie - art. L321-10 (V)
 
 
 #### Chapitre II : La distribution<a id=462></a>
@@ -51298,17 +51364,28 @@ _Cite_:
 ###### Article R333-10
 
 Les bénéficiaires de l'autorisation prévue à l'article R. 333-1 sont tenus d'informer les consommateurs finals sur l'origine
-de l'électricité fournie. 
+de l'électricité fournie.
 
 A cet effet, ils indiquent, sur les factures d'électricité ou dans un document joint et dans les documents promotionnels
-relatifs à l'électricité adressés aux consommateurs finals : 
+relatifs à l'électricité adressés aux consommateurs finals :
 
-1° Les différentes sources d'énergie primaire utilisées pour produire l'électricité qu'ils ont commercialisée au cours de
-l'année qui précède ; 
+1° Les différentes sources d'énergie primaire utilisées pour produire l'électricité qu'ils ont commercialisée et la
+contribution respective de chacune d'elles à leur offre globale d'électricité, correspondant à l'ensemble de l'électricité
+délivrée par un fournisseur à l'ensemble de ses clients, au cours de l'année précédente : 
 
-2° La contribution de chaque source d'énergie primaire à leur offre globale d'électricité au cours de l'année précédente ; 
+a) A ce titre, ils peuvent se prévaloir du mix résiduel mentionné à l'article R. 333-14, dès sa publication, pour la part de
+l'électricité commercialisée dont l'origine n'est pas certifiée par des mécanismes de traçabilité. Dans ce cas, il est fait
+mention de la part de l'électricité commercialisée sur laquelle le mix résiduel a été utilisé ; 
 
-3° La référence des publications dans lesquelles les consommateurs peuvent trouver les informations relatives à la quantité
+b) La contribution en sources d'énergie renouvelable ou produite par cogénération ne peut être supérieure à la part contenue
+dans le mix résiduel que si des garanties d'origine ont été utilisées ; 
+
+c) La contribution en sources d'énergie primaire, si elle est supérieure au mix résiduel, doit pouvoir être documentée par la
+déclaration du producteur indiquant la quantité d'énergie produite par la source d'énergie en question sur la période
+considérée ou, le cas échéant, par les chiffres agrégés fournis par la bourse de l'électricité ou par l'entreprise située à
+l'extérieur de l'Union Européenne auprès de laquelle l'électricité a été obtenue ;
+
+2° La référence des publications dans lesquelles les consommateurs peuvent trouver les informations relatives à la quantité
 de dioxyde de carbone ou de déchets radioactifs générée par la production d'un kilowattheure à partir de la totalité des
 sources d'énergie primaire utilisées par l'opérateuR. Cette disposition n'entraîne pas l'obligation de fournir ces
 indications à la suite de demandes individuelles.
@@ -51319,9 +51396,9 @@ _Codifié par_:
 
   - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2015-1823 du 30 décembre 2015 - art.
+  - Décret n°2016-944 du 11 juillet 2016 - art. 3
 
 _Cité par_:
 
@@ -51333,76 +51410,14 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de l'énergie - art. R333-1 (V)
-
-
-###### Article R333-11
-
-Les opérateurs qui font des offres de vente d'électricité sur un marché organisé proposant des produits d'électricité à la
-livraison en France sont tenus de fournir aux personnes responsables de ce marché les informations sur les sources d'énergie
-primaire pour produire l'électricité qui constitue chacune de leur offre. Les personnes responsables de ce marché
-communiquent, sur demande, le mix résiduel mentionné à l'article R. 333-14 aux acheteurs d'électricité sur le marché qui
-l'utilisent pour remplir l'obligation d'information qui leur incombe en application de l'article R. 333-10. 
-
-Dans l'hypothèse où des offres d'électricité sont certifiées, en application d'un dispositif légalement institué dans un Etat
-membre de l'Union européenne, comme provenant d'une source d'énergie primaire déterminée, l'acquéreur de cette offre peut
-s'en prévaloir pour fournir les indications mentionnées aux 1° et 2° de l'article R. 333-10. Dans cette hypothèse, les
-quantités d'électricité considérées ne sont pas prises en compte par les personnes responsables du marché pour établir les
-données mentionnées à l'alinéa précédent.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-_Créé par_:
-
-  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-_Abrogé par_:
-
-  - Décret n°2016-944 du 11 juillet 2016 - art. 3
-
-_Cite_:
-
-  - Code de l'énergie - art. R333-10
-  - Code de l'énergie - art. R333-14
-
-
-###### Article R333-12
-
-Les négociants mentionnés aux articles R. 333-1 à R. 333-9 sont tenus de fournir, lors de la revente de l'électricité à un
-autre négociant, les données mentionnées au 1° de l'article R. 333-10 ou, s'ils ont acquis l'électricité sur un marché
-organisé proposant des produits d'électricité à la livraison en France, les données fournies par les personnes responsables
-de ce marché ou, le cas échéant, les attestations d'origine de l'électricité certifiées en application d'un dispositif
-légalement institué dans un Etat membre de l'Union européenne.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-_Créé par_:
-
-  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-_Abrogé par_:
-
-  - Décret n°2016-944 du 11 juillet 2016 - art. 3
-
-_Cite_:
-
   - Code de l'énergie - art. R333-1
-  - Code de l'énergie - art. R333-10
 
 
 ###### Article R333-13
 
 La quantité d'énergie produite à partir de sources renouvelables correspondant aux garanties d'origine transférées par un
 fournisseur d'électricité à un tiers n'est pas prise en compte lors de la détermination de la répartition des sources
-d'énergie primaire mentionnées aux articles R. 333-10 à R. 333-12.
+d'énergie primaire mentionnées aux articles R. 333-10.
 
 **Liens relatifs à cet article**
 
@@ -51410,22 +51425,28 @@ _Codifié par_:
 
   - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2015-1823 du 30 décembre 2015 - art.
+  - Décret n°2016-944 du 11 juillet 2016 - art. 3
 
 _Cite_:
 
-  - Code de l'énergie - art. R333-10 (V)
+  - Code de l'énergie - art. R333-10
 
 
 ###### Article R333-14
 
-L'organisme mentionné à l'article L. 314-14 publie, chaque année, un mix résiduel d'électricité, correspondant à la
-production électrique nationale corrigée des imports et exports d'électricité physique ainsi que des garanties d'origine
-utilisées, exportées et importées et ajustée par des mécanismes de traçabilité fiables. Ce mix résiduel est calculé en
-considérant les calculs de mix effectués par les pays de l'Union européenne soumis à la réglementation commune relative à la
-traçabilité de l'électricité. Un arrêté du ministre chargé de l'énergie fixe les conditions de calcul de ce mix résiduel.
+L'organisme mentionné à l'article L. 314-14 publie, chaque année avant le 15 juin, le mix résiduel d'électricité de l'année
+précédente correspondant au mix de consommation d'électricité dont sont soustraites les garanties d'origine utilisées en
+France. 
+
+Le mix de consommation d'électricité mentionné au premier alinéa correspond à la production électrique de l'année précédente
+en France corrigée des imports et des exports d'électricité physique et ajustée, le cas échéant, par la part de l'électricité
+certifiée par des mécanismes de traçabilité. Le mix de consommation est ensuite corrigé des garanties d'origine exportées et
+importées. 
+
+Le mix de consommation peut, le cas échéant, être calculé sur la base des mix de consommation calculés par les pays européens
+soumis à la réglementation commune relative à la traçabilité de l'électricité.
 
 **Liens relatifs à cet article**
 
@@ -51433,9 +51454,9 @@ _Codifié par_:
 
   - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2015-1823 du 30 décembre 2015 - art.
+  - Décret n°2016-944 du 11 juillet 2016 - art. 3
 
 _Cité par_:
 
@@ -51451,7 +51472,7 @@ _Cite_:
 ###### Article R333-15
 
 Les opérateurs mentionnés à l'article R. 333-10 adressent, avant le 31 décembre de chaque année, les informations mentionnées
-aux 1° et 2° du même article au ministre chargé de l'énergie. 
+aux 1° du même article au ministre chargé de l'énergie. 
 
 Les manquements aux dispositions de l'article R. 333-10 et du présent article sont constatés par les agents mentionnés à
 l'article L. 142-21 et sanctionnés dans les conditions prévues à l'article L. 142-6.
@@ -51462,9 +51483,9 @@ _Codifié par_:
 
   - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2015-1823 du 30 décembre 2015 - art.
+  - Décret n°2016-944 du 11 juillet 2016 - art. 3
 
 _Cité par_:
 
@@ -51472,9 +51493,9 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de l'énergie - art. L142-21 (V)
-  - Code de l'énergie - art. L142-6 (V)
-  - Code de l'énergie - art. R333-10 (V)
+  - Code de l'énergie - art. L142-21
+  - Code de l'énergie - art. L142-6
+  - Code de l'énergie - art. R333-10
 
 
 ##### Section 3 : Application dans les zones non interconnectées<a id=483></a>
