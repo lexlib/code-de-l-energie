@@ -1,5 +1,5 @@
 # Code de l'énergie  
-Version Consolidée au 2016-08-13
+Version Consolidée au 2016-08-14
 ## Contenu: 
   - [Partie législative (art. L100-1 à L731-1)](#1)
     - [LIVRE IER : L'ORGANISATION GENERALE  DU SECTEUR DE L'ENERGIE (art. L100-1 à L161-6)](#2)
@@ -379,7 +379,7 @@ relatives à la vente de biogaz (art. L446-1 à L446-5)](#238)
           - [Section 1 : Recherche et constatation des infractions (art. R135-1 à R135-5)](#370)
       - [TITRE IV : LE RÔLE DE L'ÉTAT (art. D141-1 à D144-29)](#371)
         - [Chapitre Ier : L'évaluation des besoins et la programmation des capacités énergétiques (art. D141-1 à D141-14)](#372)
-          - [Section 1 : La programmation des capacités de production d'électricité (art. D141-1 à D141-2)](#373)
+          - [Section 1 : Dispositions communes à toutes les énergies (art. D141-1 à D141-2-1)](#373)
           - [Section  2 : Dispositions spécifiques à l'électricité (art. D141-3 à D141-12-5)](#374)
             - [Sous-section 1 : Le bilan prévisionnel pluriannuel de l'offre et de la demande (art. D141-3 à D141-8)](#375)
             - [Sous-section 2 : Le bilan électrique national (art. D141-9 à D141-10)](#376)
@@ -38734,16 +38734,25 @@ _Cite_:
 
 #### Chapitre Ier : L'évaluation des besoins et la programmation des capacités énergétiques<a id=372></a>
 
-##### Section 1 : La programmation des capacités de production d'électricité<a id=373></a>
+##### Section 1 : Dispositions communes à toutes les énergies<a id=373></a>
 
 ###### Article D141-1
 
-Le ministre chargé de l'énergie arrête et rend publique la programmation pluriannuelle des investissements de production qui
-fixe les objectifs en matière de répartition des capacités de production par source d'énergie primaire et, le cas échéant,
-par technique de production et par zone géographique. Cette programmation est établie de manière à laisser une place aux
-productions décentralisées, à la cogénération et aux technologies nouvelles. Cette programmation fait l'objet d'un rapport
-présenté au Parlement par le ministre chargé de l'énergie dans l'année suivant tout renouvellement de l'Assemblée nationale
-et d'un avis des commissions des deux assemblées compétentes en matière d'énergie ou de climat.
+I. - La révision simplifiée de la programmation pluriannuelle de l'énergie ne peut porter que sur les deux périodes de la
+programmation initiale. 
+
+Le projet de programmation révisée est approuvé par décret après transmission, pour information, au Conseil national de la
+transition écologique. La programmation révisée est transmise pour information aux commissions permanentes de l'Assemblée
+nationale et du Sénat chargées de l'énergie et de l'environnement. 
+
+II. - Pour les programmations mentionnées au I de l'article L. 141-5 :
+
+- lorsque l'initiative de la révision simplifiée émane de la collectivité, le ministre chargé de l'énergie vérifie que les
+modifications envisagées ne modifient pas l'économie générale de la programmation initiale, notamment au regard de leur
+impact sur les ressources publiques ;
+
+- le projet est approuvé par l'organe délibérant de la collectivité concernée préalablement à son approbation selon les
+modalités prévues au deuxième alinéa du I.
 
 **Liens relatifs à cet article**
 
@@ -38751,20 +38760,27 @@ _Codifié par_:
 
   - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2015-1823 du 30 décembre 2015 - art.
+  - Décret n°2016-1098 du 11 août 2016 - art. 1
 
 _Cité par_:
 
   - Décret n°2018-1248 du 26 décembre 2018 (V)
 
+_Cite_:
+
+  - Code de l'énergie - art. L141-5 (V)
+
 
 ###### Article D141-2
 
-Le ministre chargé de l'énergie rend publique une évaluation, par zone géographique, du potentiel de développement des
-filières de production d'électricité à partir de sources renouvelables, qui tient compte de la programmation pluriannuelle
-des investissements.
+La réalisation des objectifs fixés par les programmations pluriannuelles de l'énergie mentionnées à l'article L. 141-1 et au
+I de l'article L. 141-5 fait l'objet d'un rapport d'évaluation transmis tous les deux ans au Conseil supérieur de l'énergie,
+au Conseil national de la transition écologique et au comité mentionné à l'article L. 145-1. 
+
+L'année précédant l'échéance d'une période de la programmation, cette évaluation est intégrée au rapport mentionné au II de
+l'article L. 100-4.
 
 **Liens relatifs à cet article**
 
@@ -38772,9 +38788,32 @@ _Codifié par_:
 
   - Décret n°2015-1823 du 30 décembre 2015 - art.
 
+_Modifié par_:
+
+  - Décret n°2016-1098 du 11 août 2016 - art. 1
+
+_Cite_:
+
+  - Code de l'énergie - art. L100-4 (V)
+  - Code de l'énergie - art. L141-1 (V)
+  - Code de l'énergie - art. L141-5 (V)
+  - Code de l'énergie - art. L145-1 (V)
+
+
+###### Article D141-2-1
+
+Le volet annexé à la programmation pluriannuelle de l'énergie mentionné au IV de l'article L. 141-5 concerne les zones non
+interconnectées habitées de manière permanente.
+
+**Liens relatifs à cet article**
+
 _Créé par_:
 
-  - Décret n°2015-1823 du 30 décembre 2015 - art.
+  - Décret n°2016-1098 du 11 août 2016 - art. 1
+
+_Cite_:
+
+  - Code de l'énergie - art. L141-5 (V)
 
 
 ##### Section  2 : Dispositions spécifiques à l'électricité<a id=374></a>
