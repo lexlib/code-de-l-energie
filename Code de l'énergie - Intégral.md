@@ -1,5 +1,5 @@
 # Code de l'énergie  
-Version Consolidée au 2016-10-29
+Version Consolidée au 2016-11-12
 ## Contenu: 
   - [Partie législative (art. L100-1 à L731-1)](#1)
     - [LIVRE IER : L'ORGANISATION GENERALE  DU SECTEUR DE L'ENERGIE (art. L100-1 à L161-6)](#2)
@@ -563,7 +563,7 @@ relatives à la vente de biogaz (art. L446-1 à L446-5)](#238)
           - [Section 2 : Schémas de raccordement (art. D361-7-1 à D361-7-2)](#554)
           - [Section 3 : Dispositions spécifiques aux procédures de mise en concurrence dans les collectivités de Guadeloupe, de Guyane, de Martinique et de La Réunion (art. D361-7-3 à D361-7-5)](#555)
         - [Chapitre II : Dispositions relatives à Mayotte (art. D361-9 à R361-8)](#556)
-    - [LIVRE IV : LES DISPOSITIONS RELATIVES AU GAZ (art. R421-1 à D461-9)](#557)
+    - [LIVRE IV : LES DISPOSITIONS RELATIVES AU GAZ (art. R421-1 à D461-14)](#557)
       - [TITRE II : LE STOCKAGE (art. R421-1 à R421-22)](#558)
         - [Chapitre unique (art. R421-1 à R421-22)](#559)
           - [Section 1 : L'accès aux stockages souterrains de gaz naturel (art. R421-1 à R421-21)](#560)
@@ -614,8 +614,8 @@ relatives à la vente de biogaz (art. L446-1 à L446-5)](#238)
           - [Section 2 : Contenu du cahier des charges des concessions de distribution publique de gaz et du règlement de service des régies (art. R453-7)](#605)
           - [Section 3 : Prescriptions techniques fixant les exigences techniques de conception et de fonctionnement (art. R453-8)](#606)
           - [Section 4 : Mise à disposition des données de comptage de consommation aux propriétaires ou gestionnaires d'immeubles (art. D453-9 à D453-13)](#607)
-      - [TITRE VI : LES CONSOMMATEURS GAZO-INTENSIFS (art. D461-1 à D461-9)](#608)
-        - [Chapitre unique (art. D461-1 à D461-9)](#609)
+      - [TITRE VI : LES CONSOMMATEURS GAZO-INTENSIFS (art. D461-1 à D461-14)](#608)
+        - [Chapitre unique (art. D461-1 à D461-14)](#609)
     - [LIVRE V : LES DISPOSITIONS RELATIVES À L'UTILISATION DE L'ÉNERGIE HYDRAULIQUE (art. D511-1 à R524-6)](#610)
       - [TITRE Ier : LES DISPOSITIONS COMMUNES AUX INSTALLATIONS HYDRAULIQUES AUTORISÉES OU CONCÉDÉES (art. D511-1)](#611)
         - [Chapitre Ier : Les caractéristiques générales des régimes d'exploitation de l'énergie hydraulique (art. D511-1)](#612)
@@ -65283,6 +65283,155 @@ _Cite_:
   - Code de l'énergie - art. D461-5 (V)
   - Code de l'énergie - art. D461-6 (V)
   - Code de l'énergie - art. L461-1 (V)
+
+
+###### Article D461-10
+
+Un site d'une entreprise peut bénéficier des conditions particulières prévues à l'article L. 461-3 s'il répond, pendant au
+moins deux ans au cours des quatre années civiles qui précèdent la date de la demande, à l'ensemble des conditions
+suivantes : 
+
+1° Le rapport entre le volume de gaz naturel qu'il consomme et sa valeur ajoutée, telle que définie à l'article 1586 sexies
+du code général des impôts, est supérieur à 4 kilowattheures par euro de valeur ajoutée ; 
+
+2° Il exerce une activité industrielle appartenant à un secteur dont l'intensité des échanges avec les pays tiers, telle que
+déterminée par la Commission européenne aux fins de l'article 10 bis de la directive 2003/87/CE du Parlement européen et du
+Conseil du 13 octobre 2003, est supérieure à 4 % ; 
+
+3° Il consomme annuellement une quantité de gaz naturel supérieure à 100 gigawattheures ; 
+
+4° La structure de sa consommation de gaz naturel est telle que le rapport entre sa consommation du 1er avril au 31 octobre
+et sa consommation sur l'ensemble de l'année civile est supérieure à des niveaux fixés par arrêté des ministres chargés de
+l'énergie et de l'industrie. 
+
+Si le site de consommation est approvisionné par canalisation en produits intermédiaires mentionnés à l'article D. 461-3
+provenant d'un autre site de consommation, la consommation en gaz naturel du site est augmentée de la consommation de gaz
+naturel nécessaire à la production de ces produits intermédiaires. L'équivalent de consommation de gaz naturel correspondant
+à la consommation des produits intermédiaires mentionnés à l'article D. 461-3 est fixé par arrêté des ministres chargés de
+l'énergie et de l'industrie.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2016-1518 du 9 novembre 2016 - art. 1
+
+_Cite_:
+
+  - Code général des impôts, CGI. - art. 1586 sexies
+  - Code de l'énergie - art. D461-3
+  - Code de l'énergie - art. L461-3
+
+_Cité par_:
+
+  - Code de l'énergie - art. D461-11 (V)
+  - Code de l'énergie - art. D461-12 (V)
+  - Code de l'énergie - art. D461-13 (V)
+
+
+###### Article D461-11
+
+Un site d'une entreprise dont l'activité principale consiste à produire des produits intermédiaires mentionnés à l'article D.
+461-3 peut bénéficier des conditions particulières prévues au premier alinéa de l'article L. 461-3 s'il répond, pendant au
+moins deux ans au cours des quatre années civiles qui précèdent la date de la demande, à l'ensemble des conditions
+suivantes : 
+
+1° Le rapport entre le volume de gaz naturel qu'il consomme et sa valeur ajoutée, telle que définie à l'article 1586 sexies
+du code général des impôts, est supérieur à 4 kilowattheures par euro de valeur ajoutée ; 
+
+2° Il fournit plus de la moitié de sa production de produits intermédiaires mentionnés à l'article D. 461-3 par canalisation
+à des sites qui satisfont à l'ensemble des critères mentionnés à l'article D. 461-10. Cette proportion est mesurée en volume
+dans les conditions normales de température et de pression.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2016-1518 du 9 novembre 2016 - art. 1
+
+_Cite_:
+
+  - Code général des impôts, CGI. - art. 1586 sexies
+  - Code de l'énergie - art. D461-10
+  - Code de l'énergie - art. D461-3
+  - Code de l'énergie - art. L461-3
+
+
+###### Article D461-12
+
+Pour l'application des 1° des articles D. 461-10 et D. 461-11, si le site ne réalise pas de chiffre d'affaires au sens de
+l'article 1586 sexies du code général des impôts, la valeur ajoutée qu'il produit est établie à partir de sa comptabilité
+analytique. S'il ne réalise pas de chiffre d'affaires et ne tient pas de comptabilité analytique, le volume de gaz naturel
+consommé par l'ensemble des sites de l'entreprise est comparé à la valeur ajoutée de l'entreprise. Si la valeur ajoutée du
+site ou de l'entreprise est négative ou égale à zéro, elle est fixée à 1 euro.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2016-1518 du 9 novembre 2016 - art. 1
+
+_Cite_:
+
+  - Code général des impôts, CGI. - art. 1586 sexies
+  - Code de l'énergie - art. D461-10
+
+
+###### Article D461-13
+
+Pour faire bénéficier un de ses sites des conditions particulières prévues à l'article L. 461-3, l'entreprise établit
+annuellement une attestation dont le modèle est approuvé par le ministre chargé de l'énergie et qui permet de justifier que
+le site concerné remplit les conditions prévues aux articles D. 461-10 et D. 461-11. 
+
+Cette attestation est transmise au préfet de la région d'implantation du site concerné. Elle est datée et signée par le
+représentant légal de l'entreprise ou toute personne dûment mandatée par celui-ci. Une copie en est transmise au ministre
+chargé de l'énergie. 
+
+A défaut d'opposition dans un délai de deux mois suivant la transmission de l'attestation, le site peut bénéficier des
+conditions particulières prévues à l'article L. 461-3. 
+
+La décision d'opposition est motivée ; elle est notifiée à l'entreprise, au site concerné et au gestionnaire du réseau
+concerné, qui procède s'il y a lieu à la régularisation du tarif d'utilisation du réseau acquitté. 
+
+Copie de chaque attestation est conservée pendant une durée de six ans à compter de la date de clôture de l'exercice durant
+lequel elle a été établie. Ces copies sont produites à toute réquisition des agents habilités du ministère chargé de
+l'énergie, ainsi que les éléments permettant de justifier que les conditions mentionnées aux articles D. 461-10 et D. 461-11
+sont remplies.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2016-1518 du 9 novembre 2016 - art. 1
+
+_Cite_:
+
+  - Code de l'énergie - art. D461-10
+  - Code de l'énergie - art. L461-3
+
+_Cité par_:
+
+  - Code de l'énergie - art. D461-14 (V)
+
+
+###### Article D461-14
+
+Une entreprise qui souhaite faire bénéficier un de ses sites des conditions particulières prévues à l'article L. 461-3
+transmet sa demande au gestionnaire du réseau de gaz naturel auquel le site est raccordé, accompagnée d'une copie de
+l'attestation mentionnée à l'article D. 461-13. 
+
+Les modalités de cette demande sont définies par arrêté des ministres chargés de l'énergie et de l'industrie.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2016-1518 du 9 novembre 2016 - art. 1
+
+_Cite_:
+
+  - Code de l'énergie - art. D461-13
+  - Code de l'énergie - art. L461-3
 
 
 ## LIVRE V : LES DISPOSITIONS RELATIVES À L'UTILISATION DE L'ÉNERGIE HYDRAULIQUE<a id=610></a>
