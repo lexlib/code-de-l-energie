@@ -1,5 +1,5 @@
 # Code de l'énergie  
-Version Consolidée au 2016-11-12
+Version Consolidée au 2016-11-25
 ## Contenu: 
   - [Partie législative (art. L100-1 à L731-1)](#1)
     - [LIVRE IER : L'ORGANISATION GENERALE  DU SECTEUR DE L'ENERGIE (art. L100-1 à L161-6)](#2)
@@ -53692,8 +53692,10 @@ d'autres domaines ;
 d) Les certificats attestant que le demandeur satisfait aux obligations fiscales et sociales, délivrés dans les conditions
 prévues à l'article 46 du code des marchés publics, ou tout document équivalent pour les opérateurs situés hors de France ; 
 
-e) Une attestation de l'accomplissement des formalités prévues à l'article R. 333-4, ou à défaut, dans les contrats de
-fourniture visés au point 2° f du présent article ; 
+e) Le contrat mentionné à l'article L. 321-15, établi avec le gestionnaire du réseau public de transport conformément à
+l'article R. 333-4, ou le contrat établi avec un responsable d'équilibre prenant en charge les écarts générés par les
+activités du demandeur et par les sites de consommation ayant conclu un contrat de fourniture avec lui, ou une copie ou un
+extrait des contrats d'approvisionnement mentionnés au f du 2° comportant le rattachement à un responsable d'équilibre. 
 
 2° Les informations relatives à l'activité de fourniture envisagée par le demandeur et justifiant de ses capacités techniques
 et économiques : 
@@ -53706,11 +53708,11 @@ domestiques ;
 
 c) La taille du marché visé selon les catégories de clients et la répartition géographique de ces clients ; 
 
-d) Les moyens humains et matériels dont dispose le demandeur ou qu'il prévoit de mettre en œuvre pour assurer son activité de
-fournisseur sur le marché français, ainsi que l'organisation de ces moyens ; 
+d) Les moyens humains et matériels dont dispose le demandeur ou qu'il prévoit de mettre en œuvre pour assurer son activité
+d'achat d'électricité pour revente sur le marché français, ainsi que l'organisation de ces moyens ; 
 
-e) Le cas échéant, la liste des conventions passées avec les conseils généraux des départements de résidence de leurs clients
-en application du deuxième alinéa de l'article 6-3 de la loi n° 90-449 du 31 mai 1990 visant à la mise en œuvre du droit au
+e) Le cas échéant, la liste des conventions passées avec les conseils départementaux de résidence de leurs clients en
+application du deuxième alinéa de l'article 6-3 de la loi n° 90-449 du 31 mai 1990 visant à la mise en œuvre du droit au
 logement ; 
 
 f) Le plan prévisionnel d'approvisionnement en électricité à cinq ans, précisant les sources d'approvisionnement en
@@ -53728,20 +53730,21 @@ approvisionner.
 
 _Cite_:
 
-  - Loi n°90-449 du 31 mai 1990 - art. 6-3 (M)
-  - Code des marchés publics - art. 46 (VT)
-  - Code de l'énergie - art. L333-1 (V)
-  - Code de l'énergie - art. L335-2 (V)
-  - Code de l'énergie - art. L336-1 (V)
+  - Loi n°90-449 du 31 mai 1990 - art. 6-3
+  - Code des marchés publics - art. 46
+  - Code de l'énergie - art. L321-15 (V)
+  - Code de l'énergie - art. L333-1
+  - Code de l'énergie - art. L335-2
+  - Code de l'énergie - art. L336-1
   - Code de l'énergie - art. R333-4 (V)
 
 _Codifié par_:
 
   - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2015-1823 du 30 décembre 2015 - art.
+  - Décret n°2016-1570 du 22 novembre 2016 - art. 2
 
 _Cité par_:
 
@@ -53756,10 +53759,7 @@ _Cité par_:
 
 Le ministre chargé de l'énergie se prononce sur la demande d'autorisation d'achat pour revente d'électricité dans un délai de
 trois mois à compter de la date de réception de la demande complète d'autorisation, en fonction des critères définis à
-l'article L. 333-1. 
-
-L'autorisation d'exercer l'activité d'achat d'électricité pour revente est accordée pour une durée de cinq ans. A l'échéance
-de ce délai, le bénéficiaire ne peut poursuivre son activité qu'après avoir obtenu le renouvellement de l'autorisation.
+l'article L. 333-1.
 
 **Liens relatifs à cet article**
 
@@ -53767,13 +53767,13 @@ _Codifié par_:
 
   - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2015-1823 du 30 décembre 2015 - art.
+  - Décret n°2016-1570 du 22 novembre 2016 - art. 3
 
 _Cite_:
 
-  - Code de l'énergie - art. L333-1 (V)
+  - Code de l'énergie - art. L333-1
 
 _Cité par_:
 
@@ -53783,14 +53783,22 @@ _Cité par_:
 
 ###### Article R333-3
 
-Chaque année, le titulaire d'une autorisation de fourniture communique au ministre chargé de l'énergie, avant le 31 décembre,
-une mise à jour du plan prévisionnel mentionné au 2° f de l'article R. 333-1 ainsi que toute information modifiant le contenu
-du dossier d'autorisation prévu au même article. 
+Chaque année, le titulaire d'une autorisation d'exercer l'activité d'achat d'électricité pour revente communique au ministre
+chargé de l'énergie, avant le 1er mars, une mise à jour du plan prévisionnel mentionné au 2° f de l'article R. 333-1 ainsi
+que toute information modifiant le contenu du dossier d'autorisation prévu au même article. 
 
-Les fournisseurs autorisés sont tenus d'informer le ministre chargé de l'énergie de toute modification substantielle des
-conditions de leur activité. En particulier, ils doivent l'informer de la modification de la composition de leur actionnariat
-de référence, dès qu'ils en sont informés, de leur raison sociale ou de leur adresse, au plus tard lors de l'entrée en
-vigueur de cette modification.
+Les titulaires d'une autorisation d'exercer l'activité d'achat d'électricité pour revente sont tenus d'informer le ministre
+chargé de l'énergie de toute modification substantielle des conditions de leur activité. En particulier, ils doivent
+l'informer de la modification de la composition de leur actionnariat de référence, dès qu'ils en sont informés, de leur
+raison sociale ou de leur adresse, au plus tard lors de l'entrée en vigueur de cette modification.
+
+**Nota:**
+
+Conformément à l'article 8 du décret n° 2016-1570 du 22 novembre 2016, les titulaires d'une autorisation d'exercer l'activité
+d'achat d'électricité pour revente en vigueur à la date de publication du présent décret peuvent continuer à exercer leur
+activité au-delà de la durée de cinq ans prévue par leur autorisation et sans aucune limitation de durée, dans les conditions
+prévues par les articles R. 333-3, R. 333-5, R. 333-7 et R. 333-9 du code de l'énergie et sous réserve des dispositions de
+l'article R. 333-6 du même code.
 
 **Liens relatifs à cet article**
 
@@ -53798,9 +53806,9 @@ _Codifié par_:
 
   - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2015-1823 du 30 décembre 2015 - art.
+  - Décret n°2016-1570 du 22 novembre 2016 - art. 4
 
 _Cité par_:
 
@@ -53808,16 +53816,17 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de l'énergie - art. R333-1 (V)
+  - Code de l'énergie - art. R333-1
 
 
 ###### Article R333-4
 
 Pour la mise en œuvre des dispositions des articles L. 321-14 et L. 321-15, un contrat est conclu entre le gestionnaire du
-réseau public de transport et le négociant ou, le cas échéant, son mandataire. Ce contrat précise, en particulier, les
-modalités de constitution de garanties financières au bénéfice du gestionnaire du réseau public de transport. Lorsqu'un
-contrat de cette nature a déjà été conclu par le négociant à un autre titre, il est modifié pour prendre en compte l'activité
-de négoce d'électricité.
+réseau public de transport et le titulaire d'une autorisation d'achat d'électricité pour revente ou, le cas échéant, son
+mandataire. Ce contrat précise, en particulier, les modalités de constitution de garanties financières au bénéfice du
+gestionnaire du réseau public de transport. Lorsqu'un contrat de cette nature a déjà été conclu par le titulaire d'une
+autorisation d'achat d'électricité pour revente à un autre titre, le montant des garanties financières peut évoluer pour
+tenir compte de l'activité d'achat d'électricité pour revente.
 
 **Liens relatifs à cet article**
 
@@ -53825,13 +53834,13 @@ _Codifié par_:
 
   - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2015-1823 du 30 décembre 2015 - art.
+  - Décret n°2016-1570 du 22 novembre 2016 - art. 5
 
 _Cite_:
 
-  - Code de l'énergie - art. L321-14 (V)
+  - Code de l'énergie - art. L321-14
 
 _Cité par_:
 
@@ -53870,18 +53879,26 @@ _Cite_:
 
 Sans préjudice des sanctions prévues à l'article R. 333-9, le ministre chargé de l'énergie peut, après consultation ou sur
 saisine du gestionnaire du réseau de transport d'électricité, suspendre ou retirer l'autorisation d'exercice de l'activité
-par le négociant s'il constate que son comportement est susceptible de compromettre le bon fonctionnement, la sécurité et la
-sûreté des réseaux d'électricité ou la continuité d'approvisionnement des consommateurs ou si les conditions prévues à
-l'article L. 333-1 ne sont plus respectées. 
+par le titulaire d'une autorisation d'achat d'électricité pour revente s'il constate que son comportement est susceptible de
+compromettre le bon fonctionnement, la sécurité et la sûreté des réseaux d'électricité ou la continuité d'approvisionnement
+des consommateurs ou si les conditions prévues à l'article L. 333-1 ne sont plus respectées. 
 
-Le retrait ou la suspension ne peut être prononcé qu'après que le négociant a reçu notification des griefs et a été mis à
-même de consulter le dossier et de présenter ses observations écrites ou orales dans le délai d'un mois, assisté, s'il le
-souhaite, par une personne de son choix. 
+Le retrait ou la suspension ne peut être prononcé qu'après que le titulaire d'une autorisation d'achat d'électricité pour
+revente a reçu notification des griefs et a été mis à même de consulter le dossier et de présenter ses observations écrites
+ou orales dans le délai d'un mois, assisté, s'il le souhaite, par une personne de son choix. 
 
 Dans tous les cas, une copie de la décision du ministre est adressée au gestionnaire du réseau de transport d'électricité. 
 
 Toutefois, en cas de manquement grave mettant en cause l'intégrité ou la sécurité des réseaux, le ministre chargé de
-l'énergie peut prononcer la suspension immédiate de l'autorisation de fourniture.
+l'énergie peut prononcer la suspension immédiate de l'autorisation d'exercer l'activité d'achat d'électricité pour revente.
+
+**Nota:**
+
+Conformément à l'article 8 du décret n° 2016-1570 du 22 novembre 2016, les titulaires d'une autorisation d'exercer l'activité
+d'achat d'électricité pour revente en vigueur à la date de publication du présent décret peuvent continuer à exercer leur
+activité au-delà de la durée de cinq ans prévue par leur autorisation et sans aucune limitation de durée, dans les conditions
+prévues par les articles R. 333-3, R. 333-5, R. 333-7 et R. 333-9 du code de l'énergie et sous réserve des dispositions de
+l'article R. 333-6 du même code.
 
 **Liens relatifs à cet article**
 
@@ -53889,13 +53906,13 @@ _Codifié par_:
 
   - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2015-1823 du 30 décembre 2015 - art.
+  - Décret n°2016-1570 du 22 novembre 2016 - art. 6
 
 _Cite_:
 
-  - Code de l'énergie - art. L333-1 (V)
+  - Code de l'énergie - art. L333-1
 
 _Cité par_:
 
@@ -53940,9 +53957,18 @@ _Créé par_:
 
 ###### Article R333-9
 
-Sans préjudice des dispositions de l'article R. 333-2, le ministre chargé de l'énergie peut prononcer, dans les conditions
-prévues à l'article L. 335-8, les sanctions administrative et pécuniaire mentionnées prévues à cet article à l'encontre des
-négociants, en cas de manquement aux dispositions de l'article L. 333-1 ou des articles R. 333-1 à R. 333-7.
+Sans préjudice des dispositions de l'article R. 333-6, le ministre chargé de l'énergie peut prononcer, dans les conditions
+prévues à l'article L. 333-4, les sanctions administrative et pécuniaire mentionnées prévues à cet article à l'encontre des
+titulaires d'une autorisation d'achat d'électricité pour revente, en cas de manquement aux dispositions de l'article L. 333-1
+ou des articles R. 333-1 à R. 333-7.
+
+**Nota:**
+
+Conformément à l'article 8 du décret n° 2016-1570 du 22 novembre 2016, les titulaires d'une autorisation d'exercer l'activité
+d'achat d'électricité pour revente en vigueur à la date de publication du présent décret peuvent continuer à exercer leur
+activité au-delà de la durée de cinq ans prévue par leur autorisation et sans aucune limitation de durée, dans les conditions
+prévues par les articles R. 333-3, R. 333-5, R. 333-7 et R. 333-9 du code de l'énergie et sous réserve des dispositions de
+l'article R. 333-6 du même code.
 
 **Liens relatifs à cet article**
 
@@ -53950,21 +53976,20 @@ _Codifié par_:
 
   - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2015-1823 du 30 décembre 2015 - art.
+  - Décret n°2016-1570 du 22 novembre 2016 - art. 7
 
 _Cité par_:
 
   - Décret n°2016-1570 du 22 novembre 2016 - art. 8 (V)
-  - Code de l'énergie - art. R333-6 (M)
+  - Code de l'énergie - art. R333-6 (V)
 
 _Cite_:
 
-  - Code de l'énergie - art. L333-1 (V)
-  - Code de l'énergie - art. L335-8 (T)
-  - Code de l'énergie - art. R333-1 (V)
-  - Code de l'énergie - art. R333-2 (V)
+  - Code de l'énergie - art. L333-1
+  - Code de l'énergie - art. L333-4 (V)
+  - Code de l'énergie - art. R333-1
 
 
 ##### Section 2 : Obligations des fournisseurs en matière d'information des consommateurs d'électricité<a id=498></a>
