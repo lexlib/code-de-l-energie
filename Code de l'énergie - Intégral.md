@@ -1,5 +1,5 @@
 # Code de l'énergie  
-Version Consolidée au 2016-11-25
+Version Consolidée au 2016-12-07
 ## Contenu: 
   - [Partie législative (art. L100-1 à L731-1)](#1)
     - [LIVRE IER : L'ORGANISATION GENERALE  DU SECTEUR DE L'ENERGIE (art. L100-1 à L161-6)](#2)
@@ -607,8 +607,8 @@ relatives à la vente de biogaz (art. L446-1 à L446-5)](#238)
           - [Section 1 : Conditions de vente du biométhane aux fournisseurs de gaz naturel (art. R446-1 à R446-2)](#598)
           - [Section 2 : Les conditions de contractualisation entre producteurs de biométhane et fournisseurs de gaz naturel (art. D446-3 à D446-16)](#599)
           - [Section 3 : Les garanties d'origine du biométhane injecté dans les réseaux de gaz naturel (art. D446-17 à D446-24)](#600)
-      - [TITRE V : L'ACCÈS ET LE RACCORDEMENT AUX RÉSEAUX ET INSTALLATIONS (art. R452-1 à D453-13)](#601)
-        - [Chapitre II : Les tarifs d'utilisation des réseaux de transport, de distribution de gaz naturel et les tarifs d'utilisation des installations de gaz naturel liquéfié (art. R452-1)](#602)
+      - [TITRE V : L'ACCÈS ET LE RACCORDEMENT AUX RÉSEAUX ET INSTALLATIONS (art. D452-1-1 à D453-13)](#601)
+        - [Chapitre II : Les tarifs d'utilisation des réseaux de transport, de distribution de gaz naturel et les tarifs d'utilisation des installations de gaz naturel liquéfié (art. D452-1-1 à R452-1)](#602)
         - [Chapitre III : Le raccordement aux réseaux et installations (art. R453-1 à D453-13)](#603)
           - [Section 1 : Extensions des réseaux de distribution de gaz naturel (art. R453-1 à R453-6)](#604)
           - [Section 2 : Contenu du cahier des charges des concessions de distribution publique de gaz et du règlement de service des régies (art. R453-7)](#605)
@@ -64215,6 +64215,43 @@ _Cité par_:
 ### TITRE V : L'ACCÈS ET LE RACCORDEMENT AUX RÉSEAUX ET INSTALLATIONS<a id=601></a>
 
 #### Chapitre II : Les tarifs d'utilisation des réseaux de transport, de distribution de gaz naturel et les tarifs d'utilisation des installations de gaz naturel liquéfié<a id=602></a>
+
+###### Article D452-1-1
+
+Pour application de l'article L. 452-2-1, les gestionnaires des réseaux de transport et de distribution de gaz naturel
+peuvent mettre en œuvre, sur l'ensemble des sites de consommation raccordés à leur réseau, dans les conditions prévues à
+l'article L. 453-7, des dispositifs de comptage permettant une mesure de la consommation sur un pas de temps inférieur ou
+égal à la journée.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2016-1662 du 5 décembre 2016 - art. 1
+
+_Cite_:
+
+  - Code de l'énergie - art. L452-2-1
+  - Code de l'énergie - art. L453-7
+
+
+###### Article D452-1-2
+
+Les tarifs d'utilisation des réseaux de transport applicables durant les mois de novembre à avril peuvent être fixés à un
+niveau supérieur à celui permettant la stricte couverture des coûts de réseau, sous réserve qu'ils fassent l'objet, durant
+les mois de mai à octobre, d'une modulation à la baisse permettant de maintenir sur l'année la couverture des coûts dans les
+conditions prévues à l'article L. 452-1.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2016-1662 du 5 décembre 2016 - art. 1
+
+_Cite_:
+
+  - Code de l'énergie - art. L452-1
+
 
 ###### Article R452-1
 
