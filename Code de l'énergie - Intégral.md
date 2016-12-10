@@ -1,5 +1,5 @@
 # Code de l'énergie  
-Version Consolidée au 2016-12-07
+Version Consolidée au 2016-12-11
 ## Contenu: 
   - [Partie législative (art. L100-1 à L731-1)](#1)
     - [LIVRE IER : L'ORGANISATION GENERALE  DU SECTEUR DE L'ENERGIE (art. L100-1 à L161-6)](#2)
@@ -13929,8 +13929,8 @@ _Cite_:
 
 ###### Article L231-4
 
-Les dispositions relatives au livret de développement durable sont énoncées aux articles L. 221-27 et L. 221-28 du code
-monétaire et financier.
+Les dispositions relatives au livret de développement durable et solidaire sont énoncées aux articles L. 221-27 et L. 221-28
+du code monétaire et financier.
 
 **Liens relatifs à cet article**
 
@@ -13938,9 +13938,9 @@ _Codifié par_:
 
   - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
+  - Loi n°2016-1691 du 9 décembre 2016 - art. 80 (V)
 
 _Cite_:
 
