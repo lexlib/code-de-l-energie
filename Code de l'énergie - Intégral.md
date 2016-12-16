@@ -1,5 +1,5 @@
 # Code de l'énergie  
-Version Consolidée au 2016-12-11
+Version Consolidée au 2016-12-17
 ## Contenu: 
   - [Partie législative (art. L100-1 à L731-1)](#1)
     - [LIVRE IER : L'ORGANISATION GENERALE  DU SECTEUR DE L'ENERGIE (art. L100-1 à L161-6)](#2)
@@ -190,506 +190,519 @@ locale de distribution (art. L334-1 à L334-2)](#173)
           - [Section 3 : Dispositions particulières applicables aux tarifs de cession aux entreprises locales de distribution (art. L337-10 à L337-12)](#184)
           - [Section 4 : Dispositions applicables aux prix d'accès
 régulé à l'électricité nucléaire historique (art. L337-13 à L337-16)](#185)
-      - [TITRE IV : L'ACCES ET LE RACCORDEMENT AUX RESEAUX (art. L341-1 à L343-6)](#186)
+      - [TITRE IV : L'ACCES ET LE RACCORDEMENT AUX RESEAUX (art. L341-1 à L344-13)](#186)
         - [Chapitre Ier : L'accès aux réseaux (art. L341-1 à L341-5)](#187)
         - [Chapitre II : Le raccordement aux réseaux (art. L342-1 à L342-12)](#188)
         - [Chapitre III : Les lignes directes (art. L343-1 à L343-6)](#189)
-      - [TITRE V : LES DISPOSITIONS RELATIVES A L'UTILISATION  DE L'ELECTRICITE (art. L351-1)](#190)
-        - [Chapitre unique : Consommateurs électro-intensifs (art. L351-1)](#191)
-      - [TITRE VI : LES DISPOSITIONS RELATIVES A L'OUTRE MER (art. L361-1 à L363-13)](#192)
-        - [Chapitre Ier : Dispositions relatives aux départements et régions d'outre-mer (art. L361-1)](#193)
-        - [Chapitre II : Dispositions relatives au Département de Mayotte (art. L362-1 à L362-5)](#194)
-        - [Chapitre III : Dispositions applicables aux îles Wallis et Futuna (art. L363-1 à L363-13)](#195)
-          - [Section 1 : Dispositions particulières aux îles Wallis et Futuna (art. L363-1 à L363-6)](#196)
-          - [Section 2 : Dispositions du droit métropolitain applicables aux îles Wallis et Futuna (art. L363-7)](#197)
-          - [Section 3 : Dispositions d'adaptation (art. L363-8 à L363-13)](#198)
-            - [Sous-section 1 : Dispositions d'adaptation générales (art. L363-8)](#199)
-            - [Sous-section 2 : Dispositions d'adaptation du titre Ier (art. L363-9)](#200)
-            - [Sous-section 3 : Dispositions d'adaptation du titre II (art. L363-11)](#201)
-            - [Sous-section 4 : Dispositions d'adaptation du titre III (art. L363-12)](#202)
-            - [Sous-section 5 : Dispositions d'adaptation du titre IV (art. L363-13)](#203)
-    - [LIVRE IV : LES DISPOSITIONS RELATIVES AU GAZ (art. L400-1 à L461-3)](#204)
-      - [TITRE IER : LA RECHERCHE ET L'EXPLOITATION DES GITES  CONTENANT DU GAZ NATUREL (art. L411-1)](#205)
-        - [Chapitre unique (art. L411-1)](#206)
-      - [TITRE II : LE STOCKAGE (art. L421-1 à L421-16)](#207)
-        - [Chapitre unique (art. L421-1 à L421-16)](#208)
-      - [TITRE III : LE TRANSPORT ET LA DISTRIBUTION (art. L431-1 à L433-19)](#209)
-        - [Chapitre Ier : Le transport (art. L431-1 à L431-8)](#210)
-          - [Section 1 : Le régime d'autorisation de transport (art. L431-1 à L431-2)](#211)
-            - [Sous-section 1 : Obligation d'une autorisation (art. L431-1)](#212)
-            - [Sous-section 2 : Sanctions (art. L431-2)](#213)
-          - [Section 2 : Les missions des gestionnaires de réseaux de transport (art. L431-3 à L431-6-2)](#214)
-          - [Section 3 : La participation des autres opérateurs à l'équilibrage des réseaux de transport (art. L431-7 à L431-8)](#215)
-        - [Chapitre II : La distribution (art. L432-1 à L432-13)](#216)
-          - [Section 1 : Les autorités organisatrices des réseaux de distribution (art. L432-1 à L432-7)](#217)
-          - [Section 2 : Les missions des gestionnaires de réseaux de distribution (art. L432-8 à L432-13)](#218)
-        - [Chapitre III : Les ouvrages de transport et de distribution (art. L433-1 à L433-19)](#219)
-          - [Section 1 :  L'occupation du domaine public ou la traversée des propriétés privées par les ouvrages de transport et de distribution (art. L433-1 à L433-11)](#220)
-            - [Sous-section 1 : Dispositions applicables au transport (art. L433-1 à L433-2)](#221)
-            - [Sous-section 2 : Dispositions applicables à la distribution (art. L433-3 à L433-11)](#222)
-          - [Section 2 : Le contrôle de la construction et de l'exploitation des ouvrages de transport et de distribution (art. L433-12 à L433-19)](#223)
-            - [Sous-section 1 : Dispositions relatives aux ouvrages de transport (art. L433-12)](#224)
-            - [Sous-section 2 : Dispositions relatives aux ouvrages de distribution (art. L433-13 à L433-19)](#225)
-      - [TITRE IV : LA COMMERCIALISATION (art. L441-1 à L446-5)](#226)
-        - [Chapitre Ier : Le choix du fournisseur (art. L441-1 à L441-5)](#227)
-        - [Chapitre II : Les contrats de vente (art. L442-1 à L442-3)](#228)
-        - [Chapitre III : Le régime de la fourniture (art. L443-1 à L443-12)](#229)
-          - [Section 1 : L'obligation d'une autorisation (art. L443-1 à L443-9)](#230)
-          - [Section 2 : Les sanctions (art. L443-10 à L443-12)](#231)
-            - [Sous-section 1 : Sanctions pénales (art. L443-10 à L443-11)](#232)
-            - [Sous-section 2 : Sanctions administratives (art. L443-12)](#233)
+        - [Chapitre IV : Les réseaux fermés de distribution d'électricité (art. L344-1 à L344-13)](#190)
+          - [Section 1 : Définition (art. L344-1 à L344-3)](#191)
+          - [Section 2 : Le gestionnaire du réseau fermé de distribution d'électricité (art. L344-4 à L344-5)](#192)
+          - [Section 3 : Règles applicables aux réseaux fermés de distribution d'électricité (art. L344-6 à L344-11)](#193)
+          - [Section 4 : Sanctions pénales (art. L344-12 à L344-13)](#194)
+      - [TITRE V : LES DISPOSITIONS RELATIVES A L'UTILISATION  DE L'ELECTRICITE (art. L351-1)](#195)
+        - [Chapitre unique : Consommateurs électro-intensifs (art. L351-1)](#196)
+      - [TITRE VI : LES DISPOSITIONS RELATIVES A L'OUTRE MER (art. L361-1 à L363-13)](#197)
+        - [Chapitre Ier : Dispositions relatives aux départements et régions d'outre-mer (art. L361-1)](#198)
+        - [Chapitre II : Dispositions relatives au Département de Mayotte (art. L362-1 à L362-5)](#199)
+        - [Chapitre III : Dispositions applicables aux îles Wallis et Futuna (art. L363-1 à L363-13)](#200)
+          - [Section 1 : Dispositions particulières aux îles Wallis et Futuna (art. L363-1 à L363-6)](#201)
+          - [Section 2 : Dispositions du droit métropolitain applicables aux îles Wallis et Futuna (art. L363-7)](#202)
+          - [Section 3 : Dispositions d'adaptation (art. L363-8 à L363-13)](#203)
+            - [Sous-section 1 : Dispositions d'adaptation générales (art. L363-8)](#204)
+            - [Sous-section 2 : Dispositions d'adaptation du titre Ier (art. L363-9)](#205)
+            - [Sous-section 3 : Dispositions d'adaptation du titre II (art. L363-11)](#206)
+            - [Sous-section 4 : Dispositions d'adaptation du titre III (art. L363-12)](#207)
+            - [Sous-section 5 : Dispositions d'adaptation du titre IV (art. L363-13)](#208)
+    - [LIVRE IV : LES DISPOSITIONS RELATIVES AU GAZ (art. L400-1 à L461-3)](#209)
+      - [TITRE IER : LA RECHERCHE ET L'EXPLOITATION DES GITES  CONTENANT DU GAZ NATUREL (art. L411-1)](#210)
+        - [Chapitre unique (art. L411-1)](#211)
+      - [TITRE II : LE STOCKAGE (art. L421-1 à L421-16)](#212)
+        - [Chapitre unique (art. L421-1 à L421-16)](#213)
+      - [TITRE III : LE TRANSPORT ET LA DISTRIBUTION (art. L431-1 à L433-19)](#214)
+        - [Chapitre Ier : Le transport (art. L431-1 à L431-8)](#215)
+          - [Section 1 : Le régime d'autorisation de transport (art. L431-1 à L431-2)](#216)
+            - [Sous-section 1 : Obligation d'une autorisation (art. L431-1)](#217)
+            - [Sous-section 2 : Sanctions (art. L431-2)](#218)
+          - [Section 2 : Les missions des gestionnaires de réseaux de transport (art. L431-3 à L431-6-2)](#219)
+          - [Section 3 : La participation des autres opérateurs à l'équilibrage des réseaux de transport (art. L431-7 à L431-8)](#220)
+        - [Chapitre II : La distribution (art. L432-1 à L432-13)](#221)
+          - [Section 1 : Les autorités organisatrices des réseaux de distribution (art. L432-1 à L432-7)](#222)
+          - [Section 2 : Les missions des gestionnaires de réseaux de distribution (art. L432-8 à L432-13)](#223)
+        - [Chapitre III : Les ouvrages de transport et de distribution (art. L433-1 à L433-19)](#224)
+          - [Section 1 :  L'occupation du domaine public ou la traversée des propriétés privées par les ouvrages de transport et de distribution (art. L433-1 à L433-11)](#225)
+            - [Sous-section 1 : Dispositions applicables au transport (art. L433-1 à L433-2)](#226)
+            - [Sous-section 2 : Dispositions applicables à la distribution (art. L433-3 à L433-11)](#227)
+          - [Section 2 : Le contrôle de la construction et de l'exploitation des ouvrages de transport et de distribution (art. L433-12 à L433-19)](#228)
+            - [Sous-section 1 : Dispositions relatives aux ouvrages de transport (art. L433-12)](#229)
+            - [Sous-section 2 : Dispositions relatives aux ouvrages de distribution (art. L433-13 à L433-19)](#230)
+      - [TITRE IV : LA COMMERCIALISATION (art. L441-1 à L446-5)](#231)
+        - [Chapitre Ier : Le choix du fournisseur (art. L441-1 à L441-5)](#232)
+        - [Chapitre II : Les contrats de vente (art. L442-1 à L442-3)](#233)
+        - [Chapitre III : Le régime de la fourniture (art. L443-1 à L443-12)](#234)
+          - [Section 1 : L'obligation d'une autorisation (art. L443-1 à L443-9)](#235)
+          - [Section 2 : Les sanctions (art. L443-10 à L443-12)](#236)
+            - [Sous-section 1 : Sanctions pénales (art. L443-10 à L443-11)](#237)
+            - [Sous-section 2 : Sanctions administratives (art. L443-12)](#238)
         - [Chapitre IV : Le cas particulier de la commercialisation 
-par une entreprise locale de distribution (art. L444-1 à L444-2)](#234)
-        - [Chapitre V : Les tarifs (art. L445-1 à L445-6)](#235)
-          - [Section 1 : Les tarifs réglementés de vente (art. L445-1 à L445-4)](#236)
-          - [Section 2 : Le tarif spécial de solidarité (art. L445-5 à L445-6)](#237)
+par une entreprise locale de distribution (art. L444-1 à L444-2)](#239)
+        - [Chapitre V : Les tarifs (art. L445-1 à L445-6)](#240)
+          - [Section 1 : Les tarifs réglementés de vente (art. L445-1 à L445-4)](#241)
+          - [Section 2 : Le tarif spécial de solidarité (art. L445-5 à L445-6)](#242)
         - [Chapitre VI : Les dispositions particulières 
-relatives à la vente de biogaz (art. L446-1 à L446-5)](#238)
-      - [TITRE V : L'ACCES ET LE RACCORDEMENT AUX RESEAUX  ET INSTALLATIONS (art. L451-1 à L453-8)](#239)
-        - [Chapitre Ier : L'accès aux réseaux et installations (art. L451-1 à L451-3)](#240)
-        - [Chapitre II : Les tarifs d'utilisation des réseaux de transport, de distribution de gaz naturel et les tarifs d'utilisation des installations de gaz naturel liquéfié (art. L452-1 à L452-6)](#241)
-        - [Chapitre III : Le raccordement aux réseaux et installations (art. L453-1 à L453-8)](#242)
-      - [TITRE VI : LES CONSOMMATEURS GAZO-INTENSIFS (art. L461-1 à L461-3)](#243)
-        - [Chapitre unique (art. L461-1 à L461-3)](#244)
-    - [LIVRE V : DISPOSITIONS RELATIVES A L'UTILISATION  DE L'ENERGIE HYDRAULIQUE (art. L511-1 à L531-6)](#245)
-      - [TITRE IER : LES DISPOSITIONS COMMUNES AUX INSTALLATIONS HYDRAULIQUES AUTORISEES OU CONCEDEES (art. L511-1 à L513-4)](#246)
-        - [Chapitre Ier : Les caractéristiques générales des régimes d'exploitation de l'énergie hydraulique (art. L511-1 à L511-13)](#247)
-        - [Chapitre II : Les sanctions (art. L512-1 à L512-4)](#248)
-          - [Section 1 : Les sanctions pénales (art. L512-1 à L512-2)](#249)
-          - [Section 2 : Les sanctions administratives (art. L512-3)](#250)
-          - [Section 3 : Dispositions diverses (art. L512-4)](#251)
-        - [Chapitre III : La protection du domaine hydroélectrique concédé (art. L513-1 à L513-4)](#252)
-      - [TITRE II : LES DISPOSITIONS RELATIVES  AUX INSTALLATIONS HYDRAULIQUES CONCEDEES (art. L521-1 à L524-1)](#253)
-        - [Chapitre Ier : La procédure applicable aux concessions (art. L521-1 à L521-20)](#254)
-          - [Section 1 : L'octroi de la concession (art. L521-1 à L521-3)](#255)
-          - [Section 2 : Le cahier des charges de la concession (art. L521-4 à L521-6)](#256)
-          - [Section 3 : L'occupation ou la traversée des propriétés privées (art. L521-7 à L521-14)](#257)
-          - [Section 4 : Les dispositions particulières à la fin de la concession et à son renouvellement (art. L521-15 à L521-17)](#258)
-          - [Section 5 : Les sociétés d'économie mixte hydroélectriques (art. L521-18 à L521-20)](#259)
-        - [Chapitre II : Les réserves en énergie (art. L522-1 à L522-4)](#260)
-        - [Chapitre III : Les redevances proportionnelles (art. L523-1 à L523-2)](#261)
-        - [Chapitre IV : L'information des collectivités territoriales et des habitants riverains sur l'exécution de la concession et leur participation à la gestion des usages de l'eau (art. L524-1)](#262)
-      - [TITRE III : LES DISPOSITIONS RELATIVES  AUX INSTALLATIONS HYDRAULIQUES AUTORISEES (art. L531-1 à L531-6)](#263)
-        - [Chapitre unique (art. L531-1 à L531-6)](#264)
-    - [LIVRE VI : LES DISPOSITIONS RELATIVES  AU PETROLE, AUX BIOCARBURANTS ET BIOLIQUIDES (art. L611-1 à L671-3)](#265)
-      - [TITRE IER : GENERALITES (art. L611-1)](#266)
-        - [Chapitre unique (art. L611-1)](#267)
-      - [TITRE II : LA RECHERCHE ET L'EXPLOITATION  DES GITES CONTENANT DU PETROLE (art. L621-1)](#268)
-        - [Chapitre unique (art. L621-1)](#269)
-      - [TITRE III : LE TRANSPORT (art. L631-1 à L632-2)](#270)
-        - [Chapitre Ier : Le transport par navire (art. L631-1 à L631-5)](#271)
-        - [Chapitre II : Le transport par canalisation (art. L632-1 à L632-2)](#272)
-          - [Section unique (art. L632-1 à L632-2)](#273)
-      - [TITRE IV : LE RAFFINAGE ET LE STOCKAGE (art. L641-1 à L642-10)](#274)
-        - [Chapitre Ier : Le raffinage et les produits pétroliers (art. L641-1 à L641-8)](#275)
-          - [Section 1 : Le raffinage (art. L641-1 à L641-3)](#276)
-          - [Section 2 : Produits pétroliers et carburants renouvelables (art. L641-4 à L641-8)](#277)
-        - [Chapitre II : Le stockage (art. L642-1 à L642-10)](#278)
-      - [TITRE V : LA DISTRIBUTION (art. L651-1)](#279)
-        - [Chapitre unique (art. L651-1)](#280)
-      - [TITRE VI : LES BIOCARBURANTS ET BIOLIQUIDES (art. L661-1 à L661-9)](#281)
-        - [Chapitre unique (art. L661-1 à L661-9)](#282)
-      - [TITRE VII : LES DISPOSITIONS PARTICULIERES A L'OUTRE-MER (art. L671-1 à L671-3)](#283)
-        - [Chapitre unique (art. L671-1 à L671-3)](#284)
-    - [LIVRE VII : LES DISPOSITIONS RELATIVES  AUX RESEAUX DE CHALEUR ET DE FROID (art. L711-1 à L731-1)](#285)
-      - [TITRE IER : LA PRODUCTION DE CHALEUR ET LE CLASSEMENT  DES RESEAUX DE CHALEUR ET DE FROID (art. L711-1 à L714-2)](#286)
-        - [Chapitre Ier : La production de chaleur (art. L711-1 à L711-3)](#287)
-        - [Chapitre II : Le classement des réseaux de chaleur et de froid (art. L712-1 à L712-5)](#288)
-          - [Section 1 : Principes et modalités de classement des réseaux de chaleur et de froid (art. L712-1 à L712-3)](#289)
-          - [Section 2 : Constatation des infractions (art. L712-4)](#290)
-          - [Section 3 : Sanctions pénales (art. L712-5)](#291)
-        - [Chapitre III : Dispositions diverses (art. L713-1 à L713-2)](#292)
-        - [Chapitre IV : Contrôles et sanctions (art. L714-1 à L714-2)](#293)
-      - [TITRE II : LE PASSAGE DES CANALISATIONS DE TRANSPORT  ET DE DISTRIBUTION DE CHALEUR ET DE FROID (art. L721-1 à L721-12)](#294)
-        - [Chapitre unique (art. L721-1 à L721-12)](#295)
-      - [TITRE III : LE STOCKAGE DE CHALEUR (art. L731-1)](#296)
-        - [Chapitre unique (art. L731-1)](#297)
-  - [Partie réglementaire (art. R111-1 à R721-20)](#298)
-    - [LIVRE IER : L'ORGANISATION GÉNÉRALE DU SECTEUR DE L'ÉNERGIE (art. R111-1 à R161-10)](#299)
-      - [TITRE IER : LES PRINCIPES RÉGISSANT LE SECTEUR DE L'ÉNERGIE (art. R111-1 à D113-5)](#300)
-        - [Chapitre Ier : Les secteurs de l'électricité et du gaz (art. R111-1 à D111-58)](#301)
-          - [Section 1 : Organisation des entreprises de transport (art. R111-1 à D111-17)](#302)
-            - [Sous-section 1 : Règles communes aux entreprises de transport d'électricité et aux entreprises de transport de gaz (art. R111-1 à R111-13)](#303)
-              - [Paragraphe 1 : Désignation des gestionnaires de réseaux de transport (art. R111-1 à R111-11)](#304)
-              - [Paragraphe 2 : Règles applicables aux sociétés gestionnaires de réseaux de transport appartenant, au 3 septembre 2009, à une entreprise verticalement intégrée (art. D111-14 à R111-13)](#305)
-            - [Sous-section 2 : Dispositions propres à l'entreprise de transport d'électricité issue de la séparation juridique prévue à l'article L. 111-7 (art. D111-16 à D111-17)](#306)
-          - [Section 2 : Organisation des entreprises gestionnaires des réseaux publics de distribution d'électricité et de gaz (art. D111-18 à R111-19-26)](#307)
-            - [Sous-section 1 : Dispositions communes (art. D111-18 à D111-19)](#308)
-            - [Sous-section 2 : Comité du système public de distribution d'électricité des zones interconnectées au réseau métropolitain continental (art. R111-19-1 à R111-19-14)](#309)
-            - [Sous-section 3 : Comité du système public de distribution d'électricité de la collectivité territoriale de Corse (art. R111-19-15 à R111-19-26)](#310)
-          - [Section 3 : Dispositions particulières à l'entreprise venant aux droits de GDF-Suez (art. D111-20 à D111-21)](#311)
-          - [Section 4 : Confidentialité des informations sensibles (art. R111-22 à R111-35)](#312)
-            - [Sous-section 1 : Informations détenues par les gestionnaires du réseau public de transport et des réseaux publics de distribution d'électricité (art. R111-22 à R111-30)](#313)
-            - [Sous-section 2 : Informations détenues par les exploitants d'ouvrages de transport, de distribution ou de stockage de gaz naturel, ou d'installations de gaz naturel liquéfié (art. R111-31 à R111-35)](#314)
-          - [Section 5 : Dissociation et transparence de la comptabilité (art. D111-36 à D111-37)](#315)
-            - [Sous-section 1 : Règles applicables aux entreprises électriques (art. D111-36)](#316)
-            - [Sous-section 2 : Règles applicables aux entreprises gazières (art. D111-37)](#317)
-          - [Section 6 : Droit d'accès aux réseaux et aux installations (art. D111-38 à R111-51)](#318)
-            - [Sous-section 1 : Droit d'accès aux réseaux de distribution de gaz naturel pour les gestionnaires de réseaux mentionnés au III de l'article L. 2224-31 du code général des collectivités territoriales (art. D111-38 à D111-42)](#319)
-            - [Sous-section 2 : Dérogation aux conditions d'accès à certaines infrastructures gazières à l'occasion d'une construction ou d'une modification (art. R111-43 à R111-51)](#320)
-          - [Section 7 : Mise à disposition des personnes publiques de données relatives au transport, à la distribution et la production d'électricité, de gaz naturel et de biométhane (art. D111-52 à D111-58)](#321)
-        - [Chapitre II : Le marché pétrolier (art. D112-1 à D112-3)](#322)
-          - [Section 1 : Mise à disposition des personnes publiques de données relatives à la distribution de produits pétroliers (art. D112-1 à D112-3)](#323)
-        - [Chapitre III : Les réseaux de chaleur (art. D113-1 à D113-5)](#324)
-          - [Section 1 : Mise à disposition des personnes publiques de données relatives à la production et la distribution de chaleur ou de froid (art. D113-1 à D113-5)](#325)
-      - [TITRE II : LES OBLIGATIONS DE SERVICE PUBLIC ET LA PROTECTION DES CONSOMMATEURS (art. R121-1 à R124-16)](#326)
-        - [Chapitre Ier : Les obligations de service public assignées aux entreprises du secteur de l'électricité et du gaz (art. R121-1 à R121-65)](#327)
-          - [Section 1 : Définition des obligations assignées aux entreprises (art. R121-1 à R121-21)](#328)
-            - [Sous-section 1 : Entreprises gazières (art. R121-1 à R121-20)](#329)
-              - [Paragraphe 1 : Obligations assignées aux fournisseurs de gaz (art. R121-1 à R121-7)](#330)
-              - [Paragraphe 2 : Obligations assignées opérateurs de réseaux de transport de gaz (art. R121-8 à R121-10)](#331)
-              - [Paragraphe 3 : Obligations assignées aux opérateurs de réseaux de distribution de gaz (art. R121-11 à R121-13)](#332)
-              - [Paragraphe 4 : Obligations assignées aux titulaires de concessions de stockage souterrain de gaz (art. R121-14 à R121-15)](#333)
-              - [Paragraphe 5 : Obligations assignées aux exploitants d'installations de gaz naturel liquéfié (art. R121-16)](#334)
-              - [Paragraphe 6 : Dispositions diverses (art. R121-17 à R121-20)](#335)
-            - [Sous-section 2 : Entreprises du secteur de l'électricité (art. R121-21)](#336)
-          - [Section 2 : Compensation financière des charges résultant des obligations de service public (art. R121-22 à R121-65)](#337)
-            - [Sous-section 1 : Compensation des charges de service public de l'énergie (art. R121-22 à R121-33)](#338)
-              - [Paragraphe 1 : Gestion des comptes spécifiques relatifs à la compensation des charges de service public de l'énergie (art. R121-22 à R121-24)](#339)
-              - [Paragraphe 2 : Détermination des charges imputables aux missions de service public de l'énergie (art. R121-25 à R121-29)](#340)
-              - [Paragraphe 3 : Procédure de détermination du montant des charges à compenser (art. R121-30 à R121-32)](#341)
-              - [Paragraphe 4 : Opérations de reversement aux opérateurs qui supportent les charges imputables aux missions de service public de l'énergie (art. R121-33)](#342)
-            - [Sous-section 2 : Comité de gestion des charges de service public de l'électricité (art. D121-34 à D121-39)](#343)
-            - [Sous-section 3 : Le Fonds de péréquation de l'électricité (art. R121-44 à R121-64)](#344)
-            - [Sous-section 4 : Dispositions diverses (art. D121-66 à R121-65)](#345)
-        - [Chapitre II : La protection des consommateurs d'électricité et de gaz (art. R122-1 à R122-31)](#346)
-          - [Section 1 : Dispositions relatives au médiateur de l'énergie (art. R122-1 à R122-13)](#347)
-          - [Section 2 : Aide en faveur des entreprises exposées à un risque significatif de fuite de carbone en raison des coûts du système d'échange de quotas d'émission de gaz à effet de serre répercutés sur les prix de l'électricité (art. R122-14 à R122-31)](#348)
-            - [Sous-section 1 : Règles applicables au calcul de l'aide (art. R122-14 à R122-24)](#349)
-            - [Sous-section 2 : Modalités de versement de l'aide et d'instruction des demandes (art. R122-25 à R122-29)](#350)
-            - [Sous-section 3 : Contrôles (art. R122-30 à R122-31)](#351)
-        - [Chapitre IV : La protection des consommateurs en situation de précarité énergétique (art. R124-1 à R124-16)](#352)
-      - [TITRE III : LA COMMISSION DE RÉGULATION DE L'ÉNERGIE (art. R132-1 à R135-5)](#353)
-        - [Chapitre II : Organisation (art. R132-1)](#354)
-        - [Chapitre III : Fonctionnement (art. D133-11 à R133-12)](#355)
-        - [Chapitre IV : Attributions (art. R134-1 à R134-37)](#356)
-          - [Section 1 : Consultations obligatoires sur les projets de décisions (art. R134-1 à R134-2)](#357)
-          - [Section 2 : Rapports, avis, consultations et propositions (art. R134-3 à R134-6)](#358)
-          - [Section 3 : Procédure applicable devant le comité de règlement des différends et des sanctions de la Commission de régulation de l'énergie en matière de règlement des différends (art. R134-7 à R134-17)](#359)
-            - [Sous-section 1 : Saisine du comité de règlement des différends et des sanctions et instruction du différend (art. R134-7 à R134-13)](#360)
-            - [Sous-section 2 : Séances du comité et décision (art. R134-14 à R134-17)](#361)
-          - [Section 4 : Procédure applicable devant le comité de règlement des différends et des sanctions de la Commission de régulation de l'énergie en matière de mesures conservatoires (art. R134-18 à R134-20)](#362)
-          - [Section 5 : Recours devant la cour d'appel de Paris (art. R134-21 à R134-28)](#363)
-          - [Section 6 : Procédure applicable devant le comité de règlement des différends et des sanctions de la Commission de régulation de l'énergie en matière de sanctions (art. L134-31 à R134-36)](#364)
-            - [Sous-section 1 : Saisine du comité et instruction (art. L134-31 à R134-34)](#365)
-            - [Sous-section 2 : Séances du comité et décision (art. R134-35 à R134-36)](#366)
-          - [Section 7 : Règlement intérieur du comité de règlement des différends et des sanctions (art. R134-37)](#367)
-        - [Chapitre V : Pouvoirs d'enquête et de contrôle (art. R135-1 à R135-5)](#368)
-          - [Section 1 : Recherche et constatation des infractions (art. R135-1 à R135-5)](#369)
-      - [TITRE IV : LE RÔLE DE L'ÉTAT (art. D141-1 à D144-29)](#370)
-        - [Chapitre Ier : L'évaluation des besoins et la programmation des capacités énergétiques (art. D141-1 à D141-14)](#371)
-          - [Section 1 : Dispositions communes à toutes les énergies (art. D141-1 à D141-2-1)](#372)
-          - [Section  2 : Dispositions spécifiques à l'électricité (art. D141-3 à D141-12-6)](#373)
-            - [Sous-section 1 : Le bilan prévisionnel pluriannuel de l'offre et de la demande (art. D141-3 à D141-8)](#374)
-            - [Sous-section 2 : Le bilan électrique national (art. D141-9 à D141-10)](#375)
-            - [Sous-section 3 : La transmission des données au gestionnaire du réseau de transport pour l'élaboration des bilans (art. D141-11 à D141-12-5)](#376)
-            - [Sous-section 4 :  Le critère de défaillance (art. D141-12-6)](#377)
-          - [Section 3 : La programmation des capacités d'approvisionnement en gaz naturel (art. D141-13)](#378)
-          - [Section 4 : La programmation des investissements pour la production de chaleur (art. D141-14)](#379)
-        - [Chapitre II : Le suivi de la mise en œuvre de la politique énergetique (art. D142-1 à R142-31)](#380)
-          - [Section 1 : Accès du Gouvernement aux informations nécessaires à la politique énergétique (art. D142-1 à D142-9-5)](#381)
-            - [Sous-section 1 : Dispositions communes (art. D142-1 à D142-9)](#382)
-            - [Sous-section 2 : Dispositions spécifiques à l'électricité (art. D142-9-1 à D142-9-5)](#383)
-          - [Section 2 : Pouvoirs de contrôle et sanctions administratives (art. D142-10 à R142-20)](#384)
-            - [Sous-section 1 : Dispositions propres au secteur pétrolier (art. D142-10 à R142-14)](#385)
-            - [Sous-section 2 : Dispositions propres aux secteurs électrique et gazier (art. R142-15 à R142-20)](#386)
-              - [Paragraphe 1 : Pouvoirs d'enquête (art. R142-15 à R142-19)](#387)
-              - [Paragraphe 2 : Recherche et constatation des manquements et sanctions administratives (art. R142-20)](#388)
-          - [Section 3 : Le Conseil supérieur de l'énergie (art. R142-21 à R142-31)](#389)
-        - [Chapitre III : Les mesures de sauvegarde en cas de crise (art. R143-1)](#390)
-        - [Chapitre IV : L'organisation de la recherche en matière d'énergie (art. R144-1 à D144-29)](#391)
-          - [Section 1 : La stratégie nationale de la recherche en matière d'énergie (art. R144-1)](#392)
-          - [Section 2 : IFP Energies nouvelles et l'Ecole nationale supérieure du pétrole et des moteurs (art. R144-2 à D144-29)](#393)
-            - [Sous-section 1 : IFP Energies nouvelles (art. R144-2 à R144-23)](#394)
-            - [Sous-section 2 : L'Ecole nationale supérieure du pétrole et des moteurs (art. D144-24 à D144-29)](#395)
-      - [TITRE V : DISPOSITIONS RELATIVES À L'OUTRE MER (art. R151-1 à R152-1)](#396)
-        - [Chapitre Ier : Dispositions particulières aux collectivités régies par l'article 73 de la Constitution et à Saint-Pierre-et-Miquelon (art. R151-1 à R151-13)](#397)
-          - [Section unique : Comités du système public de distribution d'électricité des zones non interconnectées au réseau métropolitain continental (art. R151-1 à R151-13)](#398)
-        - [Chapitre II : Dispositions applicables aux îles Wallis et Futuna (art. R152-1)](#399)
-      - [TITRE VI : LES DISPOSITIONS RELATIVES AU PERSONNEL DES ENTREPRISES ÉLECTRIQUES ET GAZIÈRES (art. R161-1 à R161-10)](#400)
-        - [Chapitre unique (art. R161-1 à R161-10)](#401)
-    - [LIVRE II : LA MAÎTRISE DE LA DEMANDE D'ÉNERGIE ET LE DÉVELOPPEMENT DES ÉNERGIES RENOUVELABLES (art. D211-1 à R271-9)](#402)
-      - [TITRE IER : DISPOSITIONS GÉNÉRALES (art. D211-1 à D211-4)](#403)
-        - [Chapitre unique (art. D211-1 à D211-4)](#404)
-          - [Section unique : Stratégie nationale de mobilisation de la biomasse (art. D211-1 à D211-4)](#405)
-      - [TITRE II : LES CERTIFICATS D'ÉCONOMIES D'ÉNERGIE (art. R221-1 à R222-12)](#406)
-        - [Chapitre Ier : Le dispositif des certificats d'économies d'énergie (art. R221-1 à R221-30)](#407)
-          - [Section 1 : Obligations individuelles d'économies d'énergie (art. R221-1 à R221-13)](#408)
-          - [Section 2 : Délivrance des certificats d'économies d'énergie (art. R221-14 à R221-25)](#409)
-          - [Section 3 : Registre national des certificats d'économies d'énergie (art. R221-26 à R221-30)](#410)
-        - [Chapitre II : Les sanctions administratives et pénales (art. R222-1 à R222-12)](#411)
-          - [Section 1 : Manquement aux obligations d'économies d'énergie et aux obligations déclaratives (art. R222-1 à R222-2)](#412)
-          - [Section 2 : Contrôle de la régularité de la délivrance des certificats d'économies d'énergie (art. R222-3 à R222-12)](#413)
-      - [TITRE III : LA PERFORMANCE ÉNERGÉTIQUE (art. D233-3 à R234-6)](#414)
-        - [Chapitre III : La performance énergétique dans les entreprises (art. D233-3 à D233-16)](#415)
-          - [Section 1 : Dispositions générales (art. D233-3 à R233-2)](#416)
-          - [Section 2 : Dispositions particulières aux gestionnaires de réseaux d'électricité et d'infrastructures de gaz (art. D233-10 à D233-16)](#417)
-        - [Chapitre IV : La performance énergetique dans la commande publique (art. R234-1 à R234-6)](#418)
-      - [TITRE IV : LES INSTALLATIONS DE CHAUFFAGE ET DE CLIMATISATION (art. R241-1 à D241-37)](#419)
-        - [Chapitre unique (art. R241-1 à D241-37)](#420)
-          - [Section 1 : Contrats relatifs à l'exploitation des installations de chauffage ou de climatisation (art. R241-1 à R241-5)](#421)
-          - [Section 2 : Dispositions relatives à la consommation énergétique des immeubles (art. R241-6 à R241-34)](#422)
-            - [Sous-section 1 : Equipement obligatoire des immeubles collectifs et répartition des frais de chauffage (art. R241-6 à R241-14)](#423)
-            - [Sous-section 2 : Dispositions relatives aux frais d'eau chaude dans les immeubles collectifs (art. R241-15 à R241-20)](#424)
-            - [Sous-section 3 : Dispositions relatives à la régulation des installations de chauffage (art. R241-21 à R241-24)](#425)
-            - [Sous-section 4 : Dispositions relatives à la limitation de la température de chauffage (art. R241-25 à R241-29)](#426)
-            - [Sous-section 5 : Dispositions relatives au refroidissement des immeubles (art. R241-30 à R241-31)](#427)
-            - [Sous-section 6 : Dispositions relatives à l'outre-mer (art. R241-32 à R241-34)](#428)
-          - [Section 3 : Réajustement de la puissance souscrite dans les contrats d'abonnement aux réseaux de chaleur (art. D241-35 à D241-37)](#429)
-      - [TITRE V : LES MESURES PARTICULIÈRES AUX VÉHICULES (art. D251-1 à D251-13)](#430)
-        - [Chapitre unique (art. D251-1 à D251-13)](#431)
-          - [Section unique :  Aides à l'achat ou à la location de véhicules automobiles peu polluants (art. D251-1 à D251-13)](#432)
-            - [Sous-section 1 : Conditions d'attribution (art. D251-1 à D251-6)](#433)
-            - [Sous-section 2 : Montants et modalités de versement des aides (art. D251-7 à D251-13)](#434)
-      - [TITRE VII : L'EFFACEMENT DE CONSOMMATION D'ÉLECTRICITE (art. R271-1 à R271-9)](#435)
-        - [Chapitre unique (art. R271-1 à R271-9)](#436)
-          - [Section 1 : Définitions (art. R271-1 à R271-2)](#437)
-          - [Section 2 : Méthodologie utilisée pour établir les règles permettant la valorisation des effacements de consommation d'électricité (art. R271-3 à R271-9)](#438)
-    - [LIVRE III : LES DISPOSITIONS RELATIVES À L'ÉLECTRICITÉ (art. D311-3 à R361-8)](#439)
-      - [TITRE Ier : LA PRODUCTION (art. D311-3 à R314-71)](#440)
-        - [Chapitre Ier : Les dispositions générales relatives à la production (art. D311-3 à R311-30)](#441)
-          - [Section 1 : L'autorisation d'exploiter (art. D311-3 à R311-11-1)](#442)
-          - [Section 2 : Procédures de mise en concurrence (art. R311-12 à D311-27-11)](#443)
-            - [Sous-section 1 : La procédure d'appel d'offres (art. R311-13 à R311-25)](#444)
-            - [Sous-section 2 : La procédure de dialogue concurrentiel (art. R311-25-1 à R311-25-15)](#445)
-            - [Sous-section 3 : Dispositions applicables aux candidats retenus (art. R311-26 à R311-27)](#446)
-            - [Sous-section 4 : Mise en œuvre de l'obligation d'achat ou du complément de rémunération (art. R311-27-1 à R311-27-8)](#447)
-            - [Sous-section 5 : Dispositions spécifiques aux procédures de mise en concurrence dans la collectivité territoriale de Corse (art. D311-27-9 à D311-27-11)](#448)
-          - [Section 3 : Sanctions administratives et pénales (art. R311-28 à R311-30)](#449)
-        - [Chapitre IV : Les dispositions particulières à l'électricité produite à partir d'énergies renouvelables (art. D314-1-1 à R314-71)](#450)
-          - [Section 1 : Les dispositifs de soutien aux énergies renouvelables (art. D314-1-1 à R314-52-11)](#451)
-            - [Sous-section 1 : Dispositions communes à l'obligation d'achat et au complément de rémunération (art. D314-1-1 à R314-14)](#452)
-            - [Sous-section 2 : Dispositions propres à l'obligation d'achat (art. D314-15 à R314-22)](#453)
-              - [Paragraphe 1 : Catégories d'installations éligibles à l'obligation d'achat (art. D314-15 à D314-16)](#454)
-              - [Paragraphe 2 : Conditions de l'obligation d'achat (art. R314-17 à R314-22)](#455)
-            - [Sous-section 3 : Dispositions propres au complément de rémunération (art. D314-23 à R314-52)](#456)
-              - [Paragraphe 1 : Catégories d'installations éligibles au complément de rémunération (art. D314-23 à D314-25)](#457)
-              - [Paragraphe 2 : Conditions propres au complément de rémunération (art. R314-26 à R314-32)](#458)
-              - [Paragraphe 3 : Calcul du complément de rémunération (art. R314-33 à R314-42)](#459)
-              - [Paragraphe 4 : Modalités de transmission des données (art. R314-43 à R314-46)](#460)
-              - [Paragraphe 5 : Modalités de versement du complément de rémunération (art. R314-47 à R314-49)](#461)
-              - [Paragraphe 6 : Evaluation du dispositif (art. R314-50)](#462)
-              - [Paragraphe 7 : Modalités d'achat en dernier recours (art. R314-51 à R314-52)](#463)
-            - [Sous-section 4 : Cession des contrats d'achat à des organismes agréés (art. R314-52-1 à R314-52-11)](#464)
-              - [Paragraphe 1 : Agrément des organismes (art. R314-52-1 à R314-52-6)](#465)
-              - [Paragraphe 2 : Modalités de cession du contrat d'achat à un organisme agréé (art. R314-52-7)](#466)
-              - [Paragraphe 3 : Modalités de remboursement des frais de signature et de gestion du contrat d'achat cédé (art. R314-52-8)](#467)
-              - [Paragraphe 4 : Modalités de transfert d'un contrat d'achat cédé d'un organisme agréé à un autre (art. R314-52-9)](#468)
-              - [Paragraphe 5 : Obligations d'information (art. R314-52-10 à R314-52-11)](#469)
-          - [Section 2 : Les garanties d'origine (art. R314-53 à R314-70)](#470)
-          - [Section 3 : Investissement participatif dans les projets de production d'énergie renouvelable (art. R314-71)](#471)
-      - [TITRE II : LE TRANSPORT ET LA DISTRIBUTION (art. D321-7 à R323-48)](#472)
-        - [Chapitre Ier : Le transport (art. D321-7 à R321-24)](#473)
-          - [Section 1 : La consistance du réseau public de transport (art. D321-7 à R321-6)](#474)
-          - [Section 2 : Les missions du gestionnaire de réseau de transport en matière de raccordement des énergies renouvelables (art. D321-10 à D321-22)](#475)
-          - [Section 4 : Obligations au titre du mécanisme d'ajustement (art. D321-23 à R321-24)](#476)
-        - [Chapitre II : La distribution (art. D322-1 à R322-15)](#477)
-          - [Section 1 : Les missions des gestionnaires des réseaux publics de distribution en matière de qualité de l'électricité (art. D322-1 à D322-10)](#478)
-            - [Sous-section 1 : Tenue et continuité globales de la tension sur le réseau de distribution (art. D322-2 à D322-8)](#479)
-            - [Sous-section 2 : Tenue et continuité de la tension délivrée à un utilisateur du réseau (art. D322-9 à D322-10)](#480)
-          - [Section 2 : Consignation de sommes en cas de non-respect du niveau de qualité en matière d'interruption de l'alimentation électrique (art. R322-11 à R322-15)](#481)
-        - [Chapitre III : Les ouvrages de transport et de distribution (art. 323-6 à R323-48)](#482)
-          - [Section 1 : Procédure d'institution des servitudes administratives nécessaires aux ouvrages de transport et de distribution (art. 323-6 à R323-18)](#483)
-            - [Sous-section 1 : Déclaration d'utilité publique (art. 323-6 à R323-5)](#484)
-            - [Sous-section 2 : Procédure d'établissement des servitudes (art. D323-16 à R323-15)](#485)
-            - [Sous-section 3 : Indemnités et frais (art. R323-17 à R323-18)](#486)
-          - [Section 2 : Procédure propre à l'institution de servitudes pour voisinage des ouvrages de transport et de distribution (art. R323-19 à R323-22)](#487)
-          - [Section 3 : Le contrôle de la construction et de l'exploitation des ouvrages de transport et de distribution (art. D323-24 à R323-48)](#488)
-            - [Sous-section 1 : Approbation et réalisation des ouvrages des réseaux publics d'électricité (art. R323-25 à R323-29)](#489)
-            - [Sous-section 2 : Contrôle de la construction et de l'exploitation des ouvrages des réseaux publics d'électricité et des lignes directes (art. R323-30 à R323-32)](#490)
-            - [Sous-section 3 : Police et sécurité de l'exploitation des ouvrages des réseaux publics et des lignes directes (art. R323-33 à R323-39)](#491)
-            - [Sous-section 4 : Ouvrages assimilables aux réseaux publics d'électricité (art. R323-40 à R323-42)](#492)
-            - [Sous-section 5 : Contrôle des champs électromagnétiques (art. R323-43 à R323-48)](#493)
-      - [TITRE III : LA COMMERCIALISATION (art. R331-1 à R337-28)](#494)
-        - [Chapitre Ier : Le choix d'un fournisseur (art. R331-1)](#495)
-        - [Chapitre III : L'achat pour revente (art. R333-1 à R333-16)](#496)
-          - [Section 1 : Autorisation d'exercer l'activité d'achat d'électricité pour revente (art. R333-1 à R333-9)](#497)
-          - [Section 2 : Obligations des fournisseurs en matière d'information des consommateurs d'électricité (art. R333-10 à R333-15)](#498)
-          - [Section 3 : Application dans les zones non interconnectées (art. R333-16)](#499)
-        - [Chapitre V : La contribution des fournisseurs à la sécurité d'approvisionnement en électricité (art. R335-1 à D335-54)](#500)
-          - [Section 1 : Définitions (art. R335-1 à R335-2)](#501)
-          - [Section 2 : Obligations de capacité des fournisseurs d'électricité (art. R335-3 à R335-12)](#502)
-            - [Sous-section 1 : Calcul de la puissance de référence (art. R335-4 à R335-7)](#503)
-            - [Sous-section 2 : Rééquilibrage en capacité (art. R335-8 à R335-12)](#504)
-          - [Section 2 : Certification des exploitants de capacité (art. R335-13 à R335-33)](#505)
-            - [Sous-section 1 : Certification et contrôle des capacités (art. R335-13 à R335-20)](#506)
-            - [Sous-section 2 : Evolution et rééquilibrage des capacités (art. R335-21 à R335-28)](#507)
-            - [Sous-section 3 : Règlement des écarts (art. R335-29 à R335-33)](#508)
-          - [Section 4 : Echange et cession des garanties de capacité (art. R335-34 à R335-44)](#509)
-          - [Section 5 : Dispositions particulières (art. R335-45 à R335-46)](#510)
-          - [Section 6 : Dispositif de sécurisation (art. R335-47 à R335-53)](#511)
-          - [Section 7 : Sanctions (art. D335-54)](#512)
-        - [Chapitre VI : L'accès régulé à l'électricité nucléaire historique (art. R336-1 à D336-43)](#513)
-          - [Section 1 : Définitions (art. R336-1 à R336-7)](#514)
-          - [Section 2 : Demande d'accès régulé à l'électricité nucléaire historique et calcul des quantités de produit cédées (art. R336-8 à R336-18)](#515)
-            - [Sous-section 1 : Demande d'accès régulé à l'électricité nucléaire historique (art. R336-8 à R336-12)](#516)
-            - [Sous-section 2 : Calcul des quantités de produit cédées (art. R336-13 à R336-18)](#517)
-          - [Section 3 : Notification par la Commission de régulation de l'énergie des cessions d'électricité et transfert de l'énergie par le gestionnaire du réseau public de transport (art. R336-19 à R336-20)](#518)
-          - [Section 4 : Gestion des flux financiers et facturation (art. R336-21 à R336-27)](#519)
-            - [Sous-section 1 : Gestion des flux financiers (art. R336-21 à R336-24)](#520)
-            - [Sous-section 2 : Facturation (art. R336-25 à R336-27)](#521)
-          - [Section 5 : Contrôle ex post et complément de prix (art. R336-28 à R336-38)](#522)
-          - [Section 6 : Dispositions applicables en cas de dépassement du plafond (art. R336-39)](#523)
-          - [Section 7 : Sociétés ayant pour activité l'acquisition de contrats d'approvisionnement à long terme d'électricité (art. 336-44 à D336-43)](#524)
-        - [Chapitre VII : Les tarifs et les prix (art. R337-1 à R337-28)](#525)
-          - [Section 1 : Dispositions applicables aux tarifs de vente (art. R337-1 à R337-24)](#526)
-            - [Sous-section 1 : La tarification spéciale de l'électricité comme produit de première nécessité (art. R337-1 à R337-17)](#527)
-            - [Sous-section 2 : Application à Mayotte (art. R337-17-1)](#528)
-            - [Sous-section 3 : Les tarifs réglementés de vente de l'électricité (art. 337-19-1 à R337-24)](#529)
-          - [Section 2 : Dispositions particulières applicables aux tarifs de cession aux entreprises locales de distribution (art. R337-25 à R337-28)](#530)
-      - [TITRE IV : L'ACCÈS ET LE RACCORDEMENT AUX RÉSEAUX (art. R341-1 à R343-9)](#531)
-        - [Chapitre Ier : L'accès aux réseaux (art. R341-1 à D341-17)](#532)
-          - [Section 1 : Tarifs d'utilisation des réseaux publics de transport et de distribution d'électricité (art. R341-1 à R341-3)](#533)
-          - [Section 2 : Dispositifs de comptage sur les réseaux publics d'électricité (art. R341-4 à R341-8)](#534)
-          - [Section 3 : Réduction de tarif d'utilisation du réseau public de transport accordée aux sites fortement consommateurs d'électricité (art. Annexe article D341-9 à D341-12)](#535)
-          - [Section 4 : Mise à disposition des données de comptage de consommation aux propriétaires ou gestionnaires d'immeubles (art. D341-13 à D341-17)](#536)
-        - [Chapitre II : Le raccordement aux réseaux (art. D342-1 à D342-24)](#537)
-          - [Section 1 : Consistance des ouvrages de branchement et d'extension (art. D342-1 à D342-2)](#538)
-          - [Section 2 : Indemnités en cas de retard de raccordement d'une installation de production d'énergie renouvelable (art. R342-3 à R342-4-8)](#539)
-            - [Sous-section 1 : Dispositions applicables aux installations de production d'électricité d'une puissance installée inférieure ou égale à 3 kilovoltampères (art. R342-3 à R342-4)](#540)
-            - [Sous-section 2 : Dispositions applicables aux installations de production d'électricité d'une puissance installée supérieure à 3 kilovoltampères (art. D342-4-1 à R342-4-8)](#541)
-          - [Section 3 : Raccordement des installations de production et de consommation aux réseaux publics d'électricité (art. D342-5 à R342-14-1)](#542)
-          - [Section 4 : Autres raccordements aux réseaux publics d'électricité (art. D342-15)](#543)
-          - [Section 5 : Contrôles (art. D342-16 à D342-21)](#544)
-            - [Sous-section 1 : Contrôles des installations de production raccordées aux réseaux publics d'électricité (art. D342-16 à D342-17)](#545)
-            - [Sous-section 2 : Contrôles des installations intérieures raccordées aux réseaux publics de distribution (art. D342-18 à D342-21)](#546)
-          - [Section 6 : Schéma régional de raccordement au réseau des énergies renouvelables et établissement de la quote-part (art. D342-22 à D342-24)](#547)
-        - [Chapitre III : Les lignes directes (art. R343-1 à R343-9)](#548)
-      - [TITRE V : LES DISPOSITIONS RELATIVES À L'UTILISATION DE L'ÉLECTRICITÉ (art. D351-1 à D351-7)](#549)
-        - [Chapitre unique : Consommateurs électro-intensifs (art. D351-1 à D351-7)](#550)
-      - [TITRE VI : LES DISPOSITIONS RELATIVES À L'OUTRE-MER (art. R361-1 à R361-8)](#551)
-        - [Chapitre Ier : Dispositions relatives à l'outre-mer (art. R361-1 à D361-7-5)](#552)
-          - [Section 1 : Dispositions relatives à l'obligation d'achat (art. R361-1 à R361-7)](#553)
-          - [Section 2 : Schémas de raccordement (art. D361-7-1 à D361-7-2)](#554)
-          - [Section 3 : Dispositions spécifiques aux procédures de mise en concurrence dans les collectivités de Guadeloupe, de Guyane, de Martinique et de La Réunion (art. D361-7-3 à D361-7-5)](#555)
-        - [Chapitre II : Dispositions relatives à Mayotte (art. D361-9 à R361-8)](#556)
-    - [LIVRE IV : LES DISPOSITIONS RELATIVES AU GAZ (art. R421-1 à D461-14)](#557)
-      - [TITRE II : LE STOCKAGE (art. R421-1 à R421-22)](#558)
-        - [Chapitre unique (art. R421-1 à R421-22)](#559)
-          - [Section 1 : L'accès aux stockages souterrains de gaz naturel (art. R421-1 à R421-21)](#560)
-            - [Sous-section 1 : Principes généraux d'utilisation des stockages (art. R421-1 à R421-5)](#561)
-            - [Sous-section 2 : Détermination et attribution des droits d'accès à des capacités de stockage (art. R421-6 à R421-8)](#562)
-            - [Sous-section 3 : Répartition des capacités de stockage (art. R421-9 à R421-10)](#563)
-            - [Sous-section 4 : Allocation des capacités de stockage (art. R421-11 à R421-13)](#564)
-            - [Sous-section 5 : Obligation de déclaration et de détention de stocks et de capacités de stockage des fournisseurs (art. R421-14 à R421-16)](#565)
-            - [Sous-section 6 : Sanctions (art. R421-17 à R421-18)](#566)
-            - [Sous-section 7 : Accès aux capacités de stockage excédentaires (art. R421-19 à R421-20)](#567)
-            - [Sous-section 8 : Agents chargés du contrôle de l'accès aux stockages souterrains de gaz naturel (art. R421-21)](#568)
-          - [Section 2 : Dérogations à l'accès aux stockages souterrains de gaz naturel (art. R421-22)](#569)
-      - [TITRE III : LE TRANSPORT ET LA DISTRIBUTION (art. R431-1 à R433-26)](#570)
-        - [Section 1 : Régime de l'autorisation de transport (art. R431-1 à R433-26)](#571)
-          - [Chapitre Ier : Le transport (art. R431-1 à R431-3)](#572)
-            - [Section 1 : Régime de l'autorisation de transport (art. R431-1 à R431-3)](#573)
-              - [Sous-section 1 : Droits et obligations du titulaire de l'autorisation (art. R431-1 à R431-2)](#574)
-              - [Sous-section 2 : Sanctions (art. R431-3)](#575)
-          - [Chapitre II : La distribution (art. R432-1 à R432-12)](#576)
-            - [Section 1 : L'organisation de la distribution gazière (art. R432-1 à R432-12)](#577)
-              - [Sous-section 1 : Agrément des distributeurs de gaz par réseaux publics (art. R432-1 à R432-7)](#578)
-              - [Sous-section 2 : Développement de la desserte gazière (art. R432-8 à R432-12)](#579)
-          - [Chapitre III : Les ouvrages de transport et de distribution (art. R433-1 à R433-26)](#580)
-            - [Section 1 : L'occupation du domaine public ou la traversée des propriétés privées par les ouvrages de transport et de distribution (art. R433-1 à R433-13)](#581)
-              - [Sous-section 1 : Déclaration d'utilité publique des ouvrages de gaz en vue de l'établissement de servitudes (art. R433-1 à R433-4)](#582)
-              - [Sous-section 2 : Etablissement des servitudes (art. D433-11 à R433-10)](#583)
-              - [Sous-section 3 : Indemnités et frais (art. R433-12 à R433-13)](#584)
-            - [Section 2 : Le contrôle de la construction et de l'exploitation des ouvrages de transport et de distribution (art. R433-1 à R433-26)](#585)
-              - [Sous-section 1 : Les prescriptions techniques applicables (art. R433-1 à R433-19)](#586)
-              - [Sous-section 2 : Les organismes de contrôle (art. D433-23 à R433-22)](#587)
-              - [Sous-section 3 : Mesures de police administrative (art. D433-24 à R433-26)](#588)
-      - [TITRE IV : LA COMMERCIALISATION (art. R441-1 à D446-24)](#589)
-        - [Chapitre Ier : Le choix du fournisseur (art. R441-1)](#590)
-        - [Chapitre III : Le régime de la fourniture (art. R443-1 à R443-13)](#591)
-          - [Section 1 : L'obligation d'une autorisation (art. R443-1 à R443-9)](#592)
-          - [Section 2 : Contrôles et sanctions administratives (art. R443-10 à R443-13)](#593)
-        - [Chapitre V : Les tarifs (art. R445-1 à R445-22)](#594)
-          - [Section 1 : Tarifs réglementés de vente (art. R445-1 à R445-7)](#595)
-          - [Section 2 : Tarif spécial de solidarité (art. R445-8 à R445-22)](#596)
-        - [Chapitre VI : Les dispositions particulières relatives à la vente de biogaz (art. R446-1 à D446-24)](#597)
-          - [Section 1 : Conditions de vente du biométhane aux fournisseurs de gaz naturel (art. R446-1 à R446-2)](#598)
-          - [Section 2 : Les conditions de contractualisation entre producteurs de biométhane et fournisseurs de gaz naturel (art. D446-3 à D446-16)](#599)
-          - [Section 3 : Les garanties d'origine du biométhane injecté dans les réseaux de gaz naturel (art. D446-17 à D446-24)](#600)
-      - [TITRE V : L'ACCÈS ET LE RACCORDEMENT AUX RÉSEAUX ET INSTALLATIONS (art. D452-1-1 à D453-13)](#601)
-        - [Chapitre II : Les tarifs d'utilisation des réseaux de transport, de distribution de gaz naturel et les tarifs d'utilisation des installations de gaz naturel liquéfié (art. D452-1-1 à R452-1)](#602)
-        - [Chapitre III : Le raccordement aux réseaux et installations (art. R453-1 à D453-13)](#603)
-          - [Section 1 : Extensions des réseaux de distribution de gaz naturel (art. R453-1 à R453-6)](#604)
-          - [Section 2 : Contenu du cahier des charges des concessions de distribution publique de gaz et du règlement de service des régies (art. R453-7)](#605)
-          - [Section 3 : Prescriptions techniques fixant les exigences techniques de conception et de fonctionnement (art. R453-8)](#606)
-          - [Section 4 : Mise à disposition des données de comptage de consommation aux propriétaires ou gestionnaires d'immeubles (art. D453-9 à D453-13)](#607)
-      - [TITRE VI : LES CONSOMMATEURS GAZO-INTENSIFS (art. D461-1 à D461-14)](#608)
-        - [Chapitre unique (art. D461-1 à D461-14)](#609)
-    - [LIVRE V : LES DISPOSITIONS RELATIVES À L'UTILISATION DE L'ÉNERGIE HYDRAULIQUE (art. D511-1 à R524-6)](#610)
-      - [TITRE Ier : LES DISPOSITIONS COMMUNES AUX INSTALLATIONS HYDRAULIQUES AUTORISÉES OU CONCÉDÉES (art. D511-1)](#611)
-        - [Chapitre Ier : Les caractéristiques générales des régimes d'exploitation de l'énergie hydraulique (art. D511-1)](#612)
-      - [TITRE II : LES DISPOSITIONS RELATIVES AUX INSTALLATIONS HYDRAULIQUES CONCÉDÉES (art. R521-1 à R524-6)](#613)
-        - [Chapitre Ier : La procédure applicable aux concessions (art. R521-1 à R521-72)](#614)
-          - [Section 1 : L'octroi de la concession (art. R521-2 à R521-48)](#615)
-            - [Sous-section 1 : Lancement de la procédure (art. R521-2 à R521-5)](#616)
-            - [Sous-section 2 : Sélection du candidat pressenti (art. R521-6 à R521-11)](#617)
-            - [Sous-section 3 : Instruction de la demande du concessionnaire pressenti (art. R521-12 à R521-24)](#618)
-            - [Sous-section 4 : Octroi de la concession et déclaration d'utilité publique (art. R521-25 à R521-27)](#619)
-            - [Sous-section 5 : Règlement d'eau (art. R521-28 à R521-30)](#620)
-            - [Sous-section 6 : Approbation des projets d'exécution, autorisation et récolement des travaux d'établissement de la concession (art. R521-31 à R521-39)](#621)
-            - [Sous-section 7 : Approbation des autres travaux (art. R521-40 à R521-42)](#622)
-            - [Sous-section 8 : Dispositions relatives à la sécurité et à la sûreté des ouvrages hydrauliques concédés (art. R521-43 à R521-46)](#623)
-            - [Sous-section 9 : Dispositions diverses (art. R521-47 à R521-48)](#624)
-          - [Section 2 : Le cahier des charges de la concession (art. R521-49)](#625)
-          - [Section 3 : L'occupation ou la traversée des propriétés privées (art. R521-50 à R521-51)](#626)
-          - [Section 4 :  Les dispositions particulières à la fin de la concession et à son renouvellement (art. R521-52 à R521-66)](#627)
-            - [Sous-section 1 : Décision d'arrêt ou de poursuite de l'exploitation (art. R521-52 à R521-53)](#628)
-            - [Sous-section 2 : Fin de la concession (art. R521-54 à R521-57)](#629)
-            - [Sous-section 3 : Dispositions spécifiques au renouvellement de concession (art. R521-58 à R521-59)](#630)
-            - [Sous-section 4 : Regroupement de concessions (art. R521-60 à R521-65)](#631)
-            - [Sous-section 5 : Prorogation des concessions (art. R521-66)](#632)
-          - [Section 5 : Les sociétés d'économie mixte hydroélectriques (art. R521-67 à R521-72)](#633)
-        - [Chapitre II : Les reserves en énergie (art. D522-5 à R522-4)](#634)
-        - [Chapitre III : Les redevances proportionnelles (art. R523-1 à R523-4)](#635)
-        - [Chapitre IV :  L'information des collectivités territoriales et des habitants riverains sur l'exécution de la concession et leur participation à la gestion des usages de l'eau (art. R524-1 à R524-6)](#636)
-    - [LIVRE VI : LES DISPOSITIONS RELATIVES AU PÉTROLE, AUX BIOCARBURANTS ET BIOLIQUIDES (art. D631-1 à R671-31)](#637)
-      - [TITRE III : LE TRANSPORT (art. D631-1 à R632-4)](#638)
-        - [Chapitre Ier : Le transport par navire (art. D631-1 à D631-10)](#639)
-        - [Chapitre II : Le transport par canalisation (art. R632-1 à R632-4)](#640)
-      - [TITRE IV : LE RAFFINAGE ET LE STOCKAGE (art. R641-1 à D642-11)](#641)
-        - [Chapitre Ier : Le raffinage et les produits pétroliers (art. R641-1 à R641-16)](#642)
-          - [Section 1 : Dispositions applicables au raffinage (art. R641-1 à R641-3)](#643)
-          - [Section 2 : Dispositions applicables aux produits pétroliers et aux carburants renouvelables (art. D641-4 à R641-16)](#644)
-        - [Chapitre II : Le stockage (art. R642-1 à D642-11)](#645)
-          - [Section 1 : Le Comité professionnel des stocks stratégiques pétroliers (art. R642-1 à R642-10)](#646)
-          - [Section 2 : Dispositions diverses (art. D642-11)](#647)
-      - [TITRE VI : LES BIOCARBURANTS ET BIOLIQUIDES (art. D661-2 à R661-11)](#648)
-        - [Chapitre unique (art. D661-2 à R661-11)](#649)
-      - [TITRE VII : LES DISPOSITIONS PARTICULIÈRES À L'OUTRE-MER (art. R671-1 à R671-31)](#650)
-        - [Chapitre unique (art. R671-1 à R671-31)](#651)
-          - [Section 1 : Dispositions relatives au département de la Guadeloupe et aux collectivités territoriales de la Guyane et de la Martinique (art. R671-1 à R671-13)](#652)
-            - [Sous-section 1 : Dispositions générales (art. R671-1)](#653)
-            - [Sous-section 2 : Dispositions relatives aux prix des produits pétroliers autres que le gaz de pétrole liquéfié (art. R671-2 à R671-5)](#654)
-            - [Sous-section 3 : Dispositions relatives aux prix du gaz de pétrole liquéfié (art. R671-6 à R671-10)](#655)
-            - [Sous-section 4 : Dispositions relatives aux activités de stockage de produits pétroliers (art. R671-11 à R671-12)](#656)
-            - [Sous-section 5 : Dispositions relatives à l'information du public (art. R671-13)](#657)
-          - [Section 2 : Dispositions relatives au département de La Réunion (art. R671-14 à R671-22)](#658)
-            - [Sous-section 1 : Dispositions générales (art. R671-14)](#659)
-            - [Sous-section 2 : Dispositions relatives aux prix des produits pétroliers (art. R671-15 à R671-17)](#660)
-            - [Sous-section 3 : Dispositions relatives à la distribution des produits pétroliers (art. R671-18 à R671-19)](#661)
-            - [Sous-section 4 : Dispositions relatives aux activités de stockage de produits pétroliers (art. R671-20 à R671-21)](#662)
-            - [Sous-section 5 : Dispositions relatives à l'information du public (art. R671-22)](#663)
-          - [Section 3 : Dispositions relatives au Département de Mayotte (art. R671-23 à R671-31)](#664)
-            - [Sous-section 1 : Dispositions générales (art. R671-23)](#665)
-            - [Sous-section 2 : Dispositions relatives aux prix des produits pétroliers (art. R671-24 à R671-26)](#666)
-            - [Sous-section 3 : Dispositions relatives à la distribution des produits pétroliers (art. R671-27 à R671-28)](#667)
-            - [Sous-section 4 : Dispositions relatives aux activités de stockage de produits pétroliers (art. R671-29 à R671-30)](#668)
-            - [Sous-section 5 : Dispositions relatives à l'information du public (art. R671-31)](#669)
-    - [LIVRE VII : LES DISPOSITIONS RELATIVES AUX RÉSEAUX DE CHALEUR ET DE FROID (art. R711-1 à R721-20)](#670)
-      - [TITRE Ier : LA PRODUCTION DE CHALEUR ET LE CLASSEMENT DES RÉSEAUX DE CHALEUR ET DE FROID (art. R711-1 à R712-12)](#671)
-        - [Chapitre Ier : La production de chaleur (art. R711-1 à R711-4)](#672)
-        - [Chapitre II : Le classement des reseaux de chaleur et de froid (art. R712-1 à R712-12)](#673)
-          - [Section 1 : Principes et modalités de classement des réseaux de chaleur et de froid (art. R712-1 à R712-5)](#674)
-          - [Section 2 : Effets du classement d'un réseau de chaleur ou de froid (art. R712-6 à R712-9)](#675)
-          - [Section 3 : Abrogation de la décision de classement (art. R712-10)](#676)
-          - [Section 4 : Information du public (art. L712-11)](#677)
-          - [Section 5 : Constatation des infractions (art. R712-12)](#678)
-      - [TITRE II : LE PASSAGE DES CANALISATIONS DE TRANSPORT ET DE DISTRIBUTION DE CHALEUR ET DE FROID (art. R721-1 à R721-20)](#679)
-        - [Chapitre unique (art. R721-1 à R721-20)](#680)
-          - [Section 1 : Procédure régissant la déclaration d'intérêt général des canalisations de transport de distribution de chaleur (art. R721-1 à R721-6)](#681)
-          - [Section 2 : Les servitudes (art. D721-13 à R721-12)](#682)
-          - [Section 3 : Construction, mise en service, exploitation et contrôle (art. R721-14 à R721-20)](#683)
+relatives à la vente de biogaz (art. L446-1 à L446-5)](#243)
+      - [TITRE V : L'ACCES ET LE RACCORDEMENT AUX RESEAUX  ET INSTALLATIONS (art. L451-1 à L453-8)](#244)
+        - [Chapitre Ier : L'accès aux réseaux et installations (art. L451-1 à L451-3)](#245)
+        - [Chapitre II : Les tarifs d'utilisation des réseaux de transport, de distribution de gaz naturel et les tarifs d'utilisation des installations de gaz naturel liquéfié (art. L452-1 à L452-6)](#246)
+        - [Chapitre III : Le raccordement aux réseaux et installations (art. L453-1 à L453-8)](#247)
+      - [TITRE VI : LES CONSOMMATEURS GAZO-INTENSIFS (art. L461-1 à L461-3)](#248)
+        - [Chapitre unique (art. L461-1 à L461-3)](#249)
+    - [LIVRE V : DISPOSITIONS RELATIVES A L'UTILISATION  DE L'ENERGIE HYDRAULIQUE (art. L511-1 à L531-6)](#250)
+      - [TITRE IER : LES DISPOSITIONS COMMUNES AUX INSTALLATIONS HYDRAULIQUES AUTORISEES OU CONCEDEES (art. L511-1 à L513-4)](#251)
+        - [Chapitre Ier : Les caractéristiques générales des régimes d'exploitation de l'énergie hydraulique (art. L511-1 à L511-13)](#252)
+        - [Chapitre II : Les sanctions (art. L512-1 à L512-4)](#253)
+          - [Section 1 : Les sanctions pénales (art. L512-1 à L512-2)](#254)
+          - [Section 2 : Les sanctions administratives (art. L512-3)](#255)
+          - [Section 3 : Dispositions diverses (art. L512-4)](#256)
+        - [Chapitre III : La protection du domaine hydroélectrique concédé (art. L513-1 à L513-4)](#257)
+      - [TITRE II : LES DISPOSITIONS RELATIVES  AUX INSTALLATIONS HYDRAULIQUES CONCEDEES (art. L521-1 à L524-1)](#258)
+        - [Chapitre Ier : La procédure applicable aux concessions (art. L521-1 à L521-20)](#259)
+          - [Section 1 : L'octroi de la concession (art. L521-1 à L521-3)](#260)
+          - [Section 2 : Le cahier des charges de la concession (art. L521-4 à L521-6)](#261)
+          - [Section 3 : L'occupation ou la traversée des propriétés privées (art. L521-7 à L521-14)](#262)
+          - [Section 4 : Les dispositions particulières à la fin de la concession et à son renouvellement (art. L521-15 à L521-17)](#263)
+          - [Section 5 : Les sociétés d'économie mixte hydroélectriques (art. L521-18 à L521-20)](#264)
+        - [Chapitre II : Les réserves en énergie (art. L522-1 à L522-4)](#265)
+        - [Chapitre III : Les redevances proportionnelles (art. L523-1 à L523-2)](#266)
+        - [Chapitre IV : L'information des collectivités territoriales et des habitants riverains sur l'exécution de la concession et leur participation à la gestion des usages de l'eau (art. L524-1)](#267)
+      - [TITRE III : LES DISPOSITIONS RELATIVES  AUX INSTALLATIONS HYDRAULIQUES AUTORISEES (art. L531-1 à L531-6)](#268)
+        - [Chapitre unique (art. L531-1 à L531-6)](#269)
+    - [LIVRE VI : LES DISPOSITIONS RELATIVES  AU PETROLE, AUX BIOCARBURANTS ET BIOLIQUIDES (art. L611-1 à L671-3)](#270)
+      - [TITRE IER : GENERALITES (art. L611-1)](#271)
+        - [Chapitre unique (art. L611-1)](#272)
+      - [TITRE II : LA RECHERCHE ET L'EXPLOITATION  DES GITES CONTENANT DU PETROLE (art. L621-1)](#273)
+        - [Chapitre unique (art. L621-1)](#274)
+      - [TITRE III : LE TRANSPORT (art. L631-1 à L632-2)](#275)
+        - [Chapitre Ier : Le transport par navire (art. L631-1 à L631-5)](#276)
+        - [Chapitre II : Le transport par canalisation (art. L632-1 à L632-2)](#277)
+          - [Section unique (art. L632-1 à L632-2)](#278)
+      - [TITRE IV : LE RAFFINAGE ET LE STOCKAGE (art. L641-1 à L642-10)](#279)
+        - [Chapitre Ier : Le raffinage et les produits pétroliers (art. L641-1 à L641-8)](#280)
+          - [Section 1 : Le raffinage (art. L641-1 à L641-3)](#281)
+          - [Section 2 : Produits pétroliers et carburants renouvelables (art. L641-4 à L641-8)](#282)
+        - [Chapitre II : Le stockage (art. L642-1 à L642-10)](#283)
+      - [TITRE V : LA DISTRIBUTION (art. L651-1)](#284)
+        - [Chapitre unique (art. L651-1)](#285)
+      - [TITRE VI : LES BIOCARBURANTS ET BIOLIQUIDES (art. L661-1 à L661-9)](#286)
+        - [Chapitre unique (art. L661-1 à L661-9)](#287)
+      - [TITRE VII : LES DISPOSITIONS PARTICULIERES A L'OUTRE-MER (art. L671-1 à L671-3)](#288)
+        - [Chapitre unique (art. L671-1 à L671-3)](#289)
+    - [LIVRE VII : LES DISPOSITIONS RELATIVES  AUX RESEAUX DE CHALEUR ET DE FROID (art. L711-1 à L731-1)](#290)
+      - [TITRE IER : LA PRODUCTION DE CHALEUR ET LE CLASSEMENT  DES RESEAUX DE CHALEUR ET DE FROID (art. L711-1 à L714-2)](#291)
+        - [Chapitre Ier : La production de chaleur (art. L711-1 à L711-3)](#292)
+        - [Chapitre II : Le classement des réseaux de chaleur et de froid (art. L712-1 à L712-5)](#293)
+          - [Section 1 : Principes et modalités de classement des réseaux de chaleur et de froid (art. L712-1 à L712-3)](#294)
+          - [Section 2 : Constatation des infractions (art. L712-4)](#295)
+          - [Section 3 : Sanctions pénales (art. L712-5)](#296)
+        - [Chapitre III : Dispositions diverses (art. L713-1 à L713-2)](#297)
+        - [Chapitre IV : Contrôles et sanctions (art. L714-1 à L714-2)](#298)
+      - [TITRE II : LE PASSAGE DES CANALISATIONS DE TRANSPORT  ET DE DISTRIBUTION DE CHALEUR ET DE FROID (art. L721-1 à L721-12)](#299)
+        - [Chapitre unique (art. L721-1 à L721-12)](#300)
+      - [TITRE III : LE STOCKAGE DE CHALEUR (art. L731-1)](#301)
+        - [Chapitre unique (art. L731-1)](#302)
+  - [Partie réglementaire (art. R111-1 à R721-20)](#303)
+    - [LIVRE IER : L'ORGANISATION GÉNÉRALE DU SECTEUR DE L'ÉNERGIE (art. R111-1 à R161-10)](#304)
+      - [TITRE IER : LES PRINCIPES RÉGISSANT LE SECTEUR DE L'ÉNERGIE (art. R111-1 à D113-5)](#305)
+        - [Chapitre Ier : Les secteurs de l'électricité et du gaz (art. R111-1 à D111-58)](#306)
+          - [Section 1 : Organisation des entreprises de transport (art. R111-1 à D111-17)](#307)
+            - [Sous-section 1 : Règles communes aux entreprises de transport d'électricité et aux entreprises de transport de gaz (art. R111-1 à R111-13)](#308)
+              - [Paragraphe 1 : Désignation des gestionnaires de réseaux de transport (art. R111-1 à R111-11)](#309)
+              - [Paragraphe 2 : Règles applicables aux sociétés gestionnaires de réseaux de transport appartenant, au 3 septembre 2009, à une entreprise verticalement intégrée (art. D111-14 à R111-13)](#310)
+            - [Sous-section 2 : Dispositions propres à l'entreprise de transport d'électricité issue de la séparation juridique prévue à l'article L. 111-7 (art. D111-16 à D111-17)](#311)
+          - [Section 2 : Organisation des entreprises gestionnaires des réseaux publics de distribution d'électricité et de gaz (art. D111-18 à R111-19-26)](#312)
+            - [Sous-section 1 : Dispositions communes (art. D111-18 à D111-19)](#313)
+            - [Sous-section 2 : Comité du système public de distribution d'électricité des zones interconnectées au réseau métropolitain continental (art. R111-19-1 à R111-19-14)](#314)
+            - [Sous-section 3 : Comité du système public de distribution d'électricité de la collectivité territoriale de Corse (art. R111-19-15 à R111-19-26)](#315)
+          - [Section 3 : Dispositions particulières à l'entreprise venant aux droits de GDF-Suez (art. D111-20 à D111-21)](#316)
+          - [Section 4 : Confidentialité des informations sensibles (art. R111-22 à R111-35)](#317)
+            - [Sous-section 1 : Informations détenues par les gestionnaires du réseau public de transport et des réseaux publics de distribution d'électricité (art. R111-22 à R111-30)](#318)
+            - [Sous-section 2 : Informations détenues par les exploitants d'ouvrages de transport, de distribution ou de stockage de gaz naturel, ou d'installations de gaz naturel liquéfié (art. R111-31 à R111-35)](#319)
+          - [Section 5 : Dissociation et transparence de la comptabilité (art. D111-36 à D111-37)](#320)
+            - [Sous-section 1 : Règles applicables aux entreprises électriques (art. D111-36)](#321)
+            - [Sous-section 2 : Règles applicables aux entreprises gazières (art. D111-37)](#322)
+          - [Section 6 : Droit d'accès aux réseaux et aux installations (art. D111-38 à R111-51)](#323)
+            - [Sous-section 1 : Droit d'accès aux réseaux de distribution de gaz naturel pour les gestionnaires de réseaux mentionnés au III de l'article L. 2224-31 du code général des collectivités territoriales (art. D111-38 à D111-42)](#324)
+            - [Sous-section 2 : Dérogation aux conditions d'accès à certaines infrastructures gazières à l'occasion d'une construction ou d'une modification (art. R111-43 à R111-51)](#325)
+          - [Section 7 : Mise à disposition des personnes publiques de données relatives au transport, à la distribution et la production d'électricité, de gaz naturel et de biométhane (art. D111-52 à D111-58)](#326)
+        - [Chapitre II : Le marché pétrolier (art. D112-1 à D112-3)](#327)
+          - [Section 1 : Mise à disposition des personnes publiques de données relatives à la distribution de produits pétroliers (art. D112-1 à D112-3)](#328)
+        - [Chapitre III : Les réseaux de chaleur (art. D113-1 à D113-5)](#329)
+          - [Section 1 : Mise à disposition des personnes publiques de données relatives à la production et la distribution de chaleur ou de froid (art. D113-1 à D113-5)](#330)
+      - [TITRE II : LES OBLIGATIONS DE SERVICE PUBLIC ET LA PROTECTION DES CONSOMMATEURS (art. R121-1 à R124-16)](#331)
+        - [Chapitre Ier : Les obligations de service public assignées aux entreprises du secteur de l'électricité et du gaz (art. R121-1 à R121-65)](#332)
+          - [Section 1 : Définition des obligations assignées aux entreprises (art. R121-1 à R121-21)](#333)
+            - [Sous-section 1 : Entreprises gazières (art. R121-1 à R121-20)](#334)
+              - [Paragraphe 1 : Obligations assignées aux fournisseurs de gaz (art. R121-1 à R121-7)](#335)
+              - [Paragraphe 2 : Obligations assignées opérateurs de réseaux de transport de gaz (art. R121-8 à R121-10)](#336)
+              - [Paragraphe 3 : Obligations assignées aux opérateurs de réseaux de distribution de gaz (art. R121-11 à R121-13)](#337)
+              - [Paragraphe 4 : Obligations assignées aux titulaires de concessions de stockage souterrain de gaz (art. R121-14 à R121-15)](#338)
+              - [Paragraphe 5 : Obligations assignées aux exploitants d'installations de gaz naturel liquéfié (art. R121-16)](#339)
+              - [Paragraphe 6 : Dispositions diverses (art. R121-17 à R121-20)](#340)
+            - [Sous-section 2 : Entreprises du secteur de l'électricité (art. R121-21)](#341)
+          - [Section 2 : Compensation financière des charges résultant des obligations de service public (art. R121-22 à R121-65)](#342)
+            - [Sous-section 1 : Compensation des charges de service public de l'énergie (art. R121-22 à R121-33)](#343)
+              - [Paragraphe 1 : Gestion des comptes spécifiques relatifs à la compensation des charges de service public de l'énergie (art. R121-22 à R121-24)](#344)
+              - [Paragraphe 2 : Détermination des charges imputables aux missions de service public de l'énergie (art. R121-25 à R121-29)](#345)
+              - [Paragraphe 3 : Procédure de détermination du montant des charges à compenser (art. R121-30 à R121-32)](#346)
+              - [Paragraphe 4 : Opérations de reversement aux opérateurs qui supportent les charges imputables aux missions de service public de l'énergie (art. R121-33)](#347)
+            - [Sous-section 2 : Comité de gestion des charges de service public de l'électricité (art. D121-34 à D121-39)](#348)
+            - [Sous-section 3 : Le Fonds de péréquation de l'électricité (art. R121-44 à R121-64)](#349)
+            - [Sous-section 4 : Dispositions diverses (art. D121-66 à R121-65)](#350)
+        - [Chapitre II : La protection des consommateurs d'électricité et de gaz (art. R122-1 à R122-31)](#351)
+          - [Section 1 : Dispositions relatives au médiateur de l'énergie (art. R122-1 à R122-13)](#352)
+          - [Section 2 : Aide en faveur des entreprises exposées à un risque significatif de fuite de carbone en raison des coûts du système d'échange de quotas d'émission de gaz à effet de serre répercutés sur les prix de l'électricité (art. R122-14 à R122-31)](#353)
+            - [Sous-section 1 : Règles applicables au calcul de l'aide (art. R122-14 à R122-24)](#354)
+            - [Sous-section 2 : Modalités de versement de l'aide et d'instruction des demandes (art. R122-25 à R122-29)](#355)
+            - [Sous-section 3 : Contrôles (art. R122-30 à R122-31)](#356)
+        - [Chapitre IV : La protection des consommateurs en situation de précarité énergétique (art. R124-1 à R124-16)](#357)
+      - [TITRE III : LA COMMISSION DE RÉGULATION DE L'ÉNERGIE (art. R132-1 à R135-5)](#358)
+        - [Chapitre II : Organisation (art. R132-1)](#359)
+        - [Chapitre III : Fonctionnement (art. D133-11 à R133-12)](#360)
+        - [Chapitre IV : Attributions (art. R134-1 à R134-37)](#361)
+          - [Section 1 : Consultations obligatoires sur les projets de décisions (art. R134-1 à R134-2)](#362)
+          - [Section 2 : Rapports, avis, consultations et propositions (art. R134-3 à R134-6)](#363)
+          - [Section 3 : Procédure applicable devant le comité de règlement des différends et des sanctions de la Commission de régulation de l'énergie en matière de règlement des différends (art. R134-7 à R134-17)](#364)
+            - [Sous-section 1 : Saisine du comité de règlement des différends et des sanctions et instruction du différend (art. R134-7 à R134-13)](#365)
+            - [Sous-section 2 : Séances du comité et décision (art. R134-14 à R134-17)](#366)
+          - [Section 4 : Procédure applicable devant le comité de règlement des différends et des sanctions de la Commission de régulation de l'énergie en matière de mesures conservatoires (art. R134-18 à R134-20)](#367)
+          - [Section 5 : Recours devant la cour d'appel de Paris (art. R134-21 à R134-28)](#368)
+          - [Section 6 : Procédure applicable devant le comité de règlement des différends et des sanctions de la Commission de régulation de l'énergie en matière de sanctions (art. L134-31 à R134-36)](#369)
+            - [Sous-section 1 : Saisine du comité et instruction (art. L134-31 à R134-34)](#370)
+            - [Sous-section 2 : Séances du comité et décision (art. R134-35 à R134-36)](#371)
+          - [Section 7 : Règlement intérieur du comité de règlement des différends et des sanctions (art. R134-37)](#372)
+        - [Chapitre V : Pouvoirs d'enquête et de contrôle (art. R135-1 à R135-5)](#373)
+          - [Section 1 : Recherche et constatation des infractions (art. R135-1 à R135-5)](#374)
+      - [TITRE IV : LE RÔLE DE L'ÉTAT (art. D141-1 à D144-29)](#375)
+        - [Chapitre Ier : L'évaluation des besoins et la programmation des capacités énergétiques (art. D141-1 à D141-14)](#376)
+          - [Section 1 : Dispositions communes à toutes les énergies (art. D141-1 à D141-2-1)](#377)
+          - [Section  2 : Dispositions spécifiques à l'électricité (art. D141-3 à D141-12-6)](#378)
+            - [Sous-section 1 : Le bilan prévisionnel pluriannuel de l'offre et de la demande (art. D141-3 à D141-8)](#379)
+            - [Sous-section 2 : Le bilan électrique national (art. D141-9 à D141-10)](#380)
+            - [Sous-section 3 : La transmission des données au gestionnaire du réseau de transport pour l'élaboration des bilans (art. D141-11 à D141-12-5)](#381)
+            - [Sous-section 4 :  Le critère de défaillance (art. D141-12-6)](#382)
+          - [Section 3 : La programmation des capacités d'approvisionnement en gaz naturel (art. D141-13)](#383)
+          - [Section 4 : La programmation des investissements pour la production de chaleur (art. D141-14)](#384)
+        - [Chapitre II : Le suivi de la mise en œuvre de la politique énergetique (art. D142-1 à R142-31)](#385)
+          - [Section 1 : Accès du Gouvernement aux informations nécessaires à la politique énergétique (art. D142-1 à D142-9-5)](#386)
+            - [Sous-section 1 : Dispositions communes (art. D142-1 à D142-9)](#387)
+            - [Sous-section 2 : Dispositions spécifiques à l'électricité (art. D142-9-1 à D142-9-5)](#388)
+          - [Section 2 : Pouvoirs de contrôle et sanctions administratives (art. D142-10 à R142-20)](#389)
+            - [Sous-section 1 : Dispositions propres au secteur pétrolier (art. D142-10 à R142-14)](#390)
+            - [Sous-section 2 : Dispositions propres aux secteurs électrique et gazier (art. R142-15 à R142-20)](#391)
+              - [Paragraphe 1 : Pouvoirs d'enquête (art. R142-15 à R142-19)](#392)
+              - [Paragraphe 2 : Recherche et constatation des manquements et sanctions administratives (art. R142-20)](#393)
+          - [Section 3 : Le Conseil supérieur de l'énergie (art. R142-21 à R142-31)](#394)
+        - [Chapitre III : Les mesures de sauvegarde en cas de crise (art. R143-1)](#395)
+        - [Chapitre IV : L'organisation de la recherche en matière d'énergie (art. R144-1 à D144-29)](#396)
+          - [Section 1 : La stratégie nationale de la recherche en matière d'énergie (art. R144-1)](#397)
+          - [Section 2 : IFP Energies nouvelles et l'Ecole nationale supérieure du pétrole et des moteurs (art. R144-2 à D144-29)](#398)
+            - [Sous-section 1 : IFP Energies nouvelles (art. R144-2 à R144-23)](#399)
+            - [Sous-section 2 : L'Ecole nationale supérieure du pétrole et des moteurs (art. D144-24 à D144-29)](#400)
+      - [TITRE V : DISPOSITIONS RELATIVES À L'OUTRE MER (art. R151-1 à R152-1)](#401)
+        - [Chapitre Ier : Dispositions particulières aux collectivités régies par l'article 73 de la Constitution et à Saint-Pierre-et-Miquelon (art. R151-1 à R151-13)](#402)
+          - [Section unique : Comités du système public de distribution d'électricité des zones non interconnectées au réseau métropolitain continental (art. R151-1 à R151-13)](#403)
+        - [Chapitre II : Dispositions applicables aux îles Wallis et Futuna (art. R152-1)](#404)
+      - [TITRE VI : LES DISPOSITIONS RELATIVES AU PERSONNEL DES ENTREPRISES ÉLECTRIQUES ET GAZIÈRES (art. R161-1 à R161-10)](#405)
+        - [Chapitre unique (art. R161-1 à R161-10)](#406)
+    - [LIVRE II : LA MAÎTRISE DE LA DEMANDE D'ÉNERGIE ET LE DÉVELOPPEMENT DES ÉNERGIES RENOUVELABLES (art. D211-1 à R271-9)](#407)
+      - [TITRE IER : DISPOSITIONS GÉNÉRALES (art. D211-1 à D211-4)](#408)
+        - [Chapitre unique (art. D211-1 à D211-4)](#409)
+          - [Section unique : Stratégie nationale de mobilisation de la biomasse (art. D211-1 à D211-4)](#410)
+      - [TITRE II : LES CERTIFICATS D'ÉCONOMIES D'ÉNERGIE (art. R221-1 à R222-12)](#411)
+        - [Chapitre Ier : Le dispositif des certificats d'économies d'énergie (art. R221-1 à R221-30)](#412)
+          - [Section 1 : Obligations individuelles d'économies d'énergie (art. R221-1 à R221-13)](#413)
+          - [Section 2 : Délivrance des certificats d'économies d'énergie (art. R221-14 à R221-25)](#414)
+          - [Section 3 : Registre national des certificats d'économies d'énergie (art. R221-26 à R221-30)](#415)
+        - [Chapitre II : Les sanctions administratives et pénales (art. R222-1 à R222-12)](#416)
+          - [Section 1 : Manquement aux obligations d'économies d'énergie et aux obligations déclaratives (art. R222-1 à R222-2)](#417)
+          - [Section 2 : Contrôle de la régularité de la délivrance des certificats d'économies d'énergie (art. R222-3 à R222-12)](#418)
+      - [TITRE III : LA PERFORMANCE ÉNERGÉTIQUE (art. D233-3 à R234-6)](#419)
+        - [Chapitre III : La performance énergétique dans les entreprises (art. D233-3 à D233-16)](#420)
+          - [Section 1 : Dispositions générales (art. D233-3 à R233-2)](#421)
+          - [Section 2 : Dispositions particulières aux gestionnaires de réseaux d'électricité et d'infrastructures de gaz (art. D233-10 à D233-16)](#422)
+        - [Chapitre IV : La performance énergetique dans la commande publique (art. R234-1 à R234-6)](#423)
+      - [TITRE IV : LES INSTALLATIONS DE CHAUFFAGE ET DE CLIMATISATION (art. R241-1 à D241-37)](#424)
+        - [Chapitre unique (art. R241-1 à D241-37)](#425)
+          - [Section 1 : Contrats relatifs à l'exploitation des installations de chauffage ou de climatisation (art. R241-1 à R241-5)](#426)
+          - [Section 2 : Dispositions relatives à la consommation énergétique des immeubles (art. R241-6 à R241-34)](#427)
+            - [Sous-section 1 : Equipement obligatoire des immeubles collectifs et répartition des frais de chauffage (art. R241-6 à R241-14)](#428)
+            - [Sous-section 2 : Dispositions relatives aux frais d'eau chaude dans les immeubles collectifs (art. R241-15 à R241-20)](#429)
+            - [Sous-section 3 : Dispositions relatives à la régulation des installations de chauffage (art. R241-21 à R241-24)](#430)
+            - [Sous-section 4 : Dispositions relatives à la limitation de la température de chauffage (art. R241-25 à R241-29)](#431)
+            - [Sous-section 5 : Dispositions relatives au refroidissement des immeubles (art. R241-30 à R241-31)](#432)
+            - [Sous-section 6 : Dispositions relatives à l'outre-mer (art. R241-32 à R241-34)](#433)
+          - [Section 3 : Réajustement de la puissance souscrite dans les contrats d'abonnement aux réseaux de chaleur (art. D241-35 à D241-37)](#434)
+      - [TITRE V : LES MESURES PARTICULIÈRES AUX VÉHICULES (art. D251-1 à D251-13)](#435)
+        - [Chapitre unique (art. D251-1 à D251-13)](#436)
+          - [Section unique :  Aides à l'achat ou à la location de véhicules automobiles peu polluants (art. D251-1 à D251-13)](#437)
+            - [Sous-section 1 : Conditions d'attribution (art. D251-1 à D251-6)](#438)
+            - [Sous-section 2 : Montants et modalités de versement des aides (art. D251-7 à D251-13)](#439)
+      - [TITRE VII : L'EFFACEMENT DE CONSOMMATION D'ÉLECTRICITE (art. R271-1 à R271-9)](#440)
+        - [Chapitre unique (art. R271-1 à R271-9)](#441)
+          - [Section 1 : Définitions (art. R271-1 à R271-2)](#442)
+          - [Section 2 : Méthodologie utilisée pour établir les règles permettant la valorisation des effacements de consommation d'électricité (art. R271-3 à R271-9)](#443)
+    - [LIVRE III : LES DISPOSITIONS RELATIVES À L'ÉLECTRICITÉ (art. D311-3 à R361-8)](#444)
+      - [TITRE Ier : LA PRODUCTION (art. D311-3 à R314-71)](#445)
+        - [Chapitre Ier : Les dispositions générales relatives à la production (art. D311-3 à R311-47)](#446)
+          - [Section 1 : L'autorisation d'exploiter (art. D311-3 à R311-11-1)](#447)
+          - [Section 2 : Procédures de mise en concurrence (art. R311-12 à D311-27-11)](#448)
+            - [Sous-section 1 : La procédure d'appel d'offres (art. R311-13 à R311-25)](#449)
+            - [Sous-section 2 : La procédure de dialogue concurrentiel (art. R311-25-1 à R311-25-15)](#450)
+            - [Sous-section 3 : Dispositions applicables aux candidats retenus (art. R311-26 à R311-27-3)](#451)
+            - [Sous-section 4 : Mise en œuvre de l'obligation d'achat ou du complément de rémunération (art. R311-27-4 à R311-27-8)](#452)
+            - [Sous-section 5 : Dispositions spécifiques aux procédures de mise en concurrence dans la collectivité territoriale de Corse (art. D311-27-9 à D311-27-11)](#453)
+          - [Section 3 : Constatation des manquements et sanctions administratives (art. R311-28 à R311-32-1)](#454)
+          - [Section 4 : Modalités de contrôle des installations de production d'électricité (art. R311-33 à R311-47)](#455)
+            - [Sous-section 1 : Agrément et obligations des organismes de contrôle (art. R311-33 à R311-40)](#456)
+            - [Sous-section 2 : Dispositions générales relatives aux procédures de contrôle des installations (art. R311-41 à R311-47)](#457)
+        - [Chapitre IV : Les dispositions particulières à l'électricité produite à partir d'énergies renouvelables (art. D314-14-1 à R314-71)](#458)
+          - [Section 1 : Les dispositifs de soutien aux énergies renouvelables (art. D314-14-1 à R314-52-11)](#459)
+            - [Sous-section 1 : Dispositions communes à l'obligation d'achat et au complément de rémunération (art. D314-14-1 à R314-14)](#460)
+            - [Sous-section 2 : Dispositions propres à l'obligation d'achat (art. D314-15 à R314-22)](#461)
+              - [Paragraphe 1 : Catégories d'installations éligibles à l'obligation d'achat (art. D314-15 à D314-16)](#462)
+              - [Paragraphe 2 : Conditions de l'obligation d'achat (art. R314-17 à R314-22)](#463)
+            - [Sous-section 3 : Dispositions propres au complément de rémunération (art. D314-23 à R314-52)](#464)
+              - [Paragraphe 1 : Catégories d'installations éligibles au complément de rémunération (art. D314-23 à D314-25)](#465)
+              - [Paragraphe 2 : Conditions propres au complément de rémunération (art. R314-26 à R314-32)](#466)
+              - [Paragraphe 3 : Calcul du complément de rémunération (art. R314-33 à R314-42)](#467)
+              - [Paragraphe 4 : Modalités de transmission des données (art. R314-43 à R314-46)](#468)
+              - [Paragraphe 5 : Modalités de versement du complément de rémunération (art. R314-47 à R314-49)](#469)
+              - [Paragraphe 6 : Evaluation du dispositif (art. R314-50)](#470)
+              - [Paragraphe 7 : Modalités d'achat en dernier recours (art. R314-51 à R314-52)](#471)
+            - [Sous-section 4 : Cession des contrats d'achat à des organismes agréés (art. R314-52-1 à R314-52-11)](#472)
+              - [Paragraphe 1 : Agrément des organismes (art. R314-52-1 à R314-52-6)](#473)
+              - [Paragraphe 2 : Modalités de cession du contrat d'achat à un organisme agréé (art. R314-52-7)](#474)
+              - [Paragraphe 3 : Modalités de remboursement des frais de signature et de gestion du contrat d'achat cédé (art. R314-52-8)](#475)
+              - [Paragraphe 4 : Modalités de transfert d'un contrat d'achat cédé d'un organisme agréé à un autre (art. R314-52-9)](#476)
+              - [Paragraphe 5 : Obligations d'information (art. R314-52-10 à R314-52-11)](#477)
+          - [Section 1 : Les dispositifs de soutien aux énergies renouvelables et à la cogénération à partir de gaz naturel (art.  à R314-52-11)](#478)
+            - [Sous-section 1 : Dispositions communes à l'obligation d'achat et au complément de rémunération (art.  à R314-52-11)](#479)
+            - [Sous-section 2 : Dispositions propres à l'obligation d'achat (art.  à R314-52-11)](#480)
+            - [Sous-section 3 : Dispositions propres au complément de rémunération (art.  à R314-52-11)](#481)
+            - [Sous-section 4 : Cession des contrats d'achat à des organismes agréés (art.  à R314-52-11)](#482)
+          - [Section 2 : Les garanties d'origine (art. R314-53 à R314-70)](#483)
+          - [Section 3 : Investissement participatif dans les projets de production d'énergie renouvelable (art. R314-71)](#484)
+      - [TITRE II : LE TRANSPORT ET LA DISTRIBUTION (art. D321-7 à R323-48)](#485)
+        - [Chapitre Ier : Le transport (art. D321-7 à R321-24)](#486)
+          - [Section 1 : La consistance du réseau public de transport (art. D321-7 à R321-6)](#487)
+          - [Section 2 : Les missions du gestionnaire de réseau de transport en matière de raccordement des énergies renouvelables (art. D321-10 à D321-22)](#488)
+          - [Section 4 : Obligations au titre du mécanisme d'ajustement (art. D321-23 à R321-24)](#489)
+        - [Chapitre II : La distribution (art. D322-1 à R322-15)](#490)
+          - [Section 1 : Les missions des gestionnaires des réseaux publics de distribution en matière de qualité de l'électricité (art. D322-1 à D322-10)](#491)
+            - [Sous-section 1 : Tenue et continuité globales de la tension sur le réseau de distribution (art. D322-2 à D322-8)](#492)
+            - [Sous-section 2 : Tenue et continuité de la tension délivrée à un utilisateur du réseau (art. D322-9 à D322-10)](#493)
+          - [Section 2 : Consignation de sommes en cas de non-respect du niveau de qualité en matière d'interruption de l'alimentation électrique (art. R322-11 à R322-15)](#494)
+        - [Chapitre III : Les ouvrages de transport et de distribution (art. 323-6 à R323-48)](#495)
+          - [Section 1 : Procédure d'institution des servitudes administratives nécessaires aux ouvrages de transport et de distribution (art. 323-6 à R323-18)](#496)
+            - [Sous-section 1 : Déclaration d'utilité publique (art. 323-6 à R323-5)](#497)
+            - [Sous-section 2 : Procédure d'établissement des servitudes (art. D323-16 à R323-15)](#498)
+            - [Sous-section 3 : Indemnités et frais (art. R323-17 à R323-18)](#499)
+          - [Section 2 : Procédure propre à l'institution de servitudes pour voisinage des ouvrages de transport et de distribution (art. R323-19 à R323-22)](#500)
+          - [Section 3 : Le contrôle de la construction et de l'exploitation des ouvrages de transport et de distribution (art. D323-24 à R323-48)](#501)
+            - [Sous-section 1 : Approbation et réalisation des ouvrages des réseaux publics d'électricité (art. R323-25 à R323-29)](#502)
+            - [Sous-section 2 : Contrôle de la construction et de l'exploitation des ouvrages des réseaux publics d'électricité et des lignes directes (art. R323-30 à R323-32)](#503)
+            - [Sous-section 3 : Police et sécurité de l'exploitation des ouvrages des réseaux publics et des lignes directes (art. R323-33 à R323-39)](#504)
+            - [Sous-section 4 : Ouvrages assimilables aux réseaux publics d'électricité (art. R323-40 à R323-42)](#505)
+            - [Sous-section 5 : Contrôle des champs électromagnétiques (art. R323-43 à R323-48)](#506)
+      - [TITRE III : LA COMMERCIALISATION (art. R331-1 à R337-28)](#507)
+        - [Chapitre Ier : Le choix d'un fournisseur (art. R331-1)](#508)
+        - [Chapitre III : L'achat pour revente (art. R333-1 à R333-16)](#509)
+          - [Section 1 : Autorisation d'exercer l'activité d'achat d'électricité pour revente (art. R333-1 à R333-9)](#510)
+          - [Section 2 : Obligations des fournisseurs en matière d'information des consommateurs d'électricité (art. R333-10 à R333-15)](#511)
+          - [Section 3 : Application dans les zones non interconnectées (art. R333-16)](#512)
+        - [Chapitre V : La contribution des fournisseurs à la sécurité d'approvisionnement en électricité (art. R335-1 à D335-54)](#513)
+          - [Section 1 : Définitions (art. R335-1 à R335-2)](#514)
+          - [Section 2 : Obligations de capacité des fournisseurs d'électricité (art. R335-3 à R335-12)](#515)
+            - [Sous-section 1 : Calcul de la puissance de référence (art. R335-4 à R335-7)](#516)
+            - [Sous-section 2 : Rééquilibrage en capacité (art. R335-8 à R335-12)](#517)
+          - [Section 2 : Certification des exploitants de capacité (art. R335-13 à R335-33)](#518)
+            - [Sous-section 1 : Certification et contrôle des capacités (art. R335-13 à R335-20)](#519)
+            - [Sous-section 2 : Evolution et rééquilibrage des capacités (art. R335-21 à R335-28)](#520)
+            - [Sous-section 3 : Règlement des écarts (art. R335-29 à R335-33)](#521)
+          - [Section 4 : Echange et cession des garanties de capacité (art. R335-34 à R335-44)](#522)
+          - [Section 5 : Dispositions particulières (art. R335-45 à R335-46)](#523)
+          - [Section 6 : Dispositif de sécurisation (art. R335-47 à R335-53)](#524)
+          - [Section 7 : Sanctions (art. D335-54)](#525)
+        - [Chapitre VI : L'accès régulé à l'électricité nucléaire historique (art. R336-1 à D336-43)](#526)
+          - [Section 1 : Définitions (art. R336-1 à R336-7)](#527)
+          - [Section 2 : Demande d'accès régulé à l'électricité nucléaire historique et calcul des quantités de produit cédées (art. R336-8 à R336-18)](#528)
+            - [Sous-section 1 : Demande d'accès régulé à l'électricité nucléaire historique (art. R336-8 à R336-12)](#529)
+            - [Sous-section 2 : Calcul des quantités de produit cédées (art. R336-13 à R336-18)](#530)
+          - [Section 3 : Notification par la Commission de régulation de l'énergie des cessions d'électricité et transfert de l'énergie par le gestionnaire du réseau public de transport (art. R336-19 à R336-20)](#531)
+          - [Section 4 : Gestion des flux financiers et facturation (art. R336-21 à R336-27)](#532)
+            - [Sous-section 1 : Gestion des flux financiers (art. R336-21 à R336-24)](#533)
+            - [Sous-section 2 : Facturation (art. R336-25 à R336-27)](#534)
+          - [Section 5 : Contrôle ex post et complément de prix (art. R336-28 à R336-38)](#535)
+          - [Section 6 : Dispositions applicables en cas de dépassement du plafond (art. R336-39)](#536)
+          - [Section 7 : Sociétés ayant pour activité l'acquisition de contrats d'approvisionnement à long terme d'électricité (art. 336-44 à D336-43)](#537)
+        - [Chapitre VII : Les tarifs et les prix (art. R337-1 à R337-28)](#538)
+          - [Section 1 : Dispositions applicables aux tarifs de vente (art. R337-1 à R337-24)](#539)
+            - [Sous-section 1 : La tarification spéciale de l'électricité comme produit de première nécessité (art. R337-1 à R337-17)](#540)
+            - [Sous-section 2 : Application à Mayotte (art. R337-17-1)](#541)
+            - [Sous-section 3 : Les tarifs réglementés de vente de l'électricité (art. 337-19-1 à R337-24)](#542)
+          - [Section 2 : Dispositions particulières applicables aux tarifs de cession aux entreprises locales de distribution (art. R337-25 à R337-28)](#543)
+      - [TITRE IV : L'ACCÈS ET LE RACCORDEMENT AUX RÉSEAUX (art. R341-1 à R343-9)](#544)
+        - [Chapitre Ier : L'accès aux réseaux (art. R341-1 à D341-17)](#545)
+          - [Section 1 : Tarifs d'utilisation des réseaux publics de transport et de distribution d'électricité (art. R341-1 à R341-3)](#546)
+          - [Section 2 : Dispositifs de comptage sur les réseaux publics d'électricité (art. R341-4 à R341-8)](#547)
+          - [Section 3 : Réduction de tarif d'utilisation du réseau public de transport accordée aux sites fortement consommateurs d'électricité (art. Annexe article D341-9 à D341-12)](#548)
+          - [Section 4 : Mise à disposition des données de comptage de consommation aux propriétaires ou gestionnaires d'immeubles (art. D341-13 à D341-17)](#549)
+        - [Chapitre II : Le raccordement aux réseaux (art. D342-1 à D342-24)](#550)
+          - [Section 1 : Consistance des ouvrages de branchement et d'extension (art. D342-1 à D342-2)](#551)
+          - [Section 2 : Indemnités en cas de retard de raccordement d'une installation de production d'énergie renouvelable (art. R342-3 à R342-4-8)](#552)
+            - [Sous-section 1 : Dispositions applicables aux installations de production d'électricité d'une puissance installée inférieure ou égale à 3 kilovoltampères (art. R342-3 à R342-4)](#553)
+            - [Sous-section 2 : Dispositions applicables aux installations de production d'électricité d'une puissance installée supérieure à 3 kilovoltampères (art. D342-4-1 à R342-4-8)](#554)
+          - [Section 3 : Raccordement des installations de production et de consommation aux réseaux publics d'électricité (art. D342-5 à R342-14-1)](#555)
+          - [Section 4 : Autres raccordements aux réseaux publics d'électricité (art. D342-15)](#556)
+          - [Section 5 : Contrôles (art. D342-16 à D342-21)](#557)
+            - [Sous-section 1 : Contrôles des installations de production raccordées aux réseaux publics d'électricité (art. D342-16 à D342-17)](#558)
+            - [Sous-section 2 : Contrôles des installations intérieures raccordées aux réseaux publics de distribution (art. D342-18 à D342-21)](#559)
+          - [Section 6 : Schéma régional de raccordement au réseau des énergies renouvelables et établissement de la quote-part (art. D342-22 à D342-24)](#560)
+        - [Chapitre III : Les lignes directes (art. R343-1 à R343-9)](#561)
+      - [TITRE V : LES DISPOSITIONS RELATIVES À L'UTILISATION DE L'ÉLECTRICITÉ (art. D351-1 à D351-7)](#562)
+        - [Chapitre unique : Consommateurs électro-intensifs (art. D351-1 à D351-7)](#563)
+      - [TITRE VI : LES DISPOSITIONS RELATIVES À L'OUTRE-MER (art. R361-1 à R361-8)](#564)
+        - [Chapitre Ier : Dispositions relatives à l'outre-mer (art. R361-1 à D361-7-5)](#565)
+          - [Section 1 : Dispositions relatives à l'obligation d'achat (art. R361-1 à R361-7)](#566)
+          - [Section 2 : Schémas de raccordement (art. D361-7-1 à D361-7-2)](#567)
+          - [Section 3 : Dispositions spécifiques aux procédures de mise en concurrence dans les collectivités de Guadeloupe, de Guyane, de Martinique et de La Réunion (art. D361-7-3 à D361-7-5)](#568)
+        - [Chapitre II : Dispositions relatives à Mayotte (art. D361-9 à R361-8)](#569)
+    - [LIVRE IV : LES DISPOSITIONS RELATIVES AU GAZ (art. R421-1 à D461-14)](#570)
+      - [TITRE II : LE STOCKAGE (art. R421-1 à R421-22)](#571)
+        - [Chapitre unique (art. R421-1 à R421-22)](#572)
+          - [Section 1 : L'accès aux stockages souterrains de gaz naturel (art. R421-1 à R421-21)](#573)
+            - [Sous-section 1 : Principes généraux d'utilisation des stockages (art. R421-1 à R421-5)](#574)
+            - [Sous-section 2 : Détermination et attribution des droits d'accès à des capacités de stockage (art. R421-6 à R421-8)](#575)
+            - [Sous-section 3 : Répartition des capacités de stockage (art. R421-9 à R421-10)](#576)
+            - [Sous-section 4 : Allocation des capacités de stockage (art. R421-11 à R421-13)](#577)
+            - [Sous-section 5 : Obligation de déclaration et de détention de stocks et de capacités de stockage des fournisseurs (art. R421-14 à R421-16)](#578)
+            - [Sous-section 6 : Sanctions (art. R421-17 à R421-18)](#579)
+            - [Sous-section 7 : Accès aux capacités de stockage excédentaires (art. R421-19 à R421-20)](#580)
+            - [Sous-section 8 : Agents chargés du contrôle de l'accès aux stockages souterrains de gaz naturel (art. R421-21)](#581)
+          - [Section 2 : Dérogations à l'accès aux stockages souterrains de gaz naturel (art. R421-22)](#582)
+      - [TITRE III : LE TRANSPORT ET LA DISTRIBUTION (art. R431-1 à R433-26)](#583)
+        - [Section 1 : Régime de l'autorisation de transport (art. R431-1 à R433-26)](#584)
+          - [Chapitre Ier : Le transport (art. R431-1 à R431-3)](#585)
+            - [Section 1 : Régime de l'autorisation de transport (art. R431-1 à R431-3)](#586)
+              - [Sous-section 1 : Droits et obligations du titulaire de l'autorisation (art. R431-1 à R431-2)](#587)
+              - [Sous-section 2 : Sanctions (art. R431-3)](#588)
+          - [Chapitre II : La distribution (art. R432-1 à R432-12)](#589)
+            - [Section 1 : L'organisation de la distribution gazière (art. R432-1 à R432-12)](#590)
+              - [Sous-section 1 : Agrément des distributeurs de gaz par réseaux publics (art. R432-1 à R432-7)](#591)
+              - [Sous-section 2 : Développement de la desserte gazière (art. R432-8 à R432-12)](#592)
+          - [Chapitre III : Les ouvrages de transport et de distribution (art. R433-1 à R433-26)](#593)
+            - [Section 1 : L'occupation du domaine public ou la traversée des propriétés privées par les ouvrages de transport et de distribution (art. R433-1 à R433-13)](#594)
+              - [Sous-section 1 : Déclaration d'utilité publique des ouvrages de gaz en vue de l'établissement de servitudes (art. R433-1 à R433-4)](#595)
+              - [Sous-section 2 : Etablissement des servitudes (art. D433-11 à R433-10)](#596)
+              - [Sous-section 3 : Indemnités et frais (art. R433-12 à R433-13)](#597)
+            - [Section 2 : Le contrôle de la construction et de l'exploitation des ouvrages de transport et de distribution (art. R433-1 à R433-26)](#598)
+              - [Sous-section 1 : Les prescriptions techniques applicables (art. R433-1 à R433-19)](#599)
+              - [Sous-section 2 : Les organismes de contrôle (art. D433-23 à R433-22)](#600)
+              - [Sous-section 3 : Mesures de police administrative (art. D433-24 à R433-26)](#601)
+      - [TITRE IV : LA COMMERCIALISATION (art. R441-1 à D446-24)](#602)
+        - [Chapitre Ier : Le choix du fournisseur (art. R441-1)](#603)
+        - [Chapitre III : Le régime de la fourniture (art. R443-1 à R443-13)](#604)
+          - [Section 1 : L'obligation d'une autorisation (art. R443-1 à R443-9)](#605)
+          - [Section 2 : Contrôles et sanctions administratives (art. R443-10 à R443-13)](#606)
+        - [Chapitre V : Les tarifs (art. R445-1 à R445-22)](#607)
+          - [Section 1 : Tarifs réglementés de vente (art. R445-1 à R445-7)](#608)
+          - [Section 2 : Tarif spécial de solidarité (art. R445-8 à R445-22)](#609)
+        - [Chapitre VI : Les dispositions particulières relatives à la vente de biogaz (art. R446-1 à D446-24)](#610)
+          - [Section 1 : Conditions de vente du biométhane aux fournisseurs de gaz naturel (art. R446-1 à R446-2)](#611)
+          - [Section 2 : Les conditions de contractualisation entre producteurs de biométhane et fournisseurs de gaz naturel (art. D446-3 à D446-16)](#612)
+          - [Section 3 : Les garanties d'origine du biométhane injecté dans les réseaux de gaz naturel (art. D446-17 à D446-24)](#613)
+      - [TITRE V : L'ACCÈS ET LE RACCORDEMENT AUX RÉSEAUX ET INSTALLATIONS (art. D452-1-1 à D453-13)](#614)
+        - [Chapitre II : Les tarifs d'utilisation des réseaux de transport, de distribution de gaz naturel et les tarifs d'utilisation des installations de gaz naturel liquéfié (art. D452-1-1 à R452-1)](#615)
+        - [Chapitre III : Le raccordement aux réseaux et installations (art. R453-1 à D453-13)](#616)
+          - [Section 1 : Extensions des réseaux de distribution de gaz naturel (art. R453-1 à R453-6)](#617)
+          - [Section 2 : Contenu du cahier des charges des concessions de distribution publique de gaz et du règlement de service des régies (art. R453-7)](#618)
+          - [Section 3 : Prescriptions techniques fixant les exigences techniques de conception et de fonctionnement (art. R453-8)](#619)
+          - [Section 4 : Mise à disposition des données de comptage de consommation aux propriétaires ou gestionnaires d'immeubles (art. D453-9 à D453-13)](#620)
+      - [TITRE VI : LES CONSOMMATEURS GAZO-INTENSIFS (art. D461-1 à D461-14)](#621)
+        - [Chapitre unique (art. D461-1 à D461-14)](#622)
+    - [LIVRE V : LES DISPOSITIONS RELATIVES À L'UTILISATION DE L'ÉNERGIE HYDRAULIQUE (art. D511-1 à R524-6)](#623)
+      - [TITRE Ier : LES DISPOSITIONS COMMUNES AUX INSTALLATIONS HYDRAULIQUES AUTORISÉES OU CONCÉDÉES (art. D511-1)](#624)
+        - [Chapitre Ier : Les caractéristiques générales des régimes d'exploitation de l'énergie hydraulique (art. D511-1)](#625)
+      - [TITRE II : LES DISPOSITIONS RELATIVES AUX INSTALLATIONS HYDRAULIQUES CONCÉDÉES (art. R521-1 à R524-6)](#626)
+        - [Chapitre Ier : La procédure applicable aux concessions (art. R521-1 à R521-72)](#627)
+          - [Section 1 : L'octroi de la concession (art. R521-2 à R521-48)](#628)
+            - [Sous-section 1 : Lancement de la procédure (art. R521-2 à R521-5)](#629)
+            - [Sous-section 2 : Sélection du candidat pressenti (art. R521-6 à R521-11)](#630)
+            - [Sous-section 3 : Instruction de la demande du concessionnaire pressenti (art. R521-12 à R521-24)](#631)
+            - [Sous-section 4 : Octroi de la concession et déclaration d'utilité publique (art. R521-25 à R521-27)](#632)
+            - [Sous-section 5 : Règlement d'eau (art. R521-28 à R521-30)](#633)
+            - [Sous-section 6 : Approbation des projets d'exécution, autorisation et récolement des travaux d'établissement de la concession (art. R521-31 à R521-39)](#634)
+            - [Sous-section 7 : Approbation des autres travaux (art. R521-40 à R521-42)](#635)
+            - [Sous-section 8 : Dispositions relatives à la sécurité et à la sûreté des ouvrages hydrauliques concédés (art. R521-43 à R521-46)](#636)
+            - [Sous-section 9 : Dispositions diverses (art. R521-47 à R521-48)](#637)
+          - [Section 2 : Le cahier des charges de la concession (art. R521-49)](#638)
+          - [Section 3 : L'occupation ou la traversée des propriétés privées (art. R521-50 à R521-51)](#639)
+          - [Section 4 :  Les dispositions particulières à la fin de la concession et à son renouvellement (art. R521-52 à R521-66)](#640)
+            - [Sous-section 1 : Décision d'arrêt ou de poursuite de l'exploitation (art. R521-52 à R521-53)](#641)
+            - [Sous-section 2 : Fin de la concession (art. R521-54 à R521-57)](#642)
+            - [Sous-section 3 : Dispositions spécifiques au renouvellement de concession (art. R521-58 à R521-59)](#643)
+            - [Sous-section 4 : Regroupement de concessions (art. R521-60 à R521-65)](#644)
+            - [Sous-section 5 : Prorogation des concessions (art. R521-66)](#645)
+          - [Section 5 : Les sociétés d'économie mixte hydroélectriques (art. R521-67 à R521-72)](#646)
+        - [Chapitre II : Les reserves en énergie (art. D522-5 à R522-4)](#647)
+        - [Chapitre III : Les redevances proportionnelles (art. R523-1 à R523-4)](#648)
+        - [Chapitre IV :  L'information des collectivités territoriales et des habitants riverains sur l'exécution de la concession et leur participation à la gestion des usages de l'eau (art. R524-1 à R524-6)](#649)
+    - [LIVRE VI : LES DISPOSITIONS RELATIVES AU PÉTROLE, AUX BIOCARBURANTS ET BIOLIQUIDES (art. D631-1 à R671-31)](#650)
+      - [TITRE III : LE TRANSPORT (art. D631-1 à R632-4)](#651)
+        - [Chapitre Ier : Le transport par navire (art. D631-1 à D631-10)](#652)
+        - [Chapitre II : Le transport par canalisation (art. R632-1 à R632-4)](#653)
+      - [TITRE IV : LE RAFFINAGE ET LE STOCKAGE (art. R641-1 à D642-11)](#654)
+        - [Chapitre Ier : Le raffinage et les produits pétroliers (art. R641-1 à R641-16)](#655)
+          - [Section 1 : Dispositions applicables au raffinage (art. R641-1 à R641-3)](#656)
+          - [Section 2 : Dispositions applicables aux produits pétroliers et aux carburants renouvelables (art. D641-4 à R641-16)](#657)
+        - [Chapitre II : Le stockage (art. R642-1 à D642-11)](#658)
+          - [Section 1 : Le Comité professionnel des stocks stratégiques pétroliers (art. R642-1 à R642-10)](#659)
+          - [Section 2 : Dispositions diverses (art. D642-11)](#660)
+      - [TITRE VI : LES BIOCARBURANTS ET BIOLIQUIDES (art. D661-2 à R661-11)](#661)
+        - [Chapitre unique (art. D661-2 à R661-11)](#662)
+      - [TITRE VII : LES DISPOSITIONS PARTICULIÈRES À L'OUTRE-MER (art. R671-1 à R671-31)](#663)
+        - [Chapitre unique (art. R671-1 à R671-31)](#664)
+          - [Section 1 : Dispositions relatives au département de la Guadeloupe et aux collectivités territoriales de la Guyane et de la Martinique (art. R671-1 à R671-13)](#665)
+            - [Sous-section 1 : Dispositions générales (art. R671-1)](#666)
+            - [Sous-section 2 : Dispositions relatives aux prix des produits pétroliers autres que le gaz de pétrole liquéfié (art. R671-2 à R671-5)](#667)
+            - [Sous-section 3 : Dispositions relatives aux prix du gaz de pétrole liquéfié (art. R671-6 à R671-10)](#668)
+            - [Sous-section 4 : Dispositions relatives aux activités de stockage de produits pétroliers (art. R671-11 à R671-12)](#669)
+            - [Sous-section 5 : Dispositions relatives à l'information du public (art. R671-13)](#670)
+          - [Section 2 : Dispositions relatives au département de La Réunion (art. R671-14 à R671-22)](#671)
+            - [Sous-section 1 : Dispositions générales (art. R671-14)](#672)
+            - [Sous-section 2 : Dispositions relatives aux prix des produits pétroliers (art. R671-15 à R671-17)](#673)
+            - [Sous-section 3 : Dispositions relatives à la distribution des produits pétroliers (art. R671-18 à R671-19)](#674)
+            - [Sous-section 4 : Dispositions relatives aux activités de stockage de produits pétroliers (art. R671-20 à R671-21)](#675)
+            - [Sous-section 5 : Dispositions relatives à l'information du public (art. R671-22)](#676)
+          - [Section 3 : Dispositions relatives au Département de Mayotte (art. R671-23 à R671-31)](#677)
+            - [Sous-section 1 : Dispositions générales (art. R671-23)](#678)
+            - [Sous-section 2 : Dispositions relatives aux prix des produits pétroliers (art. R671-24 à R671-26)](#679)
+            - [Sous-section 3 : Dispositions relatives à la distribution des produits pétroliers (art. R671-27 à R671-28)](#680)
+            - [Sous-section 4 : Dispositions relatives aux activités de stockage de produits pétroliers (art. R671-29 à R671-30)](#681)
+            - [Sous-section 5 : Dispositions relatives à l'information du public (art. R671-31)](#682)
+    - [LIVRE VII : LES DISPOSITIONS RELATIVES AUX RÉSEAUX DE CHALEUR ET DE FROID (art. R711-1 à R721-20)](#683)
+      - [TITRE Ier : LA PRODUCTION DE CHALEUR ET LE CLASSEMENT DES RÉSEAUX DE CHALEUR ET DE FROID (art. R711-1 à R712-12)](#684)
+        - [Chapitre Ier : La production de chaleur (art. R711-1 à R711-4)](#685)
+        - [Chapitre II : Le classement des reseaux de chaleur et de froid (art. R712-1 à R712-12)](#686)
+          - [Section 1 : Principes et modalités de classement des réseaux de chaleur et de froid (art. R712-1 à R712-5)](#687)
+          - [Section 2 : Effets du classement d'un réseau de chaleur ou de froid (art. R712-6 à R712-9)](#688)
+          - [Section 3 : Abrogation de la décision de classement (art. R712-10)](#689)
+          - [Section 4 : Information du public (art. L712-11)](#690)
+          - [Section 5 : Constatation des infractions (art. R712-12)](#691)
+      - [TITRE II : LE PASSAGE DES CANALISATIONS DE TRANSPORT ET DE DISTRIBUTION DE CHALEUR ET DE FROID (art. R721-1 à R721-20)](#692)
+        - [Chapitre unique (art. R721-1 à R721-20)](#693)
+          - [Section 1 : Procédure régissant la déclaration d'intérêt général des canalisations de transport de distribution de chaleur (art. R721-1 à R721-6)](#694)
+          - [Section 2 : Les servitudes (art. D721-13 à R721-12)](#695)
+          - [Section 3 : Construction, mise en service, exploitation et contrôle (art. R721-14 à R721-20)](#696)
 # Partie législative<a id=1></a>
 
 ## LIVRE IER : L'ORGANISATION GENERALE  DU SECTEUR DE L'ENERGIE<a id=2></a>
@@ -7789,7 +7802,8 @@ _Cite_:
 
 Le comité de règlement des différends et des sanctions peut être saisi en cas de différend : 
 
-1° Entre les gestionnaires et les utilisateurs des réseaux publics de transport ou de distribution d'électricité ; 
+1° Entre les gestionnaires et les utilisateurs des réseaux publics de transport ou de distribution d'électricité ou de
+réseaux fermés de distribution d'électricité ; 
 
 2° Entre les opérateurs et les utilisateurs des ouvrages de transport et de distribution de gaz naturel ; 
 
@@ -7820,10 +7834,6 @@ _Codifié par_:
 
   - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
 
-_Modifié par_:
-
-  - Loi n°2013-619 du 16 juillet 2013 - art. 38 (V)
-
 _Cité par_:
 
   - Décret n°2015-206 du 24 février 2015 - art. 1 (Ab)
@@ -7834,6 +7844,10 @@ _Cité par_:
   - Code de l'énergie - art. L134-27 (V)
   - Code de l'énergie - art. R134-21 (V)
   - Code de l'énergie - art. R134-7 (V)
+
+_Modifié par_:
+
+  - Ordonnance n°2016-1725 du 15 décembre 2016 - art. 2
 
 _Cite_:
 
@@ -8001,10 +8015,11 @@ Le comité de règlement des différends et des sanctions peut soit d'office, so
 de l'environnement, du président de la Commission de régulation de l'énergie, d'une organisation professionnelle, d'une
 association agréée d'utilisateurs ou de toute autre personne concernée, sanctionner les manquements mentionnés aux titres Ier
 et II du présent livre et aux livres III et IV qu'il constate de la part des gestionnaires de réseaux publics de transport ou
-de distribution d'électricité, des opérateurs des ouvrages de transport ou de distribution de gaz naturel ou des exploitants
-des installations de stockage de gaz naturel ou des installations de gaz naturel liquéfié ou des exploitants de réseaux de
-transport et de stockage géologique de dioxyde de carbone ou des utilisateurs de ces réseaux, ouvrages et installations, y
-compris les fournisseurs d'électricité ou de gaz naturel, dans les conditions fixées aux articles suivants. 
+de distribution d'électricité, des gestionnaires de réseaux fermés de distribution d'électricité,  des opérateurs des
+ouvrages de transport ou de distribution de gaz naturel ou des exploitants des installations de stockage de gaz naturel ou
+des installations de gaz naturel liquéfié ou des exploitants de réseaux de transport et de stockage géologique de dioxyde de
+carbone ou des utilisateurs de ces réseaux, ouvrages et installations, y compris les fournisseurs d'électricité ou de gaz
+naturel, dans les conditions fixées aux articles suivants. 
 
 Le comité de règlement des différends et des sanctions peut également, soit d'office, soit à la demande du ministre chargé de
 l'énergie, ou à la demande du président de la Commission de régulation de l'énergie, sanctionner les manquements répétés
@@ -8037,7 +8052,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2016-461 du 14 avril 2016 - art. 1
+  - Ordonnance n°2016-1725 du 15 décembre 2016 - art. 2
 
 _Cite_:
 
@@ -8049,7 +8064,7 @@ _Cite_:
 _Cité par_:
 
   - Code de l'énergie - art. L134-26 (V)
-  - Code de l'énergie - art. L134-28 (V)
+  - Code de l'énergie - art. L134-28 (M)
   - Code de l'énergie - art. L134-29 (V)
   - Code de l'énergie - art. L135-12 (V)
 
@@ -21584,11 +21599,12 @@ cet effet, élaborer les méthodologies utilisées pour établir les prescriptio
 minimales de conception et de fonctionnement auxquelles doivent satisfaire : 
 
 1° En cas de raccordement au réseau public de transport d'électricité, les installations des utilisateurs du réseau, les
-réseaux publics de distribution, les circuits d'interconnexion ainsi que les lignes directes mentionnées à l'article L.
-343-1 ; 
+réseaux publics de distribution, les réseaux fermés de distribution d'électricité, les circuits d'interconnexion ainsi que
+les lignes directes mentionnées à l'article L. 343-1 ; 
 
 2° En cas de raccordement au réseau public de distribution d'électricité, les installations des utilisateurs du réseau, les
-réseaux de distribution ainsi que les lignes directes mentionnées à l'article L. 343-1.
+autres réseaux publics de distribution, les réseaux fermés de distribution d'électricité ainsi que les lignes directes
+mentionnées à l'article L. 343-1.
 
 **Liens relatifs à cet article**
 
@@ -21613,7 +21629,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2016-130 du 10 février 2016 - art. 11
+  - Ordonnance n°2016-1725 du 15 décembre 2016 - art. 2
 
 _Cite_:
 
@@ -22089,9 +22105,321 @@ _Cité par_:
   - Code de l'énergie - art. L344-12 (V)
 
 
-### TITRE V : LES DISPOSITIONS RELATIVES A L'UTILISATION  DE L'ELECTRICITE<a id=190></a>
+#### Chapitre IV : Les réseaux fermés de distribution d'électricité<a id=190></a>
 
-#### Chapitre unique : Consommateurs électro-intensifs<a id=191></a>
+##### Section 1 : Définition<a id=191></a>
+
+###### Article L344-1
+
+Un réseau fermé de distribution d'électricité est un réseau de distribution qui achemine de l'électricité à l'intérieur d'un
+site géographiquement limité et qui alimente un ou plusieurs consommateurs non résidentiels exerçant des activités de nature
+industrielle, commerciale ou de partages de services.
+
+Il doit remplir l'une des deux conditions suivantes :
+
+- l'intégration dans ce réseau des opérations ou du processus de production des utilisateurs est justifiée par des raisons
+spécifiques ayant trait à leur technique ou à leur sécurité ;
+
+- ce réseau distribue de l'électricité essentiellement au propriétaire ou au gestionnaire de réseau ou à des entreprises qui
+leur sont liées au sens de l'article L. 233-3 du code de commerce.
+
+Les utilisateurs d'un réseau fermé de distribution d'électricité sont les personnes physiques ou morales dont les
+installations soutirent ou injectent de l'électricité directement sur ce réseau.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2016-1725 du 15 décembre 2016 - art. 1
+
+_Cite_:
+
+  - Code de commerce - art. L233-3
+
+_Cité par_:
+
+  - Code de l'énergie - art. L344-2 (V)
+  - Code de l'énergie - art. L344-7 (V)
+
+
+###### Article L344-2
+
+Par exception au premier alinéa de l'article L. 344-1, un réseau fermé de distribution d'électricité peut distribuer, à titre
+accessoire, de l'électricité à des clients résidentiels s'ils sont employés par le propriétaire du réseau ou associés à lui
+de façon similaire et résident dans la zone desservie par le réseau.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2016-1725 du 15 décembre 2016 - art. 1
+
+_Cite_:
+
+  - Code de l'énergie - art. L344-1
+
+
+###### Article L344-3
+
+Le raccordement à un réseau fermé de distribution ne peut faire obstacle à l'exercice par un consommateur des droits relatifs
+au libre choix de son fournisseur, prévus à l'article L. 331-1. 
+
+Il ne peut pas non plus faire obstacle aux droits de participation aux mécanismes d'ajustement ou de réservation de
+puissance, mentionnés aux articles L. 321-10 et L. 321-12, ni aux droits de participation au mécanisme d'effacements de
+consommation mentionné à l'article L. 321-15-1.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2016-1725 du 15 décembre 2016 - art. 1
+
+_Cite_:
+
+  - Code de l'énergie - art. L321-10
+  - Code de l'énergie - art. L321-12
+  - Code de l'énergie - art. L321-15-1
+  - Code de l'énergie - art. L331-1
+
+
+##### Section 2 : Le gestionnaire du réseau fermé de distribution d'électricité<a id=192></a>
+
+###### Article L344-4
+
+L'exploitation du réseau fermé de distribution d'électricité est confiée à un gestionnaire dénommé “ gestionnaire du réseau
+fermé de distribution d'électricité ”, désigné par le propriétaire du réseau. Le gestionnaire peut être le propriétaire de ce
+réseau.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2016-1725 du 15 décembre 2016 - art. 1
+
+
+###### Article L344-5
+
+Le gestionnaire d'un réseau fermé de distribution d'électricité est notamment chargé :
+
+1° D'assurer la conception et la construction des ouvrages du réseau fermé de distribution d'électricité en s'abstenant de
+toute discrimination entre les utilisateurs de son réseau ;
+
+2° D'exploiter lui-même ce réseau fermé de distribution d'électricité et d'en assurer l'entretien, la maintenance et la
+sécurité ;
+
+3° De veiller, à tout instant, à l'équilibre des flux d'électricité, à l'efficacité, à la sécurité et à la sûreté du réseau
+qu'il exploite et d'assurer la couverture des pertes d'électricité et le maintien d'une capacité de réserve sur son réseau ;
+
+4° De fournir aux utilisateurs du réseau qu'il exploite les informations nécessaires à un accès efficace, sous réserve des
+informations commercialement sensibles ;
+
+5° De mettre en œuvre des actions d'efficacité énergétique et de favoriser l'insertion des énergies renouvelables sur le
+réseau qu'il exploite ;
+
+6° D'exercer, le cas échéant, les activités de comptage pour les utilisateurs raccordés au réseau qu'il exploite, sauf
+lorsque les utilisateurs du réseau fermé de distribution interviennent sur les marchés de l'électricité ou participent à des
+mécanismes qui nécessitent une contractualisation avec les gestionnaires des réseaux publics.
+
+Le gestionnaire de réseau fermé de distribution d'électricité transmet, à sa demande, l'ensemble des données nécessaires au
+gestionnaire du réseau public d'électricité auquel est raccordé son réseau, pour accomplir les missions qui lui sont
+imparties.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2016-1725 du 15 décembre 2016 - art. 1
+
+_Cité par_:
+
+  - Code de l'énergie - art. L344-9 (V)
+
+
+##### Section 3 : Règles applicables aux réseaux fermés de distribution d'électricité<a id=193></a>
+
+###### Article L344-6
+
+Les réseaux fermés de distribution doivent satisfaire aux mêmes conditions techniques et de sécurité que celles applicables
+en matière de transport et de distribution d'électricité et prises en application de l'article L. 323-12.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2016-1725 du 15 décembre 2016 - art. 1
+
+_Cite_:
+
+  - Code de l'énergie - art. L323-12
+
+
+###### Article L344-7
+
+L'exploitation d'un réseau fermé de distribution d'électricité est subordonnée à la délivrance d'une autorisation par
+l'autorité administrative. 
+
+L'autorisation est délivrée au regard des critères mentionnés à l'article L. 344-1, sous réserve que le gestionnaire du
+réseau fermé de distribution d'électricité justifie qu'il dispose des capacités techniques et financières requises. 
+
+L'autorisation fixe la durée pour laquelle elle est délivrée, qui ne peut excéder vingt ans. Elle peut être renouvelée dans
+les mêmes conditions. 
+
+L'autorité administrative peut, après avis de la Commission de régulation de l'énergie, refuser de délivrer une autorisation
+d'exploiter un réseau fermé de distribution d'électricité pour des motifs d'intérêt général liés au bon fonctionnement et à
+la sûreté du système électrique.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2016-1725 du 15 décembre 2016 - art. 1
+
+_Cite_:
+
+  - Code de l'énergie - art. L344-1
+
+_Cité par_:
+
+  - Code de l'énergie - art. L344-12 (V)
+  - Code de l'énergie - art. L344-8 (V)
+
+
+###### Article L344-8
+
+En cas de changement du gestionnaire d'un réseau fermé de distribution d'électricité, le bénéfice de l'autorisation prévue à
+l'article L. 344-7 peut être transféré au nouvel exploitant, sous réserve qu'il justifie auprès de l'autorité administrative
+qu'il dispose des capacités techniques et financières requises.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2016-1725 du 15 décembre 2016 - art. 1
+
+_Cite_:
+
+  - Code de l'énergie - art. L344-7
+
+
+###### Article L344-9
+
+Pour la mise en œuvre du 3° de l'article L. 344-5, le gestionnaire de réseau fermé de distribution d'électricité négocie
+librement avec les fournisseurs de son choix les contrats nécessaires à la couverture des pertes et au maintien d'une
+capacité de réserve sur le réseau qu'il exploite, selon des procédures concurrentielles, transparentes et non
+discriminatoires. 
+
+Préalablement à leur entrée en vigueur, les tarifs des redevances d'utilisation des réseaux fermés de distribution
+d'électricité sont approuvés par la Commission de régulation de l'énergie, qui dispose d'un délai de quatre mois à compter de
+la date de réception d'un dossier complet pour rendre sa décision. A l'expiration de ce délai, les tarifs sont réputés
+approuvés.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2016-1725 du 15 décembre 2016 - art. 1
+
+_Cité par_:
+
+  - Code de l'énergie - art. L344-10 (V)
+
+_Cite_:
+
+  - Code de l'énergie - art. L344-5
+
+
+###### Article L344-10
+
+Le gestionnaire d'un réseau fermé de distribution d'électricité peut demander à la Commission de régulation de l'énergie
+d'être exempté des obligations prévues à l'article L. 344-9. 
+
+Pour chacune de ces exemptions, la Commission de régulation de l'énergie fixe la composition du dossier. Elle dispose d'un
+délai de quatre mois à compter de la date de réception d'un dossier complet pour rendre sa décision. A l'expiration de ce
+délai, la demande est réputée acceptée.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2016-1725 du 15 décembre 2016 - art. 1
+
+_Cité par_:
+
+  - Code de l'énergie - art. L344-11 (V)
+
+_Cite_:
+
+  - Code de l'énergie - art. L344-9
+
+
+###### Article L344-11
+
+Lorsque l'exemption à l'obligation d'approbation préalable des tarifs des redevances d'utilisation d'un réseau fermé de
+distribution d'électricité, prévue à l'article L. 344-10, a été accordée, un utilisateur de ce réseau peut demander à la
+Commission de régulation de l'énergie de statuer, après les avoir vérifiés, sur les tarifs des redevances perçues pour
+l'utilisation de ce réseau fermé. 
+
+La Commission de régulation de l'énergie se prononce sur les tarifs des redevances dans un délai de quatre mois à compter de
+la date à laquelle elle dispose de toutes les informations qui lui sont nécessaires. 
+
+La décision de refus d'approbation des tarifs de redevances par la Commission de régulation de l'énergie est motivée et
+notifiée au gestionnaire du réseau fermé de distribution d'électricité. La commission met en demeure celui-ci de lui
+soumettre, dans un délai qu'elle fixe, une proposition de tarifs conforme aux motifs de sa décision. La commission dispose
+d'un délai de quatre mois pour statuer sur cette proposition. 
+
+A l'expiration des délais mentionnés aux deuxième et troisième alinéas, les tarifs sont réputés approuvés.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2016-1725 du 15 décembre 2016 - art. 1
+
+_Cite_:
+
+  - Code de l'énergie - art. L344-10
+
+
+##### Section 4 : Sanctions pénales<a id=194></a>
+
+###### Article L344-12
+
+Le fait de construire ou d'exploiter un réseau fermé de distribution d'électricité sans être titulaire de l'autorisation
+prévue à l'article L. 344-7 est puni d'un an d'emprisonnement et de 150 000 euros d'amende. 
+
+Les personnes physiques coupables de l'infraction prévue au premier alinéa encourent également les peines complémentaires
+prévues à l'article L. 343-5. 
+
+Les personnes morales déclarées pénalement responsables de l'infraction prévue au premier alinéa encourent les peines
+complémentaires prévues à l'article L. 343-6.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2016-1725 du 15 décembre 2016 - art. 1
+
+_Cite_:
+
+  - Code de l'énergie - art. L343-5
+  - Code de l'énergie - art. L343-6 (V)
+  - Code de l'énergie - art. L344-7
+
+
+###### Article L344-13
+
+Un décret en Conseil d'Etat définit les modalités d'application du présent chapitre.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2016-1725 du 15 décembre 2016 - art. 1
+
+
+### TITRE V : LES DISPOSITIONS RELATIVES A L'UTILISATION  DE L'ELECTRICITE<a id=195></a>
+
+#### Chapitre unique : Consommateurs électro-intensifs<a id=196></a>
 
 ###### Article L351-1
 
@@ -22141,9 +22469,9 @@ _Cite_:
   - Code de l'énergie - art. L233-2 (V)
 
 
-### TITRE VI : LES DISPOSITIONS RELATIVES A L'OUTRE MER<a id=192></a>
+### TITRE VI : LES DISPOSITIONS RELATIVES A L'OUTRE MER<a id=197></a>
 
-#### Chapitre Ier : Dispositions relatives aux départements et régions d'outre-mer<a id=193></a>
+#### Chapitre Ier : Dispositions relatives aux départements et régions d'outre-mer<a id=198></a>
 
 ###### Article L361-1
 
@@ -22184,7 +22512,7 @@ _Cite_:
   - Code de l'énergie - art. L342-1 (V)
 
 
-#### Chapitre II : Dispositions relatives au Département de Mayotte<a id=194></a>
+#### Chapitre II : Dispositions relatives au Département de Mayotte<a id=199></a>
 
 ###### Article L362-1
 
@@ -22305,9 +22633,9 @@ _Cite_:
   - Code de l'énergie - art. L311-6 (V)
 
 
-#### Chapitre III : Dispositions applicables aux îles Wallis et Futuna<a id=195></a>
+#### Chapitre III : Dispositions applicables aux îles Wallis et Futuna<a id=200></a>
 
-##### Section 1 : Dispositions particulières aux îles Wallis et Futuna<a id=196></a>
+##### Section 1 : Dispositions particulières aux îles Wallis et Futuna<a id=201></a>
 
 ###### Article L363-1
 
@@ -22416,7 +22744,7 @@ _Cite_:
   - Code de l'énergie - art. L311-5 (V)
 
 
-##### Section 2 : Dispositions du droit métropolitain applicables aux îles Wallis et Futuna<a id=197></a>
+##### Section 2 : Dispositions du droit métropolitain applicables aux îles Wallis et Futuna<a id=202></a>
 
 ###### Article L363-7
 
@@ -23055,9 +23383,9 @@ _Cite_:
   - Code de l'énergie - art. L342-1 (V)
 
 
-##### Section 3 : Dispositions d'adaptation<a id=198></a>
+##### Section 3 : Dispositions d'adaptation<a id=203></a>
 
-##### Sous-section 1 : Dispositions d'adaptation générales<a id=199></a>
+##### Sous-section 1 : Dispositions d'adaptation générales<a id=204></a>
 
 ###### Article L363-8
 
@@ -23080,7 +23408,7 @@ _Cite_:
   - Code de l'énergie - art. L363-5 (V)
 
 
-##### Sous-section 2 : Dispositions d'adaptation du titre Ier<a id=200></a>
+##### Sous-section 2 : Dispositions d'adaptation du titre Ier<a id=205></a>
 
 ###### Article L363-9
 
@@ -23130,7 +23458,7 @@ _Cite_:
   - Code de l'énergie - art. L314-4 (V)
 
 
-##### Sous-section 3 : Dispositions d'adaptation du titre II<a id=201></a>
+##### Sous-section 3 : Dispositions d'adaptation du titre II<a id=206></a>
 
 ###### Article L363-11
 
@@ -23179,7 +23507,7 @@ _Cite_:
   - Code de l'énergie - art. L322-9 (V)
 
 
-##### Sous-section 4 : Dispositions d'adaptation du titre III<a id=202></a>
+##### Sous-section 4 : Dispositions d'adaptation du titre III<a id=207></a>
 
 ###### Article L363-12
 
@@ -23204,7 +23532,7 @@ _Cite_:
   - Code de l'énergie - art. L337-8 (V)
 
 
-##### Sous-section 5 : Dispositions d'adaptation du titre IV<a id=203></a>
+##### Sous-section 5 : Dispositions d'adaptation du titre IV<a id=208></a>
 
 ###### Article L363-13
 
@@ -23237,7 +23565,7 @@ _Cite_:
   - Code de l'énergie - art. L342-6 (V)
 
 
-## LIVRE IV : LES DISPOSITIONS RELATIVES AU GAZ<a id=204></a>
+## LIVRE IV : LES DISPOSITIONS RELATIVES AU GAZ<a id=209></a>
 
 ###### Article L400-1
 
@@ -23259,9 +23587,9 @@ _Créé par_:
   - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
 
 
-### TITRE IER : LA RECHERCHE ET L'EXPLOITATION DES GITES  CONTENANT DU GAZ NATUREL<a id=205></a>
+### TITRE IER : LA RECHERCHE ET L'EXPLOITATION DES GITES  CONTENANT DU GAZ NATUREL<a id=210></a>
 
-#### Chapitre unique<a id=206></a>
+#### Chapitre unique<a id=211></a>
 
 ###### Article L411-1
 
@@ -23279,9 +23607,9 @@ _Créé par_:
   - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
 
 
-### TITRE II : LE STOCKAGE<a id=207></a>
+### TITRE II : LE STOCKAGE<a id=212></a>
 
-#### Chapitre unique<a id=208></a>
+#### Chapitre unique<a id=213></a>
 
 ###### Article L421-1
 
@@ -23738,13 +24066,13 @@ _Créé par_:
   - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
 
 
-### TITRE III : LE TRANSPORT ET LA DISTRIBUTION<a id=209></a>
+### TITRE III : LE TRANSPORT ET LA DISTRIBUTION<a id=214></a>
 
-#### Chapitre Ier : Le transport<a id=210></a>
+#### Chapitre Ier : Le transport<a id=215></a>
 
-##### Section 1 : Le régime d'autorisation de transport<a id=211></a>
+##### Section 1 : Le régime d'autorisation de transport<a id=216></a>
 
-##### Sous-section 1 : Obligation d'une autorisation<a id=212></a>
+##### Sous-section 1 : Obligation d'une autorisation<a id=217></a>
 
 ###### Article L431-1
 
@@ -23770,7 +24098,7 @@ _Cité par_:
   - Code de l'énergie - art. L142-31 (V)
 
 
-##### Sous-section 2 : Sanctions<a id=213></a>
+##### Sous-section 2 : Sanctions<a id=218></a>
 
 ###### Article L431-2
 
@@ -23820,7 +24148,7 @@ _Cité par_:
   - Code de l'énergie - art. R433-19 (V)
 
 
-##### Section 2 : Les missions des gestionnaires de réseaux de transport<a id=214></a>
+##### Section 2 : Les missions des gestionnaires de réseaux de transport<a id=219></a>
 
 ###### Article L431-3
 
@@ -24030,7 +24358,7 @@ _Cité par_:
   - Loi n°2017-1839 du 30 décembre 2017 - art. 12 (V)
 
 
-##### Section 3 : La participation des autres opérateurs à l'équilibrage des réseaux de transport<a id=215></a>
+##### Section 3 : La participation des autres opérateurs à l'équilibrage des réseaux de transport<a id=220></a>
 
 ###### Article L431-7
 
@@ -24075,9 +24403,9 @@ _Cité par_:
   - Code de l'énergie - art. L134-3 (V)
 
 
-#### Chapitre II : La distribution<a id=216></a>
+#### Chapitre II : La distribution<a id=221></a>
 
-##### Section 1 : Les autorités organisatrices des réseaux de distribution<a id=217></a>
+##### Section 1 : Les autorités organisatrices des réseaux de distribution<a id=222></a>
 
 ###### Article L432-1
 
@@ -24270,7 +24598,7 @@ _Cité par_:
   - Code de l'énergie - art. R453-1 (V)
 
 
-##### Section 2 : Les missions des gestionnaires de réseaux de distribution<a id=218></a>
+##### Section 2 : Les missions des gestionnaires de réseaux de distribution<a id=223></a>
 
 ###### Article L432-8
 
@@ -24436,11 +24764,11 @@ _Cité par_:
   - Code de l'énergie - art. L452-1 (V)
 
 
-#### Chapitre III : Les ouvrages de transport et de distribution<a id=219></a>
+#### Chapitre III : Les ouvrages de transport et de distribution<a id=224></a>
 
-##### Section 1 :  L'occupation du domaine public ou la traversée des propriétés privées par les ouvrages de transport et de distribution<a id=220></a>
+##### Section 1 :  L'occupation du domaine public ou la traversée des propriétés privées par les ouvrages de transport et de distribution<a id=225></a>
 
-##### Sous-section 1 : Dispositions applicables au transport<a id=221></a>
+##### Sous-section 1 : Dispositions applicables au transport<a id=226></a>
 
 ###### Article L433-1
 
@@ -24481,7 +24809,7 @@ _Cite_:
   - Code de l'environnement - art. L555-30 (VD)
 
 
-##### Sous-section 2 : Dispositions applicables à la distribution<a id=222></a>
+##### Sous-section 2 : Dispositions applicables à la distribution<a id=227></a>
 
 ###### Article L433-3
 
@@ -24687,9 +25015,9 @@ _Cite_:
   - Code de l'énergie - art. L433-6
 
 
-##### Section 2 : Le contrôle de la construction et de l'exploitation des ouvrages de transport et de distribution<a id=223></a>
+##### Section 2 : Le contrôle de la construction et de l'exploitation des ouvrages de transport et de distribution<a id=228></a>
 
-##### Sous-section 1 : Dispositions relatives aux ouvrages de transport<a id=224></a>
+##### Sous-section 1 : Dispositions relatives aux ouvrages de transport<a id=229></a>
 
 ###### Article L433-12
 
@@ -24707,7 +25035,7 @@ _Modifié par_:
   - Ordonnance n°2016-282 du 10 mars 2016 - art. 5
 
 
-##### Sous-section 2 : Dispositions relatives aux ouvrages de distribution<a id=225></a>
+##### Sous-section 2 : Dispositions relatives aux ouvrages de distribution<a id=230></a>
 
 ###### Article L433-13
 
@@ -24861,9 +25189,9 @@ _Cité par_:
   - Code de l'énergie - art. R433-26 (V)
 
 
-### TITRE IV : LA COMMERCIALISATION<a id=226></a>
+### TITRE IV : LA COMMERCIALISATION<a id=231></a>
 
-#### Chapitre Ier : Le choix du fournisseur<a id=227></a>
+#### Chapitre Ier : Le choix du fournisseur<a id=232></a>
 
 ###### Article L441-1
 
@@ -24994,7 +25322,7 @@ _Cite_:
   - Code de l'énergie - art. L441-1
 
 
-#### Chapitre II : Les contrats de vente<a id=228></a>
+#### Chapitre II : Les contrats de vente<a id=233></a>
 
 ###### Article L442-1
 
@@ -25071,9 +25399,9 @@ _Cite_:
   - Code de l'énergie - art. L442-1 (VD)
 
 
-#### Chapitre III : Le régime de la fourniture<a id=229></a>
+#### Chapitre III : Le régime de la fourniture<a id=234></a>
 
-##### Section 1 : L'obligation d'une autorisation<a id=230></a>
+##### Section 1 : L'obligation d'une autorisation<a id=235></a>
 
 ###### Article L443-1
 
@@ -25316,9 +25644,9 @@ _Cite_:
   - Code de l'énergie - art. L121-32 (VD)
 
 
-##### Section 2 : Les sanctions<a id=231></a>
+##### Section 2 : Les sanctions<a id=236></a>
 
-##### Sous-section 1 : Sanctions pénales<a id=232></a>
+##### Sous-section 1 : Sanctions pénales<a id=237></a>
 
 ###### Article L443-10
 
@@ -25388,7 +25716,7 @@ _Cite_:
   - Code de l'énergie - art. L443-10 (VD)
 
 
-##### Sous-section 2 : Sanctions administratives<a id=233></a>
+##### Sous-section 2 : Sanctions administratives<a id=238></a>
 
 ###### Article L443-12
 
@@ -25426,7 +25754,7 @@ _Cité par_:
 
 
 #### Chapitre IV : Le cas particulier de la commercialisation 
-par une entreprise locale de distribution<a id=234></a>
+par une entreprise locale de distribution<a id=239></a>
 
 ###### Article L444-1
 
@@ -25491,9 +25819,9 @@ _Cite_:
   - Code de l'énergie - art. L441-1 (V)
 
 
-#### Chapitre V : Les tarifs<a id=235></a>
+#### Chapitre V : Les tarifs<a id=240></a>
 
-##### Section 1 : Les tarifs réglementés de vente<a id=236></a>
+##### Section 1 : Les tarifs réglementés de vente<a id=241></a>
 
 ###### Article L445-1
 
@@ -25642,7 +25970,7 @@ _Modifié par_:
   - Loi n°2014-344 du 17 mars 2014 - art. 25 (V)
 
 
-##### Section 2 : Le tarif spécial de solidarité<a id=237></a>
+##### Section 2 : Le tarif spécial de solidarité<a id=242></a>
 
 ###### Article L445-5
 
@@ -25745,7 +26073,7 @@ _Cité par_:
 
 
 #### Chapitre VI : Les dispositions particulières 
-relatives à la vente de biogaz<a id=238></a>
+relatives à la vente de biogaz<a id=243></a>
 
 ###### Article L446-1
 
@@ -25936,9 +26264,9 @@ _Cité par_:
   - Arrêté du 9 mai 2017 - art. 4 (V)
 
 
-### TITRE V : L'ACCES ET LE RACCORDEMENT AUX RESEAUX  ET INSTALLATIONS<a id=239></a>
+### TITRE V : L'ACCES ET LE RACCORDEMENT AUX RESEAUX  ET INSTALLATIONS<a id=244></a>
 
-#### Chapitre Ier : L'accès aux réseaux et installations<a id=240></a>
+#### Chapitre Ier : L'accès aux réseaux et installations<a id=245></a>
 
 ###### Article L451-1
 
@@ -26005,7 +26333,7 @@ _Créé par_:
   - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
 
 
-#### Chapitre II : Les tarifs d'utilisation des réseaux de transport, de distribution de gaz naturel et les tarifs d'utilisation des installations de gaz naturel liquéfié<a id=241></a>
+#### Chapitre II : Les tarifs d'utilisation des réseaux de transport, de distribution de gaz naturel et les tarifs d'utilisation des installations de gaz naturel liquéfié<a id=246></a>
 
 ###### Article L452-1
 
@@ -26252,7 +26580,7 @@ _Cité par_:
   - Code de l'énergie - art. R452-1 (V)
 
 
-#### Chapitre III : Le raccordement aux réseaux et installations<a id=242></a>
+#### Chapitre III : Le raccordement aux réseaux et installations<a id=247></a>
 
 ###### Article L453-1
 
@@ -26508,9 +26836,9 @@ _Cite_:
   - Code de l'énergie - art. L453-7 (VT)
 
 
-### TITRE VI : LES CONSOMMATEURS GAZO-INTENSIFS<a id=243></a>
+### TITRE VI : LES CONSOMMATEURS GAZO-INTENSIFS<a id=248></a>
 
-#### Chapitre unique<a id=244></a>
+#### Chapitre unique<a id=249></a>
 
 ###### Article L461-1
 
@@ -26596,11 +26924,11 @@ _Cité par_:
   - Code de l'énergie - art. D461-14 (V)
 
 
-## LIVRE V : DISPOSITIONS RELATIVES A L'UTILISATION  DE L'ENERGIE HYDRAULIQUE<a id=245></a>
+## LIVRE V : DISPOSITIONS RELATIVES A L'UTILISATION  DE L'ENERGIE HYDRAULIQUE<a id=250></a>
 
-### TITRE IER : LES DISPOSITIONS COMMUNES AUX INSTALLATIONS HYDRAULIQUES AUTORISEES OU CONCEDEES<a id=246></a>
+### TITRE IER : LES DISPOSITIONS COMMUNES AUX INSTALLATIONS HYDRAULIQUES AUTORISEES OU CONCEDEES<a id=251></a>
 
-#### Chapitre Ier : Les caractéristiques générales des régimes d'exploitation de l'énergie hydraulique<a id=247></a>
+#### Chapitre Ier : Les caractéristiques générales des régimes d'exploitation de l'énergie hydraulique<a id=252></a>
 
 ###### Article L511-1
 
@@ -26971,9 +27299,9 @@ _Cite_:
   - Code civil - art. 2060
 
 
-#### Chapitre II : Les sanctions<a id=248></a>
+#### Chapitre II : Les sanctions<a id=253></a>
 
-##### Section 1 : Les sanctions pénales<a id=249></a>
+##### Section 1 : Les sanctions pénales<a id=254></a>
 
 ###### Article L512-1
 
@@ -27055,7 +27383,7 @@ _Cite_:
   - Code de l'énergie - art. L512-1 (V)
 
 
-##### Section 2 : Les sanctions administratives<a id=250></a>
+##### Section 2 : Les sanctions administratives<a id=255></a>
 
 ###### Article L512-3
 
@@ -27083,7 +27411,7 @@ _Cite_:
   - Code de l'énergie - art. L512-1 (V)
 
 
-##### Section 3 : Dispositions diverses<a id=251></a>
+##### Section 3 : Dispositions diverses<a id=256></a>
 
 ###### Article L512-4
 
@@ -27104,7 +27432,7 @@ _Créé par_:
   - Ordonnance n°2016-518 du 28 avril 2016 - art. 1
 
 
-#### Chapitre III : La protection du domaine hydroélectrique concédé<a id=252></a>
+#### Chapitre III : La protection du domaine hydroélectrique concédé<a id=257></a>
 
 ###### Article L513-1
 
@@ -27196,11 +27524,11 @@ _Cite_:
   - Code de l'énergie - art. L513-1 (V)
 
 
-### TITRE II : LES DISPOSITIONS RELATIVES  AUX INSTALLATIONS HYDRAULIQUES CONCEDEES<a id=253></a>
+### TITRE II : LES DISPOSITIONS RELATIVES  AUX INSTALLATIONS HYDRAULIQUES CONCEDEES<a id=258></a>
 
-#### Chapitre Ier : La procédure applicable aux concessions<a id=254></a>
+#### Chapitre Ier : La procédure applicable aux concessions<a id=259></a>
 
-##### Section 1 : L'octroi de la concession<a id=255></a>
+##### Section 1 : L'octroi de la concession<a id=260></a>
 
 ###### Article L521-1
 
@@ -27282,7 +27610,7 @@ _Créé par_:
   - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
 
 
-##### Section 2 : Le cahier des charges de la concession<a id=256></a>
+##### Section 2 : Le cahier des charges de la concession<a id=261></a>
 
 ###### Article L521-4
 
@@ -27404,7 +27732,7 @@ _Cité par_:
   - Code de l'énergie - art. R521-45 (V)
 
 
-##### Section 3 : L'occupation ou la traversée des propriétés privées<a id=257></a>
+##### Section 3 : L'occupation ou la traversée des propriétés privées<a id=262></a>
 
 ###### Article L521-7
 
@@ -27657,7 +27985,7 @@ _Cite_:
   - Code de l'énergie - art. L521-8 (V)
 
 
-##### Section 4 : Les dispositions particulières à la fin de la concession et à son renouvellement<a id=258></a>
+##### Section 4 : Les dispositions particulières à la fin de la concession et à son renouvellement<a id=263></a>
 
 ###### Article L521-15
 
@@ -27946,7 +28274,7 @@ _Cite_:
   - Code de l'énergie - art. L511-12 (V)
 
 
-##### Section 5 : Les sociétés d'économie mixte hydroélectriques<a id=259></a>
+##### Section 5 : Les sociétés d'économie mixte hydroélectriques<a id=264></a>
 
 ###### Article L521-18
 
@@ -28102,7 +28430,7 @@ _Cite_:
   - Code de l'énergie - art. L521-18
 
 
-#### Chapitre II : Les réserves en énergie<a id=260></a>
+#### Chapitre II : Les réserves en énergie<a id=265></a>
 
 ###### Article L522-1
 
@@ -28219,7 +28547,7 @@ _Anciens textes_:
   - Code de l'énergie - art. L521-21 (T)
 
 
-#### Chapitre III : Les redevances proportionnelles<a id=261></a>
+#### Chapitre III : Les redevances proportionnelles<a id=266></a>
 
 ###### Article L523-1
 
@@ -28338,7 +28666,7 @@ _Anciens textes_:
   - Code de l'énergie - art. L521-23 (T)
 
 
-#### Chapitre IV : L'information des collectivités territoriales et des habitants riverains sur l'exécution de la concession et leur participation à la gestion des usages de l'eau<a id=262></a>
+#### Chapitre IV : L'information des collectivités territoriales et des habitants riverains sur l'exécution de la concession et leur participation à la gestion des usages de l'eau<a id=267></a>
 
 ###### Article L524-1
 
@@ -28385,9 +28713,9 @@ _Cite_:
   - Code de l'énergie - art. L521-16-1 (V)
 
 
-### TITRE III : LES DISPOSITIONS RELATIVES  AUX INSTALLATIONS HYDRAULIQUES AUTORISEES<a id=263></a>
+### TITRE III : LES DISPOSITIONS RELATIVES  AUX INSTALLATIONS HYDRAULIQUES AUTORISEES<a id=268></a>
 
-#### Chapitre unique<a id=264></a>
+#### Chapitre unique<a id=269></a>
 
 ###### Article L531-1
 
@@ -28558,11 +28886,11 @@ _Cite_:
   - Code de l'énergie -  Section 3 : L'occupation ou la traversée des pr... (V)
 
 
-## LIVRE VI : LES DISPOSITIONS RELATIVES  AU PETROLE, AUX BIOCARBURANTS ET BIOLIQUIDES<a id=265></a>
+## LIVRE VI : LES DISPOSITIONS RELATIVES  AU PETROLE, AUX BIOCARBURANTS ET BIOLIQUIDES<a id=270></a>
 
-### TITRE IER : GENERALITES<a id=266></a>
+### TITRE IER : GENERALITES<a id=271></a>
 
-#### Chapitre unique<a id=267></a>
+#### Chapitre unique<a id=272></a>
 
 ###### Article L611-1
 
@@ -28590,9 +28918,9 @@ _Cite_:
   - Code de l'énergie - art. L651-1
 
 
-### TITRE II : LA RECHERCHE ET L'EXPLOITATION  DES GITES CONTENANT DU PETROLE<a id=268></a>
+### TITRE II : LA RECHERCHE ET L'EXPLOITATION  DES GITES CONTENANT DU PETROLE<a id=273></a>
 
-#### Chapitre unique<a id=269></a>
+#### Chapitre unique<a id=274></a>
 
 ###### Article L621-1
 
@@ -28614,9 +28942,9 @@ _Cite_:
   - Code minier -  Livre Ier : Régime général (V)
 
 
-### TITRE III : LE TRANSPORT<a id=270></a>
+### TITRE III : LE TRANSPORT<a id=275></a>
 
-#### Chapitre Ier : Le transport par navire<a id=271></a>
+#### Chapitre Ier : Le transport par navire<a id=276></a>
 
 ###### Article L631-1
 
@@ -28749,9 +29077,9 @@ _Cité par_:
   - Code de l'énergie - art. L142-15 (V)
 
 
-#### Chapitre II : Le transport par canalisation<a id=272></a>
+#### Chapitre II : Le transport par canalisation<a id=277></a>
 
-##### Section unique<a id=273></a>
+##### Section unique<a id=278></a>
 
 ###### Article L632-1
 
@@ -28794,11 +29122,11 @@ _Cité par_:
   - Code de l'énergie - art. L632-1 (M)
 
 
-### TITRE IV : LE RAFFINAGE ET LE STOCKAGE<a id=274></a>
+### TITRE IV : LE RAFFINAGE ET LE STOCKAGE<a id=279></a>
 
-#### Chapitre Ier : Le raffinage et les produits pétroliers<a id=275></a>
+#### Chapitre Ier : Le raffinage et les produits pétroliers<a id=280></a>
 
-##### Section 1 : Le raffinage<a id=276></a>
+##### Section 1 : Le raffinage<a id=281></a>
 
 ###### Article L641-1
 
@@ -28887,7 +29215,7 @@ _Cite_:
   - Code de l'énergie - art. L641-2 (V)
 
 
-##### Section 2 : Produits pétroliers et carburants renouvelables<a id=277></a>
+##### Section 2 : Produits pétroliers et carburants renouvelables<a id=282></a>
 
 ###### Article L641-4
 
@@ -29042,7 +29370,7 @@ _Cite_:
   - Code de l'énergie - art. L641-7
 
 
-#### Chapitre II : Le stockage<a id=278></a>
+#### Chapitre II : Le stockage<a id=283></a>
 
 ###### Article L642-1
 
@@ -29471,9 +29799,9 @@ _Cite_:
   - Code de l'énergie - art. L642-2 (V)
 
 
-### TITRE V : LA DISTRIBUTION<a id=279></a>
+### TITRE V : LA DISTRIBUTION<a id=284></a>
 
-#### Chapitre unique<a id=280></a>
+#### Chapitre unique<a id=285></a>
 
 ###### Article L651-1
 
@@ -29503,9 +29831,9 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 1655 quater (V)
 
 
-### TITRE VI : LES BIOCARBURANTS ET BIOLIQUIDES<a id=281></a>
+### TITRE VI : LES BIOCARBURANTS ET BIOLIQUIDES<a id=286></a>
 
-#### Chapitre unique<a id=282></a>
+#### Chapitre unique<a id=287></a>
 
 ###### Article L661-1
 
@@ -29787,9 +30115,9 @@ _Créé par_:
   - Ordonnance n°2011-1105 du 14 septembre 2011 - art. 4
 
 
-### TITRE VII : LES DISPOSITIONS PARTICULIERES A L'OUTRE-MER<a id=283></a>
+### TITRE VII : LES DISPOSITIONS PARTICULIERES A L'OUTRE-MER<a id=288></a>
 
-#### Chapitre unique<a id=284></a>
+#### Chapitre unique<a id=289></a>
 
 ###### Article L671-1
 
@@ -29916,11 +30244,11 @@ _Cite_:
   - Code de l'énergie - art. L671-2 (V)
 
 
-## LIVRE VII : LES DISPOSITIONS RELATIVES  AUX RESEAUX DE CHALEUR ET DE FROID<a id=285></a>
+## LIVRE VII : LES DISPOSITIONS RELATIVES  AUX RESEAUX DE CHALEUR ET DE FROID<a id=290></a>
 
-### TITRE IER : LA PRODUCTION DE CHALEUR ET LE CLASSEMENT  DES RESEAUX DE CHALEUR ET DE FROID<a id=286></a>
+### TITRE IER : LA PRODUCTION DE CHALEUR ET LE CLASSEMENT  DES RESEAUX DE CHALEUR ET DE FROID<a id=291></a>
 
-#### Chapitre Ier : La production de chaleur<a id=287></a>
+#### Chapitre Ier : La production de chaleur<a id=292></a>
 
 ###### Article L711-1
 
@@ -30010,9 +30338,9 @@ _Cité par_:
   - Code de l'énergie - art. R711-4 (V)
 
 
-#### Chapitre II : Le classement des réseaux de chaleur et de froid<a id=288></a>
+#### Chapitre II : Le classement des réseaux de chaleur et de froid<a id=293></a>
 
-##### Section 1 : Principes et modalités de classement des réseaux de chaleur et de froid<a id=289></a>
+##### Section 1 : Principes et modalités de classement des réseaux de chaleur et de froid<a id=294></a>
 
 ###### Article L712-1
 
@@ -30113,7 +30441,7 @@ _Créé par_:
   - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
 
 
-##### Section 2 : Constatation des infractions<a id=290></a>
+##### Section 2 : Constatation des infractions<a id=295></a>
 
 ###### Article L712-4
 
@@ -30145,7 +30473,7 @@ _Cité par_:
   - Code de l'énergie - art. R712-12 (V)
 
 
-##### Section 3 : Sanctions pénales<a id=291></a>
+##### Section 3 : Sanctions pénales<a id=296></a>
 
 ###### Article L712-5
 
@@ -30170,7 +30498,7 @@ _Cite_:
   - Code de l'énergie - art. L712-3 (V)
 
 
-#### Chapitre III : Dispositions diverses<a id=292></a>
+#### Chapitre III : Dispositions diverses<a id=297></a>
 
 ###### Article L713-1
 
@@ -30216,7 +30544,7 @@ _Cité par_:
   - Code de l'énergie - art. L714-2 (V)
 
 
-#### Chapitre IV : Contrôles et sanctions<a id=293></a>
+#### Chapitre IV : Contrôles et sanctions<a id=298></a>
 
 ###### Article L714-1
 
@@ -30257,9 +30585,9 @@ _Cite_:
   - Code de l'énergie - art. L713-2 (V)
 
 
-### TITRE II : LE PASSAGE DES CANALISATIONS DE TRANSPORT  ET DE DISTRIBUTION DE CHALEUR ET DE FROID<a id=294></a>
+### TITRE II : LE PASSAGE DES CANALISATIONS DE TRANSPORT  ET DE DISTRIBUTION DE CHALEUR ET DE FROID<a id=299></a>
 
-#### Chapitre unique<a id=295></a>
+#### Chapitre unique<a id=300></a>
 
 ###### Article L721-1
 
@@ -30639,9 +30967,9 @@ _Cite_:
   - Code de l'énergie - art. L721-8 (V)
 
 
-### TITRE III : LE STOCKAGE DE CHALEUR<a id=296></a>
+### TITRE III : LE STOCKAGE DE CHALEUR<a id=301></a>
 
-#### Chapitre unique<a id=297></a>
+#### Chapitre unique<a id=302></a>
 
 ###### Article L731-1
 
@@ -30658,19 +30986,19 @@ _Créé par_:
   - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
 
 
-# Partie réglementaire<a id=298></a>
+# Partie réglementaire<a id=303></a>
 
-## LIVRE IER : L'ORGANISATION GÉNÉRALE DU SECTEUR DE L'ÉNERGIE<a id=299></a>
+## LIVRE IER : L'ORGANISATION GÉNÉRALE DU SECTEUR DE L'ÉNERGIE<a id=304></a>
 
-### TITRE IER : LES PRINCIPES RÉGISSANT LE SECTEUR DE L'ÉNERGIE<a id=300></a>
+### TITRE IER : LES PRINCIPES RÉGISSANT LE SECTEUR DE L'ÉNERGIE<a id=305></a>
 
-#### Chapitre Ier : Les secteurs de l'électricité et du gaz<a id=301></a>
+#### Chapitre Ier : Les secteurs de l'électricité et du gaz<a id=306></a>
 
-##### Section 1 : Organisation des entreprises de transport<a id=302></a>
+##### Section 1 : Organisation des entreprises de transport<a id=307></a>
 
-##### Sous-section 1 : Règles communes aux entreprises de transport d'électricité et aux entreprises de transport de gaz<a id=303></a>
+##### Sous-section 1 : Règles communes aux entreprises de transport d'électricité et aux entreprises de transport de gaz<a id=308></a>
 
-##### Paragraphe 1 : Désignation des gestionnaires de réseaux de transport<a id=304></a>
+##### Paragraphe 1 : Désignation des gestionnaires de réseaux de transport<a id=309></a>
 
 ###### Article R111-1
 
@@ -30977,7 +31305,7 @@ _Cite_:
   - Code de l'énergie - art. R111-5 (V)
 
 
-##### Paragraphe 2 : Règles applicables aux sociétés gestionnaires de réseaux de transport appartenant, au 3 septembre 2009, à une entreprise verticalement intégrée<a id=305></a>
+##### Paragraphe 2 : Règles applicables aux sociétés gestionnaires de réseaux de transport appartenant, au 3 septembre 2009, à une entreprise verticalement intégrée<a id=310></a>
 
 ###### Article D111-14
 
@@ -31107,7 +31435,7 @@ _Cite_:
   - Code de l'énergie - art. L111-30 (V)
 
 
-##### Sous-section 2 : Dispositions propres à l'entreprise de transport d'électricité issue de la séparation juridique prévue à l'article L. 111-7<a id=306></a>
+##### Sous-section 2 : Dispositions propres à l'entreprise de transport d'électricité issue de la séparation juridique prévue à l'article L. 111-7<a id=311></a>
 
 ###### Article D111-16
 
@@ -31156,9 +31484,9 @@ _Créé par_:
   - Décret n°2015-1823 du 30 décembre 2015 - art.
 
 
-##### Section 2 : Organisation des entreprises gestionnaires des réseaux publics de distribution d'électricité et de gaz<a id=307></a>
+##### Section 2 : Organisation des entreprises gestionnaires des réseaux publics de distribution d'électricité et de gaz<a id=312></a>
 
-##### Sous-section 1 : Dispositions communes<a id=308></a>
+##### Sous-section 1 : Dispositions communes<a id=313></a>
 
 ###### Article D111-18
 
@@ -31207,7 +31535,7 @@ _Cite_:
   - Code de l'énergie - art. L111-66 (V)
 
 
-##### Sous-section 2 : Comité du système public de distribution d'électricité des zones interconnectées au réseau métropolitain continental<a id=309></a>
+##### Sous-section 2 : Comité du système public de distribution d'électricité des zones interconnectées au réseau métropolitain continental<a id=314></a>
 
 ###### Article R111-19-1
 
@@ -31474,7 +31802,7 @@ _Créé par_:
   - Décret n°2016-43 du 26 janvier 2016 - art. 1
 
 
-##### Sous-section 3 : Comité du système public de distribution d'électricité de la collectivité territoriale de Corse<a id=310></a>
+##### Sous-section 3 : Comité du système public de distribution d'électricité de la collectivité territoriale de Corse<a id=315></a>
 
 ###### Article R111-19-15
 
@@ -31682,7 +32010,7 @@ _Créé par_:
   - Décret n°2016-705 du 30 mai 2016 - art. 1
 
 
-##### Section 3 : Dispositions particulières à l'entreprise venant aux droits de GDF-Suez<a id=311></a>
+##### Section 3 : Dispositions particulières à l'entreprise venant aux droits de GDF-Suez<a id=316></a>
 
 ###### Article D111-20
 
@@ -31749,9 +32077,9 @@ _Cité par_:
   - Code de l'énergie - art. D111-20 (V)
 
 
-##### Section 4 : Confidentialité des informations sensibles<a id=312></a>
+##### Section 4 : Confidentialité des informations sensibles<a id=317></a>
 
-##### Sous-section 1 : Informations détenues par les gestionnaires du réseau public de transport et des réseaux publics de distribution d'électricité<a id=313></a>
+##### Sous-section 1 : Informations détenues par les gestionnaires du réseau public de transport et des réseaux publics de distribution d'électricité<a id=318></a>
 
 ###### Article R111-22
 
@@ -32129,7 +32457,7 @@ _Cité par_:
   - Code de l'énergie - art. R111-26 (V)
 
 
-##### Sous-section 2 : Informations détenues par les exploitants d'ouvrages de transport, de distribution ou de stockage de gaz naturel, ou d'installations de gaz naturel liquéfié<a id=314></a>
+##### Sous-section 2 : Informations détenues par les exploitants d'ouvrages de transport, de distribution ou de stockage de gaz naturel, ou d'installations de gaz naturel liquéfié<a id=319></a>
 
 ###### Article R111-31
 
@@ -32285,9 +32613,9 @@ _Cite_:
   - Code de l'énergie - art. L143-6
 
 
-##### Section 5 : Dissociation et transparence de la comptabilité<a id=315></a>
+##### Section 5 : Dissociation et transparence de la comptabilité<a id=320></a>
 
-##### Sous-section 1 : Règles applicables aux entreprises électriques<a id=316></a>
+##### Sous-section 1 : Règles applicables aux entreprises électriques<a id=321></a>
 
 ###### Article D111-36
 
@@ -32309,7 +32637,7 @@ _Cite_:
   - Code de l'énergie - art. L111-87 (V)
 
 
-##### Sous-section 2 : Règles applicables aux entreprises gazières<a id=317></a>
+##### Sous-section 2 : Règles applicables aux entreprises gazières<a id=322></a>
 
 ###### Article D111-37
 
@@ -32331,9 +32659,9 @@ _Cite_:
   - Code de l'énergie - art. L111-88 (V)
 
 
-##### Section 6 : Droit d'accès aux réseaux et aux installations<a id=318></a>
+##### Section 6 : Droit d'accès aux réseaux et aux installations<a id=323></a>
 
-##### Sous-section 1 : Droit d'accès aux réseaux de distribution de gaz naturel pour les gestionnaires de réseaux mentionnés au III de l'article L. 2224-31 du code général des collectivités territoriales<a id=319></a>
+##### Sous-section 1 : Droit d'accès aux réseaux de distribution de gaz naturel pour les gestionnaires de réseaux mentionnés au III de l'article L. 2224-31 du code général des collectivités territoriales<a id=324></a>
 
 ###### Article D111-38
 
@@ -32488,7 +32816,7 @@ _Cite_:
   - Code de l'énergie - art. L134-2 (V)
 
 
-##### Sous-section 2 : Dérogation aux conditions d'accès à certaines infrastructures gazières à l'occasion d'une construction ou d'une modification<a id=320></a>
+##### Sous-section 2 : Dérogation aux conditions d'accès à certaines infrastructures gazières à l'occasion d'une construction ou d'une modification<a id=325></a>
 
 ###### Article R111-43
 
@@ -32717,7 +33045,7 @@ _Cite_:
   - Code de l'énergie - art. L142-21 (V)
 
 
-##### Section 7 : Mise à disposition des personnes publiques de données relatives au transport, à la distribution et la production d'électricité, de gaz naturel et de biométhane<a id=321></a>
+##### Section 7 : Mise à disposition des personnes publiques de données relatives au transport, à la distribution et la production d'électricité, de gaz naturel et de biométhane<a id=326></a>
 
 ###### Article D111-52
 
@@ -33078,9 +33406,9 @@ _Cite_:
   - Code de l'énergie - art. D111-57 (V)
 
 
-#### Chapitre II : Le marché pétrolier<a id=322></a>
+#### Chapitre II : Le marché pétrolier<a id=327></a>
 
-##### Section 1 : Mise à disposition des personnes publiques de données relatives à la distribution de produits pétroliers<a id=323></a>
+##### Section 1 : Mise à disposition des personnes publiques de données relatives à la distribution de produits pétroliers<a id=328></a>
 
 ###### Article D112-1
 
@@ -33234,9 +33562,9 @@ _Cite_:
   - Code de l'énergie - art. D112-1 (V)
 
 
-#### Chapitre III : Les réseaux de chaleur<a id=324></a>
+#### Chapitre III : Les réseaux de chaleur<a id=329></a>
 
-##### Section 1 : Mise à disposition des personnes publiques de données relatives à la production et la distribution de chaleur ou de froid<a id=325></a>
+##### Section 1 : Mise à disposition des personnes publiques de données relatives à la production et la distribution de chaleur ou de froid<a id=330></a>
 
 ###### Article D113-1
 
@@ -33480,15 +33808,15 @@ _Cite_:
   - Code de l'énergie - art. D113-2 (V)
 
 
-### TITRE II : LES OBLIGATIONS DE SERVICE PUBLIC ET LA PROTECTION DES CONSOMMATEURS<a id=326></a>
+### TITRE II : LES OBLIGATIONS DE SERVICE PUBLIC ET LA PROTECTION DES CONSOMMATEURS<a id=331></a>
 
-#### Chapitre Ier : Les obligations de service public assignées aux entreprises du secteur de l'électricité et du gaz<a id=327></a>
+#### Chapitre Ier : Les obligations de service public assignées aux entreprises du secteur de l'électricité et du gaz<a id=332></a>
 
-##### Section 1 : Définition des obligations assignées aux entreprises<a id=328></a>
+##### Section 1 : Définition des obligations assignées aux entreprises<a id=333></a>
 
-##### Sous-section 1 : Entreprises gazières<a id=329></a>
+##### Sous-section 1 : Entreprises gazières<a id=334></a>
 
-##### Paragraphe 1 : Obligations assignées aux fournisseurs de gaz<a id=330></a>
+##### Paragraphe 1 : Obligations assignées aux fournisseurs de gaz<a id=335></a>
 
 ###### Article R121-1
 
@@ -33728,7 +34056,7 @@ _Créé par_:
   - Décret n°2015-1823 du 30 décembre 2015 - art.
 
 
-##### Paragraphe 2 : Obligations assignées opérateurs de réseaux de transport de gaz<a id=331></a>
+##### Paragraphe 2 : Obligations assignées opérateurs de réseaux de transport de gaz<a id=336></a>
 
 ###### Article R121-8
 
@@ -33822,7 +34150,7 @@ _Cite_:
   - Code de l'énergie - art. R431-2 (V)
 
 
-##### Paragraphe 3 : Obligations assignées aux opérateurs de réseaux de distribution de gaz<a id=332></a>
+##### Paragraphe 3 : Obligations assignées aux opérateurs de réseaux de distribution de gaz<a id=337></a>
 
 ###### Article R121-11
 
@@ -33922,7 +34250,7 @@ _Cite_:
   - Code de l'énergie - art. R453-1 (V)
 
 
-##### Paragraphe 4 : Obligations assignées aux titulaires de concessions de stockage souterrain de gaz<a id=333></a>
+##### Paragraphe 4 : Obligations assignées aux titulaires de concessions de stockage souterrain de gaz<a id=338></a>
 
 ###### Article R121-14
 
@@ -33966,7 +34294,7 @@ _Créé par_:
   - Décret n°2015-1823 du 30 décembre 2015 - art.
 
 
-##### Paragraphe 5 : Obligations assignées aux exploitants d'installations de gaz naturel liquéfié<a id=334></a>
+##### Paragraphe 5 : Obligations assignées aux exploitants d'installations de gaz naturel liquéfié<a id=339></a>
 
 ###### Article R121-16
 
@@ -33992,7 +34320,7 @@ _Créé par_:
   - Décret n°2015-1823 du 30 décembre 2015 - art.
 
 
-##### Paragraphe 6 : Dispositions diverses<a id=335></a>
+##### Paragraphe 6 : Dispositions diverses<a id=340></a>
 
 ###### Article R121-17
 
@@ -34097,7 +34425,7 @@ _Cite_:
   - Code de l'énergie - art. R431-2 (V)
 
 
-##### Sous-section 2 : Entreprises du secteur de l'électricité<a id=336></a>
+##### Sous-section 2 : Entreprises du secteur de l'électricité<a id=341></a>
 
 ###### Article R121-21
 
@@ -34119,11 +34447,11 @@ _Cite_:
   - Code de l'énergie - art. L121-1 (V)
 
 
-##### Section 2 : Compensation financière des charges résultant des obligations de service public<a id=337></a>
+##### Section 2 : Compensation financière des charges résultant des obligations de service public<a id=342></a>
 
-##### Sous-section 1 : Compensation des charges de service public de l'énergie<a id=338></a>
+##### Sous-section 1 : Compensation des charges de service public de l'énergie<a id=343></a>
 
-##### Paragraphe 1 : Gestion des comptes spécifiques relatifs à la compensation des charges de service public de l'énergie<a id=339></a>
+##### Paragraphe 1 : Gestion des comptes spécifiques relatifs à la compensation des charges de service public de l'énergie<a id=344></a>
 
 ###### Article R121-22
 
@@ -34194,7 +34522,7 @@ _Cite_:
   - Code de l'énergie - art. R121-22 (V)
 
 
-##### Paragraphe 2 : Détermination des charges imputables aux missions de service public de l'énergie<a id=340></a>
+##### Paragraphe 2 : Détermination des charges imputables aux missions de service public de l'énergie<a id=345></a>
 
 ###### Article R121-25
 
@@ -34271,13 +34599,13 @@ _Cité par_:
 
 ###### Article R121-27
 
-I.-Les surcoûts qui peuvent résulter de la mise en œuvre des articles L. 311-10 à L. 311-13-5 dans le cadre des contrats
+I. - Les surcoûts qui peuvent résulter de la mise en œuvre des articles L. 311-10 à L. 311-13-5 dans le cadre des contrats
 conclus en application du 1° de l'article L. 311-12 ou de la mise en œuvre de l'obligation d'achat prévue par les articles L.
 314-1 ou L. 314-26 ainsi que des contrats d'achat mentionnés à l'article L. 121-27 correspondent pour une année donnée : 
 
 1° Lorsqu'ils sont supportés par Electricité de France ou par les organismes agréés mentionnés à l'article L. 314-6-1 dans
 les zones interconnectées au réseau métropolitain continental, à la différence entre le prix d'acquisition de l'électricité
-payé en exécution des contrats en cause et les prix de marché de l'électricité ;
+payé en exécution des contrats en cause et les prix de marché de l'électricité ; 
 
 1° bis Lorsqu'ils sont supportés par l'acheteur de dernier recours mentionné à l'article L. 314-26, à la différence entre le
 prix d'acquisition de l'électricité payé en exécution des contrats en cause et les prix de marché de l'électricité, augmentée
@@ -34298,23 +34626,23 @@ l'objet des contrats mentionnés au 4° ;
 
 4° Lorsqu'ils sont supportés par Electricité de France en raison de l'achat à une entreprise locale de distribution d'un
 surplus d'électricité en application de l'article L. 314-5, à la différence entre le prix d'acquisition de l'électricité payé
-en exécution des contrats en cause et les prix de marché de l'électricité ;
+en exécution des contrats en cause et les prix de marché de l'électricité ; 
 
 5° Aux coûts supportés par Electricité de France, les entreprises locales de distribution et les organismes agréés mentionnés
 à l'article L. 314-6-1 correspondant au montant intégral de la prime mentionnée à l'article L. 314-7 applicable aux
-producteurs également consommateurs de tout ou partie de l'électricité qu'ils produisent.
+producteurs également consommateurs de tout ou partie de l'électricité qu'ils produisent. 
 
-I bis.-Les surcoûts mentionnés au I sont, le cas échéant, diminués des indemnités de résiliation mentionnées à l'article R.
-314-9 et à l'article R. 311-27-3. 
+I bis. - Les surcoûts mentionnés au I sont, le cas échéant, diminués des indemnités de résiliation mentionnées à l'article R.
+314-9, à l'article R. 311-27-3 et à l'article R. 311-32 
 
-I ter.-Les charges qui résultent de la conclusion de contrats ouvrant droit au complément de rémunération, qu'il s'agisse de
-contrats conclus à la suite d'une procédure de mise en concurrence relevant du 2° de l'article L. 311-12 ou des contrats
+I ter. - Les charges qui résultent de la conclusion de contrats ouvrant droit au complément de rémunération, qu'il s'agisse
+de contrats conclus à la suite d'une procédure de mise en concurrence relevant du 2° de l'article L. 311-12 ou des contrats
 prévus à l'article L. 314-18, correspondent pour une année civile donnée aux sommes versées au titre du complément de
 rémunération par Electricité de France aux producteurs bénéficiaires de tels contrats, diminuées le cas échéant des sommes
 dues par les producteurs à Electricité de France au titre des dispositions de l'article R. 314-49 et des indemnités de
-résiliation mentionnées à l'article R. 314-9 et à l'article R. 311-27-3. 
+résiliation mentionnées à l'article R. 314-9, à l'article R. 311-27-3 et à l'article R. 311-32. 
 
-II.-Les surcoûts que peuvent supporter Electricité de France, une entreprise locale de distribution, un organisme agréé
+II. - Les surcoûts que peuvent supporter Electricité de France, une entreprise locale de distribution, un organisme agréé
 mentionné L. 314-6-1 du code de l'énergie ou Electricité de Mayotte lorsqu'ils sont retenus à la suite d'une procédure de
 mise en concurrence prévue aux articles L. 311-10 à L. 311-13-1 ou lorsqu'ils exploitent une installation mentionnée aux 1°
 et 2° de l'article L. 314-1 sont évalués selon les règles prévues, selon le cas, aux 1°, 2° et 3° du I. 
@@ -34324,8 +34652,8 @@ durée et d'équivalent de prix y figurant sont conformes, dans les cas d'applic
 engagements pris par l'entreprise à l'issue de la procédure de mise en concurrence et, dans les cas d'application de
 l'article L. 314-1, aux conditions fixées par les articles R. 314-6 à R. 314-23 et les arrêtés pris pour leur application. 
 
-III.-Les surcoûts supportés par les fournisseurs de gaz naturel au titre de l'achat du biométhane injecté dans les réseaux de
-gaz naturel conformément aux dispositions de l'article L. 446-2 correspondent, pour une année donnée, d'une part, à la
+III. - Les surcoûts supportés par les fournisseurs de gaz naturel au titre de l'achat du biométhane injecté dans les réseaux
+de gaz naturel conformément aux dispositions de l'article L. 446-2 correspondent, pour une année donnée, d'une part, à la
 différence entre le prix d'acquisition du biométhane payé en exécution des contrats en cause et le prix moyen constaté sur le
 marché de gros du gaz naturel de la zone d'équilibrage concernée et, d'autre part, aux coûts de gestion supplémentaires
 directement induits pour ces fournisseurs de gaz naturel par la mise en œuvre de ce dispositif.
@@ -34334,7 +34662,7 @@ directement induits pour ces fournisseurs de gaz naturel par la mise en œuvre d
 
 _Modifié par_:
 
-  - Décret n°2016-1129 du 17 août 2016 - art. 3
+  - Décret n°2016-1726 du 14 décembre 2016 - art. 1
 
 _Cité par_:
 
@@ -34347,15 +34675,23 @@ _Cité par_:
 _Cite_:
 
   - Code de l'énergie - art. L121-27
-  - Code de l'énergie - art. L311-10
-  - Code de l'énergie - art. L311-13-1
-  - Code de l'énergie - art. L314-1
+  - Code de l'énergie - art. L311-10 (V)
+  - Code de l'énergie - art. L311-12 (V)
+  - Code de l'énergie - art. L314-1 (V)
+  - Code de l'énergie - art. L314-18 (V)
+  - Code de l'énergie - art. L314-26 (V)
   - Code de l'énergie - art. L314-5
+  - Code de l'énergie - art. L314-6-1 (V)
+  - Code de l'énergie - art. L314-7 (V)
   - Code de l'énergie - art. L337-1
   - Code de l'énergie - art. L337-8
   - Code de l'énergie - art. L446-2
+  - Code de l'énergie - art. R311-27-3 (V)
+  - Code de l'énergie - art. R311-32 (V)
   - Code de l'énergie - art. R314-23
-  - Code de l'énergie - art. R314-6
+  - Code de l'énergie - art. R314-49 (V)
+  - Code de l'énergie - art. R314-6 (V)
+  - Code de l'énergie - art. R314-9 (V)
 
 
 ###### Article R121-28
@@ -34515,7 +34851,7 @@ _Cité par_:
   - Code de l'énergie - art. R151-1 (V)
 
 
-##### Paragraphe 3 : Procédure de détermination du montant des charges à compenser<a id=341></a>
+##### Paragraphe 3 : Procédure de détermination du montant des charges à compenser<a id=346></a>
 
 ###### Article R121-30
 
@@ -34653,6 +34989,36 @@ _Cité par_:
   - Code de l'énergie - art. R121-59 (M)
 
 
+###### Article R121-31-1
+
+Pour le calcul des charges à compenser, en l'absence de tout constat de manquement en application des deux premiers alinéas
+de l'article L. 311-14 ou de non-conformité par un organisme agréé en application des articles R. 311-47 et R. 311-48 ou par
+un délégataire en application de l'article R. 311-49, les contrats conclus en application du 1° ou du 2° de l'article L.
+311-12 et ceux conclus en application des articles L. 314-1, L. 314-18 et, le cas échéant, L. 314-26 sont présumés conformes
+aux dispositions législatives et réglementaires et aux cahiers des charges des procédures de mise en concurrence à l'issue
+desquelles ils ont été, le cas échéant, conclus. 
+
+Les charges mentionnées à l'article L. 121-7 relatives aux sommes versées par le cocontractant avant le constat d'un
+manquement ou d'une non-conformité sont intégralement compensées, sauf inexacte application des dispositions réglementaires
+applicables ou mauvaise exécution des contrats constatée par ailleurs par la Commission de régulation de l'énergie.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2016-1726 du 14 décembre 2016 - art. 1
+
+_Cite_:
+
+  - Code de l'énergie - art. L121-7 (V)
+  - Code de l'énergie - art. L311-12 (V)
+  - Code de l'énergie - art. L311-14 (V)
+  - Code de l'énergie - art. L314-1 (V)
+  - Code de l'énergie - art. L314-18 (V)
+  - Code de l'énergie - art. L314-26 (V)
+  - Code de l'énergie - art. R311-47 (V)
+
+
 ###### Article R121-32
 
 La Commission de régulation de l'énergie notifie avant le 31 décembre de l'année précédente, à chaque opérateur ayant fait
@@ -34679,7 +35045,7 @@ _Cité par_:
   - Code de l'énergie - art. R121-57 (M)
 
 
-##### Paragraphe 4 : Opérations de reversement aux opérateurs qui supportent les charges imputables aux missions de service public de l'énergie<a id=342></a>
+##### Paragraphe 4 : Opérations de reversement aux opérateurs qui supportent les charges imputables aux missions de service public de l'énergie<a id=347></a>
 
 ###### Article R121-33
 
@@ -34725,7 +35091,7 @@ _Cité par_:
   - Code de l'énergie - art. R121-58 (M)
 
 
-##### Sous-section 2 : Comité de gestion des charges de service public de l'électricité<a id=343></a>
+##### Sous-section 2 : Comité de gestion des charges de service public de l'électricité<a id=348></a>
 
 ###### Article D121-34
 
@@ -34837,7 +35203,7 @@ _Cite_:
   - Code de l'énergie - art. L121-28-1 (V)
 
 
-##### Sous-section 3 : Le Fonds de péréquation de l'électricité<a id=344></a>
+##### Sous-section 3 : Le Fonds de péréquation de l'électricité<a id=349></a>
 
 ###### Article R121-44
 
@@ -35408,7 +35774,7 @@ _Anciens textes_:
   - Code de l'énergie - art. R121-42 (T)
 
 
-##### Sous-section 4 : Dispositions diverses<a id=345></a>
+##### Sous-section 4 : Dispositions diverses<a id=350></a>
 
 ###### Article D121-66
 
@@ -35450,9 +35816,9 @@ _Anciens textes_:
   - Code de l'énergie - art. R121-43 (T)
 
 
-#### Chapitre II : La protection des consommateurs d'électricité et de gaz<a id=346></a>
+#### Chapitre II : La protection des consommateurs d'électricité et de gaz<a id=351></a>
 
-##### Section 1 : Dispositions relatives au médiateur de l'énergie<a id=347></a>
+##### Section 1 : Dispositions relatives au médiateur de l'énergie<a id=352></a>
 
 ###### Article R122-1
 
@@ -35796,9 +36162,9 @@ _Abrogé par_:
   - Décret n°2017-1113 du 27 juin 2017 - art. 2
 
 
-##### Section 2 : Aide en faveur des entreprises exposées à un risque significatif de fuite de carbone en raison des coûts du système d'échange de quotas d'émission de gaz à effet de serre répercutés sur les prix de l'électricité<a id=348></a>
+##### Section 2 : Aide en faveur des entreprises exposées à un risque significatif de fuite de carbone en raison des coûts du système d'échange de quotas d'émission de gaz à effet de serre répercutés sur les prix de l'électricité<a id=353></a>
 
-##### Sous-section 1 : Règles applicables au calcul de l'aide<a id=349></a>
+##### Sous-section 1 : Règles applicables au calcul de l'aide<a id=354></a>
 
 ###### Article R122-14
 
@@ -36141,7 +36507,7 @@ _Créé par_:
   - Décret n°2016-1095 du 11 août 2016 - art. 1
 
 
-##### Sous-section 2 : Modalités de versement de l'aide et d'instruction des demandes<a id=350></a>
+##### Sous-section 2 : Modalités de versement de l'aide et d'instruction des demandes<a id=355></a>
 
 ###### Article R122-25
 
@@ -36284,7 +36650,7 @@ _Cite_:
   - Code de commerce - art. R225-105-2 (V)
 
 
-##### Sous-section 3 : Contrôles<a id=351></a>
+##### Sous-section 3 : Contrôles<a id=356></a>
 
 ###### Article R122-30
 
@@ -36334,7 +36700,7 @@ _Cite_:
   - Code rural - art. L313-1 (V)
 
 
-#### Chapitre IV : La protection des consommateurs en situation de précarité énergétique<a id=352></a>
+#### Chapitre IV : La protection des consommateurs en situation de précarité énergétique<a id=357></a>
 
 ###### Article R124-1
 
@@ -37003,9 +37369,9 @@ _Modifié par_:
   - Décret n°2016-555 du 6 mai 2016 - art. 5 (V)
 
 
-### TITRE III : LA COMMISSION DE RÉGULATION DE L'ÉNERGIE<a id=353></a>
+### TITRE III : LA COMMISSION DE RÉGULATION DE L'ÉNERGIE<a id=358></a>
 
-#### Chapitre II : Organisation<a id=354></a>
+#### Chapitre II : Organisation<a id=359></a>
 
 ###### Article R132-1
 
@@ -37045,7 +37411,7 @@ _Créé par_:
   - Décret n°2015-1823 du 30 décembre 2015 - art.
 
 
-#### Chapitre III : Fonctionnement<a id=355></a>
+#### Chapitre III : Fonctionnement<a id=360></a>
 
 ###### Article D133-11
 
@@ -37367,9 +37733,9 @@ _Cité par_:
   - Code de l'énergie - art. D133-13 (V)
 
 
-#### Chapitre IV : Attributions<a id=356></a>
+#### Chapitre IV : Attributions<a id=361></a>
 
-##### Section 1 : Consultations obligatoires sur les projets de décisions<a id=357></a>
+##### Section 1 : Consultations obligatoires sur les projets de décisions<a id=362></a>
 
 ###### Article R134-1
 
@@ -37441,7 +37807,7 @@ _Cite_:
   - Code de l'énergie - art. R134-1 (V)
 
 
-##### Section 2 : Rapports, avis, consultations et propositions<a id=358></a>
+##### Section 2 : Rapports, avis, consultations et propositions<a id=363></a>
 
 ###### Article R134-3
 
@@ -37530,9 +37896,9 @@ _Créé par_:
   - Décret n°2015-1823 du 30 décembre 2015 - art.
 
 
-##### Section 3 : Procédure applicable devant le comité de règlement des différends et des sanctions de la Commission de régulation de l'énergie en matière de règlement des différends<a id=359></a>
+##### Section 3 : Procédure applicable devant le comité de règlement des différends et des sanctions de la Commission de régulation de l'énergie en matière de règlement des différends<a id=364></a>
 
-##### Sous-section 1 : Saisine du comité de règlement des différends et des sanctions et instruction du différend<a id=360></a>
+##### Sous-section 1 : Saisine du comité de règlement des différends et des sanctions et instruction du différend<a id=365></a>
 
 ###### Article R134-7
 
@@ -37708,7 +38074,7 @@ _Créé par_:
   - Décret n°2015-1823 du 30 décembre 2015 - art.
 
 
-##### Sous-section 2 : Séances du comité et décision<a id=361></a>
+##### Sous-section 2 : Séances du comité et décision<a id=366></a>
 
 ###### Article R134-14
 
@@ -37807,7 +38173,7 @@ _Créé par_:
   - Décret n°2015-1823 du 30 décembre 2015 - art.
 
 
-##### Section 4 : Procédure applicable devant le comité de règlement des différends et des sanctions de la Commission de régulation de l'énergie en matière de mesures conservatoires<a id=362></a>
+##### Section 4 : Procédure applicable devant le comité de règlement des différends et des sanctions de la Commission de régulation de l'énergie en matière de mesures conservatoires<a id=367></a>
 
 ###### Article R134-18
 
@@ -37878,7 +38244,7 @@ _Cite_:
   - Code de l'énergie - art. L134-24 (V)
 
 
-##### Section 5 : Recours devant la cour d'appel de Paris<a id=363></a>
+##### Section 5 : Recours devant la cour d'appel de Paris<a id=368></a>
 
 ###### Article R134-21
 
@@ -38045,9 +38411,9 @@ _Créé par_:
   - Décret n°2015-1823 du 30 décembre 2015 - art.
 
 
-##### Section 6 : Procédure applicable devant le comité de règlement des différends et des sanctions de la Commission de régulation de l'énergie en matière de sanctions<a id=364></a>
+##### Section 6 : Procédure applicable devant le comité de règlement des différends et des sanctions de la Commission de régulation de l'énergie en matière de sanctions<a id=369></a>
 
-##### Sous-section 1 : Saisine du comité et instruction<a id=365></a>
+##### Sous-section 1 : Saisine du comité et instruction<a id=370></a>
 
 ###### Article L134-31
 
@@ -38220,7 +38586,7 @@ _Cite_:
   - Code de l'énergie - art. R134-10 (V)
 
 
-##### Sous-section 2 : Séances du comité et décision<a id=366></a>
+##### Sous-section 2 : Séances du comité et décision<a id=371></a>
 
 ###### Article R134-35
 
@@ -38278,7 +38644,7 @@ _Créé par_:
   - Décret n°2015-1823 du 30 décembre 2015 - art.
 
 
-##### Section 7 : Règlement intérieur du comité de règlement des différends et des sanctions<a id=367></a>
+##### Section 7 : Règlement intérieur du comité de règlement des différends et des sanctions<a id=372></a>
 
 ###### Article R134-37
 
@@ -38312,9 +38678,9 @@ _Cite_:
   - Code de l'énergie - art. L132-5 (M)
 
 
-#### Chapitre V : Pouvoirs d'enquête et de contrôle<a id=368></a>
+#### Chapitre V : Pouvoirs d'enquête et de contrôle<a id=373></a>
 
-##### Section 1 : Recherche et constatation des infractions<a id=369></a>
+##### Section 1 : Recherche et constatation des infractions<a id=374></a>
 
 ###### Article R135-1
 
@@ -38447,11 +38813,11 @@ _Cite_:
   - Code de l'énergie - art. L135-3 (V)
 
 
-### TITRE IV : LE RÔLE DE L'ÉTAT<a id=370></a>
+### TITRE IV : LE RÔLE DE L'ÉTAT<a id=375></a>
 
-#### Chapitre Ier : L'évaluation des besoins et la programmation des capacités énergétiques<a id=371></a>
+#### Chapitre Ier : L'évaluation des besoins et la programmation des capacités énergétiques<a id=376></a>
 
-##### Section 1 : Dispositions communes à toutes les énergies<a id=372></a>
+##### Section 1 : Dispositions communes à toutes les énergies<a id=377></a>
 
 ###### Article D141-1
 
@@ -38529,9 +38895,9 @@ _Cite_:
   - Code de l'énergie - art. L141-5 (V)
 
 
-##### Section  2 : Dispositions spécifiques à l'électricité<a id=373></a>
+##### Section  2 : Dispositions spécifiques à l'électricité<a id=378></a>
 
-##### Sous-section 1 : Le bilan prévisionnel pluriannuel de l'offre et de la demande<a id=374></a>
+##### Sous-section 1 : Le bilan prévisionnel pluriannuel de l'offre et de la demande<a id=379></a>
 
 ###### Article D141-3
 
@@ -38701,7 +39067,7 @@ _Modifié par_:
   - Décret n°2016-350 du 24 mars 2016 - art. 1
 
 
-##### Sous-section 2 : Le bilan électrique national<a id=375></a>
+##### Sous-section 2 : Le bilan électrique national<a id=380></a>
 
 ###### Article D141-9
 
@@ -38770,7 +39136,7 @@ _Modifié par_:
   - Décret n°2016-350 du 24 mars 2016 - art. 1
 
 
-##### Sous-section 3 : La transmission des données au gestionnaire du réseau de transport pour l'élaboration des bilans<a id=376></a>
+##### Sous-section 3 : La transmission des données au gestionnaire du réseau de transport pour l'élaboration des bilans<a id=381></a>
 
 ###### Article D141-11
 
@@ -38931,7 +39297,7 @@ _Créé par_:
   - Décret n°2016-350 du 24 mars 2016 - art. 1
 
 
-##### Sous-section 4 :  Le critère de défaillance<a id=377></a>
+##### Sous-section 4 :  Le critère de défaillance<a id=382></a>
 
 ###### Article D141-12-6
 
@@ -38949,7 +39315,7 @@ _Cite_:
   - Code de l'énergie - art. L141-7 (V)
 
 
-##### Section 3 : La programmation des capacités d'approvisionnement en gaz naturel<a id=378></a>
+##### Section 3 : La programmation des capacités d'approvisionnement en gaz naturel<a id=383></a>
 
 ###### Article D141-13
 
@@ -38974,7 +39340,7 @@ _Créé par_:
   - Décret n°2015-1823 du 30 décembre 2015 - art.
 
 
-##### Section 4 : La programmation des investissements pour la production de chaleur<a id=379></a>
+##### Section 4 : La programmation des investissements pour la production de chaleur<a id=384></a>
 
 ###### Article D141-14
 
@@ -38997,11 +39363,11 @@ _Créé par_:
   - Décret n°2015-1823 du 30 décembre 2015 - art.
 
 
-#### Chapitre II : Le suivi de la mise en œuvre de la politique énergetique<a id=380></a>
+#### Chapitre II : Le suivi de la mise en œuvre de la politique énergetique<a id=385></a>
 
-##### Section 1 : Accès du Gouvernement aux informations nécessaires à la politique énergétique<a id=381></a>
+##### Section 1 : Accès du Gouvernement aux informations nécessaires à la politique énergétique<a id=386></a>
 
-##### Sous-section 1 : Dispositions communes<a id=382></a>
+##### Sous-section 1 : Dispositions communes<a id=387></a>
 
 ###### Article D142-1
 
@@ -39486,7 +39852,7 @@ _Codifié par_:
   - DEPLACE: Décret n°2016-350 du 24 mars 2016 - art. 2
 
 
-##### Sous-section 2 : Dispositions spécifiques à l'électricité<a id=383></a>
+##### Sous-section 2 : Dispositions spécifiques à l'électricité<a id=388></a>
 
 ###### Article D142-9-1
 
@@ -39603,9 +39969,9 @@ _Cite_:
   - Code de l'énergie -  Sous-section 1 : Informations détenues par les ... (V)
 
 
-##### Section 2 : Pouvoirs de contrôle et sanctions administratives<a id=384></a>
+##### Section 2 : Pouvoirs de contrôle et sanctions administratives<a id=389></a>
 
-##### Sous-section 1 : Dispositions propres au secteur pétrolier<a id=385></a>
+##### Sous-section 1 : Dispositions propres au secteur pétrolier<a id=390></a>
 
 ###### Article D142-10
 
@@ -39747,17 +40113,17 @@ _Cite_:
   - Code de l'énergie - art. L142-15 (V)
 
 
-##### Sous-section 2 : Dispositions propres aux secteurs électrique et gazier<a id=386></a>
+##### Sous-section 2 : Dispositions propres aux secteurs électrique et gazier<a id=391></a>
 
-##### Paragraphe 1 : Pouvoirs d'enquête<a id=387></a>
+##### Paragraphe 1 : Pouvoirs d'enquête<a id=392></a>
 
 ###### Article R142-15
 
 Des arrêtés pris par le ministre chargé de l'énergie ou le ministre chargé de l'économie habilitent, parmi les fonctionnaires
-et agents placés sous son autorité ayant les connaissances techniques et juridiques nécessaires, les enquêteurs chargés de
-procéder aux enquêtes prévues à l'article L. 142-20. 
+et agents publics du ministère chargé de l'énergie et du ministère chargé de l'économie ayant les connaissances techniques et
+juridiques nécessaires, ceux qui sont chargés de procéder aux enquêtes prévues à l'article L. 142-20.
 
-Ces arrêtés précisent l'objet et la durée de l'habilitation.
+Ces arrêtés précisent l'objet la circonscription géographique, et la durée de l'habilitation.
 
 **Liens relatifs à cet article**
 
@@ -39765,30 +40131,26 @@ _Codifié par_:
 
   - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2015-1823 du 30 décembre 2015 - art.
+  - Décret n°2016-1726 du 14 décembre 2016 - art. 1
 
 _Cite_:
 
-  - Code de l'énergie - art. L142-20 (V)
+  - Code de l'énergie - art. L142-20
 
 _Cité par_:
 
   - Code de l'énergie - art. R142-16 (V)
-  - Code de l'énergie - art. R142-17 (M)
+  - Code de l'énergie - art. R142-17 (V)
 
 
 ###### Article R142-16
 
-Des arrêtés du ministre chargé de l'énergie habilitent, parmi les fonctionnaires et agents placés sous son autorité ayant les
-connaissances techniques et juridiques nécessaires, après avis du procureur de la République auprès du tribunal de grande
-instance de leur résidence administrative, les enquêteurs chargés de rechercher et de constater par procès-verbal les
-infractions aux dispositions du présent code relatives aux marchés du gaz et de l'électricité et au service public de
-l'énergie. 
-
-Les fonctionnaires ou agents ainsi habilités prêtent serment devant le tribunal de grande instance de leur résidence
-administrative. 
+Les fonctionnaires et agents publics habilités par le ministre chargé de l'énergie ou par le ministre chargé de l'économie en
+application de l'article R. 142-15 sont qualifiés pour procéder, dans l'exercice de leurs fonctions, à la recherche et à la
+constatation des infractions mentionnées à l'article L. 142-37, après leur assermentation devant le tribunal de grande
+instance de leur résidence administrative. 
 
 La formule du serment est la suivante : 
 
@@ -39802,18 +40164,24 @@ _Codifié par_:
 
   - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2015-1823 du 30 décembre 2015 - art.
+  - Décret n°2016-1726 du 14 décembre 2016 - art. 1
+
+_Cite_:
+
+  - Code de l'énergie - art. L142-37 (V)
+  - Code de l'énergie - art. R142-15 (V)
 
 
 ###### Article R142-17
 
-Un titre portant mention de l'habilitation, de son objet et de sa durée est délivré par le ministre compétent aux enquêteurs
-qu'il a désignés en application des articles R. 142-15 et R. 142-16. Il peut être renouvelé. Il est immédiatement restitué
-par l'intéressé en cas de cessation des fonctions ayant justifié l'habilitation ou en cas de retrait de cette dernière. 
+Un titre portant mention de l'habilitation prévue à l'article R. 142-15, ainsi que de la durée et du champ géographique de sa
+validité, est délivré par le ministre compétent aux agents et fonctionnaires mentionnés à l'article R. 142-16. Il peut être
+renouvelé. Il est immédiatement restitué par l'intéressé à la cessation des fonctions ayant justifié l'habilitation ou en cas
+de retrait de celle-ci.
 
-Le modèle du titre d'habilitation est établi par le ministre chargé de l'énergie.
+Des modèles de titres d'habilitation sont établis par le ministre chargé de l'énergie. 
 
 - Mention de la prestation de serment est portée, le cas échéant, sur ce titre par les soins du greffier du tribunal de
 grande instance. 
@@ -39826,9 +40194,9 @@ _Codifié par_:
 
   - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2015-1823 du 30 décembre 2015 - art.
+  - Décret n°2016-1726 du 14 décembre 2016 - art. 1
 
 _Cite_:
 
@@ -39882,7 +40250,7 @@ _Cite_:
   - Code de l'énergie - art. L142-37 (V)
 
 
-##### Paragraphe 2 : Recherche et constatation des manquements et sanctions administratives<a id=388></a>
+##### Paragraphe 2 : Recherche et constatation des manquements et sanctions administratives<a id=393></a>
 
 ###### Article R142-20
 
@@ -39904,7 +40272,7 @@ _Cite_:
   - Code de l'énergie - art. L142-30 (V)
 
 
-##### Section 3 : Le Conseil supérieur de l'énergie<a id=389></a>
+##### Section 3 : Le Conseil supérieur de l'énergie<a id=394></a>
 
 ###### Article R142-21
 
@@ -40154,7 +40522,7 @@ _Créé par_:
   - Décret n°2015-1823 du 30 décembre 2015 - art.
 
 
-#### Chapitre III : Les mesures de sauvegarde en cas de crise<a id=390></a>
+#### Chapitre III : Les mesures de sauvegarde en cas de crise<a id=395></a>
 
 ###### Article R143-1
 
@@ -40186,9 +40554,9 @@ _Cite_:
   - Code de l'énergie - art. L342-5 (V)
 
 
-#### Chapitre IV : L'organisation de la recherche en matière d'énergie<a id=391></a>
+#### Chapitre IV : L'organisation de la recherche en matière d'énergie<a id=396></a>
 
-##### Section 1 : La stratégie nationale de la recherche en matière d'énergie<a id=392></a>
+##### Section 1 : La stratégie nationale de la recherche en matière d'énergie<a id=397></a>
 
 ###### Article R144-1
 
@@ -40207,9 +40575,9 @@ _Créé par_:
   - Décret n°2015-1823 du 30 décembre 2015 - art.
 
 
-##### Section 2 : IFP Energies nouvelles et l'Ecole nationale supérieure du pétrole et des moteurs<a id=393></a>
+##### Section 2 : IFP Energies nouvelles et l'Ecole nationale supérieure du pétrole et des moteurs<a id=398></a>
 
-##### Sous-section 1 : IFP Energies nouvelles<a id=394></a>
+##### Sous-section 1 : IFP Energies nouvelles<a id=399></a>
 
 ###### Article R144-2
 
@@ -40869,7 +41237,7 @@ _Cite_:
   - Code de l'énergie - art. R144-21 (V)
 
 
-##### Sous-section 2 : L'Ecole nationale supérieure du pétrole et des moteurs<a id=395></a>
+##### Sous-section 2 : L'Ecole nationale supérieure du pétrole et des moteurs<a id=400></a>
 
 ###### Article D144-24
 
@@ -41001,11 +41369,11 @@ _Créé par_:
   - Décret n°2015-1823 du 30 décembre 2015 - art.
 
 
-### TITRE V : DISPOSITIONS RELATIVES À L'OUTRE MER<a id=396></a>
+### TITRE V : DISPOSITIONS RELATIVES À L'OUTRE MER<a id=401></a>
 
-#### Chapitre Ier : Dispositions particulières aux collectivités régies par l'article 73 de la Constitution et à Saint-Pierre-et-Miquelon<a id=397></a>
+#### Chapitre Ier : Dispositions particulières aux collectivités régies par l'article 73 de la Constitution et à Saint-Pierre-et-Miquelon<a id=402></a>
 
-##### Section unique : Comités du système public de distribution d'électricité des zones non interconnectées au réseau métropolitain continental<a id=398></a>
+##### Section unique : Comités du système public de distribution d'électricité des zones non interconnectées au réseau métropolitain continental<a id=403></a>
 
 ###### Article R151-1
 
@@ -41236,7 +41604,7 @@ _Créé par_:
   - Décret n°2016-705 du 30 mai 2016 - art. 2
 
 
-#### Chapitre II : Dispositions applicables aux îles Wallis et Futuna<a id=399></a>
+#### Chapitre II : Dispositions applicables aux îles Wallis et Futuna<a id=404></a>
 
 ###### Article R152-1
 
@@ -41259,9 +41627,9 @@ _Anciens textes_:
   - Code de l'énergie - art. R151-1 (T)
 
 
-### TITRE VI : LES DISPOSITIONS RELATIVES AU PERSONNEL DES ENTREPRISES ÉLECTRIQUES ET GAZIÈRES<a id=400></a>
+### TITRE VI : LES DISPOSITIONS RELATIVES AU PERSONNEL DES ENTREPRISES ÉLECTRIQUES ET GAZIÈRES<a id=405></a>
 
-#### Chapitre unique<a id=401></a>
+#### Chapitre unique<a id=406></a>
 
 ###### Article R161-1
 
@@ -41503,13 +41871,13 @@ _Créé par_:
   - Décret n°2015-1823 du 30 décembre 2015 - art.
 
 
-## LIVRE II : LA MAÎTRISE DE LA DEMANDE D'ÉNERGIE ET LE DÉVELOPPEMENT DES ÉNERGIES RENOUVELABLES<a id=402></a>
+## LIVRE II : LA MAÎTRISE DE LA DEMANDE D'ÉNERGIE ET LE DÉVELOPPEMENT DES ÉNERGIES RENOUVELABLES<a id=407></a>
 
-### TITRE IER : DISPOSITIONS GÉNÉRALES<a id=403></a>
+### TITRE IER : DISPOSITIONS GÉNÉRALES<a id=408></a>
 
-#### Chapitre unique<a id=404></a>
+#### Chapitre unique<a id=409></a>
 
-##### Section unique : Stratégie nationale de mobilisation de la biomasse<a id=405></a>
+##### Section unique : Stratégie nationale de mobilisation de la biomasse<a id=410></a>
 
 ###### Article D211-1
 
@@ -41644,11 +42012,11 @@ _Créé par_:
   - Décret n°2016-1134 du 19 août 2016 - art. 1
 
 
-### TITRE II : LES CERTIFICATS D'ÉCONOMIES D'ÉNERGIE<a id=406></a>
+### TITRE II : LES CERTIFICATS D'ÉCONOMIES D'ÉNERGIE<a id=411></a>
 
-#### Chapitre Ier : Le dispositif des certificats d'économies d'énergie<a id=407></a>
+#### Chapitre Ier : Le dispositif des certificats d'économies d'énergie<a id=412></a>
 
-##### Section 1 : Obligations individuelles d'économies d'énergie<a id=408></a>
+##### Section 1 : Obligations individuelles d'économies d'énergie<a id=413></a>
 
 ###### Article R221-1
 
@@ -42195,7 +42563,7 @@ _Cité par_:
   - Code de l'énergie - art. R221-28 (VD)
 
 
-##### Section 2 : Délivrance des certificats d'économies d'énergie<a id=409></a>
+##### Section 2 : Délivrance des certificats d'économies d'énergie<a id=414></a>
 
 ###### Article R221-14
 
@@ -42532,7 +42900,7 @@ _Créé par_:
   - Décret n°2015-1823 du 30 décembre 2015 - art.
 
 
-##### Section 3 : Registre national des certificats d'économies d'énergie<a id=410></a>
+##### Section 3 : Registre national des certificats d'économies d'énergie<a id=415></a>
 
 ###### Article R221-26
 
@@ -42664,9 +43032,9 @@ _Créé par_:
   - Décret n°2015-1823 du 30 décembre 2015 - art.
 
 
-#### Chapitre II : Les sanctions administratives et pénales<a id=411></a>
+#### Chapitre II : Les sanctions administratives et pénales<a id=416></a>
 
-##### Section 1 : Manquement aux obligations d'économies d'énergie et aux obligations déclaratives<a id=412></a>
+##### Section 1 : Manquement aux obligations d'économies d'énergie et aux obligations déclaratives<a id=417></a>
 
 ###### Article R222-1
 
@@ -42720,7 +43088,7 @@ _Cite_:
   - Code de l'énergie - art. R221-4-1 (V)
 
 
-##### Section 2 : Contrôle de la régularité de la délivrance des certificats d'économies d'énergie<a id=413></a>
+##### Section 2 : Contrôle de la régularité de la délivrance des certificats d'économies d'énergie<a id=418></a>
 
 ###### Article R222-3
 
@@ -42981,11 +43349,11 @@ _Cite_:
   - Code de l'énergie - art. L222-2 (V)
 
 
-### TITRE III : LA PERFORMANCE ÉNERGÉTIQUE<a id=414></a>
+### TITRE III : LA PERFORMANCE ÉNERGÉTIQUE<a id=419></a>
 
-#### Chapitre III : La performance énergétique dans les entreprises<a id=415></a>
+#### Chapitre III : La performance énergétique dans les entreprises<a id=420></a>
 
-##### Section 1 : Dispositions générales<a id=416></a>
+##### Section 1 : Dispositions générales<a id=421></a>
 
 ###### Article D233-3
 
@@ -43229,7 +43597,7 @@ _Cite_:
   - Code de l'énergie - art. L233-1 (V)
 
 
-##### Section 2 : Dispositions particulières aux gestionnaires de réseaux d'électricité et d'infrastructures de gaz<a id=417></a>
+##### Section 2 : Dispositions particulières aux gestionnaires de réseaux d'électricité et d'infrastructures de gaz<a id=422></a>
 
 ###### Article D233-10
 
@@ -43407,7 +43775,7 @@ _Créé par_:
   - Décret n°2015-1823 du 30 décembre 2015 - art.
 
 
-#### Chapitre IV : La performance énergetique dans la commande publique<a id=418></a>
+#### Chapitre IV : La performance énergetique dans la commande publique<a id=423></a>
 
 ###### Article R234-1
 
@@ -43647,11 +44015,11 @@ _Cite_:
   - Code de l'énergie - art. R234-5
 
 
-### TITRE IV : LES INSTALLATIONS DE CHAUFFAGE ET DE CLIMATISATION<a id=419></a>
+### TITRE IV : LES INSTALLATIONS DE CHAUFFAGE ET DE CLIMATISATION<a id=424></a>
 
-#### Chapitre unique<a id=420></a>
+#### Chapitre unique<a id=425></a>
 
-##### Section 1 : Contrats relatifs à l'exploitation des installations de chauffage ou de climatisation<a id=421></a>
+##### Section 1 : Contrats relatifs à l'exploitation des installations de chauffage ou de climatisation<a id=426></a>
 
 ###### Article R241-1
 
@@ -43826,9 +44194,9 @@ _Cite_:
   - Code de l'énergie - art. R241-3 (V)
 
 
-##### Section 2 : Dispositions relatives à la consommation énergétique des immeubles<a id=422></a>
+##### Section 2 : Dispositions relatives à la consommation énergétique des immeubles<a id=427></a>
 
-##### Sous-section 1 : Equipement obligatoire des immeubles collectifs et répartition des frais de chauffage<a id=423></a>
+##### Sous-section 1 : Equipement obligatoire des immeubles collectifs et répartition des frais de chauffage<a id=428></a>
 
 ###### Article R241-6
 
@@ -44064,7 +44432,7 @@ _Cite_:
   - Code de l'énergie - art. R241-12 (V)
 
 
-##### Sous-section 2 : Dispositions relatives aux frais d'eau chaude dans les immeubles collectifs<a id=424></a>
+##### Sous-section 2 : Dispositions relatives aux frais d'eau chaude dans les immeubles collectifs<a id=429></a>
 
 ###### Article R241-15
 
@@ -44225,7 +44593,7 @@ _Créé par_:
   - Décret n°2015-1823 du 30 décembre 2015 - art.
 
 
-##### Sous-section 3 : Dispositions relatives à la régulation des installations de chauffage<a id=425></a>
+##### Sous-section 3 : Dispositions relatives à la régulation des installations de chauffage<a id=430></a>
 
 ###### Article R241-21
 
@@ -44310,7 +44678,7 @@ _Créé par_:
   - Décret n°2015-1823 du 30 décembre 2015 - art.
 
 
-##### Sous-section 4 : Dispositions relatives à la limitation de la température de chauffage<a id=426></a>
+##### Sous-section 4 : Dispositions relatives à la limitation de la température de chauffage<a id=431></a>
 
 ###### Article R241-25
 
@@ -44452,7 +44820,7 @@ _Cité par_:
   - Code de l'énergie - art. R241-31 (V)
 
 
-##### Sous-section 5 : Dispositions relatives au refroidissement des immeubles<a id=427></a>
+##### Sous-section 5 : Dispositions relatives au refroidissement des immeubles<a id=432></a>
 
 ###### Article R241-30
 
@@ -44499,7 +44867,7 @@ _Cite_:
   - Code de l'énergie - art. R241-30 (V)
 
 
-##### Sous-section 6 : Dispositions relatives à l'outre-mer<a id=428></a>
+##### Sous-section 6 : Dispositions relatives à l'outre-mer<a id=433></a>
 
 ###### Article R241-32
 
@@ -44548,7 +44916,7 @@ _Créé par_:
   - Décret n°2015-1823 du 30 décembre 2015 - art.
 
 
-##### Section 3 : Réajustement de la puissance souscrite dans les contrats d'abonnement aux réseaux de chaleur<a id=429></a>
+##### Section 3 : Réajustement de la puissance souscrite dans les contrats d'abonnement aux réseaux de chaleur<a id=434></a>
 
 ###### Article D241-35
 
@@ -44620,13 +44988,13 @@ _Créé par_:
   - Décret n°2015-1823 du 30 décembre 2015 - art.
 
 
-### TITRE V : LES MESURES PARTICULIÈRES AUX VÉHICULES<a id=430></a>
+### TITRE V : LES MESURES PARTICULIÈRES AUX VÉHICULES<a id=435></a>
 
-#### Chapitre unique<a id=431></a>
+#### Chapitre unique<a id=436></a>
 
-##### Section unique :  Aides à l'achat ou à la location de véhicules automobiles peu polluants<a id=432></a>
+##### Section unique :  Aides à l'achat ou à la location de véhicules automobiles peu polluants<a id=437></a>
 
-##### Sous-section 1 : Conditions d'attribution<a id=433></a>
+##### Sous-section 1 : Conditions d'attribution<a id=438></a>
 
 ###### Article D251-1
 
@@ -44891,7 +45259,7 @@ _Cite_:
   - Code de l'énergie - art. D251-3 (V)
 
 
-##### Sous-section 2 : Montants et modalités de versement des aides<a id=434></a>
+##### Sous-section 2 : Montants et modalités de versement des aides<a id=439></a>
 
 ###### Article D251-7
 
@@ -45136,11 +45504,11 @@ _Cite_:
   - Code de l'énergie - art. D251-3
 
 
-### TITRE VII : L'EFFACEMENT DE CONSOMMATION D'ÉLECTRICITE<a id=435></a>
+### TITRE VII : L'EFFACEMENT DE CONSOMMATION D'ÉLECTRICITE<a id=440></a>
 
-#### Chapitre unique<a id=436></a>
+#### Chapitre unique<a id=441></a>
 
-##### Section 1 : Définitions<a id=437></a>
+##### Section 1 : Définitions<a id=442></a>
 
 ###### Article R271-1
 
@@ -45231,7 +45599,7 @@ _Cité par_:
   - Code de l'énergie - art. R123-1 (Ab)
 
 
-##### Section 2 : Méthodologie utilisée pour établir les règles permettant la valorisation des effacements de consommation d'électricité<a id=438></a>
+##### Section 2 : Méthodologie utilisée pour établir les règles permettant la valorisation des effacements de consommation d'électricité<a id=443></a>
 
 ###### Article R271-3
 
@@ -45575,13 +45943,13 @@ _Cite_:
   - Code de l'énergie - art. R271-3 (V)
 
 
-## LIVRE III : LES DISPOSITIONS RELATIVES À L'ÉLECTRICITÉ<a id=439></a>
+## LIVRE III : LES DISPOSITIONS RELATIVES À L'ÉLECTRICITÉ<a id=444></a>
 
-### TITRE Ier : LA PRODUCTION<a id=440></a>
+### TITRE Ier : LA PRODUCTION<a id=445></a>
 
-#### Chapitre Ier : Les dispositions générales relatives à la production<a id=441></a>
+#### Chapitre Ier : Les dispositions générales relatives à la production<a id=446></a>
 
-##### Section 1 : L'autorisation d'exploiter<a id=442></a>
+##### Section 1 : L'autorisation d'exploiter<a id=447></a>
 
 ###### Article D311-3
 
@@ -45949,7 +46317,7 @@ _Anciens textes_:
   - Code de l'énergie - art. R311-12 (T)
 
 
-##### Section 2 : Procédures de mise en concurrence<a id=443></a>
+##### Section 2 : Procédures de mise en concurrence<a id=448></a>
 
 ###### Article R311-12
 
@@ -46001,7 +46369,7 @@ directives 2004/8/CE et 2006/32/CE.
   - DEPLACE: Décret n°2016-1129 du 17 août 2016 - art. 1
 
 
-##### Sous-section 1 : La procédure d'appel d'offres<a id=444></a>
+##### Sous-section 1 : La procédure d'appel d'offres<a id=449></a>
 
 ###### Article R311-13
 
@@ -46409,7 +46777,7 @@ _Cité par_:
   - Code de l'énergie - art. R311-25-15 (V)
 
 
-##### Sous-section 2 : La procédure de dialogue concurrentiel<a id=445></a>
+##### Sous-section 2 : La procédure de dialogue concurrentiel<a id=450></a>
 
 ###### Article R311-25-1
 
@@ -46731,7 +47099,7 @@ _Cite_:
   - Code de l'énergie - art. R311-25 (V)
 
 
-##### Sous-section 3 : Dispositions applicables aux candidats retenus<a id=446></a>
+##### Sous-section 3 : Dispositions applicables aux candidats retenus<a id=451></a>
 
 ###### Article R311-26
 
@@ -46774,8 +47142,6 @@ _Cite_:
   - Code de l'énergie - art. L311-12
 
 
-##### Sous-section 4 : Mise en œuvre de l'obligation d'achat ou du complément de rémunération<a id=447></a>
-
 ###### Article R311-27-1
 
 Les contrats mentionnés au 1° ou au 2° de l'article L. 311-12 sont conclus pour l'installation et restent en vigueur tout au
@@ -46784,16 +47150,44 @@ en concurrence, sous réserve de la résiliation ou de la suspension de ce contr
 Electricité de France, le cas échéant avec les entreprises locales de distribution, et approuvés par le ministre chargé de
 l'énergie. 
 
-La prise d'effet du contrat est subordonnée à la fourniture, par le producteur à Electricité de France ou, le cas échéant, à
-l'entreprise locale de distribution, d'une attestation de conformité de son installation aux prescriptions fixées par le
-cahier des charges de la procédure de mise en concurrence et aux caractéristiques figurant dans son contrat. Cette
-attestation est établie sur la base d'un modèle approuvé par le ministre chargé de l'énergie, à la demande du producteur, par
-un organisme agréé en application de l'article L. 311-13-5. Elle n'est délivrée que lorsque l'installation est achevée à la
-puissance installée figurant dans le contrat. La date de sa fourniture est celle à laquelle le producteur l'adresse à
-Electricité de France ou, le cas échéant, à l'entreprise locale de distribution. 
+La prise d'effet du contrat est subordonnée à la fourniture, par le producteur à la société Electricité de France ou, le cas
+échéant, à l'entreprise locale de distribution concernée ou à l'organisme agréé mentionné à l'article L. 314-6-1, d'une
+attestation de conformité de son installation aux prescriptions définies en application de l'article R. 311-43. Lorsque les
+cahiers des charges des procédures de mise en concurrence le prévoient, la prise d'effet du contrat est également subordonnée
+à l'avis favorable du préfet de région portant sur les éléments précisés par ces cahiers des charges. 
 
-Le contrat prend effet à la date souhaitée par le producteur après fourniture de cette attestation, cette date étant
-nécessairement un premier du mois.
+Cette attestation, dont le modèle est défini par arrêté du ministre chargé de l'énergie, est établie, à la demande du
+producteur, par un organisme agréé conformément à l'article L. 311-13-5. 
+
+Elle ne peut être délivrée que lorsque, à la date du contrôle, l'installation est achevée à la puissance installée figurant
+dans l'offre remise lors de la procédure de mise en concurrence, sauf disposition contraire prévue par le cahier des charges
+de cette procédure. 
+
+La date de fourniture de l'attestation est celle à laquelle le producteur l'adresse à la société Electricité de France ou, le
+cas échéant, à l'entreprise locale de distribution concernée ou à l'organisme agréé mentionné à l'article L. 314-6-1. Elle
+peut leur être adressée soit par voie postale, soit par voie dématérialisée, la charge de la preuve de l'envoi ou de la
+transmission reposant sur le producteur, en cas de litige. 
+
+Une fois fournie l'attestation, le contrat prend effet à la date souhaitée par le producteur, cette date étant un premier du
+mois, sauf disposition contraire prévue dans les modèles de contrats. 
+
+Les cahiers des charges des procédures de mise en concurrence précisent les cas dans lesquels une demande de modification du
+contrat postérieure à la transmission de l'attestation de conformité initiale entraîne, pour le producteur, l'obligation de
+fournir une nouvelle attestation. 
+
+Pour les nouveaux contrats, en cas de dépassement du délai fixé par le cahier des charges de la procédure de mise en
+concurrence pour fournir l'attestation, la durée du contrat est réduite dans des conditions précisées par le cahier des
+charges. 
+
+La prise d'effet des avenants à un contrat existant est subordonnée à la fourniture par le producteur à son cocontractant de
+l'attestation de conformité, qui intervient dans les conditions et le délai fixés par le cahier des charges de la procédure
+de mise en concurrence. En cas de dépassement de ce délai, le cocontractant en informe le préfet de région qui engage à
+l'encontre du producteur la procédure mentionnée au dernier alinéa de l'article R. 311-45. 
+
+L'énergie éventuellement livrée à la société Electricité de France ou, le cas échéant, à une entreprise locale de
+distribution ou à un organisme agréé mentionné à l'article L. 314-6-1 avant la prise d'effet d'un contrat conclu en
+application du 1° de l'article L. 311-12, notamment dans le cadre d'essais d'injection préalables à la mise en service, peut
+être rémunérée sans ouvrir droit ni à la rémunération ni à la compensation propres à ce contrat.
 
 **Liens relatifs à cet article**
 
@@ -46804,52 +47198,64 @@ _Cité par_:
   - Arrêté du 2 novembre 2017 - art. 6 (V)
   - Décret n°2018-243 du 5 avril 2018 (V)
   - Code de l'énergie - art. R311-27-8 (V)
-  - Code de l'énergie - art. R311-43 (V)
   - Code de l'énergie - art. R311-44 (V)
   - Code de l'énergie - art. R314-69-1 (VD)
   - Code de l'énergie - art. R314-69-3 (VD)
 
 _Modifié par_:
 
-  - Décret n°2016-1129 du 17 août 2016 - art. 2
+  - Décret n°2016-1726 du 14 décembre 2016 - art. 2
 
 _Cite_:
 
   - Code de l'énergie - art. L311-12
+  - Code de l'énergie - art. L311-13-5 (V)
+  - Code de l'énergie - art. L314-6-1 (V)
+  - Code de l'énergie - art. R311-43 (V)
+  - Code de l'énergie - art. R311-45 (V)
 
 
 ###### Article R311-27-2
 
-Le contrat peut être suspendu, sans prolongation de la durée totale du contrat, par Electricité de France pour un contrat
-conclu en application du 1° ou du 2° de l'article L. 311-12 ou, le cas échéant, par les entreprises locales de distribution
-pour un contrat conclu en application du 1° de l'article L. 311-12, dans les cas suivants : 
+Sans préjudice des mesures prononcées, à titre de sanctions, par le préfet de région en application de l'article L. 311-14 ou
+des décisions de justice dont l'exécution l'impose, le contrat est suspendu, sur demande du préfet de région, à titre de
+mesure de police administrative, par la société Electricité de France pour un contrat conclu en application du 1° ou du 2° de
+l'article L. 311-12 ou, le cas échéant, par l'entreprise locale de distribution concernée ou par l'organisme agréé mentionné
+à l'article L. 314-6-1 pour un contrat conclu en application du 1° de l'article L. 311-12 :
 
-- en cas de décision de justice ou en cas de décision administrative prononçant la suspension du contrat dans le cadre des
-dispositions de l'article L. 311-14 ; 
+- en l'absence de production pendant une durée de plus de dix-huit mois ;
 
-- cas prévus par le contrat, notamment en cas de non-respect des dispositions relatives au comptage ; 
+- en cas de refus du producteur de répondre aux demandes de son cocontractant destinées à vérifier la bonne application des
+clauses du contrat ;
 
-- absence de notification par le producteur à Electricité de France ou, le cas échéant, à l'entreprise locale de
-distribution, de modifications par rapport aux clauses du contrat ; 
+- en cas de non-respect par le producteur des clauses du contrat ayant une incidence sur sa rémunération, notamment relatives
+au dispositif de comptage ;
 
-- refus du producteur de répondre aux demandes d'Electricité de France ou, le cas échéant, de l'entreprise locale de
-distribution, destinées à vérifier la bonne application des clauses du contrat ; 
+- en l'absence de notification par le producteur à son cocontractant de modifications par rapport aux clauses du contrat ;
 
-- non-respect par un producteur de ses obligations et engagements au titre de l'article R. 311-27-6 ; 
+- en l'absence de réalisation de contrôle par un producteur ou en l'absence de fourniture des données correspondant aux
+engagements souscrits au titre de l'article R. 311-27-6. 
 
-- absence de production pendant une durée de plus de dix-huit mois. 
+La suspension effectuée à titre conservatoire en application du présent article ne donne lieu à aucune prolongation de la
+durée totale du contrat. Elle ne peut excéder six mois. Au terme de cette période, l'absence de régularisation de la
+situation de fait ayant justifié la suspension entraîne l'engagement par le préfet de région de la procédure de sanction
+définie à la section 3 du présent chapitre. 
 
-Les modèles de contrat mentionnés à l'article R. 311-27-1 précisent les cas dans lesquels les suspensions susmentionnées
-conduisent à une résiliation. 
-
-Le contrat peut être résilié sur injonction du ministre chargé de l'énergie ou du préfet en cas de décision de justice ou en
-cas de décision administrative intervenant dans le cadre des dispositions de l'article L. 311-14.
+Le préfet de région transmet à la Commission de régulation de l'énergie copie des décisions prises sur le fondement du
+présent article.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2016-682 du 27 mai 2016 - art. 4
+  - Décret n°2016-1726 du 14 décembre 2016 - art. 2
+
+_Cite_:
+
+  - Code de l'énergie - art. L311-12 (V)
+  - Code de l'énergie - art. L311-14 (V)
+  - Code de l'énergie - art. L314-6-1 (V)
+  - Code de l'énergie - art. R311-27-6 (V)
 
 _Cité par_:
 
@@ -46866,22 +47272,34 @@ titre du complément de rémunération depuis la date de prise d'effet du contra
 
 - dans le cas d'un contrat conclu en application du 1° de l'article L. 311-12, aux sommes actualisées perçues et versées au
 titre de l'obligation d'achat depuis la date de prise d'effet du contrat jusqu'à sa résiliation dans la limite des surcoûts,
-mentionnés au 1° de l'article L. 121-7, en résultant.
+mentionnés au 1° de l'article L. 121-7, en résultant. 
+
+Le producteur qui demande la résiliation de son contrat à la suite de l'arrêt définitif de son installation indépendant de sa
+volonté, n'est pas tenu de verser à son cocontractant les indemnités de résiliation prévues au premier alinéa, sous réserve
+qu'il respecte les prescriptions relatives à la mise à l'arrêt définitif ou au démantèlement de son installation ou toute
+autre obligation prévue par les cahiers des charges des procédures de mise en concurrence mentionnées à l'article L. 311-10.
+Le préfet de région, dès qu'il est informé par le producteur de la mise en œuvre de ces prescriptions ou obligations et, s'il
+l'estime nécessaire, après s'être assuré de leur correcte application, informe le cocontractant que le producteur est
+dispensé du versement de ces indemnités.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2016-682 du 27 mai 2016 - art. 4
+  - Décret n°2016-1726 du 14 décembre 2016 - art. 2
 
 _Cite_:
 
+  - Code de l'énergie - art. L121-7 (V)
+  - Code de l'énergie - art. L311-10 (V)
   - Code de l'énergie - art. L311-12
 
 _Cité par_:
 
   - Code de l'énergie - art. R121-27 (V)
 
+
+##### Sous-section 4 : Mise en œuvre de l'obligation d'achat ou du complément de rémunération<a id=452></a>
 
 ###### Article R311-27-4
 
@@ -47017,7 +47435,7 @@ _Cite_:
   - Code de l'énergie - art. R314-52 (V)
 
 
-##### Sous-section 5 : Dispositions spécifiques aux procédures de mise en concurrence dans la collectivité territoriale de Corse<a id=448></a>
+##### Sous-section 5 : Dispositions spécifiques aux procédures de mise en concurrence dans la collectivité territoriale de Corse<a id=453></a>
 
 ###### Article D311-27-9
 
@@ -47070,22 +47488,22 @@ _Modifié par_:
   - Décret n°2016-1129 du 17 août 2016 - art. 2
 
 
-##### Section 3 : Sanctions administratives et pénales<a id=449></a>
+##### Section 3 : Constatation des manquements et sanctions administratives<a id=454></a>
 
 ###### Article R311-28
 
-Dans les cas mentionnés à l'article L. 311-14, il est dressé procès-verbal de la situation irrégulière de l'installation par
-les fonctionnaires et agents mentionnés aux articles L. 142-22 à L. 142-29 ou les fonctionnaires et agents chargés des
-contrôles prévus à l'article L. 170-1 du code de l'environnement. Ce procès-verbal est adressé sans délai au préfet et au
-producteur. Copie en est transmise au ministre chargé de l'énergie, lorsqu'il n'émane pas de fonctionnaires ou d'agents qu'il
-a habilités. 
+Pour l'application de la présente section :
 
-Dans le délai d'un mois suivant la réception du procès-verbal, le préfet indique au producteur les mesures de régularisation
-qui lui sont demandées, l'invite à faire connaître l'identité du ou des acheteurs de l'électricité produite par
-l'installation, lui rappelle qu'à défaut d'exécution des mesures prescrites le contrat d'achat d'électricité qu'il a, le cas
-échéant, conclu avec la société EDF ou avec une entreprise locale de distribution mentionnée à l'article L. 111-54 sera
-suspendu ou résilié en application des dispositions de l'article L. 311-14 et l'invite à présenter ses observations dans un
-délai qu'il fixe.
+- les termes de " producteur " et d'" installation " s'entendent au sens qui leur est donné à l'article R. 314-1 ;
+
+- le terme de " cocontractant " désigne uniquement la société Electricité de France dans le cas d'un contrat de complément de
+rémunération conclu en application de l'article L. 314-18 ou du 2° de l'article L. 311-12 et, dans le cas d'un contrat
+d'achat conclu en application de l'article L. 314-1 ou du 1° de l'article L. 311-12, l'acheteur, celui-ci pouvant être soit
+la société Electricité de France, soit une entreprise locale de distribution, soit un organisme agréé mentionné à l'article
+L. 314-6-1 ;
+
+- les obligations incombant au cocontractant en vertu de la présente section incombent, le cas échéant, à l'acheteur de
+dernier recours mentionné à l'article L. 314-26.
 
 **Liens relatifs à cet article**
 
@@ -47095,37 +47513,38 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2016-170 du 18 février 2016 - art. 1
+  - Décret n°2016-1726 du 14 décembre 2016 - art. 2
 
 _Cite_:
 
-  - Code de l'environnement - art. L170-1
-  - Code de l'énergie - art. L111-54
-  - Code de l'énergie - art. L142-22
-  - Code de l'énergie - art. L311-14
+  - Code de l'énergie - art. L311-12 (V)
+  - Code de l'énergie - art. L314-1 (V)
+  - Code de l'énergie - art. L314-18 (V)
+  - Code de l'énergie - art. L314-26 (V)
+  - Code de l'énergie - art. L314-6-1 (V)
+  - Code de l'énergie - art. R314-1 (V)
 
 
 ###### Article R311-29
 
-Passé le délai imparti au producteur pour présenter ses observations et au plus tard dans les six mois suivant la réception
-du procès-verbal, le préfet constate la situation irrégulière de l'installation s'il n'y a pas été mis fin. 
+Lorsqu'un manquement est constaté en application des deux premiers alinéas de l'article L. 311-14 ou lorsqu'il est informé de
+la non-conformité d'une installation par un organisme agréé en application des articles R. 311-44 à R. 311-46, par un
+délégataire en application de l'article R. 311-47, ou par un organisme à l'égard duquel le producteur a, en vertu des
+dispositions des chapitres Ier et IV du présent titre, des obligations, le préfet de région engage à l'encontre du producteur
+une procédure de sanction. 
 
-Si l'électricité produite par l'installation fait l'objet d'un contrat d'achat par la société EDF ou par une entreprise
-locale de distribution, le préfet en prononce la résiliation ou la suspension. Cette décision est notifiée, par lettre
-recommandée avec demande d'avis de réception, au producteur et à cet acheteur et prend effet dès que l'un et l'autre ont reçu
-cette notification. 
-
-La suspension du contrat d'achat d'électricité est sans effet sur le terme initialement fixé au contrat.
+A cette fin, il met en demeure le producteur concerné de prendre les mesures nécessaires à la régularisation de sa situation
+dans un délai qu'il fixe. Il lui demande l'identité de son cocontractant et l'informe que les manquements qui lui sont
+reprochés sont susceptibles d'entraîner la suspension du contrat conclu, selon le cas, en application des articles L. 311-12,
+L. 314-1 ou L. 314-18, ainsi que du versement des sommes qu'il prévoit, et sa résiliation, en application des dispositions de
+l'article L. 311-14. Enfin, il l'invite à présenter ses observations dans un délai qu'il fixe, qui ne peut être inférieur à
+un mois.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-_Modifié par_:
-
-  - Décret n°2016-170 du 18 février 2016 - art. 1
 
 _Cité par_:
 
@@ -47133,19 +47552,41 @@ _Cité par_:
   - Code de l'énergie - art. R311-30 (V)
   - Code de l'énergie - art. R311-31 (V)
 
+_Modifié par_:
+
+  - Décret n°2016-1726 du 14 décembre 2016 - art. 2
+
+_Cite_:
+
+  - Code de l'énergie - art. L311-12 (V)
+  - Code de l'énergie - art. L311-14 (V)
+  - Code de l'énergie - art. L314-1 (V)
+  - Code de l'énergie - art. L314-18 (V)
+  - Code de l'énergie - art. R311-44 (V)
+  - Code de l'énergie - art. R311-47 (V)
+
 
 ###### Article R311-30
 
-Dès l'achèvement des mesures prises pour régulariser la situation de l'installation, le producteur en fait part au service
-qui a procédé au contrôle de l'ouvrage. Dans un délai maximum de quinze jours, celui-ci vérifie la réalisation effective de
-ces mesures et en informe le préfet. 
+Passé le délai imparti au producteur pour présenter ses observations et au regard des éléments transmis, le préfet de région
+peut demander au producteur des éléments complémentaires et, le cas échéant, fixer un nouveau délai pour qu'ils lui soient
+transmis. 
 
-En cas de suspension, le préfet abroge sans délai sa décision et en informe l'acheteur et le producteur ainsi que les
-services de l'Etat mentionnés à la présente section. L'acheteur ne peut reprendre l'exécution du contrat avant cette
-notification. 
+Une fois expirés le ou les délais ainsi impartis au producteur, le préfet peut :
 
-En cas de résiliation, l'acheteur ne peut conclure avec le producteur un nouveau contrat avant que le préfet lui ait fait
-connaître que la situation de l'installation est désormais régulière au regard des prescriptions de l'article L. 311-14.
+- soit abandonner la procédure et demander, le cas échéant, au producteur de déposer une demande de modification de son
+contrat ;
+
+- soit poursuivre la procédure. Dans ce cas, il enjoint au cocontractant de suspendre le contrat ainsi que le versement des
+sommes mentionnées à l'article R. 311-29, par lettre recommandée avec demande d'avis de réception dont il transmet une copie
+à la Commission de régulation de l'énergie. Il en informe le producteur par la même voie. A la réception de la demande du
+préfet, le cocontractant met en œuvre les mesures nécessaires à la suspension du contrat, conformément aux articles R. 314-8
+et R. 311-27-2 ;
+
+- soit prononcer une sanction pécuniaire à l'encontre du producteur sur le fondement des dispositions de l'article L.
+311-15. 
+
+La suspension du contrat est sans effet sur le terme qu'il a initialement fixé.
 
 **Liens relatifs à cet article**
 
@@ -47155,54 +47596,538 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2016-170 du 18 février 2016 - art. 1
+  - Décret n°2016-1726 du 14 décembre 2016 - art. 2
 
 _Cite_:
 
-  - Code de l'énergie - art. L311-14
+  - Code de l'énergie - art. L311-15 (V)
+  - Code de l'énergie - art. R311-27-2 (V)
+  - Code de l'énergie - art. R311-29 (V)
+  - Code de l'énergie - art. R314-8 (V)
 
 
-#### Chapitre IV : Les dispositions particulières à l'électricité produite à partir d'énergies renouvelables<a id=450></a>
+###### Article R311-31
 
-##### Section 1 : Les dispositifs de soutien aux énergies renouvelables<a id=451></a>
+Dès l'achèvement des mesures de régularisation de la situation de son installation dans le délai imparti, le producteur en
+fait part au préfet de région, qui peut demander à un agent mentionné aux articles L. 142-22 à L. 142-29 de vérifier, après
+un délai de prévenance de quarante-huit heures, la réalisation effective de ces mesures dans un délai maximum de quinze jours
+ouvrés à compter de la notification effectuée par le producteur. 
 
-##### Sous-section 1 : Dispositions communes à l'obligation d'achat et au complément de rémunération<a id=452></a>
+A l'issue de ce délai et, le cas échéant, au vu des résultats de la vérification effectuée, le préfet indique par courrier au
+producteur s'il estime que les mesures prises permettent de regarder la situation de son installation comme régularisée. 
 
-###### Article D314-1-1
+Si tel est le cas, le préfet de région enjoint sans délai au cocontractant de lever la suspension de l'exécution du contrat
+et du versement des sommes mentionnées à l'article R. 311-29, par lettre recommandée avec demande d'avis de réception dont il
+transmet une copie à la Commission de régulation de l'énergie. Il en informe le producteur par la même voie. Le cocontractant
+dispose de deux semaines à compter de la réception de la demande du préfet pour lever la suspension du contrat. 
 
-Pour le calcul de la puissance installée des installations pouvant bénéficier de l'obligation d'achat ou du complément de
-rémunération sur un site de production, deux machines électrogènes appartenant à une même catégorie d'installations
-exploitées par une même personne ou par des sociétés qu'elle contrôle directement ou indirectement au sens de l'
-article L. 233-3 du code de commerce
-ne peuvent être considérées comme situées sur deux sites distincts si la distance qui les sépare est inférieure à : 
-
-1° 100 mètres dans le cas d'installations utilisant l'énergie hydraulique des lacs, des cours d'eau et des eaux captées
-gravitairement ; 
-
-2° 50 mètres dans le cas d'installations de cogénération d'électricité et de chaleur valorisée, à partir de gaz naturel ; 
-
-3° 1 500 mètres dans le cas d'installations utilisant à titre principal le biogaz produit par méthanisation de matières
-résultant du traitement des eaux usées urbaines ou industrielles, d'installations utilisant à titre principal le biogaz issu
-d'installations de stockage de déchets non dangereux, d'installations utilisant à titre principal le biogaz produit par
-méthanisation de déchets non dangereux et de matière végétale brute, d'installations qui valorisent l'énergie dégagée par la
-combustion ou l'explosion de gaz de mine ; 
-
-4° 250 mètres dans le cas d'installations utilisant l'énergie solaire photovoltaïque.
+La levée de la suspension du contrat prend effet à la date du constat de la régularisation de la situation de l'installation,
+indiquée dans le courrier du préfet mentionné au deuxième alinéa. Elle ne donne pas lieu au remboursement des sommes,
+mentionnées à l'article R. 311-29, non perçues durant la période de suspension.
 
 **Liens relatifs à cet article**
 
 _Créé par_:
 
-  - Décret n°2016-691 du 28 mai 2016 - art. 4
+  - Décret n°2016-1726 du 14 décembre 2016 - art. 2
 
-_Abrogé par_:
+_Cite_:
+
+  - Code de l'énergie - art. L142-22 (V)
+  - Code de l'énergie - art. R311-29 (V)
+
+
+###### Article R311-32
+
+Si le producteur ne lui a pas fait part, dans le délai imparti, de mesures prises pour régulariser sa situation, le préfet de
+région enjoint au cocontractant, par lettre recommandée avec demande d'avis de réception, de résilier le contrat concerné, et
+en transmet une copie à la Commission de régulation de l'énergie. Il en informe le producteur par la même voie. A la
+réception de la demande du préfet, le cocontractant résilie le contrat à compter de cette date.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2016-1726 du 14 décembre 2016 - art. 2
+
+_Cité par_:
+
+  - Code de l'énergie - art. R121-27 (V)
+
+
+###### Article R311-32-1
+
+S'il a demandé la résiliation du contrat, le préfet de région peut également, sur le fondement du troisième alinéa de
+l'article L. 311-14, enjoindre au producteur de rembourser à son cocontractant ou, le cas échéant, à l'acheteur de dernier
+recours mentionné à l'article L. 314-26, tout ou partie des aides qu'il a perçues au titre de son contrat, depuis la date du
+début du manquement ou de la non-conformité ou, à défaut, depuis la date de son constat jusqu'à la résiliation du contrat. La
+période à prendre en compte pour le calcul du montant de ce remboursement ne peut toutefois remonter au-delà de la date
+d'entrée en vigueur du décret n° 2016-1726 du 14 décembre 2016 relatif à la mise en service, aux contrôles et aux sanctions
+applicables à certaines installations de production d'électricité. 
+
+Le montant du remboursement ainsi mis à la charge du producteur est apprécié par le préfet en fonction de la gravité du
+manquement ou de la non-conformité et de la situation du producteur. 
+
+Ce remboursement porte :
+
+- pour un contrat de complément de rémunération conclu en application du 2° de l'article L. 311-12 ou de l'article L. 314-18,
+sur les sommes actualisées perçues au titre du complément de rémunération ;
+
+- pour un contrat d'achat conclu en application du 1° de l'article L. 311-12, de l'article L. 314-1 ou de l'article L.
+314-26, sur les sommes actualisées perçues au titre de l'obligation d'achat dans la limite des surcoûts mentionnés au 1° de
+l'article L. 121-7 en résultant. 
+
+Elles sont diminuées, le cas échéant, des sommes versées par le producteur à son cocontractant en application de l'article R.
+314-49 et des cahiers des charges des procédures de mise en concurrence mentionnées à l'article L. 311-10.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Décret n°2016-1726 du 14 décembre 2016 (V)
+  - Code de l'énergie - art. L121-7 (V)
+  - Code de l'énergie - art. L311-10 (V)
+  - Code de l'énergie - art. L311-12 (V)
+  - Code de l'énergie - art. L311-14 (V)
+  - Code de l'énergie - art. L314-1 (V)
+  - Code de l'énergie - art. L314-18 (V)
+  - Code de l'énergie - art. L314-26 (V)
+  - Code de l'énergie - art. R314-49 (V)
+
+_Créé par_:
+
+  - Décret n°2016-1726 du 14 décembre 2016 - art. 2
+
+
+##### Section 4 : Modalités de contrôle des installations de production d'électricité<a id=455></a>
+
+##### Sous-section 1 : Agrément et obligations des organismes de contrôle<a id=456></a>
+
+###### Article R311-33
+
+Les organismes de contrôle mentionnés aux articles L. 311-13-5, L. 314-7-1 et L. 314-25 sont agréés selon les conditions et
+modalités prévues à la présente sous-section.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2016-1726 du 14 décembre 2016 - art. 2
+
+_Cité par_:
+
+  - Arrêté du 2 novembre 2017 - art. 2 (V)
+  - Code de l'énergie - art. R311-44 (V)
+  - Code de l'énergie - art. R311-45 (V)
+  - Code de l'énergie - art. R311-46 (V)
+
+_Cite_:
+
+  - Code de l'énergie - art. L311-13-5 (V)
+  - Code de l'énergie - art. L314-25 (V)
+  - Code de l'énergie - art. L314-7-1 (V)
+
+
+###### Article R311-34
+
+Les organismes de contrôle sont agréés par un arrêté du ministre chargé de l'énergie publié au Journal officiel de la
+République française. 
+
+Le ministre chargé de l'énergie établit, actualise et rend publique la liste des organismes qu'il a agréés.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2016-1726 du 14 décembre 2016 - art. 2
+
+
+###### Article R311-35
+
+L'organisme qui souhaite être agréé en fait la demande au ministre chargé de l'énergie. 
+
+L'agrément est délivré pour l'ensemble des contrôles mentionnés aux articles L. 311-13-5, L. 314-7-1 et L. 314-25. 
+
+Le contenu et les modalités de transmission de cette demande sont arrêtés par le ministre chargé de l'énergie.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2016-1726 du 14 décembre 2016 - art. 2
+
+_Cité par_:
+
+  - Décret n°2016-1726 du 14 décembre 2016 - art. 4 (V)
+  - Arrêté du 2 novembre 2017 - art. 8 (V)
+
+_Cite_:
+
+  - Code de l'énergie - art. L311-13-5 (V)
+  - Code de l'énergie - art. L314-25 (V)
+  - Code de l'énergie - art. L314-7-1 (V)
+
+
+###### Article R311-36
+
+Ne peuvent être agréés que les organismes accrédités par le Comité français d'accréditation (COFRAC) ou par tout autre
+organisme d'accréditation signataire de l'accord de reconnaissance multilatéral établi dans le cadre de la coordination
+européenne des organismes d'accréditation (ou “ European Accreditation ”) sur la base de la norme NF EN ISO/CEI 17020
+(Evaluation de la conformité-Exigences pour le fonctionnement de différents types d'organismes procédant à l'inspection)
+appliquée aux activités définies par l'arrêté mentionné à l'article R. 311-43 comme étant soumises à contrôle sous
+accréditation, avec un niveau d'indépendance de type A. 
+
+Les organismes accrédités conformément au premier alinéa s'engagent, en outre, lorsqu'ils souhaitent obtenir l'agrément, à
+respecter les obligations posées par la présente sous-section et à se soumettre à un contrôle de la qualité de leurs
+prestations.
+
+**Nota:**
+
+Conformément à l'article 7 du décret n° 2016-1726 du 14 décembre 2016, à titre dérogatoire et pendant une durée de deux ans à
+compter de l'entrée en vigueur du présent décret, l'exigence d'accréditation sur la base de la norme mentionnée à l'article
+R. 311-36 du code de l'énergie, dans sa rédaction résultant du présent décret, ne s'applique qu'au domaine de l'électricité.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2016-1726 du 14 décembre 2016 - art. 2
+
+_Cité par_:
+
+  - Arrêté du 2 novembre 2017 - art. 8 (V)
+  - Arrêté du 2 novembre 2017 - art. 9 (V)
+  - Code de l'énergie - art. R311-39 (V)
+
+_Cite_:
+
+  - Code de l'énergie - art. R311-43 (V)
+
+
+###### Article R311-37
+
+L'agrément peut être retiré par arrêté du ministre chargé de l'énergie, après que le représentant de l'organisme a été invité
+à présenter ses observations, si cet organisme cesse de remplir l'une des conditions posées pour la délivrance de l'agrément
+ou s'il méconnaît les obligations que doit respecter, en vertu de la présente sous-section, tout organisme agréé. 
+
+L'organisme agréé porte sans délai à la connaissance du ministre chargé de l'énergie toute modification des éléments au vu
+desquels l'agrément lui a été délivré.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2016-1726 du 14 décembre 2016 - art. 2
+
+_Cité par_:
+
+  - Arrêté du 2 novembre 2017 - art. 8 (V)
+  - Arrêté du 2 novembre 2017 - art. 9 (V)
+
+
+###### Article R311-38
+
+La qualité des prestations des organismes agréés peut être évaluée à la demande du ministre chargé de l'énergie par un
+prestataire qu'il désigne. 
+
+Les agents mentionnés à l'article L. 142-21 peuvent assister aux visites de contrôle effectuées par ces organismes, après
+avoir pris leur attache.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
 
   - Décret n°2016-1726 du 14 décembre 2016 - art. 2
 
 _Cite_:
 
-  - Code de commerce - art. L233-3
+  - Code de l'énergie - art. L142-21 (V)
 
+
+###### Article R311-39
+
+L'organisme agréé conserve, pour chaque installation contrôlée, les résultats des visites de l'année précédente et, au moins,
+de ses deux dernières visites. Il tient ces documents à la disposition des agents mentionnés à l'article L. 142-21. 
+
+Il transmet au préfet de région, chaque année, une liste des contrôles effectués, mentionnant pour chaque installation
+contrôlée si l'attestation de conformité mentionnée aux articles R. 311-44 et R. 311-45 a été délivrée ou refusée. Ces
+données sont confidentielles. 
+
+Il transmet au ministre chargé de l'énergie, au cours du premier trimestre de chaque année, un rapport sur son activité de
+l'année écoulée. Une copie de ce rapport est adressée à l'organisme d'accréditation mentionnée à l'article R. 311-36. 
+
+Ce rapport précise, notamment, à l'échelle nationale et départementale, le nombre de contrôles effectués pour chacune des
+filières définies à l'article R. 314-1, ainsi que la fréquence des non-conformités constatées pour chacune des prescriptions
+mentionnées à l'article R. 311-43.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2016-1726 du 14 décembre 2016 - art. 2
+
+_Cite_:
+
+  - Code de l'énergie - art. L142-21 (V)
+  - Code de l'énergie - art. R311-36 (V)
+  - Code de l'énergie - art. R311-43 (V)
+  - Code de l'énergie - art. R311-44 (V)
+  - Code de l'énergie - art. R314-1 (V)
+
+
+###### Article R311-40
+
+Lorsqu'il réalise un contrôle en application des articles R. 311-44 et R. 311-45, l'organisme agréé remet au producteur
+l'attestation mentionnée à ces articles ainsi que son rapport de visite complet dans un délai d'un mois suivant la visite. Ce
+rapport comporte la totalité des résultats du contrôle et précise, le cas échéant, les points de non-conformité. 
+
+Lorsqu'il constate une non-conformité à l'occasion d'un contrôle réalisé en application de l'article R. 311-46, l'organisme
+agréé en informe le préfet de région en lui transmettant son rapport de visite complet, dans un délai n'excédant pas un mois
+suivant la visite.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2016-1726 du 14 décembre 2016 - art. 2
+
+_Cite_:
+
+  - Code de l'énergie - art. R311-44 (V)
+
+_Cité par_:
+
+  - Code de l'énergie - art. R311-45 (V)
+
+
+##### Sous-section 2 : Dispositions générales relatives aux procédures de contrôle des installations<a id=457></a>
+
+###### Article R311-41
+
+Pour l'application de la présente sous-section :
+
+- les termes de “ producteur ” et de “ cocontractant ” s'entendent au sens qui leur est donné à l'article R. 314-1 ;
+
+- les obligations incombant au cocontractant incombent, le cas échéant, à l'acheteur de dernier recours mentionné à l'article
+L. 314-26.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2016-1726 du 14 décembre 2016 - art. 2
+
+_Cite_:
+
+  - Code de l'énergie - art. L314-26 (V)
+  - Code de l'énergie - art. R314-1 (V)
+
+
+###### Article R311-42
+
+Les contrôles effectués par des organismes agréés en vertu des articles L. 311-13-5, L. 314-7-1 et L. 314-25 et par un
+délégataire en vertu de l'article L. 311-14 sont réalisés dans les conditions prévues à la présente sous-section.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2016-1726 du 14 décembre 2016 - art. 2
+
+_Cite_:
+
+  - Code de l'énergie - art. L311-13-5 (V)
+  - Code de l'énergie - art. L311-14 (V)
+  - Code de l'énergie - art. L314-25 (V)
+  - Code de l'énergie - art. L314-7-1 (V)
+
+_Cité par_:
+
+  - Code de l'énergie - art. R311-43 (V)
+
+
+###### Article R311-43
+
+Un arrêté du ministre chargé de l'énergie définit les modalités de contrôle du respect des prescriptions générales,
+applicables à toutes les installations quelle que soit leur date de mise en service, la filière à laquelle elles
+appartiennent ou le type de contrat conclu et la procédure d'attribution mise en œuvre. Notamment, il précise le champ des
+contrôles devant obligatoirement être effectués sous accréditation ou par le délégataire mentionné à l'article R. 311-42, il
+distingue les contrôles relevant de l'attestation de conformité initiale nécessaire à la mise en service de l'installation et
+les contrôles relevant de la nouvelle attestation de conformité, le cas échéant, nécessaire en cas de modification de
+l'installation ou du contrat en application de l'article R. 311-45 et il fixe, parmi ces prescriptions générales, celles qui
+doivent faire l'objet d'un contrôle périodique confié à un organisme agréé. 
+
+Aux prescriptions générales définies par le ministre chargé de l'énergie peuvent s'ajouter des prescriptions ne s'appliquant
+qu'à certaines installations. Ces prescriptions particulières et les modalités du contrôle de leur respect sont définies, le
+cas échéant, par les arrêtés interministériels propres à chacune des filières mentionnés à l'article R. 314-12 ou par les
+cahiers des charges des procédures de mise en concurrence mentionnés à l'article R. 311-12 ou encore par les modèles de
+contrats mentionnés aux articles R. 311-27-1 et R. 314-2. 
+
+Le non-respect par une installation d'une prescription qui lui est applicable, qu'elle soit générale ou particulière, donne
+lieu au constat d'une non-conformité.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2016-1726 du 14 décembre 2016 - art. 2
+
+_Cité par_:
+
+  - Arrêté du 2 novembre 2017 - art. 1 (V)
+  - Arrêté du 2 novembre 2017 - art. 10 (V)
+  - Code de l'énergie - art. R311-27-1 (V)
+  - Code de l'énergie - art. R311-36 (V)
+  - Code de l'énergie - art. R311-39 (V)
+  - Code de l'énergie - art. R311-44 (V)
+  - Code de l'énergie - art. R311-46 (V)
+  - Code de l'énergie - art. R314-7 (V)
+
+_Cite_:
+
+  - Code de l'énergie - art. R311-12 (V)
+  - Code de l'énergie - art. R311-42 (V)
+  - Code de l'énergie - art. R311-45 (V)
+  - Code de l'énergie - art. R314-12 (V)
+  - Code de l'énergie - art. R314-2 (V)
+
+
+###### Article R311-44
+
+Afin que son contrat prenne effet en application des articles R. 314-7 et R. 311-27-1, le producteur fait réaliser un
+contrôle par un organisme agréé mentionné à l'article R. 311-33. 
+
+L'organisme agréé ne délivre pas l'attestation de conformité s'il constate le non-respect d'une des prescriptions mentionnées
+à l'article R. 311-43 ou si l'installation n'est pas achevée, à la date du contrôle, à la puissance installée figurant dans
+la demande de contrat conformément à l'article R. 314-7, sauf disposition contraire prévue par le cahier des charges de la
+procédure de mise en concurrence. 
+
+Si l'ensemble des prescriptions et l'achèvement de l'installation à la puissance figurant dans l'offre remise lors de la
+procédure de mise en concurrence sont respectés, l'organisme agréé délivre l'attestation dans les formes prévues à l'article
+R. 311-40.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2016-1726 du 14 décembre 2016 - art. 2
+
+_Cité par_:
+
+  - Arrêté du 2 novembre 2017 - art. 3 (V)
+  - Code de l'énergie - art. R311-29 (V)
+  - Code de l'énergie - art. R311-39 (V)
+
+_Cite_:
+
+  - Code de l'énergie - art. R311-27-1 (V)
+  - Code de l'énergie - art. R311-33 (V)
+  - Code de l'énergie - art. R311-40 (V)
+  - Code de l'énergie - art. R311-43 (V)
+  - Code de l'énergie - art. R314-7 (V)
+
+
+###### Article R311-45
+
+Lorsque le producteur adresse à son cocontractant, pour une installation ayant déjà fait l'objet d'une attestation de
+conformité, une demande de modification de son contrat en application de l'article R. 314-5 ou du cahier des charges d'une
+procédure de mise en concurrence et que cette demande relève de l'un des cas pour lesquels les arrêtés mentionnés à l'article
+R. 311-43 ou le cahier des charges de la procédure de mise en en concurrence prévoient la production d'une nouvelle
+attestation de conformité, il fait réaliser un nouveau contrôle de son installation par un organisme agréé mentionné à
+l'article R. 311-33. 
+
+Si l'ensemble des prescriptions sont respectées, l'organisme agréé délivre une nouvelle attestation de conformité dans les
+formes prévues à l'article R. 311-40. 
+
+Si l'organisme agréé constate le non-respect d'une des prescriptions mentionnées à l'article R. 311-43, il ne délivre pas de
+nouvelle attestation de conformité. Dans ce cas, le producteur dispose du délai mentionné dans son contrat pour régulariser
+sa situation et faire procéder à un nouveau contrôle. Si le producteur ne transmet pas la nouvelle attestation de conformité
+dans ce délai au cocontractant, ce dernier en informe le préfet de région qui engage, à l'encontre du producteur, la
+procédure de sanction définie à la section 3 du présent chapitre.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2016-1726 du 14 décembre 2016 - art. 2
+
+_Cité par_:
+
+  - Arrêté du 2 novembre 2017 - art. 10 (V)
+  - Code de l'énergie - art. R311-27-1 (V)
+  - Code de l'énergie - art. R314-7 (V)
+
+_Cite_:
+
+  - Code de l'énergie - art. R311-33 (V)
+  - Code de l'énergie - art. R311-40 (V)
+  - Code de l'énergie - art. R311-43 (V)
+  - Code de l'énergie - art. R314-5 (V)
+
+
+###### Article R311-46
+
+Le producteur fait, en outre, réaliser, par un organisme agréé mentionné à l'article R. 311-33, tout contrôle périodique de
+son installation, qui peut soit lui être imposé à titre individuel par le ministre chargé de l'énergie ou le préfet de
+région, soit, le cas échéant, être prévu par les arrêtés de prescriptions applicables à l'installation, mentionnés à
+l'article R. 311-43. L'autorité administrative ou, le cas échéant, les arrêtés de prescriptions précisent les points sur le
+respect desquels porte ce contrôle périodique ainsi que, s'il y a lieu, sa périodicité. 
+
+Si une non-conformité est constatée, l'organisme agréé en informe le préfet de région, qui engage, à l'encontre du
+producteur, la procédure de sanction définie à la section 3 du présent chapitre.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2016-1726 du 14 décembre 2016 - art. 2
+
+_Cité par_:
+
+  - Arrêté du 2 novembre 2017 - art. 4 (V)
+
+_Cite_:
+
+  - Code de l'énergie - art. R311-33 (V)
+  - Code de l'énergie - art. R311-43 (V)
+
+
+###### Article R311-47
+
+Les délégataires mentionnés au sixième alinéa de l'article L. 311-14 sont désignés par le ministre chargé de l'énergie. Cette
+décision est rendue publique. Elle autorise les délégataires à effectuer les contrôles que le ministre définit sur les
+installations qu'il désigne. 
+
+Lorsqu'il constate une non-conformité sur une installation, le délégataire en informe le ministre chargé de l'énergie qui
+demande au préfet de région d'engager, à l'encontre du producteur concerné, la procédure de sanction définie à la section 3
+du présent chapitre. 
+
+Les délégataires tiennent à la disposition des agents mentionnés à l'article L. 142-21 et du ministre chargé de l'énergie les
+résultats des contrôles qu'ils effectuent.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2016-1726 du 14 décembre 2016 - art. 2
+
+_Cité par_:
+
+  - Arrêté du 2 novembre 2017 - art. 7 (V)
+  - Code de l'énergie - art. R121-31-1 (V)
+  - Code de l'énergie - art. R311-29 (V)
+
+_Cite_:
+
+  - Code de l'énergie - art. L142-21 (V)
+  - Code de l'énergie - art. L311-14 (V)
+
+
+#### Chapitre IV : Les dispositions particulières à l'électricité produite à partir d'énergies renouvelables<a id=458></a>
+
+##### Section 1 : Les dispositifs de soutien aux énergies renouvelables<a id=459></a>
+
+##### Sous-section 1 : Dispositions communes à l'obligation d'achat et au complément de rémunération<a id=460></a>
 
 ###### Article D314-14-1
 
@@ -47387,9 +48312,11 @@ La demande mentionnée à l'article R. 314-3, établie par le producteur, compre
 
 1° Les données relatives au producteur : s'il s'agit d'une personne physique, ses nom, prénoms et domicile et, s'il s'agit
 d'une personne morale, sa dénomination ou sa raison sociale, sa forme juridique, le numéro d'identité de l'établissement
-auquel appartient l'installation au répertoire national des entreprises et des établissements, l'adresse de son siège social
-ainsi que la qualité du signataire de la demande, et lorsque le dossier est déposé par un mandataire, la preuve d'un mandat
-exprès autorisant le mandataire à agir au nom et pour le compte du producteur ; 
+auquel appartient l'installation au répertoire national des entreprises et des établissements, le groupe de la nomenclature
+statistique des activités économiques dans la Communauté européenne (ou NACE) dont relève le secteur d'activité auquel
+appartient l'installation,  l'adresse de son siège social ainsi que la qualité du signataire de la demande, et lorsque le
+dossier est déposé par un mandataire, la preuve d'un mandat exprès autorisant le mandataire à agir au nom et pour le compte
+du producteur ; 
 
 2° Les caractéristiques principales de l'installation de production objet du contrat d'achat ou du contrat de complément de
 rémunération :
@@ -47416,10 +48343,6 @@ _Codifié par_:
 
   - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-_Modifié par_:
-
-  - Décret n°2016-682 du 27 mai 2016 - art. 3
-
 _Cité par_:
 
   - Arrêté du 3 novembre 2016 - art. 5 (V)
@@ -47440,27 +48363,31 @@ _Cité par_:
   - Arrêté du 23 avril 2018 - art. 5 (V)
   - Code de l'énergie - art. R314-11 (M)
   - Code de l'énergie - art. R314-29 (V)
-  - Code de l'énergie - art. R314-6 (M)
+  - Code de l'énergie - art. R314-6 (V)
+
+_Modifié par_:
+
+  - Décret n°2016-1726 du 14 décembre 2016 - art. 2
 
 _Cite_:
 
-  - Code de l'énergie - art. R314-12 (V)
-  - Code de l'énergie - art. R314-3 (V)
+  - Code de l'énergie - art. R314-12
+  - Code de l'énergie - art. R314-3
 
 
 ###### Article R314-5
 
-I.-Jusqu'à la transmission de l'attestation de conformité mentionnée à l'article R. 314-7, le producteur peut modifier sa
-demande de contrat. La demande de modification de la demande initiale transmise au cocontractant comporte exclusivement les
-éléments objet de modifications. 
+I. - Jusqu'à la transmission de l'attestation de conformité initiale mentionnée à l'article R. 314-7, le producteur peut
+modifier sa demande de contrat. La demande de modification de la demande initiale transmise au cocontractant comporte
+exclusivement les éléments objet de modifications. 
 
 Seuls les éléments suivants peuvent faire l'objet d'une demande modificative :
 
 - les données relatives au producteur ;
 
 - la puissance, dans la limite du seuil d'éligibilité à l'obligation d'achat ou au complément de rémunération et dans les
-limites fixées par les arrêtés mentionnés à l'article R. 314-12 ainsi que dans la limite, dans tous les cas, de 30 % de la
-puissance déclarée dans la demande initiale ;
+limites fixées par les arrêtés mentionnés à l'article R. 314-12 ainsi que dans la limite de 30 % de la puissance déclarée
+dans la demande initiale, pour les installations d'une puissance installée strictement supérieure à 100 kilowatts ;
 
 - les autres éléments éventuellement prévus par les arrêtés mentionnés à l'article R. 314-12. 
 
@@ -47469,19 +48396,17 @@ Tout autre élément de la demande ne peut être modifié que dans le cadre d'un
 Si le contrat a été signé, il peut être modifié par avenant, dans les mêmes limites que ci-dessus. La demande d'avenant
 comporte exclusivement les éléments objet de modifications. 
 
-II.-Les arrêtés mentionnés à l'article R. 314-12 prévoient les cas dans lesquels et les modalités selon lesquelles le
-producteur peut demander des modifications de son contrat d'achat ou de son contrat de complément de rémunération après la
-transmission de l'attestation de conformité mentionnée à l'article R. 314-7.
+II. - Les arrêtés mentionnés à l'article R. 314-12 prévoient les cas dans lesquels le producteur peut demander des
+modifications de son contrat après la transmission de l'attestation de conformité initiale mentionnée à l'article R. 314-7 et
+en fixent les modalités. Le producteur indique, dans sa demande, si ces modifications peuvent conduire à une modification des
+conditions initiales relatives à la construction ou au fonctionnement de l'installation. Il précise, le cas échéant, la
+nature de cette modification des conditions initiales.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-_Modifié par_:
-
-  - Décret n°2016-682 du 27 mai 2016 - art. 3
 
 _Cité par_:
 
@@ -47496,17 +48421,22 @@ _Cité par_:
   - Arrêté du 23 avril 2018 - art. 7 (V)
   - Code de l'énergie - art. R311-45 (V)
 
+_Modifié par_:
+
+  - Décret n°2016-1726 du 14 décembre 2016 - art. 2
+
 _Cite_:
 
-  - Code de l'énergie - art. R314-12 (V)
-  - Code de l'énergie - art. R314-7 (V)
+  - Code de l'énergie - art. R314-12
+  - Code de l'énergie - art. R314-7
 
 
 ###### Article R314-6
 
-Après instruction et dans un délai de trois mois à compter de la réception de l'ensemble des éléments mentionnés à l'article
-R. 314-4, le cocontractant transmet au producteur le projet de contrat relatif à l'installation concernée. Le producteur
-retourne le projet signé au cocontractant, qui le signe à son tour. 
+Après instruction et, pour les installations d'une puissance installée ou d'une puissance installée supérieure à 100
+kilowatts, dans un délai de trois mois à compter de la réception de l'ensemble des éléments mentionnés à l'article R. 314-4,
+le cocontractant transmet au producteur le projet de contrat relatif à l'installation concernée. Le producteur retourne le
+projet signé au cocontractant, qui le signe à son tour. 
 
 En application des articles L. 314-1 et L. 314-18, le contrat conclu pour une installation reste en vigueur tout au long de
 la vie de cette installation, dans la limite de la durée fixée par les arrêtés mentionnés à l'article R. 314-12 et sous
@@ -47520,7 +48450,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2016-682 du 27 mai 2016 - art. 3
+  - Décret n°2016-1726 du 14 décembre 2016 - art. 2
 
 _Cite_:
 
@@ -47537,28 +48467,56 @@ _Cité par_:
 
 ###### Article R314-7
 
-La prise d'effet du contrat est subordonnée à la transmission par le producteur au cocontractant d'une attestation de
-conformité de son installation aux prescriptions fixées par les arrêtés mentionnés à l'article R. 314-12 et aux
-caractéristiques figurant dans le contrat. Cette attestation est établie, sur la base d'un modèle approuvé par le ministre
-chargé de l'énergie et à la demande du producteur, par un organisme agréé en application, selon le cas, de l'article L.
-314-7-1 ou de l'article L. 314-25. Elle n'est délivrée que lorsque l'installation est achevée à la puissance installée
-figurant dans le contrat. La date de sa fourniture est celle à laquelle le producteur l'adresse au cocontractant. 
+La prise d'effet du contrat est subordonnée à la fourniture, par le producteur à son cocontractant, d'une attestation de la
+conformité de son installation aux prescriptions mentionnées à l'article R. 311-43. Cette attestation, dont le modèle est
+défini par arrêté du ministre chargé de l'énergie, est établie à la demande du producteur par un organisme agréé en
+application, selon le cas, de l'article L. 314-7-1 ou de l'article L. 314-25. La date de fourniture de l'attestation est
+celle à laquelle le producteur l'adresse au cocontractant, soit par voie postale, soit par voie dématérialisée, la charge de
+la preuve de l'envoi ou de la transmission reposant sur le producteur en cas de litige. 
 
-En cas de dépassement du délai fixé par les arrêtés mentionnés à l'article R. 314-12, dans lequel doit être fournie
-l'attestation, la durée du contrat est réduite dans les conditions prévues par ces mêmes arrêtés. 
+Lorsque les arrêtés régissant les filières mentionnés à l'article R. 314-12 le prévoient, la prise d'effet du contrat est
+également subordonnée à l'avis favorable du préfet de région portant sur les éléments précisés par ces arrêtés. 
 
-Le contrat prend effet, après fourniture de cette attestation, le premier jour du mois souhaité par le producteur, sauf
-disposition spécifique prévue par les arrêtés mentionnés ci-dessus.
+Par dérogation au premier alinéa, les producteurs des installations mentionnées au 3° de l'article D. 314-15, des
+installations mentionnées au 4° de l'article D. 314-15 et d'une puissance inférieure à 100 kilowatts ainsi que des
+installations mentionnées au 9° de l'article D. 314-15 et d'une puissance inférieure à 50 kilowatts ne sont pas soumis à la
+transmission d'une attestation de conformité. Pour ces installations, la prise d'effet du contrat est subordonnée à la
+fourniture par le producteur d'une attestation sur l'honneur par laquelle il déclare avoir fait construire son installation
+par des personnes possédant les qualifications requises, employer des équipements conformes aux normes et réglementations en
+vigueur et respecter les dispositions de sa demande de contrat et de la réglementation applicable à son installation. Avant
+la prise d'effet du contrat, l'énergie éventuellement livrée au cocontractant n'est pas rémunérée. Lorsque les arrêtés
+mentionnés à l'article R. 314-12 régissant les filières des installations le prévoient, certains points de cette attestation
+sur l'honneur peuvent être attestés par l'entreprise ayant réalisé l'installation. Le modèle de cette attestation est défini
+par le modèle de contrat mentionné à l'article R. 314-2 pour la filière concernée. 
+
+Ces attestations ne sont délivrées que lorsque l'installation est achevée, soit à la puissance installée figurant dans la
+demande de contrat mentionnée à l'article R. 314-3 soit, si le contrat a déjà été signé, à la puissance installée figurant
+dans le contrat. 
+
+L'énergie éventuellement livrée au cocontractant, avant la prise d'effet d'un contrat conclu en application de l'article L.
+314-1, notamment dans le cadre d'essais d'injection préalables à la mise en service, peut être rémunérée sans ouvrir droit ni
+à la rémunération, ni à la compensation propres à ce contrat. 
+
+Les arrêtés mentionnés à l'article R. 311-43 précisent les cas dans lesquels une demande de modification du contrat
+postérieure à la transmission de l'attestation de conformité initiale entraîne, pour le producteur, l'obligation de fournir
+une nouvelle attestation de conformité. 
+
+Pour les nouveaux contrats, en cas de dépassement du délai fixé par les arrêtés mentionnés à l'article R. 314-12, dans lequel
+doit être fournie l'attestation, la durée du contrat est réduite dans les conditions prévues par ces mêmes arrêtés. 
+
+La prise d'effet des avenants à un contrat existant est subordonnée à la fourniture de l'attestation, qui intervient dans des
+conditions et un délai fixés par les modèles de contrat mentionnés à l'article R. 314-2. En cas de dépassement de ce délai,
+le cocontractant en informe le préfet de région, qui engage à l'encontre du producteur la procédure mentionnée au dernier
+alinéa de l'article R. 311-45. 
+
+Le contrat prend effet, après la fourniture de cette attestation, le premier jour du mois souhaité par le producteur, sauf
+disposition contraire prévue par les arrêtés mentionnés à l'article R. 314-12.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-_Modifié par_:
-
-  - Décret n°2016-682 du 27 mai 2016 - art. 3
 
 _Cité par_:
 
@@ -47606,38 +48564,49 @@ _Cité par_:
   - Code de l'énergie - art. R314-8 (M)
   - Code de l'énergie - art. R314-9 (M)
 
+_Modifié par_:
+
+  - Décret n°2016-1726 du 14 décembre 2016 - art. 2
+
 _Cite_:
 
-  - Code de l'énergie - art. L314-25
-  - Code de l'énergie - art. L314-7-1
+  - Code de l'énergie - art. D314-15 (V)
+  - Code de l'énergie - art. L314-1 (V)
+  - Code de l'énergie - art. L314-25 (V)
+  - Code de l'énergie - art. L314-7-1 (V)
+  - Code de l'énergie - art. R311-43 (V)
+  - Code de l'énergie - art. R311-45 (V)
   - Code de l'énergie - art. R314-12 (V)
+  - Code de l'énergie - art. R314-2 (V)
+  - Code de l'énergie - art. R314-3 (V)
 
 
 ###### Article R314-8
 
-Le contrat peut être suspendu, sans prolongation de sa durée, par le cocontractant dans les cas suivants :
+Sans préjudice des mesures prononcées, à titre de sanctions, par le préfet de région en application de l'article L. 311-14 ou
+des décisions de justice dont l'exécution l'impose, le contrat est suspendu, sur demande du préfet de région, à titre de
+mesure de police administrative, par le cocontractant :
 
-- en cas de décision de justice ou en cas de décision administrative prononçant la suspension du contrat dans le cadre des
-dispositions de l'article L. 311-14 ;
+- en l'absence de production pendant une durée de plus de dix-huit mois ;
 
-- cas prévus par le contrat, notamment en cas de non-respect des dispositions relatives au comptage ;
+- en cas de refus du producteur de répondre aux demandes de son cocontractant destinées à vérifier la bonne application des
+clauses du contrat ;
 
-- absence de notification par le producteur au cocontractant de modifications par rapport aux termes de la demande initiale
-de contrat ou aux clauses du contrat ;
+- en cas de non-respect par le producteur des clauses du contrat ayant une incidence sur sa rémunération, notamment relatives
+au dispositif de comptage ;
 
-- refus du producteur de répondre aux demandes du cocontractant destinées à vérifier la bonne application des clauses du
-contrat ;
+- en l'absence de notification par le producteur à son cocontractant de modifications par rapport aux clauses du contrat ;
 
-- non-respect par le producteur de ses obligations et engagements au titre de l'article R. 314-14 et le cas échéant de
-l'article R. 314-17 ou de l'article R. 314-32 ;
+- en l'absence de réalisation de contrôle par un producteur ou en l'absence de fourniture des données correspondant aux
+engagements souscrits au titre de l'article R. 314-1. 
 
-- absence de production pendant une durée de plus de dix-huit mois. 
+La suspension effectuée à titre conservatoire en application du présent article ne donne lieu à aucune prolongation de la
+durée totale du contrat. Elle ne peut excéder six mois. Au terme de cette période, l'absence de régularisation de la
+situation de fait ayant justifié la suspension entraîne l'engagement par le préfet de région de la procédure de sanction
+définie à la section 3 du chapitre 1er du présent titre. 
 
-Les modèles de contrat mentionnés à l'article R. 314-2 précisent les cas dans lesquels ces suspensions conduisent à une
-résiliation. 
-
-Le contrat peut être résilié en cas de décision de justice ou en cas de décision administrative intervenant dans le cadre des
-dispositions de l'article L. 311-14.
+Le préfet de région transmet à la Commission de régulation de l'énergie copie des décisions prises sur le fondement du
+présent article.
 
 **Liens relatifs à cet article**
 
@@ -47647,15 +48616,12 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2016-682 du 27 mai 2016 - art. 3
+  - Décret n°2016-1726 du 14 décembre 2016 - art. 2
 
 _Cite_:
 
-  - Code de l'énergie - art. L311-14
-  - Code de l'énergie - art. R314-14 (V)
-  - Code de l'énergie - art. R314-17 (V)
-  - Code de l'énergie - art. R314-2 (V)
-  - Code de l'énergie - art. R314-32 (V)
+  - Code de l'énergie - art. L311-14 (V)
+  - Code de l'énergie - art. R314-1 (V)
 
 _Cité par_:
 
@@ -47673,17 +48639,21 @@ le producteur avant le terme prévu. Ces indemnités sont égales :
 rémunération depuis la date de prise d'effet du contrat jusqu'à sa résiliation ;
 
 - pour un contrat d'achat, aux sommes actualisées perçues et versées au titre de l'obligation d'achat depuis la date de prise
-d'effet du contrat jusqu'à sa résiliation, dans la limite des surcoûts mentionnés au 1° de l'article L. 121-7 en résultant.
+d'effet du contrat jusqu'à sa résiliation, dans la limite des surcoûts mentionnés au 1° de l'article L. 121-7 en résultant. 
+
+Le producteur qui demande la résiliation de son contrat à la suite de l'arrêt définitif de son installation indépendant de sa
+volonté ou dans les cas prévus par les arrêtés de filières mentionnés à l'article R. 314-12, n'est pas tenu de verser les
+indemnités de résiliation prévues au premier alinéa, sous réserve qu'il respecte les prescriptions relatives à la mise à
+l'arrêt définitif ou au démantèlement de son installation ou toute autre condition spécifique prévues par ces arrêtés. Le
+préfet de région, dès qu'il est informé par le producteur de la mise en œuvre de ces prescriptions ou conditions et, s'il
+l'estime nécessaire, après s'être assuré de leur correcte application, informe le cocontractant que le producteur est
+dispensé du versement de ces indemnités.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-_Modifié par_:
-
-  - Décret n°2016-682 du 27 mai 2016 - art. 3
 
 _Cité par_:
 
@@ -47697,13 +48667,17 @@ _Cité par_:
   - Arrêté du 23 avril 2018 - art. 11 (V)
   - Code de l'énergie - art. R121-27 (V)
   - Code de l'énergie - art. R314-11 (M)
-  - Code de l'énergie - art. R314-12 (M)
   - Code de l'énergie - art. R314-13 (M)
+
+_Modifié par_:
+
+  - Décret n°2016-1726 du 14 décembre 2016 - art. 2
 
 _Cite_:
 
   - Code de l'énergie - art. L121-7
-  - Code de l'énergie - art. R314-2 (V)
+  - Code de l'énergie - art. R314-12 (V)
+  - Code de l'énergie - art. R314-2
 
 
 ###### Article R314-10
@@ -47840,6 +48814,29 @@ _Cite_:
   - Code de l'énergie - art. L314-4
 
 
+###### Article R314-12-1
+
+Les conditions d'achat ainsi que les conditions de complément de rémunération figurant dans les arrêtés de filières
+mentionnés à l'article R. 314-12 sont réexaminées annuellement et, le cas échéant, sont révisées. Ces révisions prennent en
+compte le niveau des coûts et des recettes des installations performantes et représentatives des filières au moment de la
+révision, ainsi que, le cas échéant, les résultats d'audits menés à son initiative par la Commission de régulation de
+l'énergie. 
+
+Ces révisions des conditions d'achat et de celles de complément de rémunération ne s'appliquent ni aux installations faisant
+l'objet d'un contrat en cours à la date d'entrée en vigueur de ces arrêtés, ni aux installations ayant fait l'objet,
+antérieurement à l'entrée en vigueur de ces derniers, d'une demande complète de contrat.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2016-1726 du 14 décembre 2016 - art. 2
+
+_Cite_:
+
+  - Code de l'énergie - art. L142-12 (V)
+
+
 ###### Article R314-13
 
 Le cocontractant transmet au ministre chargé de l'énergie et au préfet, sur leur demande, les informations concernant les
@@ -47929,9 +48926,9 @@ _Cite_:
   - Code de l'énergie - art. L314-7-1
 
 
-##### Sous-section 2 : Dispositions propres à l'obligation d'achat<a id=453></a>
+##### Sous-section 2 : Dispositions propres à l'obligation d'achat<a id=461></a>
 
-##### Paragraphe 1 : Catégories d'installations éligibles à l'obligation d'achat<a id=454></a>
+##### Paragraphe 1 : Catégories d'installations éligibles à l'obligation d'achat<a id=462></a>
 
 ###### Article D314-15
 
@@ -48025,25 +49022,25 @@ _Cite_:
 
 ###### Article D314-16
 
-En application du 
-deuxième alinéa de l'article L. 314-2 du code de l'énergie
-et dans les conditions prévues à l'article R. 314-20, les producteurs dont le contrat d'achat est arrivé à échéance peuvent
-bénéficier d'un nouveau contrat d'achat d'électricité pour les installations de production d'électricité utilisant à titre
-principal le biogaz issu d'installations de stockage de déchets non dangereux implantées sur le territoire métropolitain
-continental d'une puissance installée strictement inférieure à 500 kilowatts.
+En application du 2° de l'article L. 314-2 du code de l'énergie et dans les conditions prévues à l'article R. 314-20, les
+producteurs dont le contrat d'achat est arrivé à échéance peuvent bénéficier d'un nouveau contrat d'achat d'électricité pour
+les installations de production d'électricité utilisant à titre principal le biogaz issu d'installations de stockage de
+déchets non dangereux implantées sur le territoire métropolitain continental d'une puissance installée strictement inférieure
+à 500 kilowatts.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2016-691 du 28 mai 2016 - art. 1
+  - Décret n°2016-1726 du 14 décembre 2016 - art. 2
 
 _Cite_:
 
-  - Code de l'énergie - art. L314-2
+  - Code de l'énergie - art. L314-2 (V)
+  - Code de l'énergie - art. R314-20 (V)
 
 
-##### Paragraphe 2 : Conditions de l'obligation d'achat<a id=455></a>
+##### Paragraphe 2 : Conditions de l'obligation d'achat<a id=463></a>
 
 ###### Article R314-17
 
@@ -48103,49 +49100,12 @@ _Cité par_:
   - Code de l'énergie - art. R314-15 (Ab)
 
 
-###### Article R314-19
-
-Le producteur exploitant une installation mentionnée à la deuxième phrase du premier alinéa de l'article L. 314-2 qui
-souhaite bénéficier une seconde fois d'un contrat d'achat à l'échéance d'un premier contrat d'achat adresse à l'acheteur,
-dans les conditions définies aux articles R. 314-3 et R. 314-4, une demande de contrat assortie d'un engagement de réaliser
-un programme d'investissement sur l'installation. La prise d'effet du contrat d'achat est subordonnée à la fourniture par le
-producteur à l'acheteur de l'attestation de conformité mentionnée à l'article R. 314-7. 
-
-Les caractéristiques de l'installation, les conditions d'achat, le programme d'investissement ainsi que les modalités de sa
-mise en œuvre sont définis par celui des arrêtés mentionnés à l'article R. 314-12 applicable à la filière dont relève
-l'installation. Les conditions d'achat sont notamment fondées sur des niveaux de coûts d'investissement et d'exploitation
-d'une installation performante représentative de la filière à laquelle elle appartient. Elles tiennent compte de l'ensemble
-des recettes de cette installation, y compris des aides financières et fiscales auxquelles elle est éligible. 
-
-Si le programme d'investissement n'est pas réalisé dans les conditions prévues, le contrat peut être suspendu ou résilié
-conformément aux dispositions de l'article R. 314-8.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-_Modifié par_:
-
-  - Décret n°2016-682 du 27 mai 2016 - art. 3
-
-_Abrogé par_:
-
-  - Décret n°2016-1726 du 14 décembre 2016 - art. 2
-
-_Cite_:
-
-  - Code de l'énergie - art. L314-2
-
-
 ###### Article R314-20
 
-Le producteur exploitant une installation située sur le territoire métropolitain continental mentionnée au second alinéa de
-l'article L. 314-2 qui souhaite bénéficier une nouvelle fois d'un contrat d'achat à l'échéance d'un premier contrat d'achat
-adresse une demande de contrat à l'acheteur dans les conditions définies aux articles R. 314-3 et R. 314-4. La prise d'effet
-du contrat est subordonnée à la fourniture par le producteur à l'acheteur de l'attestation de conformité mentionnée à
-l'article R. 314-7. 
+Le producteur exploitant une installation située sur le territoire métropolitain continental mentionnée au 2° de l'article L.
+314-2 qui souhaite bénéficier une nouvelle fois d'un contrat d'achat à l'échéance d'un premier contrat d'achat adresse une
+demande de contrat à l'acheteur dans les conditions définies aux articles R. 314-3 et R. 314-4. La prise d'effet du contrat
+s'effectue selon les conditions mentionnées à l'article R. 314-7. 
 
 Les caractéristiques de l'installation et les conditions d'achat sont définies par celui des arrêtés mentionnés à l'article
 R. 314-12 applicable à la filière dont relève l'installation. Ces conditions sont adaptées aux conditions économiques de
@@ -48162,7 +49122,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2016-682 du 27 mai 2016 - art. 3
+  - Décret n°2016-1726 du 14 décembre 2016 - art. 2
 
 _Cité par_:
 
@@ -48171,6 +49131,9 @@ _Cité par_:
 _Cite_:
 
   - Code de l'énergie - art. L314-2
+  - Code de l'énergie - art. R314-12 (V)
+  - Code de l'énergie - art. R314-3 (V)
+  - Code de l'énergie - art. R314-7 (V)
 
 
 ###### Article R314-21
@@ -48218,9 +49181,9 @@ _Cite_:
   - Code de l'énergie - art. L314-11
 
 
-##### Sous-section 3 : Dispositions propres au complément de rémunération<a id=456></a>
+##### Sous-section 3 : Dispositions propres au complément de rémunération<a id=464></a>
 
-##### Paragraphe 1 : Catégories d'installations éligibles au complément de rémunération<a id=457></a>
+##### Paragraphe 1 : Catégories d'installations éligibles au complément de rémunération<a id=465></a>
 
 ###### Article D314-23
 
@@ -48281,10 +49244,10 @@ _Cite_:
 
 ###### Article D314-23-1
 
-En application du deuxième alinéa de l'article L. 314-19 et dans les conditions prévues à l'article R. 314-27, les
-producteurs dont le contrat d'achat est arrivé à échéance peuvent bénéficier d'un contrat de complément de rémunération pour
-les installations de production d'électricité implantées sur le territoire métropolitain continental suivantes, sous réserve
-de l'engagement du producteur à réaliser un programme d'investissement : 
+En application du 1° de l'article L. 314-19 et dans les conditions prévues à l'article R. 314-27, les producteurs dont le
+contrat d'achat est arrivé à échéance peuvent bénéficier d'un contrat de complément de rémunération pour les installations de
+production d'électricité implantées sur le territoire métropolitain continental suivantes, sous réserve de l'engagement du
+producteur à réaliser un programme d'investissement : 
 
 1° Les installations utilisant l'énergie hydraulique des lacs, des cours d'eau et des eaux captées gravitairement d'une
 puissance installée inférieure ou égale à 1 mégawatt ; 
@@ -48295,10 +49258,6 @@ selon lesquelles le respect des caractéristiques mentionnées à l'article D. 3
 
 **Liens relatifs à cet article**
 
-_Créé par_:
-
-  - Décret n°2016-691 du 28 mai 2016 - art. 2
-
 _Cité par_:
 
   - Arrêté du 13 décembre 2016 (V)
@@ -48306,24 +49265,35 @@ _Cité par_:
   - Arrêté du 13 décembre 2016 - art. 4 (V)
   - Arrêté du 13 décembre 2016 - art. 6 (V)
 
+_Modifié par_:
+
+  - Décret n°2016-1726 du 14 décembre 2016 - art. 2
+
+_Cite_:
+
+  - Code de l'énergie - art. D314-14-1 (V)
+  - Code de l'énergie - art. L314-19 (V)
+  - Code de l'énergie - art. R314-12 (V)
+  - Code de l'énergie - art. R314-27 (V)
+
 
 ###### Article D314-24
 
-En application du deuxième alinéa de l'article L. 314-19 et dans les conditions prévues à l'article R. 314-28, les
-producteurs dont le contrat d'achat est arrivé à échéance peuvent bénéficier d'un contrat de complément de rémunération pour
-les installations de production d'électricité implantées sur le territoire métropolitain continental utilisant à titre
-principal le biogaz issu d'installations de stockage de déchets non dangereux d'une puissance installée supérieure à 500
-kilowatts.
+En application du 2° de l'article L. 314-19 et dans les conditions prévues à l'article R. 314-28, les producteurs dont le
+contrat d'achat est arrivé à échéance peuvent bénéficier d'un contrat de complément de rémunération pour les installations de
+production d'électricité implantées sur le territoire métropolitain continental utilisant à titre principal le biogaz issu
+d'installations de stockage de déchets non dangereux d'une puissance installée supérieure à 500 kilowatts.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2016-691 du 28 mai 2016 - art. 2
+  - Décret n°2016-1726 du 14 décembre 2016 - art. 2
 
 _Cite_:
 
   - Code de l'énergie - art. L314-19
+  - Code de l'énergie - art. R314-28 (V)
 
 
 ###### Article D314-25
@@ -48345,7 +49315,7 @@ _Cite_:
   - Code de l'énergie - art. R314-31 (V)
 
 
-##### Paragraphe 2 : Conditions propres au complément de rémunération<a id=458></a>
+##### Paragraphe 2 : Conditions propres au complément de rémunération<a id=466></a>
 
 ###### Article R314-26
 
@@ -48370,12 +49340,11 @@ _Cite_:
 
 ###### Article R314-27
 
-Le producteur d'une installation mentionnée au second alinéa de l'article L. 314-19, figurant parmi les installations
-mentionnées aux 1° à 6° de l'article L. 314-1, dont le contrat d'achat est arrivé à échéance et qui n'a pas déjà bénéficié
-d'un contrat de complément de rémunération, s'il souhaite bénéficier d'un contrat de rémunération, adresse à Electricité de
-France, dans les conditions définies aux articles R. 314-3 et R. 314-4, une demande assortie d'un engagement de réaliser un
-programme d'investissement sur l'installation. La prise d'effet du contrat de complément de rémunération est subordonnée à la
-fourniture par le producteur à Electricité de France de l'attestation de conformité mentionnée à l'article R. 314-7. 
+Le producteur d'une installation mentionnée au 1° de l'article L. 314-19, figurant parmi les installations mentionnées aux 1°
+à 6° de l'article L. 314-1, dont le contrat d'achat est arrivé à échéance et qui n'a pas déjà bénéficié d'un contrat de
+complément de rémunération, s'il souhaite bénéficier d'un contrat de rémunération, adresse à Electricité de France, dans les
+conditions définies aux articles R. 314-3 et R. 314-4, une demande assortie d'un engagement de réaliser un programme
+d'investissement sur l'installation. La prise d'effet du contrat est fixée dans les conditions prévues à l'article R. 314-7. 
 
 Les caractéristiques de l'installation, les conditions du complément de rémunération mentionnées aux articles R. 314-33 à R.
 314-42, le programme d'investissement ainsi que les modalités de sa mise en œuvre sont définis par celui des arrêtés
@@ -48393,10 +49362,6 @@ _Codifié par_:
 
   - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-_Modifié par_:
-
-  - Décret n°2016-682 du 27 mai 2016 - art. 3
-
 _Cité par_:
 
   - Arrêté du 13 décembre 2016 - art. 14 (V)
@@ -48404,21 +49369,30 @@ _Cité par_:
   - Code de l'énergie - art. R314-31 (V)
   - Code de l'énergie - art. R314-32 (V)
 
+_Modifié par_:
+
+  - Décret n°2016-1726 du 14 décembre 2016 - art. 2
+
 _Cite_:
 
   - Code de l'énergie - art. L314-1
   - Code de l'énergie - art. L314-19
+  - Code de l'énergie - art. R314-12 (V)
+  - Code de l'énergie - art. R314-3 (V)
+  - Code de l'énergie - art. R314-33 (V)
+  - Code de l'énergie - art. R314-7 (V)
+  - Code de l'énergie - art. R314-8 (V)
 
 
 ###### Article R314-28
 
-Le producteur d'une installation mentionnée au second alinéa de l'article L. 314-19, figurant parmi les installations
-mentionnées aux 1° à 6° de l'article L. 314-1, dont le contrat d'achat est arrivé à échéance et qui n'a pas déjà bénéficié
-d'un contrat de complément de rémunération, peut, si le niveau des coûts d'exploitation d'une installation performante et
-représentative de la filière est supérieur au niveau de l'ensemble de ses recettes y compris les aides financières et
-fiscales auxquelles l'installation est éligible, adresser une demande de contrat de complément de rémunération à Electricité
-de France dans les conditions définies aux articles R. 314-3 et R. 314-4. La prise d'effet du contrat est subordonnée à la
-fourniture par le producteur à Electricité de France de l'attestation de conformité mentionnée à l'article R. 314-7. 
+Le producteur d'une installation mentionnée au 2° de l'article L. 314-19, figurant parmi les installations mentionnées aux 1°
+à 6° de l'article L. 314-1, dont le contrat d'achat est arrivé à échéance et qui n'a pas déjà bénéficié d'un contrat de
+complément de rémunération, peut, si le niveau des coûts d'exploitation d'une installation performante et représentative de
+la filière est supérieur au niveau de l'ensemble de ses recettes y compris les aides financières et fiscales auxquelles
+l'installation est éligible, adresser une demande de contrat de complément de rémunération à Electricité de France dans les
+conditions définies aux articles R. 314-3 et R. 314-4. La prise d'effet du contrat est fixée dans les conditions prévues à
+l'article R. 314-7. 
 
 Les caractéristiques de l'installation et les conditions du complément de rémunération mentionnées aux articles R. 314-33 à
 R. 314-42 sont définies par celui des arrêtés mentionnés à l'article R. 314-12 applicable à la filière dont relève
@@ -48435,7 +49409,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2016-682 du 27 mai 2016 - art. 3
+  - Décret n°2016-1726 du 14 décembre 2016 - art. 2
 
 _Cité par_:
 
@@ -48445,21 +49419,25 @@ _Cite_:
 
   - Code de l'énergie - art. L314-1
   - Code de l'énergie - art. L314-19
+  - Code de l'énergie - art. R314-12 (V)
+  - Code de l'énergie - art. R314-3 (V)
+  - Code de l'énergie - art. R314-33 (V)
+  - Code de l'énergie - art. R314-7 (V)
 
 
 ###### Article R314-29
 
-Le producteur d'une installation mentionnée au second alinéa de l'article L. 314-19, figurant parmi les installations
-mentionnées aux 1° à 6° de l'article L. 314-1 bénéficiant d'un contrat d'achat peut, pendant une certaine période d'exécution
-du contrat dont la durée est fixée par arrêté du ministre chargé de l'énergie, le résilier par anticipation pour bénéficier
-du complément de rémunération en lieu et place de l'obligation d'achat. Dans ce cas, il adresse à Electricité de France une
-demande de contrat de complément de rémunération contenant l'ensemble des éléments mentionnés à l'article R. 314-4,
-accompagnée d'une demande de suspension de son contrat d'achat, ou d'une copie de la demande de suspension du contrat d'achat
-dans le cas où celui-ci a été conclu avec une entreprise locale de distribution. 
+Le producteur d'une installation mentionnée au 3° de l'article L. 314-19, figurant parmi les installations mentionnées aux 1°
+à 6° de l'article L. 314-1 bénéficiant d'un contrat d'achat peut, pendant une certaine période d'exécution du contrat dont la
+durée est fixée par arrêté du ministre chargé de l'énergie, le résilier par anticipation pour bénéficier du complément de
+rémunération en lieu et place de l'obligation d'achat. Dans ce cas, il adresse à Electricité de France une demande de contrat
+de complément de rémunération contenant l'ensemble des éléments mentionnés à l'article R. 314-4, accompagnée d'une demande de
+suspension de son contrat d'achat, ou d'une copie de la demande de suspension du contrat d'achat dans le cas où celui-ci a
+été conclu avec une entreprise locale de distribution. 
 
 Le contrat d'achat est suspendu, sans modification de son terme, à compter de la prise d'effet du contrat de complément de
-rémunération. La prise d'effet du contrat, qui est subordonnée à la fourniture de l'attestation de conformité mentionnée à
-l'article R. 314-7, intervient six mois au plus tard après la demande de suspension. 
+rémunération. La prise d'effet du contrat, qui est fixée dans les conditions prévues à l'article R. 314-7, intervient six
+mois au plus tard après la demande de suspension. 
 
 Le contrat de complément de rémunération est conclu pour la durée du contrat d'achat initial restant à courir à la date de sa
 prise d'effet. Les caractéristiques de l'installation et les conditions du complément de rémunération mentionnées aux
@@ -48479,17 +49457,22 @@ _Codifié par_:
 
   - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-_Modifié par_:
-
-  - Décret n°2016-682 du 27 mai 2016 - art. 3
-
 _Cité par_:
 
   - Décret n°2016-691 du 28 mai 2016 - art. 5 (V)
 
+_Modifié par_:
+
+  - Décret n°2016-1726 du 14 décembre 2016 - art. 2
+
 _Cite_:
 
+  - Code de l'énergie - art. L314-1 (V)
   - Code de l'énergie - art. L314-19
+  - Code de l'énergie - art. R314-12 (V)
+  - Code de l'énergie - art. R314-33 (V)
+  - Code de l'énergie - art. R314-4 (V)
+  - Code de l'énergie - art. R314-7 (V)
 
 
 ###### Article R314-30
@@ -48497,9 +49480,8 @@ _Cite_:
 Le producteur d'une installation mentionnée au 1° de l'article L. 314-21 dont le contrat de complément de rémunération est
 arrivé à échéance et qui souhaite bénéficier d'un nouveau contrat adresse à Electricité de France, dans les conditions
 définies aux articles R. 314-3 et R. 314-4, une demande de contrat de complément de rémunération assortie d'un engagement de
-réaliser un programme d'investissement sur l'installation. La prise d'effet du contrat de complément de rémunération est
-subordonnée à la fourniture par le producteur à Electricité de France de l'attestation de conformité mentionnée à l'article
-R. 314-7. 
+réaliser un programme d'investissement sur l'installation. La prise d'effet du contrat est fixée dans les conditions prévues
+à l'article R. 314-7. 
 
 Les caractéristiques de l'installation, les conditions du complément de rémunération mentionnées aux articles R. 314-33 à R.
 314-42, le programme d'investissement ainsi que les modalités de sa mise en œuvre sont définis par celui des arrêtés
@@ -48518,17 +49500,22 @@ _Codifié par_:
 
   - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-_Modifié par_:
-
-  - Décret n°2016-682 du 27 mai 2016 - art. 3
-
 _Cité par_:
 
   - Arrêté du 13 décembre 2016 - art. 14 (V)
 
+_Modifié par_:
+
+  - Décret n°2016-1726 du 14 décembre 2016 - art. 2
+
 _Cite_:
 
   - Code de l'énergie - art. L314-21
+  - Code de l'énergie - art. R314-12 (V)
+  - Code de l'énergie - art. R314-3 (V)
+  - Code de l'énergie - art. R314-33 (V)
+  - Code de l'énergie - art. R314-7 (V)
+  - Code de l'énergie - art. R314-8 (V)
 
 
 ###### Article R314-31
@@ -48536,8 +49523,7 @@ _Cite_:
 Le producteur d'une installation mentionnée au 2° de l'article L. 314-21 dont le contrat de complément de rémunération est
 arrivé à échéance et qui souhaite bénéficier d'un nouveau contrat adresse une demande de contrat de complément de
 rémunération à Electricité de France dans les conditions définies aux articles R. 314-3 et R. 314-4. La prise d'effet du
-contrat de complément de rémunération est subordonnée à la fourniture par le producteur à Electricité de France de
-l'attestation de conformité mentionnée à l'article R. 314-7. 
+contrat est fixée dans les conditions prévues à l'article R. 314-7. 
 
 Les caractéristiques de l'installation et les conditions du complément de rémunération mentionnées aux articles R. 314-33 à
 R. 314-42 sont définies par celui des arrêtés mentionnés à l'article R. 314-12 applicable à la filière dont relève
@@ -48554,7 +49540,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2016-682 du 27 mai 2016 - art. 3
+  - Décret n°2016-1726 du 14 décembre 2016 - art. 2
 
 _Cité par_:
 
@@ -48562,11 +49548,14 @@ _Cité par_:
   - Code de l'énergie - art. R314-30 (V)
   - Code de l'énergie - art. R314-34 (V)
   - Code de l'énergie - art. R314-39 (V)
-  - Code de l'énergie - art. R314-40 (V)
 
 _Cite_:
 
   - Code de l'énergie - art. L314-21
+  - Code de l'énergie - art. R314-12 (V)
+  - Code de l'énergie - art. R314-3 (V)
+  - Code de l'énergie - art. R314-33 (V)
+  - Code de l'énergie - art. R314-7 (V)
 
 
 ###### Article R314-32
@@ -48613,19 +49602,17 @@ _Nouveaux textes_:
   - Code de l'énergie - art. R314-61 (M)
 
 
-##### Paragraphe 3 : Calcul du complément de rémunération<a id=459></a>
+##### Paragraphe 3 : Calcul du complément de rémunération<a id=467></a>
 
 ###### Article R314-33
 
-I.-Sauf pour les installations de cogénération d'électricité et de chaleur à partir de gaz naturel éligibles au complément de
-rémunération, pour lesquelles le complément de rémunération est défini pour une année calendaire fixée dans l'arrêté pris au
-titre de l'article R. 314-12, le complément de rémunération est défini pour une année civile sous la forme suivante : 
+I. - Sauf pour les installations de cogénération d'électricité et de chaleur à partir de gaz naturel éligibles au complément
+de rémunération, pour lesquelles le complément de rémunération est défini pour une année calendaire fixée dans l'arrêté pris
+au titre de l'article R. 314-12, le complément de rémunération est défini pour une année civile sous la forme suivante : 
 
-Vous pouvez consulter l'image dans le fac-similé du 
+Vous pouvez consulter l'image dans le fac-similé du JO n º 0123 du 28/05/2016, texte n º 1 
 
-JO n º 0123 du 28/05/2016, texte n º 1 
-
-https://www.legifrance.gouv.fr/jo_pdf.do?id=JORFTEXT000032591142
+https :// www. legifrance. gouv. fr/ jo _ pdf. do ? id = JORFTEXT000032591142 
 
 Formule dans laquelle les paramètres correspondent aux grandeurs suivantes : 
 
@@ -48639,11 +49626,9 @@ après. Ce pas de temps peut être annuel, pluri-mensuel ou mensuel et est fixé
 c) Ei représente la production nette d'électricité de l'installation, telle que définie à l'article R. 314-35, sur une année
 civile et, le cas échéant, sur une année calendaire de sorte que 
 
-Vous pouvez consulter l'image dans le fac-similé du 
+Vous pouvez consulter l'image dans le fac-similé du JO n º 0123 du 28/05/2016, texte n º 1 
 
-JO n º 0123 du 28/05/2016, texte n º 1 
-
-https://www.legifrance.gouv.fr/jo_pdf.do?id=JORFTEXT000032591142 ; 
+https :// www. legifrance. gouv. fr/ jo _ pdf. do ? id = JORFTEXT000032591142 ; 
 
 d) α correspond à un coefficient sans dimension défini conformément à l'article R. 314-36 ; 
 
@@ -48661,11 +49646,9 @@ i) Pgestion correspond à une prime unitaire de gestion, exprimée en €/ MWh e
 
 Le terme Ei. (α Te-M0 i) représente une prime à l'énergie et le terme 
 
-Vous pouvez consulter l'image dans le fac-similé du 
+Vous pouvez consulter l'image dans le fac-similé du JO n º 0123 du 28/05/2016, texte n º 1 
 
-JO n º 0123 du 28/05/2016, texte n º 1 
-
-https://www.legifrance.gouv.fr/jo_pdf.do?id=JORFTEXT000032591142
+https :// www. legifrance. gouv. fr/ jo _ pdf. do ? id = JORFTEXT000032591142 
 
 représente une prime à l'énergie annuelle. 
 
@@ -48673,24 +49656,13 @@ Les valeurs des paramètres α, Te et Pgestion du complément de rémunération 
 l'article R. 314-12, dans les limites fixées par le présent chapitre, le cas échéant, de façon à couvrir les coûts
 indispensables au maintien en fonctionnement de l'installation et notamment les coûts d'exploitation. 
 
-II.-Les conditions du complément de rémunération sont révisées périodiquement dans les arrêtés mentionnés à l'article R.
-314-12. Ces révisions prennent en compte les niveaux de coûts et de recettes des installations performantes et
-représentatives des filières au moment de la révision, ainsi que, le cas échéant, les résultats des audits menés par la
-Commission de régulation de l'énergie. 
-
-Ces révisions des conditions du complément de rémunération s'appliquent aux demandes de contrat postérieures, mais ni aux
-installations faisant l'objet d'un contrat de complément de rémunération en cours ni aux installations ayant fait l'objet
-antérieurement d'une demande complète de contrat de complément de rémunération.
+II. - (Abrogé)
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-_Modifié par_:
-
-  - Décret n°2016-682 du 27 mai 2016 - art. 3
 
 _Cité par_:
 
@@ -48706,6 +49678,18 @@ _Cité par_:
   - Code de l'énergie - art. R314-39 (V)
   - Code de l'énergie - art. R314-40 (V)
   - Code de l'énergie - art. R314-47 (V)
+
+_Modifié par_:
+
+  - Décret n°2016-1726 du 14 décembre 2016 - art. 2
+
+_Cite_:
+
+  - Code de l'énergie - art. R314-35 (V)
+  - Code de l'énergie - art. R314-36 (V)
+  - Code de l'énergie - art. R314-37 (V)
+  - Code de l'énergie - art. R314-38 (V)
+  - Code de l'énergie - art. R314-41 (V)
 
 _Nouveaux textes_:
 
@@ -49064,7 +50048,7 @@ _Cite_:
   - Code de l'énergie - art. R314-47 (V)
 
 
-##### Paragraphe 4 : Modalités de transmission des données<a id=460></a>
+##### Paragraphe 4 : Modalités de transmission des données<a id=468></a>
 
 ###### Article R314-43
 
@@ -49214,7 +50198,7 @@ _Cité par_:
   - Code de l'énergie - art. R314-48 (V)
 
 
-##### Paragraphe 5 : Modalités de versement du complément de rémunération<a id=461></a>
+##### Paragraphe 5 : Modalités de versement du complément de rémunération<a id=469></a>
 
 ###### Article R314-47
 
@@ -49367,7 +50351,7 @@ _Cite_:
   - Code de l'énergie - art. R314-47 (V)
 
 
-##### Paragraphe 6 : Evaluation du dispositif<a id=462></a>
+##### Paragraphe 6 : Evaluation du dispositif<a id=470></a>
 
 ###### Article R314-50
 
@@ -49385,7 +50369,7 @@ _Cité par_:
   - Arrêté du 3 novembre 2016 - art. (V)
 
 
-##### Paragraphe 7 : Modalités d'achat en dernier recours<a id=463></a>
+##### Paragraphe 7 : Modalités d'achat en dernier recours<a id=471></a>
 
 ###### Article R314-51
 
@@ -49504,9 +50488,9 @@ _Cite_:
   - Code de l'énergie - art. R314-48 (V)
 
 
-##### Sous-section 4 : Cession des contrats d'achat à des organismes agréés<a id=464></a>
+##### Sous-section 4 : Cession des contrats d'achat à des organismes agréés<a id=472></a>
 
-##### Paragraphe 1 : Agrément des organismes<a id=465></a>
+##### Paragraphe 1 : Agrément des organismes<a id=473></a>
 
 ###### Article R314-52-1
 
@@ -49636,7 +50620,7 @@ _Créé par_:
   - Décret n°2016-690 du 28 mai 2016 - art. 1
 
 
-##### Paragraphe 2 : Modalités de cession du contrat d'achat à un organisme agréé<a id=466></a>
+##### Paragraphe 2 : Modalités de cession du contrat d'achat à un organisme agréé<a id=474></a>
 
 ###### Article R314-52-7
 
@@ -49684,7 +50668,7 @@ _Cité par_:
   - Décret n°2018-243 du 5 avril 2018 (V)
 
 
-##### Paragraphe 3 : Modalités de remboursement des frais de signature et de gestion du contrat d'achat cédé<a id=467></a>
+##### Paragraphe 3 : Modalités de remboursement des frais de signature et de gestion du contrat d'achat cédé<a id=475></a>
 
 ###### Article R314-52-8
 
@@ -49707,7 +50691,7 @@ _Cité par_:
   - Code de l'énergie - art. R314-52-7 (V)
 
 
-##### Paragraphe 4 : Modalités de transfert d'un contrat d'achat cédé d'un organisme agréé à un autre<a id=468></a>
+##### Paragraphe 4 : Modalités de transfert d'un contrat d'achat cédé d'un organisme agréé à un autre<a id=476></a>
 
 ###### Article R314-52-9
 
@@ -49754,7 +50738,7 @@ _Cite_:
   - Code de l'énergie - art. R314-52-2 (V)
 
 
-##### Paragraphe 5 : Obligations d'information<a id=469></a>
+##### Paragraphe 5 : Obligations d'information<a id=477></a>
 
 ###### Article R314-52-10
 
@@ -49789,7 +50773,17 @@ _Créé par_:
   - Décret n°2016-690 du 28 mai 2016 - art. 1
 
 
-##### Section 2 : Les garanties d'origine<a id=470></a>
+##### Section 1 : Les dispositifs de soutien aux énergies renouvelables et à la cogénération à partir de gaz naturel<a id=478></a>
+
+##### Sous-section 1 : Dispositions communes à l'obligation d'achat et au complément de rémunération<a id=479></a>
+
+##### Sous-section 2 : Dispositions propres à l'obligation d'achat<a id=480></a>
+
+##### Sous-section 3 : Dispositions propres au complément de rémunération<a id=481></a>
+
+##### Sous-section 4 : Cession des contrats d'achat à des organismes agréés<a id=482></a>
+
+##### Section 2 : Les garanties d'origine<a id=483></a>
 
 ###### Article R314-53
 
@@ -50354,7 +51348,7 @@ _Anciens textes_:
   - Code de l'énergie - art. R314-41 (T)
 
 
-##### Section 3 : Investissement participatif dans les projets de production d'énergie renouvelable<a id=471></a>
+##### Section 3 : Investissement participatif dans les projets de production d'énergie renouvelable<a id=484></a>
 
 ###### Article R314-71
 
@@ -50413,11 +51407,11 @@ _Cite_:
   - Code de l'énergie - art. L314-28 (V)
 
 
-### TITRE II : LE TRANSPORT ET LA DISTRIBUTION<a id=472></a>
+### TITRE II : LE TRANSPORT ET LA DISTRIBUTION<a id=485></a>
 
-#### Chapitre Ier : Le transport<a id=473></a>
+#### Chapitre Ier : Le transport<a id=486></a>
 
-##### Section 1 : La consistance du réseau public de transport<a id=474></a>
+##### Section 1 : La consistance du réseau public de transport<a id=487></a>
 
 ###### Article D321-7
 
@@ -50685,7 +51679,7 @@ _Cite_:
   - Code de l'énergie - art. L321-5 (V)
 
 
-##### Section 2 : Les missions du gestionnaire de réseau de transport en matière de raccordement des énergies renouvelables<a id=475></a>
+##### Section 2 : Les missions du gestionnaire de réseau de transport en matière de raccordement des énergies renouvelables<a id=488></a>
 
 ###### Article D321-10
 
@@ -51212,7 +52206,7 @@ _Modifié par_:
   - Décret n°2016-434 du 11 avril 2016 - art. 6
 
 
-##### Section 4 : Obligations au titre du mécanisme d'ajustement<a id=476></a>
+##### Section 4 : Obligations au titre du mécanisme d'ajustement<a id=489></a>
 
 ###### Article D321-23
 
@@ -51256,9 +52250,9 @@ _Cite_:
   - Code de l'énergie - art. L321-10 (V)
 
 
-#### Chapitre II : La distribution<a id=477></a>
+#### Chapitre II : La distribution<a id=490></a>
 
-##### Section 1 : Les missions des gestionnaires des réseaux publics de distribution en matière de qualité de l'électricité<a id=478></a>
+##### Section 1 : Les missions des gestionnaires des réseaux publics de distribution en matière de qualité de l'électricité<a id=491></a>
 
 ###### Article D322-1
 
@@ -51284,7 +52278,7 @@ _Créé par_:
   - Décret n°2015-1823 du 30 décembre 2015 - art.
 
 
-##### Sous-section 1 : Tenue et continuité globales de la tension sur le réseau de distribution<a id=479></a>
+##### Sous-section 1 : Tenue et continuité globales de la tension sur le réseau de distribution<a id=492></a>
 
 ###### Article D322-2
 
@@ -51472,7 +52466,7 @@ _Créé par_:
   - Décret n°2015-1823 du 30 décembre 2015 - art.
 
 
-##### Sous-section 2 : Tenue et continuité de la tension délivrée à un utilisateur du réseau<a id=480></a>
+##### Sous-section 2 : Tenue et continuité de la tension délivrée à un utilisateur du réseau<a id=493></a>
 
 ###### Article D322-9
 
@@ -51542,7 +52536,7 @@ _Cite_:
   - Code général des collectivités territoriales - art. L2224-31 (M)
 
 
-##### Section 2 : Consignation de sommes en cas de non-respect du niveau de qualité en matière d'interruption de l'alimentation électrique<a id=481></a>
+##### Section 2 : Consignation de sommes en cas de non-respect du niveau de qualité en matière d'interruption de l'alimentation électrique<a id=494></a>
 
 ###### Article R322-11
 
@@ -51669,11 +52663,11 @@ _Créé par_:
   - Décret n°2016-1128 du 17 août 2016 - art. 1
 
 
-#### Chapitre III : Les ouvrages de transport et de distribution<a id=482></a>
+#### Chapitre III : Les ouvrages de transport et de distribution<a id=495></a>
 
-##### Section 1 : Procédure d'institution des servitudes administratives nécessaires aux ouvrages de transport et de distribution<a id=483></a>
+##### Section 1 : Procédure d'institution des servitudes administratives nécessaires aux ouvrages de transport et de distribution<a id=496></a>
 
-##### Sous-section 1 : Déclaration d'utilité publique<a id=484></a>
+##### Sous-section 1 : Déclaration d'utilité publique<a id=497></a>
 
 ###### Article 323-6
 
@@ -51917,7 +52911,7 @@ _Cité par_:
   - Code de l'énergie - art. R343-4 (V)
 
 
-##### Sous-section 2 : Procédure d'établissement des servitudes<a id=485></a>
+##### Sous-section 2 : Procédure d'établissement des servitudes<a id=498></a>
 
 ###### Article D323-16
 
@@ -52160,7 +53154,7 @@ _Cite_:
   - Code de l'énergie - art. R323-14 (V)
 
 
-##### Sous-section 3 : Indemnités et frais<a id=486></a>
+##### Sous-section 3 : Indemnités et frais<a id=499></a>
 
 ###### Article R323-17
 
@@ -52200,7 +53194,7 @@ _Cité par_:
   - Code de l'énergie - art. R323-8 (V)
 
 
-##### Section 2 : Procédure propre à l'institution de servitudes pour voisinage des ouvrages de transport et de distribution<a id=487></a>
+##### Section 2 : Procédure propre à l'institution de servitudes pour voisinage des ouvrages de transport et de distribution<a id=500></a>
 
 ###### Article R323-19
 
@@ -52350,7 +53344,7 @@ _Cite_:
   - Code de l'énergie - art. R323-20 (V)
 
 
-##### Section 3 : Le contrôle de la construction et de l'exploitation des ouvrages de transport et de distribution<a id=488></a>
+##### Section 3 : Le contrôle de la construction et de l'exploitation des ouvrages de transport et de distribution<a id=501></a>
 
 ###### Article D323-24
 
@@ -52396,7 +53390,7 @@ _Cité par_:
   - Code de l'énergie - art. R343-2 (V)
 
 
-##### Sous-section 1 : Approbation et réalisation des ouvrages des réseaux publics d'électricité<a id=489></a>
+##### Sous-section 1 : Approbation et réalisation des ouvrages des réseaux publics d'électricité<a id=502></a>
 
 ###### Article R323-25
 
@@ -52631,7 +53625,7 @@ _Cite_:
   - Code de l'énergie - art. R323-40 (V)
 
 
-##### Sous-section 2 : Contrôle de la construction et de l'exploitation des ouvrages des réseaux publics d'électricité et des lignes directes<a id=490></a>
+##### Sous-section 2 : Contrôle de la construction et de l'exploitation des ouvrages des réseaux publics d'électricité et des lignes directes<a id=503></a>
 
 ###### Article R323-30
 
@@ -52748,7 +53742,7 @@ _Cite_:
   - Code de l'énergie - art. R323-31 (V)
 
 
-##### Sous-section 3 : Police et sécurité de l'exploitation des ouvrages des réseaux publics et des lignes directes<a id=491></a>
+##### Sous-section 3 : Police et sécurité de l'exploitation des ouvrages des réseaux publics et des lignes directes<a id=504></a>
 
 ###### Article R323-33
 
@@ -52917,7 +53911,7 @@ _Créé par_:
   - Décret n°2015-1823 du 30 décembre 2015 - art.
 
 
-##### Sous-section 4 : Ouvrages assimilables aux réseaux publics d'électricité<a id=492></a>
+##### Sous-section 4 : Ouvrages assimilables aux réseaux publics d'électricité<a id=505></a>
 
 ###### Article R323-40
 
@@ -53015,7 +54009,7 @@ _Cité par_:
   - Code de l'énergie - art. R323-48 (V)
 
 
-##### Sous-section 5 : Contrôle des champs électromagnétiques<a id=493></a>
+##### Sous-section 5 : Contrôle des champs électromagnétiques<a id=506></a>
 
 ###### Article R323-43
 
@@ -53205,9 +54199,9 @@ _Cite_:
   - Code de l'énergie - art. R323-43 (V)
 
 
-### TITRE III : LA COMMERCIALISATION<a id=494></a>
+### TITRE III : LA COMMERCIALISATION<a id=507></a>
 
-#### Chapitre Ier : Le choix d'un fournisseur<a id=495></a>
+#### Chapitre Ier : Le choix d'un fournisseur<a id=508></a>
 
 ###### Article R331-1
 
@@ -53231,9 +54225,9 @@ _Cite_:
   - Code de l'énergie - art. L331-2 (V)
 
 
-#### Chapitre III : L'achat pour revente<a id=496></a>
+#### Chapitre III : L'achat pour revente<a id=509></a>
 
-##### Section 1 : Autorisation d'exercer l'activité d'achat d'électricité pour revente<a id=497></a>
+##### Section 1 : Autorisation d'exercer l'activité d'achat d'électricité pour revente<a id=510></a>
 
 ###### Article R333-1
 
@@ -53562,7 +54556,7 @@ _Cite_:
   - Code de l'énergie - art. R333-1
 
 
-##### Section 2 : Obligations des fournisseurs en matière d'information des consommateurs d'électricité<a id=498></a>
+##### Section 2 : Obligations des fournisseurs en matière d'information des consommateurs d'électricité<a id=511></a>
 
 ###### Article R333-10
 
@@ -53701,7 +54695,7 @@ _Cite_:
   - Code de l'énergie - art. R333-10
 
 
-##### Section 3 : Application dans les zones non interconnectées<a id=499></a>
+##### Section 3 : Application dans les zones non interconnectées<a id=512></a>
 
 ###### Article R333-16
 
@@ -53719,9 +54713,9 @@ _Créé par_:
   - Décret n°2015-1823 du 30 décembre 2015 - art.
 
 
-#### Chapitre V : La contribution des fournisseurs à la sécurité d'approvisionnement en électricité<a id=500></a>
+#### Chapitre V : La contribution des fournisseurs à la sécurité d'approvisionnement en électricité<a id=513></a>
 
-##### Section 1 : Définitions<a id=501></a>
+##### Section 1 : Définitions<a id=514></a>
 
 ###### Article R335-1
 
@@ -53879,7 +54873,7 @@ _Cite_:
   - Code de l'énergie - art. R335-1 (V)
 
 
-##### Section 2 : Obligations de capacité des fournisseurs d'électricité<a id=502></a>
+##### Section 2 : Obligations de capacité des fournisseurs d'électricité<a id=515></a>
 
 ###### Article R335-3
 
@@ -53906,7 +54900,7 @@ _Cite_:
   - Code de l'énergie - art. L335-2 (V)
 
 
-##### Sous-section 1 : Calcul de la puissance de référence<a id=503></a>
+##### Sous-section 1 : Calcul de la puissance de référence<a id=516></a>
 
 ###### Article R335-4
 
@@ -54014,7 +55008,7 @@ _Créé par_:
   - Décret n°2015-1823 du 30 décembre 2015 - art.
 
 
-##### Sous-section 2 : Rééquilibrage en capacité<a id=504></a>
+##### Sous-section 2 : Rééquilibrage en capacité<a id=517></a>
 
 ###### Article R335-8
 
@@ -54188,9 +55182,9 @@ _Cite_:
   - Code de l'énergie - art. R335-10 (V)
 
 
-##### Section 2 : Certification des exploitants de capacité<a id=505></a>
+##### Section 2 : Certification des exploitants de capacité<a id=518></a>
 
-##### Sous-section 1 : Certification et contrôle des capacités<a id=506></a>
+##### Sous-section 1 : Certification et contrôle des capacités<a id=519></a>
 
 ###### Article R335-13
 
@@ -54428,7 +55422,7 @@ _Créé par_:
   - Décret n°2015-1823 du 30 décembre 2015 - art.
 
 
-##### Sous-section 2 : Evolution et rééquilibrage des capacités<a id=507></a>
+##### Sous-section 2 : Evolution et rééquilibrage des capacités<a id=520></a>
 
 ###### Article R335-21
 
@@ -54648,7 +55642,7 @@ _Cite_:
   - Code de l'énergie - art. R335-26 (V)
 
 
-##### Sous-section 3 : Règlement des écarts<a id=508></a>
+##### Sous-section 3 : Règlement des écarts<a id=521></a>
 
 ###### Article R335-29
 
@@ -54815,7 +55809,7 @@ _Cité par_:
   - Code de l'énergie - art. R335-31 (V)
 
 
-##### Section 4 : Echange et cession des garanties de capacité<a id=509></a>
+##### Section 4 : Echange et cession des garanties de capacité<a id=522></a>
 
 ###### Article R335-34
 
@@ -55107,7 +56101,7 @@ _Créé par_:
   - Décret n°2015-1823 du 30 décembre 2015 - art.
 
 
-##### Section 5 : Dispositions particulières<a id=510></a>
+##### Section 5 : Dispositions particulières<a id=523></a>
 
 ###### Article R335-45
 
@@ -55172,7 +56166,7 @@ _Cite_:
   - Code de l'énergie - art. L337-10 (V)
 
 
-##### Section 6 : Dispositif de sécurisation<a id=511></a>
+##### Section 6 : Dispositif de sécurisation<a id=524></a>
 
 ###### Article R335-47
 
@@ -55395,7 +56389,7 @@ _Créé par_:
   - Décret n°2015-1823 du 30 décembre 2015 - art.
 
 
-##### Section 7 : Sanctions<a id=512></a>
+##### Section 7 : Sanctions<a id=525></a>
 
 ###### Article D335-54
 
@@ -55417,9 +56411,9 @@ _Cite_:
   - Code de l'énergie - art. L335-7 (V)
 
 
-#### Chapitre VI : L'accès régulé à l'électricité nucléaire historique<a id=513></a>
+#### Chapitre VI : L'accès régulé à l'électricité nucléaire historique<a id=526></a>
 
-##### Section 1 : Définitions<a id=514></a>
+##### Section 1 : Définitions<a id=527></a>
 
 ###### Article R336-1
 
@@ -55635,9 +56629,9 @@ _Cite_:
   - Code de l'énergie - art. R336-6-1 (V)
 
 
-##### Section 2 : Demande d'accès régulé à l'électricité nucléaire historique et calcul des quantités de produit cédées<a id=515></a>
+##### Section 2 : Demande d'accès régulé à l'électricité nucléaire historique et calcul des quantités de produit cédées<a id=528></a>
 
-##### Sous-section 1 : Demande d'accès régulé à l'électricité nucléaire historique<a id=516></a>
+##### Sous-section 1 : Demande d'accès régulé à l'électricité nucléaire historique<a id=529></a>
 
 ###### Article R336-8
 
@@ -55807,7 +56801,7 @@ _Cite_:
   - Code de l'énergie - art. R336-33 (V)
 
 
-##### Sous-section 2 : Calcul des quantités de produit cédées<a id=517></a>
+##### Sous-section 2 : Calcul des quantités de produit cédées<a id=530></a>
 
 ###### Article R336-13
 
@@ -55989,7 +56983,7 @@ _Cité par_:
   - Code de l'énergie - art. R336-39 (V)
 
 
-##### Section 3 : Notification par la Commission de régulation de l'énergie des cessions d'électricité et transfert de l'énergie par le gestionnaire du réseau public de transport<a id=518></a>
+##### Section 3 : Notification par la Commission de régulation de l'énergie des cessions d'électricité et transfert de l'énergie par le gestionnaire du réseau public de transport<a id=531></a>
 
 ###### Article R336-19
 
@@ -56056,9 +57050,9 @@ _Cite_:
   - Code de l'énergie - art. R336-19 (V)
 
 
-##### Section 4 : Gestion des flux financiers et facturation<a id=519></a>
+##### Section 4 : Gestion des flux financiers et facturation<a id=532></a>
 
-##### Sous-section 1 : Gestion des flux financiers<a id=520></a>
+##### Sous-section 1 : Gestion des flux financiers<a id=533></a>
 
 ###### Article R336-21
 
@@ -56179,7 +57173,7 @@ _Créé par_:
   - Décret n°2015-1823 du 30 décembre 2015 - art.
 
 
-##### Sous-section 2 : Facturation<a id=521></a>
+##### Sous-section 2 : Facturation<a id=534></a>
 
 ###### Article R336-25
 
@@ -56284,7 +57278,7 @@ _Cité par_:
   - Code de l'énergie - art. R336-36 (V)
 
 
-##### Section 5 : Contrôle ex post et complément de prix<a id=522></a>
+##### Section 5 : Contrôle ex post et complément de prix<a id=535></a>
 
 ###### Article R336-28
 
@@ -56647,7 +57641,7 @@ _Créé par_:
   - Décret n°2015-1823 du 30 décembre 2015 - art.
 
 
-##### Section 6 : Dispositions applicables en cas de dépassement du plafond<a id=523></a>
+##### Section 6 : Dispositions applicables en cas de dépassement du plafond<a id=536></a>
 
 ###### Article R336-39
 
@@ -56682,7 +57676,7 @@ _Cite_:
   - Code de l'énergie - art. R336-6-1 (V)
 
 
-##### Section 7 : Sociétés ayant pour activité l'acquisition de contrats d'approvisionnement à long terme d'électricité<a id=524></a>
+##### Section 7 : Sociétés ayant pour activité l'acquisition de contrats d'approvisionnement à long terme d'électricité<a id=537></a>
 
 ###### Article 336-44
 
@@ -56873,11 +57867,11 @@ _Cite_:
   - Code de l'énergie - art. R336-31 (V)
 
 
-#### Chapitre VII : Les tarifs et les prix<a id=525></a>
+#### Chapitre VII : Les tarifs et les prix<a id=538></a>
 
-##### Section 1 : Dispositions applicables aux tarifs de vente<a id=526></a>
+##### Section 1 : Dispositions applicables aux tarifs de vente<a id=539></a>
 
-##### Sous-section 1 : La tarification spéciale de l'électricité comme produit de première nécessité<a id=527></a>
+##### Sous-section 1 : La tarification spéciale de l'électricité comme produit de première nécessité<a id=540></a>
 
 ###### Article R337-1
 
@@ -57569,7 +58563,7 @@ _Abrogé par_:
   - Décret n°2016-555 du 6 mai 2016 - art. 3
 
 
-##### Sous-section 2 : Application à Mayotte<a id=528></a>
+##### Sous-section 2 : Application à Mayotte<a id=541></a>
 
 ###### Article R337-17-1
 
@@ -57594,7 +58588,7 @@ _Cite_:
   - Code de l'énergie - art. R337-1 (V)
 
 
-##### Sous-section 3 : Les tarifs réglementés de vente de l'électricité<a id=529></a>
+##### Sous-section 3 : Les tarifs réglementés de vente de l'électricité<a id=542></a>
 
 ###### Article 337-19-1
 
@@ -57896,7 +58890,7 @@ _Créé par_:
   - Décret n°2015-1823 du 30 décembre 2015 - art.
 
 
-##### Section 2 : Dispositions particulières applicables aux tarifs de cession aux entreprises locales de distribution<a id=530></a>
+##### Section 2 : Dispositions particulières applicables aux tarifs de cession aux entreprises locales de distribution<a id=543></a>
 
 ###### Article R337-25
 
@@ -57989,11 +58983,11 @@ _Modifié par_:
   - Décret n°2016-1133 du 19 août 2016 - art. 1
 
 
-### TITRE IV : L'ACCÈS ET LE RACCORDEMENT AUX RÉSEAUX<a id=531></a>
+### TITRE IV : L'ACCÈS ET LE RACCORDEMENT AUX RÉSEAUX<a id=544></a>
 
-#### Chapitre Ier : L'accès aux réseaux<a id=532></a>
+#### Chapitre Ier : L'accès aux réseaux<a id=545></a>
 
-##### Section 1 : Tarifs d'utilisation des réseaux publics de transport et de distribution d'électricité<a id=533></a>
+##### Section 1 : Tarifs d'utilisation des réseaux publics de transport et de distribution d'électricité<a id=546></a>
 
 ###### Article R341-1
 
@@ -58071,7 +59065,7 @@ _Créé par_:
   - Décret n°2015-1823 du 30 décembre 2015 - art.
 
 
-##### Section 2 : Dispositifs de comptage sur les réseaux publics d'électricité<a id=534></a>
+##### Section 2 : Dispositifs de comptage sur les réseaux publics d'électricité<a id=547></a>
 
 ###### Article R341-4
 
@@ -58231,7 +59225,7 @@ _Cite_:
   - Code de l'énergie - art. R341-6 (V)
 
 
-##### Section 3 : Réduction de tarif d'utilisation du réseau public de transport accordée aux sites fortement consommateurs d'électricité<a id=535></a>
+##### Section 3 : Réduction de tarif d'utilisation du réseau public de transport accordée aux sites fortement consommateurs d'électricité<a id=548></a>
 
 ###### Article Annexe article D341-9
 
@@ -58551,7 +59545,7 @@ _Créé par_:
   - Décret n°2016-141 du 11 février 2016 - art. 2
 
 
-##### Section 4 : Mise à disposition des données de comptage de consommation aux propriétaires ou gestionnaires d'immeubles<a id=536></a>
+##### Section 4 : Mise à disposition des données de comptage de consommation aux propriétaires ou gestionnaires d'immeubles<a id=549></a>
 
 ###### Article D341-13
 
@@ -58643,9 +59637,9 @@ _Créé par_:
   - Décret n°2016-447 du 12 avril 2016 - art. 1
 
 
-#### Chapitre II : Le raccordement aux réseaux<a id=537></a>
+#### Chapitre II : Le raccordement aux réseaux<a id=550></a>
 
-##### Section 1 : Consistance des ouvrages de branchement et d'extension<a id=538></a>
+##### Section 1 : Consistance des ouvrages de branchement et d'extension<a id=551></a>
 
 ###### Article D342-1
 
@@ -58728,9 +59722,9 @@ _Cite_:
   - Code de l'énergie - art. L342-5 (V)
 
 
-##### Section 2 : Indemnités en cas de retard de raccordement d'une installation de production d'énergie renouvelable<a id=539></a>
+##### Section 2 : Indemnités en cas de retard de raccordement d'une installation de production d'énergie renouvelable<a id=552></a>
 
-##### Sous-section 1 : Dispositions applicables aux installations de production d'électricité d'une puissance installée inférieure ou égale à 3 kilovoltampères<a id=540></a>
+##### Sous-section 1 : Dispositions applicables aux installations de production d'électricité d'une puissance installée inférieure ou égale à 3 kilovoltampères<a id=553></a>
 
 ###### Article R342-3
 
@@ -58789,7 +59783,7 @@ _Cite_:
   - Code de l'énergie - art. R342-3 (V)
 
 
-##### Sous-section 2 : Dispositions applicables aux installations de production d'électricité d'une puissance installée supérieure à 3 kilovoltampères<a id=541></a>
+##### Sous-section 2 : Dispositions applicables aux installations de production d'électricité d'une puissance installée supérieure à 3 kilovoltampères<a id=554></a>
 
 ###### Article D342-4-1
 
@@ -58995,7 +59989,7 @@ _Cite_:
   - Code de l'énergie - art. L341-3 (V)
 
 
-##### Section 3 : Raccordement des installations de production et de consommation aux réseaux publics d'électricité<a id=542></a>
+##### Section 3 : Raccordement des installations de production et de consommation aux réseaux publics d'électricité<a id=555></a>
 
 ###### Article D342-5
 
@@ -59308,7 +60302,7 @@ _Créé par_:
   - Décret n°2015-1823 du 30 décembre 2015 - art.
 
 
-##### Section 4 : Autres raccordements aux réseaux publics d'électricité<a id=543></a>
+##### Section 4 : Autres raccordements aux réseaux publics d'électricité<a id=556></a>
 
 ###### Article D342-15
 
@@ -59331,9 +60325,9 @@ _Cité par_:
   - Code de l'énergie - art. R343-2 (V)
 
 
-##### Section 5 : Contrôles<a id=544></a>
+##### Section 5 : Contrôles<a id=557></a>
 
-##### Sous-section 1 : Contrôles des installations de production raccordées aux réseaux publics d'électricité<a id=545></a>
+##### Sous-section 1 : Contrôles des installations de production raccordées aux réseaux publics d'électricité<a id=558></a>
 
 ###### Article D342-16
 
@@ -59392,7 +60386,7 @@ _Créé par_:
   - Décret n°2015-1823 du 30 décembre 2015 - art.
 
 
-##### Sous-section 2 : Contrôles des installations intérieures raccordées aux réseaux publics de distribution<a id=546></a>
+##### Sous-section 2 : Contrôles des installations intérieures raccordées aux réseaux publics de distribution<a id=559></a>
 
 ###### Article D342-18
 
@@ -59514,7 +60508,7 @@ _Créé par_:
   - Décret n°2015-1823 du 30 décembre 2015 - art.
 
 
-##### Section 6 : Schéma régional de raccordement au réseau des énergies renouvelables et établissement de la quote-part<a id=547></a>
+##### Section 6 : Schéma régional de raccordement au réseau des énergies renouvelables et établissement de la quote-part<a id=560></a>
 
 ###### Article D342-22
 
@@ -59680,7 +60674,7 @@ _Cite_:
   - Code de l'énergie - art. L342-6 (V)
 
 
-#### Chapitre III : Les lignes directes<a id=548></a>
+#### Chapitre III : Les lignes directes<a id=561></a>
 
 ###### Article R343-1
 
@@ -59993,9 +60987,9 @@ _Cite_:
   - Code de l'énergie - art. R323-29 (V)
 
 
-### TITRE V : LES DISPOSITIONS RELATIVES À L'UTILISATION DE L'ÉLECTRICITÉ<a id=549></a>
+### TITRE V : LES DISPOSITIONS RELATIVES À L'UTILISATION DE L'ÉLECTRICITÉ<a id=562></a>
 
-#### Chapitre unique : Consommateurs électro-intensifs<a id=550></a>
+#### Chapitre unique : Consommateurs électro-intensifs<a id=563></a>
 
 ###### Article D351-1
 
@@ -60232,11 +61226,11 @@ _Cite_:
   - Code de l'énergie - art. L351-1 (V)
 
 
-### TITRE VI : LES DISPOSITIONS RELATIVES À L'OUTRE-MER<a id=551></a>
+### TITRE VI : LES DISPOSITIONS RELATIVES À L'OUTRE-MER<a id=564></a>
 
-#### Chapitre Ier : Dispositions relatives à l'outre-mer<a id=552></a>
+#### Chapitre Ier : Dispositions relatives à l'outre-mer<a id=565></a>
 
-##### Section 1 : Dispositions relatives à l'obligation d'achat<a id=553></a>
+##### Section 1 : Dispositions relatives à l'obligation d'achat<a id=566></a>
 
 ###### Article R361-1
 
@@ -60427,7 +61421,7 @@ _Cité par_:
   - Code de l'énergie - art. R361-4 (V)
 
 
-##### Section 2 : Schémas de raccordement<a id=554></a>
+##### Section 2 : Schémas de raccordement<a id=567></a>
 
 ###### Article D361-7-1
 
@@ -60477,7 +61471,7 @@ _Cite_:
   - Code de l'énergie - art. L361-1
 
 
-##### Section 3 : Dispositions spécifiques aux procédures de mise en concurrence dans les collectivités de Guadeloupe, de Guyane, de Martinique et de La Réunion<a id=555></a>
+##### Section 3 : Dispositions spécifiques aux procédures de mise en concurrence dans les collectivités de Guadeloupe, de Guyane, de Martinique et de La Réunion<a id=568></a>
 
 ###### Article D361-7-3
 
@@ -60533,7 +61527,7 @@ _Modifié par_:
   - Décret n°2016-1129 du 17 août 2016 - art. 3
 
 
-#### Chapitre II : Dispositions relatives à Mayotte<a id=556></a>
+#### Chapitre II : Dispositions relatives à Mayotte<a id=569></a>
 
 ###### Article D361-9
 
@@ -60610,15 +61604,15 @@ _Créé par_:
   - Décret n°2015-1823 du 30 décembre 2015 - art.
 
 
-## LIVRE IV : LES DISPOSITIONS RELATIVES AU GAZ<a id=557></a>
+## LIVRE IV : LES DISPOSITIONS RELATIVES AU GAZ<a id=570></a>
 
-### TITRE II : LE STOCKAGE<a id=558></a>
+### TITRE II : LE STOCKAGE<a id=571></a>
 
-#### Chapitre unique<a id=559></a>
+#### Chapitre unique<a id=572></a>
 
-##### Section 1 : L'accès aux stockages souterrains de gaz naturel<a id=560></a>
+##### Section 1 : L'accès aux stockages souterrains de gaz naturel<a id=573></a>
 
-##### Sous-section 1 : Principes généraux d'utilisation des stockages<a id=561></a>
+##### Sous-section 1 : Principes généraux d'utilisation des stockages<a id=574></a>
 
 ###### Article R421-1
 
@@ -60750,7 +61744,7 @@ _Cite_:
   - Code de l'énergie - art. L421-14 (V)
 
 
-##### Sous-section 2 : Détermination et attribution des droits d'accès à des capacités de stockage<a id=562></a>
+##### Sous-section 2 : Détermination et attribution des droits d'accès à des capacités de stockage<a id=575></a>
 
 ###### Article R421-6
 
@@ -60869,7 +61863,7 @@ _Cité par_:
   - Code de l'énergie - art. R421-16 (M)
 
 
-##### Sous-section 3 : Répartition des capacités de stockage<a id=563></a>
+##### Sous-section 3 : Répartition des capacités de stockage<a id=576></a>
 
 ###### Article R421-9
 
@@ -60959,7 +61953,7 @@ _Cité par_:
   - Code de l'énergie - art. R421-6 (M)
 
 
-##### Sous-section 4 : Allocation des capacités de stockage<a id=564></a>
+##### Sous-section 4 : Allocation des capacités de stockage<a id=577></a>
 
 ###### Article R421-11
 
@@ -61043,7 +62037,7 @@ _Cite_:
   - Code de l'énergie - art. L421-9
 
 
-##### Sous-section 5 : Obligation de déclaration et de détention de stocks et de capacités de stockage des fournisseurs<a id=565></a>
+##### Sous-section 5 : Obligation de déclaration et de détention de stocks et de capacités de stockage des fournisseurs<a id=578></a>
 
 ###### Article R421-14
 
@@ -61170,7 +62164,7 @@ _Anciens textes_:
   - Code de l'énergie - art. R421-22 (T)
 
 
-##### Sous-section 6 : Sanctions<a id=566></a>
+##### Sous-section 6 : Sanctions<a id=579></a>
 
 ###### Article R421-17
 
@@ -61222,7 +62216,7 @@ _Cite_:
   - Code de l'énergie - art. L421-4
 
 
-##### Sous-section 7 : Accès aux capacités de stockage excédentaires<a id=567></a>
+##### Sous-section 7 : Accès aux capacités de stockage excédentaires<a id=580></a>
 
 ###### Article R421-19
 
@@ -61286,7 +62280,7 @@ _Cite_:
   - Code de l'énergie - art. R421-9 (Ab)
 
 
-##### Sous-section 8 : Agents chargés du contrôle de l'accès aux stockages souterrains de gaz naturel<a id=568></a>
+##### Sous-section 8 : Agents chargés du contrôle de l'accès aux stockages souterrains de gaz naturel<a id=581></a>
 
 ###### Article R421-21
 
@@ -61317,7 +62311,7 @@ _Nouveaux textes_:
   - Code de l'énergie - art. R421-15 (V)
 
 
-##### Section 2 : Dérogations à l'accès aux stockages souterrains de gaz naturel<a id=569></a>
+##### Section 2 : Dérogations à l'accès aux stockages souterrains de gaz naturel<a id=582></a>
 
 ###### Article R421-22
 
@@ -61348,15 +62342,15 @@ _Nouveaux textes_:
   - Code de l'énergie - art. R421-16 (V)
 
 
-### TITRE III : LE TRANSPORT ET LA DISTRIBUTION<a id=570></a>
+### TITRE III : LE TRANSPORT ET LA DISTRIBUTION<a id=583></a>
 
-#### Section 1 : Régime de l'autorisation de transport<a id=571></a>
+#### Section 1 : Régime de l'autorisation de transport<a id=584></a>
 
-##### Chapitre Ier : Le transport<a id=572></a>
+##### Chapitre Ier : Le transport<a id=585></a>
 
-##### Section 1 : Régime de l'autorisation de transport<a id=573></a>
+##### Section 1 : Régime de l'autorisation de transport<a id=586></a>
 
-##### Sous-section 1 : Droits et obligations du titulaire de l'autorisation<a id=574></a>
+##### Sous-section 1 : Droits et obligations du titulaire de l'autorisation<a id=587></a>
 
 ###### Article R431-1
 
@@ -61461,7 +62455,7 @@ _Cité par_:
   - Code de l'énergie - art. R121-9 (V)
 
 
-##### Sous-section 2 : Sanctions<a id=575></a>
+##### Sous-section 2 : Sanctions<a id=588></a>
 
 ###### Article R431-3
 
@@ -61482,11 +62476,11 @@ _Cite_:
   - Code de l'énergie - art. L431-2 (V)
 
 
-##### Chapitre II : La distribution<a id=576></a>
+##### Chapitre II : La distribution<a id=589></a>
 
-##### Section 1 : L'organisation de la distribution gazière<a id=577></a>
+##### Section 1 : L'organisation de la distribution gazière<a id=590></a>
 
-##### Sous-section 1 : Agrément des distributeurs de gaz par réseaux publics<a id=578></a>
+##### Sous-section 1 : Agrément des distributeurs de gaz par réseaux publics<a id=591></a>
 
 ###### Article R432-1
 
@@ -61709,7 +62703,7 @@ _Créé par_:
   - Décret n°2015-1823 du 30 décembre 2015 - art.
 
 
-##### Sous-section 2 : Développement de la desserte gazière<a id=579></a>
+##### Sous-section 2 : Développement de la desserte gazière<a id=592></a>
 
 ###### Article R432-8
 
@@ -61847,11 +62841,11 @@ _Cite_:
   - Code de l'énergie - art. L432-12 (V)
 
 
-##### Chapitre III : Les ouvrages de transport et de distribution<a id=580></a>
+##### Chapitre III : Les ouvrages de transport et de distribution<a id=593></a>
 
-##### Section 1 : L'occupation du domaine public ou la traversée des propriétés privées par les ouvrages de transport et de distribution<a id=581></a>
+##### Section 1 : L'occupation du domaine public ou la traversée des propriétés privées par les ouvrages de transport et de distribution<a id=594></a>
 
-##### Sous-section 1 : Déclaration d'utilité publique des ouvrages de gaz en vue de l'établissement de servitudes<a id=582></a>
+##### Sous-section 1 : Déclaration d'utilité publique des ouvrages de gaz en vue de l'établissement de servitudes<a id=595></a>
 
 ###### Article R433-1
 
@@ -61947,7 +62941,7 @@ _Créé par_:
   - Décret n°2015-1823 du 30 décembre 2015 - art.
 
 
-##### Sous-section 2 : Etablissement des servitudes<a id=583></a>
+##### Sous-section 2 : Etablissement des servitudes<a id=596></a>
 
 ###### Article D433-11
 
@@ -62099,7 +63093,7 @@ _Cite_:
   - Code de l'énergie - art. R433-13 (V)
 
 
-##### Sous-section 3 : Indemnités et frais<a id=584></a>
+##### Sous-section 3 : Indemnités et frais<a id=597></a>
 
 ###### Article R433-12
 
@@ -62139,9 +63133,9 @@ _Cité par_:
   - Code de l'énergie - art. R433-10 (V)
 
 
-##### Section 2 : Le contrôle de la construction et de l'exploitation des ouvrages de transport et de distribution<a id=585></a>
+##### Section 2 : Le contrôle de la construction et de l'exploitation des ouvrages de transport et de distribution<a id=598></a>
 
-##### Sous-section 1 : Les prescriptions techniques applicables<a id=586></a>
+##### Sous-section 1 : Les prescriptions techniques applicables<a id=599></a>
 
 ###### Article R433-1
 
@@ -62330,7 +63324,7 @@ _Cite_:
   - Code de l'énergie - art. R433-14 (V)
 
 
-##### Sous-section 2 : Les organismes de contrôle<a id=587></a>
+##### Sous-section 2 : Les organismes de contrôle<a id=600></a>
 
 ###### Article D433-23
 
@@ -62422,7 +63416,7 @@ _Créé par_:
   - Décret n°2015-1823 du 30 décembre 2015 - art.
 
 
-##### Sous-section 3 : Mesures de police administrative<a id=588></a>
+##### Sous-section 3 : Mesures de police administrative<a id=601></a>
 
 ###### Article D433-24
 
@@ -62484,9 +63478,9 @@ _Cite_:
   - Code de l'énergie - art. L433-19 (V)
 
 
-### TITRE IV : LA COMMERCIALISATION<a id=589></a>
+### TITRE IV : LA COMMERCIALISATION<a id=602></a>
 
-#### Chapitre Ier : Le choix du fournisseur<a id=590></a>
+#### Chapitre Ier : Le choix du fournisseur<a id=603></a>
 
 ###### Article R441-1
 
@@ -62513,9 +63507,9 @@ _Cite_:
   - Code de l'énergie - art. L441-1 (V)
 
 
-#### Chapitre III : Le régime de la fourniture<a id=591></a>
+#### Chapitre III : Le régime de la fourniture<a id=604></a>
 
-##### Section 1 : L'obligation d'une autorisation<a id=592></a>
+##### Section 1 : L'obligation d'une autorisation<a id=605></a>
 
 ###### Article R443-1
 
@@ -62809,7 +63803,7 @@ _Créé par_:
   - Décret n°2015-1823 du 30 décembre 2015 - art.
 
 
-##### Section 2 : Contrôles et sanctions administratives<a id=593></a>
+##### Section 2 : Contrôles et sanctions administratives<a id=606></a>
 
 ###### Article R443-10
 
@@ -62908,9 +63902,9 @@ _Cite_:
   - Code de l'énergie - art. L142-31 (V)
 
 
-#### Chapitre V : Les tarifs<a id=594></a>
+#### Chapitre V : Les tarifs<a id=607></a>
 
-##### Section 1 : Tarifs réglementés de vente<a id=595></a>
+##### Section 1 : Tarifs réglementés de vente<a id=608></a>
 
 ###### Article R445-1
 
@@ -63150,7 +64144,7 @@ _Cite_:
   - Code de l'énergie - art. R445-1 (V)
 
 
-##### Section 2 : Tarif spécial de solidarité<a id=596></a>
+##### Section 2 : Tarif spécial de solidarité<a id=609></a>
 
 ###### Article R445-8
 
@@ -63894,9 +64888,9 @@ _Abrogé par_:
   - Décret n°2016-555 du 6 mai 2016 - art. 3
 
 
-#### Chapitre VI : Les dispositions particulières relatives à la vente de biogaz<a id=597></a>
+#### Chapitre VI : Les dispositions particulières relatives à la vente de biogaz<a id=610></a>
 
-##### Section 1 : Conditions de vente du biométhane aux fournisseurs de gaz naturel<a id=598></a>
+##### Section 1 : Conditions de vente du biométhane aux fournisseurs de gaz naturel<a id=611></a>
 
 ###### Article R446-1
 
@@ -63973,7 +64967,7 @@ _Cite_:
   - Code de l'énergie - art. R446-1 (V)
 
 
-##### Section 2 : Les conditions de contractualisation entre producteurs de biométhane et fournisseurs de gaz naturel<a id=599></a>
+##### Section 2 : Les conditions de contractualisation entre producteurs de biométhane et fournisseurs de gaz naturel<a id=612></a>
 
 ###### Article D446-3
 
@@ -64474,7 +65468,7 @@ _Cite_:
   - Code de l'énergie - art. L142-21 (V)
 
 
-##### Section 3 : Les garanties d'origine du biométhane injecté dans les réseaux de gaz naturel<a id=600></a>
+##### Section 3 : Les garanties d'origine du biométhane injecté dans les réseaux de gaz naturel<a id=613></a>
 
 ###### Article D446-17
 
@@ -64798,9 +65792,9 @@ _Cité par_:
   - Code de l'énergie - art. D446-23 (V)
 
 
-### TITRE V : L'ACCÈS ET LE RACCORDEMENT AUX RÉSEAUX ET INSTALLATIONS<a id=601></a>
+### TITRE V : L'ACCÈS ET LE RACCORDEMENT AUX RÉSEAUX ET INSTALLATIONS<a id=614></a>
 
-#### Chapitre II : Les tarifs d'utilisation des réseaux de transport, de distribution de gaz naturel et les tarifs d'utilisation des installations de gaz naturel liquéfié<a id=602></a>
+#### Chapitre II : Les tarifs d'utilisation des réseaux de transport, de distribution de gaz naturel et les tarifs d'utilisation des installations de gaz naturel liquéfié<a id=615></a>
 
 ###### Article D452-1-1
 
@@ -64860,9 +65854,9 @@ _Cite_:
   - Code de l'énergie - art. R111-43 (V)
 
 
-#### Chapitre III : Le raccordement aux réseaux et installations<a id=603></a>
+#### Chapitre III : Le raccordement aux réseaux et installations<a id=616></a>
 
-##### Section 1 : Extensions des réseaux de distribution de gaz naturel<a id=604></a>
+##### Section 1 : Extensions des réseaux de distribution de gaz naturel<a id=617></a>
 
 ###### Article R453-1
 
@@ -65039,7 +66033,7 @@ _Cite_:
   - Code de l'énergie - art. R453-4 (V)
 
 
-##### Section 2 : Contenu du cahier des charges des concessions de distribution publique de gaz et du règlement de service des régies<a id=605></a>
+##### Section 2 : Contenu du cahier des charges des concessions de distribution publique de gaz et du règlement de service des régies<a id=618></a>
 
 ###### Article R453-7
 
@@ -65085,7 +66079,7 @@ _Cite_:
   - Code de l'énergie - art. R453-4 (V)
 
 
-##### Section 3 : Prescriptions techniques fixant les exigences techniques de conception et de fonctionnement<a id=606></a>
+##### Section 3 : Prescriptions techniques fixant les exigences techniques de conception et de fonctionnement<a id=619></a>
 
 ###### Article R453-8
 
@@ -65109,7 +66103,7 @@ _Cite_:
   - Code de l'énergie - art. R433-15 (V)
 
 
-##### Section 4 : Mise à disposition des données de comptage de consommation aux propriétaires ou gestionnaires d'immeubles<a id=607></a>
+##### Section 4 : Mise à disposition des données de comptage de consommation aux propriétaires ou gestionnaires d'immeubles<a id=620></a>
 
 ###### Article D453-9
 
@@ -65208,9 +66202,9 @@ _Créé par_:
   - Décret n°2016-447 du 12 avril 2016 - art. 2
 
 
-### TITRE VI : LES CONSOMMATEURS GAZO-INTENSIFS<a id=608></a>
+### TITRE VI : LES CONSOMMATEURS GAZO-INTENSIFS<a id=621></a>
 
-#### Chapitre unique<a id=609></a>
+#### Chapitre unique<a id=622></a>
 
 ###### Article D461-1
 
@@ -65646,11 +66640,11 @@ _Cite_:
   - Code de l'énergie - art. L461-3
 
 
-## LIVRE V : LES DISPOSITIONS RELATIVES À L'UTILISATION DE L'ÉNERGIE HYDRAULIQUE<a id=610></a>
+## LIVRE V : LES DISPOSITIONS RELATIVES À L'UTILISATION DE L'ÉNERGIE HYDRAULIQUE<a id=623></a>
 
-### TITRE Ier : LES DISPOSITIONS COMMUNES AUX INSTALLATIONS HYDRAULIQUES AUTORISÉES OU CONCÉDÉES<a id=611></a>
+### TITRE Ier : LES DISPOSITIONS COMMUNES AUX INSTALLATIONS HYDRAULIQUES AUTORISÉES OU CONCÉDÉES<a id=624></a>
 
-#### Chapitre Ier : Les caractéristiques générales des régimes d'exploitation de l'énergie hydraulique<a id=612></a>
+#### Chapitre Ier : Les caractéristiques générales des régimes d'exploitation de l'énergie hydraulique<a id=625></a>
 
 ###### Article D511-1
 
@@ -65681,9 +66675,9 @@ _Cité par_:
   - Code de l'environnement - art. R212-37 (VD)
 
 
-### TITRE II : LES DISPOSITIONS RELATIVES AUX INSTALLATIONS HYDRAULIQUES CONCÉDÉES<a id=613></a>
+### TITRE II : LES DISPOSITIONS RELATIVES AUX INSTALLATIONS HYDRAULIQUES CONCÉDÉES<a id=626></a>
 
-#### Chapitre Ier : La procédure applicable aux concessions<a id=614></a>
+#### Chapitre Ier : La procédure applicable aux concessions<a id=627></a>
 
 ###### Article R521-1
 
@@ -65730,9 +66724,9 @@ _Cite_:
   - Code de l'énergie - art. R521-49 (V)
 
 
-##### Section 1 : L'octroi de la concession<a id=615></a>
+##### Section 1 : L'octroi de la concession<a id=628></a>
 
-##### Sous-section 1 : Lancement de la procédure<a id=616></a>
+##### Sous-section 1 : Lancement de la procédure<a id=629></a>
 
 ###### Article R521-2
 
@@ -65875,7 +66869,7 @@ _Cite_:
   - Code de l'énergie - art. R521-4
 
 
-##### Sous-section 2 : Sélection du candidat pressenti<a id=617></a>
+##### Sous-section 2 : Sélection du candidat pressenti<a id=630></a>
 
 ###### Article R521-6
 
@@ -66126,7 +67120,7 @@ _Cité par_:
   - Code de l'énergie - art. R521-24 (V)
 
 
-##### Sous-section 3 : Instruction de la demande du concessionnaire pressenti<a id=618></a>
+##### Sous-section 3 : Instruction de la demande du concessionnaire pressenti<a id=631></a>
 
 ###### Article R521-12
 
@@ -66537,7 +67531,7 @@ _Cite_:
   - Code de l'énergie - art. R521-11 (V)
 
 
-##### Sous-section 4 : Octroi de la concession et déclaration d'utilité publique<a id=619></a>
+##### Sous-section 4 : Octroi de la concession et déclaration d'utilité publique<a id=632></a>
 
 ###### Article R521-25
 
@@ -66653,7 +67647,7 @@ _Cité par_:
   - Code de l'énergie - art. R524-4 (V)
 
 
-##### Sous-section 5 : Règlement d'eau<a id=620></a>
+##### Sous-section 5 : Règlement d'eau<a id=633></a>
 
 ###### Article R521-28
 
@@ -66766,7 +67760,7 @@ _Cité par_:
   - Code de l'énergie - art. R521-31 (M)
 
 
-##### Sous-section 6 : Approbation des projets d'exécution, autorisation et récolement des travaux d'établissement de la concession<a id=621></a>
+##### Sous-section 6 : Approbation des projets d'exécution, autorisation et récolement des travaux d'établissement de la concession<a id=634></a>
 
 ###### Article R521-31
 
@@ -66971,7 +67965,7 @@ _Cite_:
   - Code de l'énergie - art. R521-25
 
 
-##### Sous-section 7 : Approbation des autres travaux<a id=622></a>
+##### Sous-section 7 : Approbation des autres travaux<a id=635></a>
 
 ###### Article R521-40
 
@@ -67086,7 +68080,7 @@ _Cite_:
   - Code de l'environnement - art. L211-1
 
 
-##### Sous-section 8 : Dispositions relatives à la sécurité et à la sûreté des ouvrages hydrauliques concédés<a id=623></a>
+##### Sous-section 8 : Dispositions relatives à la sécurité et à la sûreté des ouvrages hydrauliques concédés<a id=636></a>
 
 ###### Article R521-43
 
@@ -67212,7 +68206,7 @@ _Cite_:
   - Code de l'énergie - art. R521-44 (V)
 
 
-##### Sous-section 9 : Dispositions diverses<a id=624></a>
+##### Sous-section 9 : Dispositions diverses<a id=637></a>
 
 ###### Article R521-47
 
@@ -67252,7 +68246,7 @@ _Cité par_:
   - Code de l'énergie - art. R524-4 (V)
 
 
-##### Section 2 : Le cahier des charges de la concession<a id=625></a>
+##### Section 2 : Le cahier des charges de la concession<a id=638></a>
 
 ###### Article R521-49
 
@@ -67285,7 +68279,7 @@ _Cité par_:
   - Code de l'énergie - art. R521-1 (V)
 
 
-##### Section 3 : L'occupation ou la traversée des propriétés privées<a id=626></a>
+##### Section 3 : L'occupation ou la traversée des propriétés privées<a id=639></a>
 
 ###### Article R521-50
 
@@ -67328,9 +68322,9 @@ _Cite_:
   - Code de l'énergie - art. L521-11
 
 
-##### Section 4 :  Les dispositions particulières à la fin de la concession et à son renouvellement<a id=627></a>
+##### Section 4 :  Les dispositions particulières à la fin de la concession et à son renouvellement<a id=640></a>
 
-##### Sous-section 1 : Décision d'arrêt ou de poursuite de l'exploitation<a id=628></a>
+##### Sous-section 1 : Décision d'arrêt ou de poursuite de l'exploitation<a id=641></a>
 
 ###### Article R521-52
 
@@ -67416,7 +68410,7 @@ _Cite_:
   - Code de l'énergie - art. L521-16
 
 
-##### Sous-section 2 : Fin de la concession<a id=629></a>
+##### Sous-section 2 : Fin de la concession<a id=642></a>
 
 ###### Article R521-54
 
@@ -67582,7 +68576,7 @@ _Cite_:
   - Code de l'énergie - art. L521-16
 
 
-##### Sous-section 3 : Dispositions spécifiques au renouvellement de concession<a id=630></a>
+##### Sous-section 3 : Dispositions spécifiques au renouvellement de concession<a id=643></a>
 
 ###### Article R521-58
 
@@ -67663,7 +68657,7 @@ _Cité par_:
   - Code de l'énergie - art. R521-8 (V)
 
 
-##### Sous-section 4 : Regroupement de concessions<a id=631></a>
+##### Sous-section 4 : Regroupement de concessions<a id=644></a>
 
 ###### Article R521-60
 
@@ -67925,7 +68919,7 @@ _Cité par_:
   - Code de l'énergie - art. R521-8 (M)
 
 
-##### Sous-section 5 : Prorogation des concessions<a id=632></a>
+##### Sous-section 5 : Prorogation des concessions<a id=645></a>
 
 ###### Article R521-66
 
@@ -67954,7 +68948,7 @@ _Modifié par_:
   - Décret n°2016-530 du 27 avril 2016 - art. 1
 
 
-##### Section 5 : Les sociétés d'économie mixte hydroélectriques<a id=633></a>
+##### Section 5 : Les sociétés d'économie mixte hydroélectriques<a id=646></a>
 
 ###### Article R521-67
 
@@ -68124,7 +69118,7 @@ _Cite_:
   - Code de l'énergie - art. R521-25
 
 
-#### Chapitre II : Les reserves en énergie<a id=634></a>
+#### Chapitre II : Les reserves en énergie<a id=647></a>
 
 ###### Article D522-5
 
@@ -68270,7 +69264,7 @@ _Créé par_:
   - Décret n°2015-1823 du 30 décembre 2015 - art.
 
 
-#### Chapitre III : Les redevances proportionnelles<a id=635></a>
+#### Chapitre III : Les redevances proportionnelles<a id=648></a>
 
 ###### Article R523-1
 
@@ -68390,7 +69384,7 @@ _Cite_:
   - Code de l'énergie - art. L523-2
 
 
-#### Chapitre IV :  L'information des collectivités territoriales et des habitants riverains sur l'exécution de la concession et leur participation à la gestion des usages de l'eau<a id=636></a>
+#### Chapitre IV :  L'information des collectivités territoriales et des habitants riverains sur l'exécution de la concession et leur participation à la gestion des usages de l'eau<a id=649></a>
 
 ###### Article R524-1
 
@@ -68562,11 +69556,11 @@ _Cite_:
   - Code de l'énergie - art. R524-4
 
 
-## LIVRE VI : LES DISPOSITIONS RELATIVES AU PÉTROLE, AUX BIOCARBURANTS ET BIOLIQUIDES<a id=637></a>
+## LIVRE VI : LES DISPOSITIONS RELATIVES AU PÉTROLE, AUX BIOCARBURANTS ET BIOLIQUIDES<a id=650></a>
 
-### TITRE III : LE TRANSPORT<a id=638></a>
+### TITRE III : LE TRANSPORT<a id=651></a>
 
-#### Chapitre Ier : Le transport par navire<a id=639></a>
+#### Chapitre Ier : Le transport par navire<a id=652></a>
 
 ###### Article D631-1
 
@@ -68817,7 +69811,7 @@ _Cite_:
   - Code de l'énergie - art. L631-1
 
 
-#### Chapitre II : Le transport par canalisation<a id=640></a>
+#### Chapitre II : Le transport par canalisation<a id=653></a>
 
 ###### Article R632-1
 
@@ -68903,11 +69897,11 @@ _Créé par_:
   - Décret n°2015-1823 du 30 décembre 2015 - art.
 
 
-### TITRE IV : LE RAFFINAGE ET LE STOCKAGE<a id=641></a>
+### TITRE IV : LE RAFFINAGE ET LE STOCKAGE<a id=654></a>
 
-#### Chapitre Ier : Le raffinage et les produits pétroliers<a id=642></a>
+#### Chapitre Ier : Le raffinage et les produits pétroliers<a id=655></a>
 
-##### Section 1 : Dispositions applicables au raffinage<a id=643></a>
+##### Section 1 : Dispositions applicables au raffinage<a id=656></a>
 
 ###### Article R641-1
 
@@ -68980,7 +69974,7 @@ _Cite_:
   - Code de l'énergie - art. L641-3 (V)
 
 
-##### Section 2 : Dispositions applicables aux produits pétroliers et aux carburants renouvelables<a id=644></a>
+##### Section 2 : Dispositions applicables aux produits pétroliers et aux carburants renouvelables<a id=657></a>
 
 ###### Article D641-4
 
@@ -69418,9 +70412,9 @@ _Cite_:
   - Code de l'énergie - art. D641-11 (V)
 
 
-#### Chapitre II : Le stockage<a id=645></a>
+#### Chapitre II : Le stockage<a id=658></a>
 
-##### Section 1 : Le Comité professionnel des stocks stratégiques pétroliers<a id=646></a>
+##### Section 1 : Le Comité professionnel des stocks stratégiques pétroliers<a id=659></a>
 
 ###### Article R642-1
 
@@ -69703,7 +70697,7 @@ _Cite_:
   - Code de l'énergie - art. R642-9 (V)
 
 
-##### Section 2 : Dispositions diverses<a id=647></a>
+##### Section 2 : Dispositions diverses<a id=660></a>
 
 ###### Article D642-11
 
@@ -69725,9 +70719,9 @@ _Cite_:
   - Code de l'énergie - art. L642-10 (V)
 
 
-### TITRE VI : LES BIOCARBURANTS ET BIOLIQUIDES<a id=648></a>
+### TITRE VI : LES BIOCARBURANTS ET BIOLIQUIDES<a id=661></a>
 
-#### Chapitre unique<a id=649></a>
+#### Chapitre unique<a id=662></a>
 
 ###### Article D661-2
 
@@ -70099,13 +71093,13 @@ _Créé par_:
   - Décret n°2015-1823 du 30 décembre 2015 - art.
 
 
-### TITRE VII : LES DISPOSITIONS PARTICULIÈRES À L'OUTRE-MER<a id=650></a>
+### TITRE VII : LES DISPOSITIONS PARTICULIÈRES À L'OUTRE-MER<a id=663></a>
 
-#### Chapitre unique<a id=651></a>
+#### Chapitre unique<a id=664></a>
 
-##### Section 1 : Dispositions relatives au département de la Guadeloupe et aux collectivités territoriales de la Guyane et de la Martinique<a id=652></a>
+##### Section 1 : Dispositions relatives au département de la Guadeloupe et aux collectivités territoriales de la Guyane et de la Martinique<a id=665></a>
 
-##### Sous-section 1 : Dispositions générales<a id=653></a>
+##### Sous-section 1 : Dispositions générales<a id=666></a>
 
 ###### Article R671-1
 
@@ -70125,7 +71119,7 @@ _Créé par_:
   - Décret n°2015-1823 du 30 décembre 2015 - art.
 
 
-##### Sous-section 2 : Dispositions relatives aux prix des produits pétroliers autres que le gaz de pétrole liquéfié<a id=654></a>
+##### Sous-section 2 : Dispositions relatives aux prix des produits pétroliers autres que le gaz de pétrole liquéfié<a id=667></a>
 
 ###### Article R671-2
 
@@ -70313,7 +71307,7 @@ _Cite_:
   - Code de l'énergie - art. R671-2 (V)
 
 
-##### Sous-section 3 : Dispositions relatives aux prix du gaz de pétrole liquéfié<a id=655></a>
+##### Sous-section 3 : Dispositions relatives aux prix du gaz de pétrole liquéfié<a id=668></a>
 
 ###### Article R671-6
 
@@ -70452,7 +71446,7 @@ _Cite_:
   - Code de l'énergie - art. R671-7 (V)
 
 
-##### Sous-section 4 : Dispositions relatives aux activités de stockage de produits pétroliers<a id=656></a>
+##### Sous-section 4 : Dispositions relatives aux activités de stockage de produits pétroliers<a id=669></a>
 
 ###### Article R671-11
 
@@ -70501,7 +71495,7 @@ _Cite_:
   - Code de l'énergie - art. R671-6 (V)
 
 
-##### Sous-section 5 : Dispositions relatives à l'information du public<a id=657></a>
+##### Sous-section 5 : Dispositions relatives à l'information du public<a id=670></a>
 
 ###### Article R671-13
 
@@ -70541,9 +71535,9 @@ _Cité par_:
   - Code de l'énergie - art. R671-31 (V)
 
 
-##### Section 2 : Dispositions relatives au département de La Réunion<a id=658></a>
+##### Section 2 : Dispositions relatives au département de La Réunion<a id=671></a>
 
-##### Sous-section 1 : Dispositions générales<a id=659></a>
+##### Sous-section 1 : Dispositions générales<a id=672></a>
 
 ###### Article R671-14
 
@@ -70562,7 +71556,7 @@ _Créé par_:
   - Décret n°2015-1823 du 30 décembre 2015 - art.
 
 
-##### Sous-section 2 : Dispositions relatives aux prix des produits pétroliers<a id=660></a>
+##### Sous-section 2 : Dispositions relatives aux prix des produits pétroliers<a id=673></a>
 
 ###### Article R671-15
 
@@ -70674,7 +71668,7 @@ _Cite_:
   - Code de l'énergie - art. R671-15 (V)
 
 
-##### Sous-section 3 : Dispositions relatives à la distribution des produits pétroliers<a id=661></a>
+##### Sous-section 3 : Dispositions relatives à la distribution des produits pétroliers<a id=674></a>
 
 ###### Article R671-18
 
@@ -70738,7 +71732,7 @@ _Cite_:
   - Code de l'énergie - art. R671-18 (V)
 
 
-##### Sous-section 4 : Dispositions relatives aux activités de stockage de produits pétroliers<a id=662></a>
+##### Sous-section 4 : Dispositions relatives aux activités de stockage de produits pétroliers<a id=675></a>
 
 ###### Article R671-20
 
@@ -70785,7 +71779,7 @@ _Cite_:
   - Code de l'énergie - art. R671-15 (V)
 
 
-##### Sous-section 5 : Dispositions relatives à l'information du public<a id=663></a>
+##### Sous-section 5 : Dispositions relatives à l'information du public<a id=676></a>
 
 ###### Article R671-22
 
@@ -70821,9 +71815,9 @@ _Cite_:
   - Code de l'énergie - art. R671-13 (V)
 
 
-##### Section 3 : Dispositions relatives au Département de Mayotte<a id=664></a>
+##### Section 3 : Dispositions relatives au Département de Mayotte<a id=677></a>
 
-##### Sous-section 1 : Dispositions générales<a id=665></a>
+##### Sous-section 1 : Dispositions générales<a id=678></a>
 
 ###### Article R671-23
 
@@ -70846,7 +71840,7 @@ _Cité par_:
   - Code de l'énergie - art. R671-27 (V)
 
 
-##### Sous-section 2 : Dispositions relatives aux prix des produits pétroliers<a id=666></a>
+##### Sous-section 2 : Dispositions relatives aux prix des produits pétroliers<a id=679></a>
 
 ###### Article R671-24
 
@@ -70955,7 +71949,7 @@ _Cite_:
   - Code de l'énergie - art. R671-24 (V)
 
 
-##### Sous-section 3 : Dispositions relatives à la distribution des produits pétroliers<a id=667></a>
+##### Sous-section 3 : Dispositions relatives à la distribution des produits pétroliers<a id=680></a>
 
 ###### Article R671-27
 
@@ -71020,7 +72014,7 @@ _Cite_:
   - Code de l'énergie - art. R671-27 (V)
 
 
-##### Sous-section 4 : Dispositions relatives aux activités de stockage de produits pétroliers<a id=668></a>
+##### Sous-section 4 : Dispositions relatives aux activités de stockage de produits pétroliers<a id=681></a>
 
 ###### Article R671-29
 
@@ -71067,7 +72061,7 @@ _Cite_:
   - Code de l'énergie - art. R671-24 (V)
 
 
-##### Sous-section 5 : Dispositions relatives à l'information du public<a id=669></a>
+##### Sous-section 5 : Dispositions relatives à l'information du public<a id=682></a>
 
 ###### Article R671-31
 
@@ -71102,11 +72096,11 @@ _Cite_:
   - Code de l'énergie - art. R671-13 (V)
 
 
-## LIVRE VII : LES DISPOSITIONS RELATIVES AUX RÉSEAUX DE CHALEUR ET DE FROID<a id=670></a>
+## LIVRE VII : LES DISPOSITIONS RELATIVES AUX RÉSEAUX DE CHALEUR ET DE FROID<a id=683></a>
 
-### TITRE Ier : LA PRODUCTION DE CHALEUR ET LE CLASSEMENT DES RÉSEAUX DE CHALEUR ET DE FROID<a id=671></a>
+### TITRE Ier : LA PRODUCTION DE CHALEUR ET LE CLASSEMENT DES RÉSEAUX DE CHALEUR ET DE FROID<a id=684></a>
 
-#### Chapitre Ier : La production de chaleur<a id=672></a>
+#### Chapitre Ier : La production de chaleur<a id=685></a>
 
 ###### Article R711-1
 
@@ -71218,9 +72212,9 @@ _Cite_:
   - Code de l'énergie - art. L711-3 (V)
 
 
-#### Chapitre II : Le classement des reseaux de chaleur et de froid<a id=673></a>
+#### Chapitre II : Le classement des reseaux de chaleur et de froid<a id=686></a>
 
-##### Section 1 : Principes et modalités de classement des réseaux de chaleur et de froid<a id=674></a>
+##### Section 1 : Principes et modalités de classement des réseaux de chaleur et de froid<a id=687></a>
 
 ###### Article R712-1
 
@@ -71399,7 +72393,7 @@ _Cité par_:
   - Code de l'énergie - art. R712-10 (V)
 
 
-##### Section 2 : Effets du classement d'un réseau de chaleur ou de froid<a id=675></a>
+##### Section 2 : Effets du classement d'un réseau de chaleur ou de froid<a id=688></a>
 
 ###### Article R712-6
 
@@ -71514,7 +72508,7 @@ _Cite_:
   - Code de l'énergie - art. L712-3 (V)
 
 
-##### Section 3 : Abrogation de la décision de classement<a id=676></a>
+##### Section 3 : Abrogation de la décision de classement<a id=689></a>
 
 ###### Article R712-10
 
@@ -71542,7 +72536,7 @@ _Cite_:
   - Code de l'énergie - art. R712-5 (V)
 
 
-##### Section 4 : Information du public<a id=677></a>
+##### Section 4 : Information du public<a id=690></a>
 
 ###### Article L712-11
 
@@ -71572,7 +72566,7 @@ _Cite_:
   - Code général des collectivités territoriales - art. L1413-1 (M)
 
 
-##### Section 5 : Constatation des infractions<a id=678></a>
+##### Section 5 : Constatation des infractions<a id=691></a>
 
 ###### Article R712-12
 
@@ -71594,11 +72588,11 @@ _Cite_:
   - Code de l'énergie - art. L712-4 (V)
 
 
-### TITRE II : LE PASSAGE DES CANALISATIONS DE TRANSPORT ET DE DISTRIBUTION DE CHALEUR ET DE FROID<a id=679></a>
+### TITRE II : LE PASSAGE DES CANALISATIONS DE TRANSPORT ET DE DISTRIBUTION DE CHALEUR ET DE FROID<a id=692></a>
 
-#### Chapitre unique<a id=680></a>
+#### Chapitre unique<a id=693></a>
 
-##### Section 1 : Procédure régissant la déclaration d'intérêt général des canalisations de transport de distribution de chaleur<a id=681></a>
+##### Section 1 : Procédure régissant la déclaration d'intérêt général des canalisations de transport de distribution de chaleur<a id=694></a>
 
 ###### Article R721-1
 
@@ -71741,7 +72735,7 @@ _Créé par_:
   - Décret n°2015-1823 du 30 décembre 2015 - art.
 
 
-##### Section 2 : Les servitudes<a id=682></a>
+##### Section 2 : Les servitudes<a id=695></a>
 
 ###### Article D721-13
 
@@ -71891,7 +72885,7 @@ _Créé par_:
   - Décret n°2015-1823 du 30 décembre 2015 - art.
 
 
-##### Section 3 : Construction, mise en service, exploitation et contrôle<a id=683></a>
+##### Section 3 : Construction, mise en service, exploitation et contrôle<a id=696></a>
 
 ###### Article R721-14
 
