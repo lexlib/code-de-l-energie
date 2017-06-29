@@ -1,5 +1,5 @@
 # Code de l'énergie  
-Version Consolidée au 2017-05-11
+Version Consolidée au 2017-06-30
 ## Contenu: 
   - [Partie législative (art. L100-1 à L731-1)](#1)
     - [LIVRE IER : L'ORGANISATION GENERALE  DU SECTEUR DE L'ENERGIE (art. L100-1 à L161-6)](#2)
@@ -362,7 +362,7 @@ relatives à la vente de biogaz (art. L446-1 à L446-5)](#243)
               - [Paragraphe 3 : Procédure applicable à la péréquation établie à partir de l'analyse des comptes des gestionnaires de réseaux (art. R121-60 à R121-62)](#353)
             - [Sous-section 4 : Dispositions diverses (art. D121-66 à R121-65)](#354)
         - [Chapitre II : La protection des consommateurs d'électricité et de gaz (art. R122-1 à R122-31)](#355)
-          - [Section 1 : Dispositions relatives au médiateur de l'énergie (art. R122-1 à R122-13)](#356)
+          - [Section 1 : Dispositions relatives au médiateur de l'énergie (art. R122-1 à R122-12)](#356)
           - [Section 2 : Aide en faveur des entreprises exposées à un risque significatif de fuite de carbone en raison des coûts du système d'échange de quotas d'émission de gaz à effet de serre répercutés sur les prix de l'électricité (art. R122-14 à R122-31)](#357)
             - [Sous-section 1 : Règles applicables au calcul de l'aide (art. R122-14 à R122-24)](#358)
             - [Sous-section 2 : Modalités de versement de l'aide et d'instruction des demandes (art. R122-25 à R122-29)](#359)
@@ -35979,78 +35979,47 @@ _Anciens textes_:
 
 ###### Article R122-1
 
-Lorsque le litige dont un consommateur a saisi un fournisseur ou un gestionnaire de réseau de distribution d'électricité ou
-de gaz n'a pu trouver de solution dans un délai de deux mois à compter de la réception de la réclamation du consommateur par
-le fournisseur ou le gestionnaire de réseau de distribution, le consommateur dispose d'un délai de deux mois pour saisir le
-médiateur national de l'énergie.
+Le processus de médiation relatif aux litiges relevant de la compétence du Médiateur national de l'énergie prévu à l'article
+L. 122-1 du présent code est soumis aux dispositions des articles R. 612-1 à R. 612-5 du code de la consommation ainsi qu'aux
+dispositions suivantes : 
+
+1° Le délai au terme duquel le consommateur peut saisir le Médiateur national de l'énergie en application du deuxième alinéa
+de l'article L. 122-1 du présent code est fixé à deux mois à compter de la date de la réclamation écrite faite auprès de
+l'entreprise du secteur de l'énergie concernée ; 
+
+2° Le Médiateur national de l'énergie mentionne dans la notification de sa saisine prévue à l'article R. 612-2 du code de la
+consommation que la prescription des actions en matière civile et pénale prévue au troisième alinéa de l'article L. 122-1 du
+présent code est suspendue ; 
+
+3° Lorsque le litige dont il est saisi n'entre pas dans son champ de compétence, le Médiateur national de l'énergie informe
+le consommateur du rejet de sa demande de médiation et lui indique, le cas échéant, dans le délai prévu à l'article L. 612-2
+du code de la consommation, l'autorité administrative à laquelle il transmet sa saisine en application de l'article L. 114-2
+du code des relations entre le public et l'administration ; 
+
+4° Le Médiateur national de l'énergie peut demander aux parties de produire leurs observations et de formuler leur
+proposition de solution dans le délai qu'il fixe. Il peut, avec l'accord des parties, entendre les tiers qui y consentent ; 
+
+5° Pour l'application du troisième alinéa de l'article L. 122-1 du présent code, le Médiateur national de l'énergie formule
+sa recommandation dans le délai de quatre-vingt-dix jours, éventuellement prolongé, fixé à l'article R. 612-5 du code de la
+consommation.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-**Liens**:
-
-  - DEPLACE: Décret n°2016-1095 du 11 août 2016 - art. 1
-
-
-###### Article R122-2
-
-La saisine est écrite ou transmise sur un support durable et comporte tous les éléments utiles à son examen. Le médiateur
-accuse réception sans délai, par écrit ou sur un support durable, des saisines qui lui sont adressées et informe leurs
-auteurs notamment de la suspension de la prescription des actions en matière civile et pénale mentionnée à l'article L.
-122-1. 
-
-Lorsque la saisine n'entre pas dans le champ de l'article L. 122-1, le médiateur en informe les parties dans un délai d'un
-mois à compter de la date d'accusé de réception de la saisine par une réponse écrite et motivée indiquant, le cas échéant,
-l'autorité administrative à laquelle il transmet la saisine en application des articles L. 114-2 à L. 114-4 du code des
-relations entre le public et l'administration.
-
-**Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2016-308 du 17 mars 2016 - art. 2 (V)
-
-_Abrogé par_:
-
   - Décret n°2017-1113 du 27 juin 2017 - art. 1
 
 _Cite_:
 
+  - Code de la consommation - art. R612-1
+  - Code de la consommation - art. R612-2
+  - Code de la consommation - art. R612-5
   - Code de l'énergie - art. L122-1
   - Code des relations entre le public et l'administration - art. L114-2
-
-
-###### Article R122-3
-
-Le médiateur peut inviter les parties à produire des observations dans un délai qu'il fixe, et les entendre. Il peut, avec
-l'accord des parties, entendre les tiers qui y consentent. 
-
-Le médiateur formule sur le litige dont il a été saisi une recommandation écrite et motivée dans un délai de deux mois à
-compter de la date d'accusé de réception de la saisine. 
-
-Il est informé par les fournisseurs et les gestionnaires de réseau de distribution mentionnés au deuxième alinéa de l'article
-L. 122-1, dans un délai de deux mois à compter de la transmission de sa recommandation, des suites qui y sont données.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-**Liens**:
-
-  - DEPLACE: Décret n°2016-1095 du 11 août 2016 - art. 1
-
-_Abrogé par_:
-
-  - Décret n°2017-1113 du 27 juin 2017 - art. 1
-
-_Cite_:
-
-  - Code de l'énergie - art. L122-1
 
 
 ###### Article R122-4
@@ -36289,34 +36258,6 @@ _Codifié par_:
 **Liens**:
 
   - DEPLACE: Décret n°2016-1095 du 11 août 2016 - art. 1
-
-
-###### Article R122-13
-
-Le médiateur est soumis aux dispositions de l'ordonnance n° 2005-649 du 6 juin 2005 relative aux marchés passés par certaines
-personnes publiques ou privées non soumises au code des marchés publics et du décret n° 2005-1742 du 30 décembre 2005 fixant
-les règles applicables aux marchés passés par les pouvoirs adjudicateurs mentionnés à l'article 3 de l'ordonnance n° 2005-649
-du 6 juin 2005.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Ordonnance n°2005-649 du 6 juin 2005
-  - Ordonnance n°2005-649 du 6 juin 2005 - art. 3
-  - Décret n°2005-1742 du 30 décembre 2005
-
-_Codifié par_:
-
-  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-**Liens**:
-
-  - DEPLACE: Décret n°2016-1095 du 11 août 2016 - art. 1
-
-_Abrogé par_:
-
-  - Décret n°2017-1113 du 27 juin 2017 - art. 2
 
 
 ##### Section 2 : Aide en faveur des entreprises exposées à un risque significatif de fuite de carbone en raison des coûts du système d'échange de quotas d'émission de gaz à effet de serre répercutés sur les prix de l'électricité<a id=357></a>
