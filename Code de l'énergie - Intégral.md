@@ -1,5 +1,5 @@
 # Code de l'énergie  
-Version Consolidée au 2017-07-01
+Version Consolidée au 2017-08-01
 ## Contenu: 
   - [Partie législative (art. L100-1 à L731-1)](#1)
     - [LIVRE IER : L'ORGANISATION GENERALE  DU SECTEUR DE L'ENERGIE (art. L100-1 à L161-6)](#2)
@@ -60442,18 +60442,34 @@ _Cite_:
 
 ###### Article R337-26
 
-Les tarifs de cession de l'électricité sont établis en fonction des coûts complets de production de cette énergie.
+Les tarifs de cession de l'électricité sont déterminés, sous réserve de la prise en compte des coûts d'Electricité de France
+pour l'activité de fourniture de l'électricité aux tarifs de cession, par l'addition du coût de l'accès régulé à
+l'électricité nucléaire historique et du coût du complément d'approvisionnement sur le marché, qui inclut la garantie de
+capacité. 
 
-Ces tarifs comportent une part fixe et une part proportionnelle.
+Le coût de l'accès régulé à l'électricité nucléaire historique est déterminé en fonction du prix de l'accès régulé à
+l'électricité nucléaire historique appliqué au prorata de la quantité de produit théorique calculée en application de
+l'article R. 336-14 aux catégories fondées sur les caractéristiques intrinsèques des fournitures mentionnées à l'article L.
+337-11, compte tenu, le cas échéant, de l'atteinte du volume global maximal d'électricité nucléaire historique fixé par
+l'article L. 336-2. 
 
-La part fixe et la part proportionnelle dépendent des caractéristiques intrinsèques de la fourniture, notamment :
+Le coût du complément d'approvisionnement sur le marché est calculé en fonction des caractéristiques intrinsèques de
+fourniture et des prix de marché à terme constatés. Ce coût inclut les frais annexes associés à ce mode d'approvisionnement
+pour la fourniture aux tarifs de cession. 
 
-1° De la puissance souscrite par l'entreprise locale de distribution ;
+Jusqu'au début de la première année de livraison du mécanisme d'obligation de capacité prévu au chapitre V du présent titre,
+le coût de la garantie de capacité est considéré comme nul pour la détermination du niveau des tarifs de cession. Par la
+suite, ce coût est intégré au tarif de cession. 
 
-2° Du mode d'utilisation de cette puissance au cours de l'année et en particulier de la période et de la durée d'utilisation.
+Les tarifs de cession de l'électricité comportent plusieurs périodes tarifaires qui associent chacune un prix unitaire au
+volume d'énergie consommée.
 
-Les barèmes de tarifs de cession de l'électricité comprennent les dispositions relatives aux périodes tarifaires et au calcul
-de la puissance.
+**Nota:**
+
+Conformément à l'article 2 du décret n° 2016-1133 du 19 août 2016, l'article R. 337-26 dans sa rédaction issue du présent
+décret, entre en vigueur à la date de publication au Journal officiel de la République française de nouveaux tarifs de
+cession pris en application de l'article L. 337-10 du code de l'énergie. Ces tarifs de cession ont été fixés par décision du
+27 juillet 2017.
 
 **Liens relatifs à cet article**
 
@@ -60461,19 +60477,34 @@ _Codifié par_:
 
   - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2015-1823 du 30 décembre 2015 - art.
+  - Décret n°2016-1133 du 19 août 2016 - art. 1
 
 _Cité par_:
 
   - Décret n°2016-1133 du 19 août 2016 - art. 2 (V)
+
+_Cite_:
+
+  - Code de l'énergie - art. L336-2
+  - Code de l'énergie - art. L337-11
+  - Code de l'énergie - art. R336-14
 
 
 ###### Article R337-27
 
-Les tarifs de cession hors taxes de l'électricité aux entreprises locales de distribution sont fixés conformément aux barèmes
-arrêtés par le ministre chargé de l'économie et le ministre chargé de l'énergie.
+Les tarifs de cession font l'objet d'un examen au moins une fois par an. 
+
+Les propositions de tarifs réglementés de vente de l'électricité faites par la Commission de régulation de l'énergie en
+application de l'article L. 337-4 sont accompagnées d'une proposition de tarifs de cession.
+
+**Nota:**
+
+Conformément à l'article 2 du décret n° 2016-1133 du 19 août 2016, le premier alinéa de l'article R. 337-27 dans sa rédaction
+issue du présent décret, entre en vigueur à la date de publication au Journal officiel de la République française de nouveaux
+tarifs de cession pris en application de l'article L. 337-10 du code de l'énergie. Ces tarifs de cession ont été fixés par
+décision du 27 juillet 2017.
 
 **Liens relatifs à cet article**
 
@@ -60481,13 +60512,17 @@ _Codifié par_:
 
   - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2015-1823 du 30 décembre 2015 - art.
+  - Décret n°2016-1133 du 19 août 2016 - art. 1
 
 _Cité par_:
 
   - Décret n°2016-1133 du 19 août 2016 - art. 2 (V)
+
+_Cite_:
+
+  - Code de l'énergie - art. L337-4 (V)
 
 
 ###### Article R337-28
