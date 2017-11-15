@@ -1,5 +1,5 @@
 # Code de l'énergie  
-Version Consolidée au 2017-08-01
+Version Consolidée au 2017-11-16
 ## Contenu: 
   - [Partie législative (art. L100-1 à L731-1)](#1)
     - [LIVRE IER : L'ORGANISATION GENERALE  DU SECTEUR DE L'ENERGIE (art. L100-1 à L161-6)](#2)
@@ -72818,20 +72818,21 @@ _Créé par_:
 
 ###### Article D641-13
 
-Pour le calcul du taux de 10 % prévu au second alinéa de l'article L. 641-6 : 
+Pour le calcul du taux de 10 % prévu au second alinéa de l'article L. 641-6 :
 
-1° Seuls l'essence, le gazole, les biocarburants et l'électricité consommés dans les transports routier et ferroviaire sont
-pris en compte au dénominateur ; 
+1° Seuls l'essence, le gazole, les biocarburants et l'électricité, y compris l'électricité utilisée pour la production de
+carburants liquides et gazeux renouvelables, d'origine non biologique, destinés au secteur du transport, consommés dans les
+transports routier et ferroviaire sont pris en compte au dénominateur ;
 
 2° Tous les types d'énergie, produite à partir de sources renouvelables, consommés dans tous les modes de transport sont pris
-en compte au numérateur. 
+en compte au numérateur.
 
 L'apport de l'électricité produite à partir de sources renouvelables et consommée dans tous types de véhicules électriques
 pour l'application du 1° et du 2° est calculé sur la base de la part moyenne nationale que représentait deux ans avant
 l'année considérée l'électricité produite à partir de sources renouvelables dans la production totale d'électricité ; en
-outre, la consommation d'électricité produite à partir de sources renouvelables par les véhicules routiers électriques est
-considérée comme représentant deux fois et demie le contenu énergétique de l'apport d'électricité produite à partir de
-sources renouvelables ; 
+outre, les consommations d'électricité produites à partir de sources renouvelables par le secteur ferroviaire et les
+véhicules routiers sont, respectivement, considérées comme représentant deux fois et demie et cinq fois le contenu
+énergétique de l'apport d'électricité produite à partir de sources renouvelables ;
 
 Les biocarburants et les bioliquides produits à partir de déchets et de résidus, de matières cellulosiques d'origine non
 alimentaire et de matières lignocellulosiques sont comptabilisés pour le double de leur valeur réelle en pouvoir calorifique.
@@ -72845,18 +72846,18 @@ _Codifié par_:
 
   - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-_Créé par_:
-
-  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
 _Cité par_:
 
   - Arrêté du 8 septembre 2017 - art. (VD)
   - Arrêté du 29 juin 2018 - art. 12
 
+_Modifié par_:
+
+  - Décret n°2017-1559 du 13 novembre 2017 - art. 1
+
 _Cite_:
 
-  - Code de l'énergie - art. L641-6 (V)
+  - Code de l'énergie - art. L641-6
 
 
 ###### Article R641-14
