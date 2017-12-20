@@ -1,5 +1,5 @@
 # Code de l'énergie  
-Version Consolidée au 2017-11-16
+Version Consolidée au 2017-12-21
 ## Contenu: 
   - [Partie législative (art. L100-1 à L731-1)](#1)
     - [LIVRE IER : L'ORGANISATION GENERALE  DU SECTEUR DE L'ENERGIE (art. L100-1 à L161-6)](#2)
@@ -60451,52 +60451,34 @@ _Cite_:
     <tr>
       <th colspan="3">
 
-TYPE D'ÉLIGIBILITÉ
-
-</th>
+TYPE D'ÉLIGIBILITÉ</th>
       <th colspan="4">
 
-TAUX DE RÉDUCTION ACCORDÉ
-
-</th>
+TAUX DE RÉDUCTION ACCORDÉ</th>
     </tr>
     <tr>
       <td>
 
-Profil stable
-
-</td>
+Profil stable</td>
       <td>
 
-Profil anti-cyclique
-
-</td>
+Profil anti-cyclique</td>
       <td>
 
-Grand consommateur d'électricité
-
-</td>
+Grand consommateur d'électricité</td>
       <td>
 
-Sites hyper électro-intensifs au sens de l'article D. 351-3
-
-</td>
+Sites hyper électro-intensifs au sens de l'article D. 351-3</td>
       <td>
 
 Sites électro-intensifs au sens de l'article D. 351-2 ou qui appartiennent à une entreprise électro-intensive au sens de
-l'article D. 351-1
-
-</td>
+l'article D. 351-1</td>
       <td>
 
-Sites permettant le stockage de l'énergie en vue de sa restitution ultérieure au réseau
-
-</td>
+Sites permettant le stockage de l'énergie en vue de sa restitution ultérieure au réseau</td>
       <td>
 
-Autres sites
-
-</td>
+Autres sites</td>
     </tr>
     <tr>
       <td>
@@ -60508,7 +60490,7 @@ durée d'utilisation du réseau supérieure ou égale à 7000 heures
 </td>
       <td>
 
-électricité annuelle soutirée sur le réseau de transport d'électricité supérieure à 20 GWh
+électricité annuelle soutirée sur le réseau de transport d'électricité supérieure à 10 GWh
 
 taux d'utilisation du réseau en heures creuses supérieur ou égal à 0.44
 
@@ -60522,24 +60504,16 @@ taux d'utilisation du réseau en heures creuses supérieur ou égal à 0.40 et i
 </td>
       <td align="center">
 
-80 %
-
-</td>
+80 %</td>
       <td align="center">
 
-45 %
-
-</td>
+45 %</td>
       <td align="center">
 
-30 % (*)
-
-</td>
+30 % (*)</td>
       <td align="center">
 
-5 %
-
-</td>
+5 %</td>
     </tr>
     <tr>
       <td>
@@ -60551,7 +60525,7 @@ durée d'utilisation du réseau supérieure ou égale à 7500 heures
 </td>
       <td>
 
-électricité annuelle soutirée sur le réseau de transport d'électricité supérieure à 20 GWh
+électricité annuelle soutirée sur le réseau de transport d'électricité supérieure à 10 GWh
 
 taux d'utilisation du réseau en heures creuses supérieur ou égal à 0.48
 
@@ -60559,24 +60533,16 @@ taux d'utilisation du réseau en heures creuses supérieur ou égal à 0.48
       <td>
       </td><td align="center">
 
-85 %
-
-</td>
+85 %</td>
       <td align="center">
 
-50 %
-
-</td>
+50 %</td>
       <td align="center">
 
-40 % (*)
-
-</td>
+40 % (*)</td>
       <td align="center">
 
-10 %
-
-</td>
+10 %</td>
     </tr>
     <tr>
       <td>
@@ -60588,7 +60554,7 @@ durée d'utilisation du réseau supérieure ou égale à 8000 heures
 </td>
       <td>
 
-électricité annuelle soutirée sur le réseau de transport d'électricité supérieure à 20 GWh
+électricité annuelle soutirée sur le réseau de transport d'électricité supérieure à 10 GWh
 
 taux d'utilisation du réseau en heures creuses supérieur ou égal à 0.53
 
@@ -60596,24 +60562,16 @@ taux d'utilisation du réseau en heures creuses supérieur ou égal à 0.53
       <td>
       </td><td align="center">
 
-90 %
-
-</td>
+90 %</td>
       <td align="center">
 
-60 %
-
-</td>
+60 %</td>
       <td align="center">
 
-50 % (*)
-
-</td>
+50 % (*)</td>
       <td align="center">
 
-20 %
-
-</td>
+20 %</td>
     </tr>
   </tbody>
 </table>
@@ -60625,9 +60583,9 @@ le taux de réduction dont il bénéficie est diminué de 10 points de pourcenta
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2016-141 du 11 février 2016 - art.
+  - Décret n°2017-1707 du 18 décembre 2017 - art. 1
 
 
 ###### Article D341-8-1
@@ -60652,42 +60610,60 @@ _Cite_:
 Les consommateurs finals qui satisfont aux conditions de consommation d'électricité ou de soutirage sur les réseaux
 mentionnés à l'article L. 341-4-2 et de durée d'utilisation ou de taux d'utilisation en heures creuses de celui-ci figurant
 au tableau annexé au présent article se voient appliquer le taux de réduction du tarif d'utilisation du réseau public de
-transport d'électricité qui y figure. 
+transport d'électricité qui y figure.
 
-Pour l'application du précédent alinéa : 
+Pour l'application du précédent alinéa :
 
 1° Le niveau de consommation, la durée d'utilisation du réseau et le taux d'utilisation du réseau en heures creuses du site
-sont calculés en utilisant les données issues du dispositif de comptage géré par le gestionnaire du réseau ; 
+sont calculés en utilisant les données issues du dispositif de comptage géré par le gestionnaire du réseau ;
 
 2° La durée d'utilisation du réseau est calculée comme la moyenne sur deux des trois dernières années du rapport entre
 l'énergie soutirée par le site sur le réseau entre le 1er janvier et le 31 décembre de l'année et la valeur maximale de la
-moyenne glissante sur vingt-quatre heures des puissances appelées par le site au cours de la même période ; 
+moyenne glissante sur vingt-quatre heures des puissances appelées par le site au cours de la même période ;
 
 3° Le taux d'utilisation du réseau en heures creuses est calculé comme la moyenne, sur deux des trois dernières années, du
 rapport entre, d'une part, la somme de l'énergie soutirée par le site sur le réseau en heures creuses du tarif d'utilisation
-du réseau public de transport d'électricité et de l'énergie soutirée sur le réseau par le site en heures creuses d'été du
-tarif d'utilisation du réseau public de transport d'électricité, entre le 1er janvier et le 31 décembre de l'année, et,
-d'autre part, deux fois l'énergie soutirée par le site au cours de la même période. Le taux obtenu est arrondi au millième
-immédiatement supérieur ; 
+du réseau public de transport d'électricité et de l'énergie soutirée sur le réseau par le site en heures creuses de saison
+basse du tarif d'utilisation du réseau public de transport d'électricité, entre le 1er janvier et le 31 décembre de l'année,
+et, d'autre part, deux fois l'énergie soutirée par le site au cours de la même période. Le taux obtenu est arrondi au
+millième immédiatement supérieur ;
 
 4° Les moyennes sont calculées en prenant en compte, pour chacun des sites, les deux années les plus favorables pour
-l'éligibilité au dispositif sur les trois dernières années ; 
+l'éligibilité au dispositif sur les trois dernières années ;
 
 5° Pour les sites ayant une ancienneté comprise entre un et trois ans, peuvent être seules prises en compte la dernière année
-ou les deux dernières années précédant celle au titre de laquelle la demande est faite ; 
+ou les deux dernières années précédant celle au titre de laquelle la demande est faite ;
 
 6° Pour les sites dont le mode de consommation a connu une modification importante au cours des trois dernières années, peut
-être seule prise en compte, après accord du préfet, l'année précédant celle au titre de laquelle la demande est faite ; 
+être seule prise en compte, après accord du préfet, l'année précédant celle au titre de laquelle la demande est faite ;
 
 7° Peuvent être considérés comme un unique site de consommation, après accord du préfet, les sites alimentés par le même
 poste d'entrée géré par le gestionnaire du réseau concerné appartenant à des entreprises dont le capital et les droits de
 vote sont détenus directement ou indirectement à au moins 50 % par le même actionnaire ultime.
 
+**Nota:**
+
+Conformément au décret n° 2017-1707 du 18 décembre 2017, art. 2 :
+
+Pour l'application du 3° de l'article D. 341-9 du code de l'énergie :
+
+- pour les années 2013 à 2016, le rapport mentionné est calculé entre, d'une part, la somme de l'énergie soutirée par le site
+sur le réseau en heures creuses du tarif d'utilisation du réseau public de transport d'électricité et de l'énergie soutirée
+sur le réseau par le site en heures creuses d'été du tarif d'utilisation du réseau public de transport d'électricité, entre
+le 1er janvier et le 31 décembre de l'année, et, d'autre part, deux fois l'énergie soutirée par le site au cours de la même
+période ;
+
+- pour l'année 2017, le rapport mentionné est calculé entre, d'une part, la somme de l'énergie soutirée par le site sur le
+réseau en heures creuses du tarif d'utilisation du réseau public de transport d'électricité et de l'énergie soutirée sur le
+réseau par le site en heures creuses d'été et de saison basse du tarif d'utilisation du réseau public de transport
+d'électricité, entre le 1er janvier et le 31 décembre de l'année, et, d'autre part, deux fois l'énergie soutirée par le site
+au cours de la même période.
+
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2017-308 du 9 mars 2017 - art. 1
+  - Décret n°2017-1707 du 18 décembre 2017 - art. 1
 
 _Cité par_:
 
@@ -60696,7 +60672,7 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de l'énergie - art. L341-4-2 (V)
+  - Code de l'énergie - art. L341-4-2
 
 
 ###### Article D341-10
