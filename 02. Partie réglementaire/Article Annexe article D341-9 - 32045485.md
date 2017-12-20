@@ -5,52 +5,34 @@
     <tr>
       <th colspan="3">
 
-TYPE D'ÉLIGIBILITÉ
-
-</th>
+TYPE D'ÉLIGIBILITÉ</th>
       <th colspan="4">
 
-TAUX DE RÉDUCTION ACCORDÉ
-
-</th>
+TAUX DE RÉDUCTION ACCORDÉ</th>
     </tr>
     <tr>
       <td>
 
-Profil stable
-
-</td>
+Profil stable</td>
       <td>
 
-Profil anti-cyclique
-
-</td>
+Profil anti-cyclique</td>
       <td>
 
-Grand consommateur d'électricité
-
-</td>
+Grand consommateur d'électricité</td>
       <td>
 
-Sites hyper électro-intensifs au sens de l'article D. 351-3
-
-</td>
+Sites hyper électro-intensifs au sens de l'article D. 351-3</td>
       <td>
 
 Sites électro-intensifs au sens de l'article D. 351-2 ou qui appartiennent à une entreprise électro-intensive au sens de
-l'article D. 351-1
-
-</td>
+l'article D. 351-1</td>
       <td>
 
-Sites permettant le stockage de l'énergie en vue de sa restitution ultérieure au réseau
-
-</td>
+Sites permettant le stockage de l'énergie en vue de sa restitution ultérieure au réseau</td>
       <td>
 
-Autres sites
-
-</td>
+Autres sites</td>
     </tr>
     <tr>
       <td>
@@ -62,7 +44,7 @@ durée d'utilisation du réseau supérieure ou égale à 7000 heures
 </td>
       <td>
 
-électricité annuelle soutirée sur le réseau de transport d'électricité supérieure à 20 GWh
+électricité annuelle soutirée sur le réseau de transport d'électricité supérieure à 10 GWh
 
 taux d'utilisation du réseau en heures creuses supérieur ou égal à 0.44
 
@@ -76,24 +58,16 @@ taux d'utilisation du réseau en heures creuses supérieur ou égal à 0.40 et i
 </td>
       <td align="center">
 
-80 %
-
-</td>
+80 %</td>
       <td align="center">
 
-45 %
-
-</td>
+45 %</td>
       <td align="center">
 
-30 % (*)
-
-</td>
+30 % (*)</td>
       <td align="center">
 
-5 %
-
-</td>
+5 %</td>
     </tr>
     <tr>
       <td>
@@ -105,7 +79,7 @@ durée d'utilisation du réseau supérieure ou égale à 7500 heures
 </td>
       <td>
 
-électricité annuelle soutirée sur le réseau de transport d'électricité supérieure à 20 GWh
+électricité annuelle soutirée sur le réseau de transport d'électricité supérieure à 10 GWh
 
 taux d'utilisation du réseau en heures creuses supérieur ou égal à 0.48
 
@@ -113,24 +87,16 @@ taux d'utilisation du réseau en heures creuses supérieur ou égal à 0.48
       <td>
       </td><td align="center">
 
-85 %
-
-</td>
+85 %</td>
       <td align="center">
 
-50 %
-
-</td>
+50 %</td>
       <td align="center">
 
-40 % (*)
-
-</td>
+40 % (*)</td>
       <td align="center">
 
-10 %
-
-</td>
+10 %</td>
     </tr>
     <tr>
       <td>
@@ -142,7 +108,7 @@ durée d'utilisation du réseau supérieure ou égale à 8000 heures
 </td>
       <td>
 
-électricité annuelle soutirée sur le réseau de transport d'électricité supérieure à 20 GWh
+électricité annuelle soutirée sur le réseau de transport d'électricité supérieure à 10 GWh
 
 taux d'utilisation du réseau en heures creuses supérieur ou égal à 0.53
 
@@ -150,24 +116,16 @@ taux d'utilisation du réseau en heures creuses supérieur ou égal à 0.53
       <td>
       </td><td align="center">
 
-90 %
-
-</td>
+90 %</td>
       <td align="center">
 
-60 %
-
-</td>
+60 %</td>
       <td align="center">
 
-50 % (*)
-
-</td>
+50 % (*)</td>
       <td align="center">
 
-20 %
-
-</td>
+20 %</td>
     </tr>
   </tbody>
 </table>
@@ -179,6 +137,6 @@ le taux de réduction dont il bénéficie est diminué de 10 points de pourcenta
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2016-141 du 11 février 2016 - art.
+  - Décret n°2017-1707 du 18 décembre 2017 - art. 1
