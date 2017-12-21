@@ -1,5 +1,5 @@
 # Code de l'énergie  
-Version Consolidée au 2017-12-21
+Version Consolidée au 2017-12-22
 ## Contenu: 
   - [Partie législative (art. L100-1 à L731-1)](#1)
     - [LIVRE IER : L'ORGANISATION GENERALE  DU SECTEUR DE L'ENERGIE (art. L100-1 à L161-6)](#2)
@@ -558,7 +558,7 @@ relatives à la vente de biogaz (art. L446-1 à L446-5)](#243)
           - [Section 3 : Réduction de tarif d'utilisation du réseau public de transport accordée aux sites fortement consommateurs d'électricité (art. Annexe article D341-9 à D341-12-1)](#549)
           - [Section 4 : Mise à disposition des données de comptage de consommation aux propriétaires ou gestionnaires d'immeubles (art. D341-13 à D341-17)](#550)
           - [Section 5 : Mise à disposition des données de consommation aux consommateurs raccordés aux réseaux publics de distribution (art. D341-18 à D341-24)](#551)
-        - [Chapitre II : Le raccordement aux réseaux (art. D342-1 à D342-24)](#552)
+        - [Chapitre II : Le raccordement aux réseaux (art. D342-1 à D342-25)](#552)
           - [Section 1 : Consistance des ouvrages de branchement et d'extension (art. D342-1 à D342-2)](#553)
           - [Section 2 : Indemnités en cas de retard de raccordement d'une installation de production d'énergie renouvelable (art. R342-3 à R342-4-11)](#554)
             - [Sous-section 1 : Dispositions applicables aux installations de production d'électricité d'une puissance installée inférieure ou égale à 3 kilovoltampères (art. R342-3 à R342-4)](#555)
@@ -570,7 +570,7 @@ relatives à la vente de biogaz (art. L446-1 à L446-5)](#243)
           - [Section 5 : Contrôles (art. D342-16 à D342-21)](#561)
             - [Sous-section 1 : Contrôles des installations de production raccordées aux réseaux publics d'électricité (art. D342-16 à D342-17)](#562)
             - [Sous-section 2 : Contrôles des installations intérieures raccordées aux réseaux publics de distribution (art. D342-18 à D342-21)](#563)
-          - [Section 6 : Schéma régional de raccordement au réseau des énergies renouvelables et établissement de la quote-part (art. D342-22 à D342-24)](#564)
+          - [Section 6 : Schéma régional de raccordement au réseau des énergies renouvelables et établissement de la quote-part (art. D342-22 à D342-25)](#564)
         - [Chapitre III : Les lignes directes (art. R343-1 à R343-9)](#565)
       - [TITRE V : LES DISPOSITIONS RELATIVES À L'UTILISATION DE L'ÉLECTRICITÉ (art. D351-1 à D351-7)](#566)
         - [Chapitre unique : Consommateurs électro-intensifs (art. D351-1 à D351-7)](#567)
@@ -52439,32 +52439,27 @@ _Cite_:
 
 ###### Article D321-10
 
-La présente section et la section 6 du chapitre II du titre IV du présent livre fixent les conditions de raccordement aux
-réseaux publics d'électricité des catégories d'installation suivantes :
+Les conditions de raccordement aux réseaux publics d'électricité des installations de production d'électricité à partir de
+sources d'énergies renouvelables sont fixées par la présente section et la section 6 du chapitre II du titre IV du présent
+livre.
 
-- installation de production d'électricité à partir de sources d'énergies renouvelables d'une puissance de raccordement
-supérieure à 100 kilovoltampères ;
+Pour l'application du deuxième alinéa de l'article L. 342-1, ne s'inscrivent pas dans le schéma régional de raccordement au
+réseau des énergies renouvelables :
 
-- installations groupées dont la somme des puissances de raccordement est supérieure à 100 kilovoltampères. 
+1° Les raccordements d'installations d'une puissance installée inférieure ou égale à 100 kilovoltampères ; ;
 
-Pour l'application du précédent alinéa, une installation est considérée comme faisant partie d'un groupe dès lors que
-d'autres installations utilisant le même type d'énergie et appartenant à la même société ou à des sociétés qui lui sont liées
-au sens de l'article L. 336-4 sont déjà raccordées ou entrées en file d'attente en vue de leur raccordement sur un poste dont
-le niveau de tension primaire est immédiatement supérieur à leur tension de raccordement de référence. 
-
-Pour l'application du deuxième alinéa de l'article L. 342-1, les installations dont les conditions de raccordement sont
-fixées dans le cadre de la procédure prévue à l'article L. 311-10 ne s'inscrivent pas dans le schéma régional de raccordement
-au réseau des énergies renouvelables.
+2° Les raccordements d'installations dont les conditions sont fixées dans le cadre d'un appel d'offres en application de
+l'article L. 311-10.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Créé par_:
 
   - Décret n°2015-1823 du 30 décembre 2015 - art.
 
 _Modifié par_:
 
-  - Décret n°2016-434 du 11 avril 2016 - art. 1
+  - Décision n°400669 du 22 décembre 2017, v. init.
 
 _Cite_:
 
@@ -52483,20 +52478,20 @@ _Cité par_:
 Le gestionnaire du réseau public de transport élabore le schéma régional de raccordement au réseau des énergies renouvelables
 en tenant compte des objectifs qualitatifs et quantitatifs de développement de la production d'électricité à partir de
 sources d'énergie renouvelable, fixés par le schéma régional du climat, de l'air et de l'énergie en application du 3° du I de
-l'article L. 222-1 du code de l'environnement. 
+l'article L. 222-1 du code de l'environnement.
 
-Lorsqu'il concerne, en tout ou partie, le périmètre d'une façade maritime, le schéma de raccordement   tient compte des
+Lorsqu'il concerne, en tout ou partie, le périmètre d'une façade maritime, le schéma de raccordement est compatible avec les
 orientations du document stratégique de façade prévu à l'article L. 219-3 du code de l'environnement.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Créé par_:
 
   - Décret n°2015-1823 du 30 décembre 2015 - art.
 
 _Modifié par_:
 
-  - Décret n°2016-434 du 11 avril 2016 - art. 2
+  - Décision n°400669 du 22 décembre 2017, v. init.
 
 _Cite_:
 
@@ -52565,9 +52560,7 @@ Le gestionnaire du réseau public de transport précise, dans sa documentation t
 hypothèses d'élaboration et de réalisation du schéma régional de raccordement au réseau des énergies renouvelables. Il
 précise notamment la méthode d'élaboration de l'état des lieux initial, décrivant les capacités d'accueil et les contraintes
 de chacun des ouvrages du réseau public de transport de la zone concernée et incluant les créations et renforcements
-d'ouvrage décidés par le gestionnaire du réseau public de transport à la date d'élaboration du schéma. Toutefois, lorsque le
-schéma fait l'objet d'une révision, l'état des lieux initial ne comprend pas les créations et renforcements d'ouvrages
-engagés à la date d'approbation du schéma révisé.
+d'ouvrage décidés par le gestionnaire du réseau public de transport à la date d'élaboration du schéma.
 
 Pour l'élaboration de l'état initial, les gestionnaires des réseaux publics de distribution présents dans la zone
 communiquent au gestionnaire du réseau public de transport les capacités d'accueil et les contraintes des postes sources de
@@ -52579,13 +52572,13 @@ L'état des lieux initial est annexé au schéma régional de raccordement au r�
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Créé par_:
 
   - Décret n°2015-1823 du 30 décembre 2015 - art.
 
 _Modifié par_:
 
-  - Décret n°2016-434 du 11 avril 2016 - art. 3
+  - Décision n°400669 du 22 décembre 2017, v. init.
 
 _Cité par_:
 
@@ -52596,57 +52589,56 @@ _Cité par_:
 
 ###### Article D321-15
 
-Le schéma régional de raccordement au réseau des énergies renouvelables comprend : 
+Le schéma régional de raccordement au réseau des énergies renouvelables comprend :
 
 1° Un document identifiant les postes sources, les postes du réseau public de transport ainsi que les liaisons entre ces
 différents postes et le réseau public de transport, dès lors que ces différents ouvrages ont vocation à intégrer le schéma
 régional de raccordement au réseau des énergies renouvelables ; il s'agit aussi bien des ouvrages à créer que des ouvrages
-existants, ces derniers pouvant le cas échéant être à renforcer ; 
+existants, ces derniers pouvant le cas échéant être à renforcer ;
 
 2° Un document précisant la capacité d'accueil globale du schéma régional de raccordement et la capacité d'accueil de chaque
 volet particulier s'il en existe, ainsi que la capacité d'accueil réservée pour chaque poste et transférable en application
 du dernier alinéa de l'article D. 321-21. La capacité globale d'accueil du schéma régional de raccordement ou du volet
 géographique particulier est égale à la somme des capacités réservées sur chaque poste du schéma régional de raccordement ou
-du volet géographique particulier et des prévisions de capacités nécessaires pour les installations de puissance inférieure
-ou égale à 100 kilovoltampères. La capacité réservée sur chaque poste existant ou à créer est au moins égale à
-l'accroissement de capacité d'accueil permis sur ce poste par les ouvrages à créer mentionnés au 1° ; 
+du volet géographique particulieR. La capacité réservée sur chaque poste existant ou à créer est au moins égale à
+l'accroissement de capacité d'accueil permis sur ce poste par les ouvrages à créer mentionnés au 1° ;
 
 3° La liste détaillée des ouvrages électriques mentionnés au 1° à créer, le cas échéant par volet particulier, qui ont
 vocation à intégrer le périmètre de mutualisation prévu à l'article L. 321-7 et, le cas échéant, la liste détaillée des
-ouvrages à créer par volet particulier du schéma ; 
+ouvrages à créer par volet particulier du schéma ;
 
 4° Un document évaluant le coût prévisionnel, détaillé par ouvrage, des investissements à réaliser en application du 3° pour
 le schéma régional de raccordement et, le cas échéant, pour chaque volet particulier, leurs modalités d'actualisation ainsi
 que la formule d'indexation de ce coût ; les méthodes de calcul du coût prévisionnel sont fixées dans les documentations
-techniques de référence des gestionnaires de réseau ; 
+techniques de référence des gestionnaires de réseau ;
 
 5° Une carte au 1/250 000 permettant de localiser les ouvrages existants et à renforcer, ainsi que la localisation envisagée
-des ouvrages à créer ; 
+des ouvrages à créer ;
 
 6° Le calendrier des études à réaliser dès l'approbation du schéma et le calendrier prévisionnel de dépôt des demandes
-d'autorisation administrative pour la réalisation des travaux ; 
+d'autorisation administrative pour la réalisation des travaux ;
 
 7° Le calendrier prévisionnel de la mise en service des créations et renforcements d'ouvrages indiqués dans l'état initial et
 mentionnés au premier alinéa de l'article D. 321-14.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Créé par_:
 
   - Décret n°2015-1823 du 30 décembre 2015 - art.
 
 _Modifié par_:
 
-  - Décret n°2016-434 du 11 avril 2016 - art. 4
+  - Décision n°400669 du 22 décembre 2017, v. init.
 
 _Cite_:
 
   - Code de l'énergie - art. D321-14
-  - Code de l'énergie - art. D321-21
   - Code de l'énergie - art. L321-7
 
 _Cité par_:
 
+  - Code de l'énergie - art. D321-21 (V)
   - Code de l'énergie - art. D342-22 (V)
   - Code de l'énergie - art. D342-22-1 (V)
 
@@ -52947,19 +52939,31 @@ _Cité par_:
 
 ###### Article D321-22
 
-Les gestionnaires de réseau public établissent conjointement et transmettent au préfet de région, annuellement, un état
-technique et financier de la mise en œuvre du schéma régional de raccordement au réseau des énergies renouvelables. Cet état
-est publié sur le site Internet du gestionnaire du réseau public de transport.
+Le gestionnaire du réseau public de transport d'électricité prend les dispositions nécessaires pour que la continuité de la
+tension délivrée par ce réseau et alimentant un réseau public de distribution d'électricité soit assurée. A cet effet, un
+arrêté du ministre chargé de l'énergie fixe le nombre maximal admissible de coupures de l'alimentation électrique du réseau
+public de distribution d'électricité par le réseau public de transport d'électricité. Cet arrêté précise également la méthode
+d'évaluation de la continuité de la tension.
+
+Lorsqu'il est constaté qu'un réseau public de distribution d'électricité ne remplit pas ses propres obligations en matière de
+continuité de la tension en application des dispositions des articles D. 322-2 et suivants et que la tension alimentant ce
+réseau public de distribution d'électricité ne satisfait pas aux conditions fixées par l'arrêté prévu à l'alinéa précédent,
+le gestionnaire du réseau public de transport d'électricité transmet sans délai son analyse du dysfonctionnement au préfet du
+département où se situe ce réseau public de distribution d'électricité ainsi qu'au gestionnaire de celui-ci. En outre, en
+tant que de besoin, il transmet, dans les trois mois, aux mêmes personnes un programme d'amélioration du réseau public de
+transport d'électricité apte à remédier à ce dysfonctionnement. Le préfet approuve le délai prévu pour l'exécution de ce
+programme ou notifie un délai différent au gestionnaire du réseau public de transport, après avoir recueilli ses observations
+éventuelles.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Créé par_:
 
   - Décret n°2015-1823 du 30 décembre 2015 - art.
 
 _Modifié par_:
 
-  - Décret n°2016-434 du 11 avril 2016 - art. 6
+  - Décision n°400669 du 22 décembre 2017, v. init.
 
 
 ##### Section 4 : Obligations au titre du mécanisme d'ajustement<a id=489></a>
@@ -62310,24 +62314,30 @@ de raccordement d'un producteur au réseau public et à l'aval des ouvrages du s
 
 2° D'une quote-part du coût des ouvrages à créer en application du schéma régional de raccordement au réseau des énergies
 renouvelables ou du volet particulier concerné ; cette quote-part est égale au produit de la puissance à raccorder de
-l'installation de production                                                         par la quote-part unitaire du schéma ou
-du volet géographique particulier définie à l'article D. 342-22-1.
+l'installation de production par le quotient du coût des investissements défini au 4° de l'article D. 321-15 par la capacité
+globale d'accueil du schéma régional de raccordement, ou par la capacité d'accueil du volet particulier concerné, définies au
+2° de l'article D. 321-13.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Créé par_:
 
   - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-_Modifié par_:
-
-  - Décret n°2016-434 du 11 avril 2016 - art. 7
 
 _Cité par_:
 
   - Arrêté du 30 novembre 2017 - art. 4 (V)
   - Code de l'énergie - art. D321-21 (V)
   - Code de l'énergie - art. D342-23 (V)
+
+_Modifié par_:
+
+  - Décision n°400669 du 22 décembre 2017, v. init.
+
+_Cite_:
+
+  - Code de l'énergie - art. D321-13 (V)
+  - Code de l'énergie - art. D321-15 (V)
 
 
 ###### Article D342-22-1
@@ -62406,8 +62416,8 @@ Les conditions et l'ordre de traitement des demandes de raccordement des install
 régional de raccordement au réseau des énergies renouvelables s'effectuent selon les documentations techniques de référence
 et les procédures de traitement des demandes publiées sur le site internet des gestionnaires de réseaux publics. Les
 gestionnaires des réseaux publics proposent la solution de raccordement sur le poste le plus proche, minimisant le coût des
-ouvrages propres définis à l'article D. 342-22 et disposant d'une capacité réservée             suffisante pour satisfaire la
-puissance de raccordement demandée.
+ouvrages propres définis à l'article D. 342-22 et disposant d'une capacité réservée, en application de l'article D. 321-21,
+suffisante pour satisfaire la puissance de raccordement demandée. 
 
 Dans l'attente de la réalisation des ouvrages à créer en application du schéma régional de raccordement au réseau des
 énergies renouvelables, les gestionnaires des réseaux publics peuvent proposer des solutions de raccordement incluant des
@@ -62418,17 +62428,18 @@ poste de raccordement sur lequel est injectée la production de l'installation c
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Créé par_:
 
   - Décret n°2015-1823 du 30 décembre 2015 - art.
 
 _Modifié par_:
 
-  - Décret n°2016-434 du 11 avril 2016 - art. 9
+  - Décision n°400669 du 22 décembre 2017, v. init.
 
 _Cite_:
 
-  - Code de l'énergie - art. D342-22
+  - Code de l'énergie - art. D321-21 (V)
+  - Code de l'énergie - art. D342-22 (V)
 
 
 ###### Article D342-24
@@ -62457,6 +62468,35 @@ _Créé par_:
 _Cite_:
 
   - Code de l'énergie - art. L342-6 (V)
+
+
+###### Article D342-25
+
+Les gestionnaires de réseau public transmettent annuellement et conjointement au préfet de région un état technique de la
+mise en œuvre du schéma régional de raccordement au réseau des énergies renouvelables, qui est publié sur le site internet du
+gestionnaire du réseau public de transport.
+
+En cas de révision du schéma régional du climat, de l'air et de l'énergie ou à la demande du préfet de région, le
+gestionnaire du réseau public de transport procède, en accord avec les gestionnaires des réseaux publics de distribution
+concernés, à la révision du schéma régional de raccordement au réseau des énergies renouvelables selon la procédure établie
+par la présente section et la section 2 du chapitre Ier du titre II du présent livre.
+
+Lors de cette révision, les gestionnaires de réseaux établissent un bilan technique et financier des ouvrages réalisés dans
+le cadre du schéma régional de raccordement clos.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2015-1823 du 30 décembre 2015 - art.
+
+_Modifié par_:
+
+  - Décision n°400669 du 22 décembre 2017, v. init.
+
+_Abrogé par_:
+
+  - Décret n°2018-544 du 28 juin 2018 - art. 10
 
 
 #### Chapitre III : Les lignes directes<a id=565></a>
