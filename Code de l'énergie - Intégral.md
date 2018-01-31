@@ -1,5 +1,5 @@
 # Code de l'énergie  
-Version Consolidée au 2018-01-01 00:00:01 +0100
+Version Consolidée au 2018-02-01
 ## Contenu: 
   - [Partie législative (art. L100-1 à L731-1)](#1)
     - [LIVRE IER : L'ORGANISATION GENERALE  DU SECTEUR DE L'ENERGIE (art. L100-1 à L161-6)](#2)
@@ -45612,12 +45612,12 @@ _Cite_:
 
 ###### Article D251-2
 
-Une aide est attribuée à toute personne physique majeure justifiant d'un domicile en France ou à toute personne morale
-justifiant d'un établissement en France et à toute administration de l'Etat qui acquiert, au plus tard le 31 janvier 2018, un
+Une aide, dite bonus vélo à assistance électrique, est attribuée à toute personne physique majeure justifiant d'un domicile
+en France, dont la cotisation d'impôt sur le revenu de l'année précédant l'acquisition du cycle est nulle, qui acquiert un
 cycle à pédalage assisté, au sens de l'article R. 311-1 du code de la route, neuf, qui n'utilise pas de batterie au plomb et
-n'est pas cédé par l'acquéreur dans l'année suivant son acquisition. 
+n'est pas cédé par l'acquéreur dans l'année suivant son acquisition.
 
-Cette aide est exclusive de toute autre aide allouée par une collectivité publique ayant le même objet. 
+Cette aide ne peut être attribuée que si une aide ayant le même objet a été attribuée par une collectivité locale.
 
 Une personne physique ne peut en bénéficier qu'une fois.
 
@@ -45631,11 +45631,11 @@ _Cité par_:
 
   - Arrêté du 30 décembre 2014 - art. 1 (Ab)
   - Arrêté du 29 décembre 2017 - art. 1 (V)
-  - Code de l'énergie - art. D251-7-1 (V)
+  - Code de l'énergie - art. D251-7-1 (VD)
 
 _Modifié par_:
 
-  - Décret n°2017-196 du 16 février 2017 - art. 1
+  - Décret n°2017-1851 du 29 décembre 2017 - art. 1
 
 _Cite_:
 
@@ -45862,18 +45862,23 @@ _Modifié par_:
 
 ###### Article D251-7-1
 
-Le montant de l'aide instituée à l'article D. 251-2 est fixé à 20 % du coût d'acquisition toutes taxes comprises, sans être
-supérieur à 200 euros.
+Le montant de l'aide instituée à l'article D. 251-2 complète le montant de l'aide allouée par une collectivité locale sans
+jamais lui être supérieur et ne peut avoir effet de porter le cumul des deux aides au-delà du plus faible des deux montants
+suivants :
+
+- 20 % du coût d'acquisition toutes taxes comprises ;
+
+- 200 euros.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2017-196 du 16 février 2017 - art. 1
+  - Décret n°2017-1851 du 29 décembre 2017 - art. 1
 
 _Cite_:
 
-  - Code de l'énergie - art. D251-2
+  - Code de l'énergie - art. D251-2 (VD)
 
 
 ###### Article D251-8
