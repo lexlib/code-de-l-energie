@@ -1,5 +1,5 @@
 # Code de l'énergie  
-Version Consolidée au 2018-04-08
+Version Consolidée au 2018-04-20
 ## Contenu: 
   - [Partie législative (art. L100-1 à L731-1)](#1)
     - [LIVRE IER : L'ORGANISATION GENERALE  DU SECTEUR DE L'ENERGIE (art. L100-1 à L161-6)](#2)
@@ -596,132 +596,128 @@ relatives à la vente de biogaz (art. L446-1 à L446-5)](#243)
           - [Section 3 : Dispositions spécifiques aux procédures de mise en concurrence dans les collectivités de Guadeloupe, de Guyane, de Martinique et de La Réunion (art. D361-7-3 à D361-7-5)](#587)
         - [Chapitre II : Dispositions relatives à Mayotte (art. D361-9 à R361-8)](#588)
     - [LIVRE IV : LES DISPOSITIONS RELATIVES AU GAZ (art. R421-1 à D461-14)](#589)
-      - [TITRE II : LE STOCKAGE (art. R421-1 à R421-22)](#590)
-        - [Chapitre unique (art. R421-1 à R421-22)](#591)
-          - [Section 1 : L'accès aux stockages souterrains de gaz naturel (art. R421-1 à R421-21)](#592)
+      - [TITRE II : LE STOCKAGE (art. R421-1 à R421-16)](#590)
+        - [Chapitre unique (art. R421-1 à R421-16)](#591)
+          - [Section 1 : L'accès aux stockages souterrains de gaz naturel (art. R421-1 à R421-16)](#592)
             - [Sous-section 1 : Principes généraux d'utilisation des stockages (art. R421-1 à R421-5)](#593)
-            - [Sous-section 2 : Détermination et attribution des droits d'accès à des capacités de stockage (art. R421-6 à R421-8)](#594)
-            - [Sous-section 3 : Répartition des capacités de stockage (art. R421-9 à R421-10)](#595)
-            - [Sous-section 4 : Allocation des capacités de stockage (art. R421-11 à R421-13)](#596)
-            - [Sous-section 5 : Obligation de déclaration et de détention de stocks et de capacités de stockage des fournisseurs (art. R421-14 à R421-16)](#597)
-            - [Sous-section 6 : Sanctions (art. R421-17 à R421-18)](#598)
-            - [Sous-section 7 : Accès aux capacités de stockage excédentaires (art. R421-19 à R421-20)](#599)
-            - [Sous-section 8 : Agents chargés du contrôle de l'accès aux stockages souterrains de gaz naturel (art. R421-21)](#600)
-          - [Section 2 : Dérogations à l'accès aux stockages souterrains de gaz naturel (art. R421-22)](#601)
-      - [TITRE III : LE TRANSPORT ET LA DISTRIBUTION (art. R431-1 à R433-26)](#602)
-        - [Section 1 : Régime de l'autorisation de transport (art. R431-1 à R433-26)](#603)
-          - [Chapitre Ier : Le transport (art. R431-1 à R431-3)](#604)
-            - [Section 1 : Régime de l'autorisation de transport (art. R431-1 à R431-3)](#605)
-              - [Sous-section 1 : Droits et obligations du titulaire de l'autorisation (art. R431-1 à R431-2)](#606)
-              - [Sous-section 2 : Sanctions (art. R431-3)](#607)
-          - [Chapitre II : La distribution (art. R432-1 à R432-12)](#608)
-            - [Section 1 : L'organisation de la distribution gazière (art. R432-1 à R432-12)](#609)
-              - [Sous-section 1 : Agrément des distributeurs de gaz par réseaux publics (art. R432-1 à R432-7)](#610)
-              - [Sous-section 2 : Développement de la desserte gazière (art. R432-8 à R432-12)](#611)
-          - [Chapitre III : Les ouvrages de transport et de distribution (art. R433-1 à R433-26)](#612)
-            - [Section 1 : L'occupation du domaine public ou la traversée des propriétés privées par les ouvrages de transport et de distribution (art. R433-1 à R433-13)](#613)
-              - [Sous-section 1 : Déclaration d'utilité publique des ouvrages de gaz en vue de l'établissement de servitudes (art. R433-1 à R433-4)](#614)
-              - [Sous-section 2 : Etablissement des servitudes (art. D433-11 à R433-10-1)](#615)
-              - [Sous-section 3 : Indemnités et frais (art. R433-12 à R433-13)](#616)
-            - [Section 2 : Le contrôle de la construction et de l'exploitation des ouvrages de transport et de distribution (art. R433-1 à R433-26)](#617)
-              - [Sous-section 1 : Les prescriptions techniques applicables (art. R433-1 à R433-19)](#618)
-              - [Sous-section 2 : Les organismes de contrôle (art. D433-23 à R433-22)](#619)
-              - [Sous-section 3 : Mesures de police administrative (art. D433-24 à R433-26)](#620)
-      - [TITRE IV : LA COMMERCIALISATION (art. R441-1 à D446-24)](#621)
-        - [Chapitre Ier : Le choix du fournisseur (art. R441-1)](#622)
-        - [Chapitre III : Le régime de la fourniture (art. R443-1 à R443-13)](#623)
-          - [Section 1 : L'obligation d'une autorisation (art. R443-1 à R443-9)](#624)
-          - [Section 2 : Contrôles et sanctions administratives (art. R443-10 à R443-13)](#625)
-        - [Chapitre V : Les tarifs (art. R445-1 à R445-7)](#626)
-          - [Section 1 : Tarifs réglementés de vente (art. R445-1 à R445-7)](#627)
-        - [Chapitre VI : Les dispositions particulières relatives à la vente de biogaz (art. R446-1 à D446-24)](#628)
-          - [Section 1 : Conditions de vente du biométhane aux fournisseurs de gaz naturel (art. R446-1 à R446-2)](#629)
-          - [Section 2 : Les conditions de contractualisation entre producteurs de biométhane et fournisseurs de gaz naturel (art. D446-3 à D446-16)](#630)
-          - [Section 3 : Les garanties d'origine du biométhane injecté dans les réseaux de gaz naturel (art. D446-17 à D446-24)](#631)
-      - [TITRE V : L'ACCÈS ET LE RACCORDEMENT AUX RÉSEAUX ET INSTALLATIONS (art. D452-1-1 à D453-19)](#632)
-        - [Chapitre II : Les tarifs d'utilisation des réseaux de transport, de distribution de gaz naturel et les tarifs d'utilisation des installations de gaz naturel liquéfié (art. D452-1-1 à R452-1)](#633)
-        - [Chapitre III : Le raccordement aux réseaux et installations (art. R453-1 à D453-19)](#634)
-          - [Section 1 : Extensions des réseaux de distribution de gaz naturel (art. R453-1 à R453-6)](#635)
-          - [Section 2 : Contenu du cahier des charges des concessions de distribution publique de gaz et du règlement de service des régies (art. R453-7)](#636)
-          - [Section 3 : Prescriptions techniques fixant les exigences techniques de conception et de fonctionnement (art. R453-8)](#637)
-          - [Section 4 : Mise à disposition des données de comptage de consommation aux propriétaires ou gestionnaires d'immeubles (art. D453-9 à D453-13)](#638)
-          - [Section 5 : Mise à disposition des données de comptage aux consommateurs raccordés aux réseaux publics de distribution de gaz naturel (art. D453-14 à D453-19)](#639)
-      - [TITRE VI : LES CONSOMMATEURS GAZO-INTENSIFS (art. D461-1 à D461-14)](#640)
-        - [Chapitre unique (art. D461-1 à D461-14)](#641)
-    - [LIVRE V : LES DISPOSITIONS RELATIVES À L'UTILISATION DE L'ÉNERGIE HYDRAULIQUE (art. D511-1 à R524-6)](#642)
-      - [TITRE Ier : LES DISPOSITIONS COMMUNES AUX INSTALLATIONS HYDRAULIQUES AUTORISÉES OU CONCÉDÉES (art. D511-1)](#643)
-        - [Chapitre Ier : Les caractéristiques générales des régimes d'exploitation de l'énergie hydraulique (art. D511-1)](#644)
-      - [TITRE II : LES DISPOSITIONS RELATIVES AUX INSTALLATIONS HYDRAULIQUES CONCÉDÉES (art. R521-1 à R524-6)](#645)
-        - [Chapitre Ier : La procédure applicable aux concessions (art. R521-1 à R521-72)](#646)
-          - [Section 1 : L'octroi de la concession (art. R521-2 à R521-48)](#647)
-            - [Sous-section 1 : Lancement de la procédure (art. R521-2 à R521-5)](#648)
-            - [Sous-section 2 : Sélection du candidat pressenti (art. R521-6 à R521-11)](#649)
-            - [Sous-section 3 : Instruction de la demande du concessionnaire pressenti (art. R521-12 à R521-24)](#650)
-            - [Sous-section 4 : Octroi de la concession et déclaration d'utilité publique (art. R521-25 à R521-27)](#651)
-            - [Sous-section 5 : Règlement d'eau (art. R521-28 à R521-30)](#652)
-            - [Sous-section 6 : Approbation des projets d'exécution, autorisation et récolement des travaux d'établissement de la concession (art. R521-31 à R521-39)](#653)
-            - [Sous-section 7 : Approbation des autres travaux (art. R521-40 à R521-42)](#654)
-            - [Sous-section 8 : Dispositions relatives à la sécurité et à la sûreté des ouvrages hydrauliques concédés (art. R521-43 à R521-46)](#655)
-            - [Sous-section 9 : Dispositions diverses (art. R521-47 à R521-48)](#656)
-          - [Section 2 : Le cahier des charges de la concession (art. R521-49)](#657)
-          - [Section 3 : L'occupation ou la traversée des propriétés privées (art. R521-50 à R521-51)](#658)
-          - [Section 4 :  Les dispositions particulières à la fin de la concession et à son renouvellement (art. R521-52 à R521-66)](#659)
-            - [Sous-section 1 : Décision d'arrêt ou de poursuite de l'exploitation (art. R521-52 à R521-53)](#660)
-            - [Sous-section 2 : Fin de la concession (art. R521-54 à R521-57)](#661)
-            - [Sous-section 3 : Dispositions spécifiques au renouvellement de concession (art. R521-58 à R521-59)](#662)
-            - [Sous-section 4 : Regroupement de concessions (art. R521-60 à R521-65)](#663)
-            - [Sous-section 5 : Prorogation des concessions (art. R521-66)](#664)
-          - [Section 5 : Les sociétés d'économie mixte hydroélectriques (art. R521-67 à R521-72)](#665)
-        - [Chapitre II : Les reserves en énergie (art. D522-5 à R522-4)](#666)
-        - [Chapitre III : Les redevances proportionnelles (art. R523-1 à R523-4)](#667)
-        - [Chapitre IV :  L'information des collectivités territoriales et des habitants riverains sur l'exécution de la concession et leur participation à la gestion des usages de l'eau (art. R524-1 à R524-6)](#668)
-    - [LIVRE VI : LES DISPOSITIONS RELATIVES AU PÉTROLE, AUX BIOCARBURANTS ET BIOLIQUIDES (art. D631-1 à R671-31)](#669)
-      - [TITRE III : LE TRANSPORT (art. D631-1 à R632-4)](#670)
-        - [Chapitre Ier : Le transport par navire (art. D631-1 à D631-10)](#671)
-        - [Chapitre II : Le transport par canalisation (art. R632-1 à R632-4)](#672)
-      - [TITRE IV : LE RAFFINAGE ET LE STOCKAGE (art. R641-1 à D642-11)](#673)
-        - [Chapitre Ier : Le raffinage et les produits pétroliers (art. R641-1 à R641-16)](#674)
-          - [Section 1 : Dispositions applicables au raffinage (art. R641-1 à R641-3)](#675)
-          - [Section 2 : Dispositions applicables aux produits pétroliers et aux carburants renouvelables (art. D641-4 à R641-16)](#676)
-        - [Chapitre II : Le stockage (art. R642-1 à D642-11)](#677)
-          - [Section 1 : Le Comité professionnel des stocks stratégiques pétroliers (art. R642-1 à R642-10)](#678)
-          - [Section 2 : Dispositions diverses (art. D642-11)](#679)
-      - [TITRE VI : LES BIOCARBURANTS ET BIOLIQUIDES (art. D661-2 à R661-11)](#680)
-        - [Chapitre unique (art. D661-2 à R661-11)](#681)
-      - [TITRE VII : LES DISPOSITIONS PARTICULIÈRES À L'OUTRE-MER (art. R671-1 à R671-31)](#682)
-        - [Chapitre unique (art. R671-1 à R671-31)](#683)
-          - [Section 1 : Dispositions relatives au département de la Guadeloupe et aux collectivités territoriales de la Guyane et de la Martinique (art. R671-1 à R671-13)](#684)
-            - [Sous-section 1 : Dispositions générales (art. R671-1)](#685)
-            - [Sous-section 2 : Dispositions relatives aux prix des produits pétroliers autres que le gaz de pétrole liquéfié (art. R671-2 à R671-5)](#686)
-            - [Sous-section 3 : Dispositions relatives aux prix du gaz de pétrole liquéfié (art. R671-6 à R671-10)](#687)
-            - [Sous-section 4 : Dispositions relatives aux activités de stockage de produits pétroliers (art. R671-11 à R671-12)](#688)
-            - [Sous-section 5 : Dispositions relatives à l'information du public (art. R671-13)](#689)
-          - [Section 2 : Dispositions relatives au département de La Réunion (art. R671-14 à R671-22)](#690)
-            - [Sous-section 1 : Dispositions générales (art. R671-14)](#691)
-            - [Sous-section 2 : Dispositions relatives aux prix des produits pétroliers (art. R671-15 à R671-17)](#692)
-            - [Sous-section 3 : Dispositions relatives à la distribution des produits pétroliers (art. R671-18 à R671-19)](#693)
-            - [Sous-section 4 : Dispositions relatives aux activités de stockage de produits pétroliers (art. R671-20 à R671-21)](#694)
-            - [Sous-section 5 : Dispositions relatives à l'information du public (art. R671-22)](#695)
-          - [Section 3 : Dispositions relatives au Département de Mayotte (art. R671-23 à R671-31)](#696)
-            - [Sous-section 1 : Dispositions générales (art. R671-23)](#697)
-            - [Sous-section 2 : Dispositions relatives aux prix des produits pétroliers (art. R671-24 à R671-26)](#698)
-            - [Sous-section 3 : Dispositions relatives à la distribution des produits pétroliers (art. R671-27 à R671-28)](#699)
-            - [Sous-section 4 : Dispositions relatives aux activités de stockage de produits pétroliers (art. R671-29 à R671-30)](#700)
-            - [Sous-section 5 : Dispositions relatives à l'information du public (art. R671-31)](#701)
-    - [LIVRE VII : LES DISPOSITIONS RELATIVES AUX RÉSEAUX DE CHALEUR ET DE FROID (art. R711-1 à R721-20)](#702)
-      - [TITRE Ier : LA PRODUCTION DE CHALEUR ET LE CLASSEMENT DES RÉSEAUX DE CHALEUR ET DE FROID (art. R711-1 à R712-12)](#703)
-        - [Chapitre Ier : La production de chaleur (art. R711-1 à R711-4)](#704)
-        - [Chapitre II : Le classement des reseaux de chaleur et de froid (art. R712-1 à R712-12)](#705)
-          - [Section 1 : Principes et modalités de classement des réseaux de chaleur et de froid (art. R712-1 à R712-5)](#706)
-          - [Section 2 : Effets du classement d'un réseau de chaleur ou de froid (art. R712-6 à R712-9)](#707)
-          - [Section 3 : Abrogation de la décision de classement (art. R712-10)](#708)
-          - [Section 4 : Information du public (art. L712-11)](#709)
-          - [Section 5 : Constatation des infractions (art. R712-12)](#710)
-      - [TITRE II : LE PASSAGE DES CANALISATIONS DE TRANSPORT ET DE DISTRIBUTION DE CHALEUR ET DE FROID (art. R721-1 à R721-20)](#711)
-        - [Chapitre unique (art. R721-1 à R721-20)](#712)
-          - [Section 1 : Procédure régissant la déclaration d'intérêt général des canalisations de transport de distribution de chaleur (art. R721-1 à R721-6)](#713)
-          - [Section 2 : Les servitudes (art. D721-13 à R721-12)](#714)
-          - [Section 3 : Construction, mise en service, exploitation et contrôle (art. R721-14 à R721-20)](#715)
+            - [Sous-section 2 : Constitution des stocks complémentaires mentionnés à l'article L. 421-6 (art. D421-7 à R421-6)](#594)
+            - [Sous-section 3 : Dispositions applicables aux infrastructures de stockage non mentionnées à l’article L. 421-3-1 (art. R421-14)](#595)
+            - [Sous-section 4 : Agents chargés du contrôle de l’accès aux stockages souterrains de gaz naturel (art. R421-15 à R421-16)](#596)
+      - [TITRE III : LE TRANSPORT ET LA DISTRIBUTION (art. R431-1 à R433-26)](#597)
+        - [Section 1 : Régime de l'autorisation de transport (art. R431-1 à R433-26)](#598)
+          - [Chapitre Ier : Le transport (art. R431-1 à R431-3)](#599)
+            - [Section 1 : Régime de l'autorisation de transport (art. R431-1 à R431-3)](#600)
+              - [Sous-section 1 : Droits et obligations du titulaire de l'autorisation (art. R431-1 à R431-2)](#601)
+              - [Sous-section 2 : Sanctions (art. R431-3)](#602)
+          - [Chapitre II : La distribution (art. R432-1 à R432-13)](#603)
+            - [Section 1 : L'organisation de la distribution gazière (art. R432-1 à R432-12)](#604)
+              - [Sous-section 1 : Agrément des distributeurs de gaz par réseaux publics (art. R432-1 à R432-7)](#605)
+              - [Sous-section 2 : Développement de la desserte gazière (art. R432-8 à R432-12)](#606)
+            - [Section 2 : Les missions des gestionnaires de réseau de distribution (art. R432-13)](#607)
+          - [Chapitre III : Les ouvrages de transport et de distribution (art. R433-1 à R433-26)](#608)
+            - [Section 1 : L'occupation du domaine public ou la traversée des propriétés privées par les ouvrages de transport et de distribution (art. R433-1 à R433-13)](#609)
+              - [Sous-section 1 : Déclaration d'utilité publique des ouvrages de gaz en vue de l'établissement de servitudes (art. R433-1 à R433-4)](#610)
+              - [Sous-section 2 : Etablissement des servitudes (art. D433-11 à R433-10-1)](#611)
+              - [Sous-section 3 : Indemnités et frais (art. R433-12 à R433-13)](#612)
+            - [Section 2 : Le contrôle de la construction et de l'exploitation des ouvrages de transport et de distribution (art. R433-1 à R433-26)](#613)
+              - [Sous-section 1 : Les prescriptions techniques applicables (art. R433-1 à R433-19)](#614)
+              - [Sous-section 2 : Les organismes de contrôle (art. D433-23 à R433-22)](#615)
+              - [Sous-section 3 : Mesures de police administrative (art. D433-24 à R433-26)](#616)
+      - [TITRE IV : LA COMMERCIALISATION (art. R441-1 à D446-24)](#617)
+        - [Chapitre Ier : Le choix du fournisseur (art. R441-1)](#618)
+        - [Chapitre III : Le régime de la fourniture (art. R443-1 à R443-13)](#619)
+          - [Section 1 : L'obligation d'une autorisation (art. R443-1 à R443-9)](#620)
+          - [Section 2 : Contrôles et sanctions administratives (art. R443-10 à R443-13)](#621)
+        - [Chapitre V : Les tarifs (art. R445-1 à R445-7)](#622)
+          - [Section 1 : Tarifs réglementés de vente (art. R445-1 à R445-7)](#623)
+        - [Chapitre VI : Les dispositions particulières relatives à la vente de biogaz (art. R446-1 à D446-24)](#624)
+          - [Section 1 : Conditions de vente du biométhane aux fournisseurs de gaz naturel (art. R446-1 à R446-2)](#625)
+          - [Section 2 : Les conditions de contractualisation entre producteurs de biométhane et fournisseurs de gaz naturel (art. D446-3 à D446-16)](#626)
+          - [Section 3 : Les garanties d'origine du biométhane injecté dans les réseaux de gaz naturel (art. D446-17 à D446-24)](#627)
+      - [TITRE V : L'ACCÈS ET LE RACCORDEMENT AUX RÉSEAUX ET INSTALLATIONS (art. D452-1-1 à D453-19)](#628)
+        - [Chapitre II : Les tarifs d'utilisation des réseaux de transport, de distribution de gaz naturel et les tarifs d'utilisation des installations de gaz naturel liquéfié (art. D452-1-1 à R452-1)](#629)
+        - [Chapitre III : Le raccordement aux réseaux et installations (art. R453-1 à D453-19)](#630)
+          - [Section 1 : Extensions des réseaux de distribution de gaz naturel (art. R453-1 à R453-6)](#631)
+          - [Section 2 : Contenu du cahier des charges des concessions de distribution publique de gaz et du règlement de service des régies (art. R453-7)](#632)
+          - [Section 3 : Prescriptions techniques fixant les exigences techniques de conception et de fonctionnement (art. R453-8)](#633)
+          - [Section 4 : Mise à disposition des données de comptage de consommation aux propriétaires ou gestionnaires d'immeubles (art. D453-9 à D453-13)](#634)
+          - [Section 5 : Mise à disposition des données de comptage aux consommateurs raccordés aux réseaux publics de distribution de gaz naturel (art. D453-14 à D453-19)](#635)
+      - [TITRE VI : LES CONSOMMATEURS GAZO-INTENSIFS (art. D461-1 à D461-14)](#636)
+        - [Chapitre unique (art. D461-1 à D461-14)](#637)
+    - [LIVRE V : LES DISPOSITIONS RELATIVES À L'UTILISATION DE L'ÉNERGIE HYDRAULIQUE (art. D511-1 à R524-6)](#638)
+      - [TITRE Ier : LES DISPOSITIONS COMMUNES AUX INSTALLATIONS HYDRAULIQUES AUTORISÉES OU CONCÉDÉES (art. D511-1)](#639)
+        - [Chapitre Ier : Les caractéristiques générales des régimes d'exploitation de l'énergie hydraulique (art. D511-1)](#640)
+      - [TITRE II : LES DISPOSITIONS RELATIVES AUX INSTALLATIONS HYDRAULIQUES CONCÉDÉES (art. R521-1 à R524-6)](#641)
+        - [Chapitre Ier : La procédure applicable aux concessions (art. R521-1 à R521-72)](#642)
+          - [Section 1 : L'octroi de la concession (art. R521-2 à R521-48)](#643)
+            - [Sous-section 1 : Lancement de la procédure (art. R521-2 à R521-5)](#644)
+            - [Sous-section 2 : Sélection du candidat pressenti (art. R521-6 à R521-11)](#645)
+            - [Sous-section 3 : Instruction de la demande du concessionnaire pressenti (art. R521-12 à R521-24)](#646)
+            - [Sous-section 4 : Octroi de la concession et déclaration d'utilité publique (art. R521-25 à R521-27)](#647)
+            - [Sous-section 5 : Règlement d'eau (art. R521-28 à R521-30)](#648)
+            - [Sous-section 6 : Approbation des projets d'exécution, autorisation et récolement des travaux d'établissement de la concession (art. R521-31 à R521-39)](#649)
+            - [Sous-section 7 : Approbation des autres travaux (art. R521-40 à R521-42)](#650)
+            - [Sous-section 8 : Dispositions relatives à la sécurité et à la sûreté des ouvrages hydrauliques concédés (art. R521-43 à R521-46)](#651)
+            - [Sous-section 9 : Dispositions diverses (art. R521-47 à R521-48)](#652)
+          - [Section 2 : Le cahier des charges de la concession (art. R521-49)](#653)
+          - [Section 3 : L'occupation ou la traversée des propriétés privées (art. R521-50 à R521-51)](#654)
+          - [Section 4 :  Les dispositions particulières à la fin de la concession et à son renouvellement (art. R521-52 à R521-66)](#655)
+            - [Sous-section 1 : Décision d'arrêt ou de poursuite de l'exploitation (art. R521-52 à R521-53)](#656)
+            - [Sous-section 2 : Fin de la concession (art. R521-54 à R521-57)](#657)
+            - [Sous-section 3 : Dispositions spécifiques au renouvellement de concession (art. R521-58 à R521-59)](#658)
+            - [Sous-section 4 : Regroupement de concessions (art. R521-60 à R521-65)](#659)
+            - [Sous-section 5 : Prorogation des concessions (art. R521-66)](#660)
+          - [Section 5 : Les sociétés d'économie mixte hydroélectriques (art. R521-67 à R521-72)](#661)
+        - [Chapitre II : Les reserves en énergie (art. D522-5 à R522-4)](#662)
+        - [Chapitre III : Les redevances proportionnelles (art. R523-1 à R523-4)](#663)
+        - [Chapitre IV :  L'information des collectivités territoriales et des habitants riverains sur l'exécution de la concession et leur participation à la gestion des usages de l'eau (art. R524-1 à R524-6)](#664)
+    - [LIVRE VI : LES DISPOSITIONS RELATIVES AU PÉTROLE, AUX BIOCARBURANTS ET BIOLIQUIDES (art. D631-1 à R671-31)](#665)
+      - [TITRE III : LE TRANSPORT (art. D631-1 à R632-4)](#666)
+        - [Chapitre Ier : Le transport par navire (art. D631-1 à D631-10)](#667)
+        - [Chapitre II : Le transport par canalisation (art. R632-1 à R632-4)](#668)
+      - [TITRE IV : LE RAFFINAGE ET LE STOCKAGE (art. R641-1 à D642-11)](#669)
+        - [Chapitre Ier : Le raffinage et les produits pétroliers (art. R641-1 à R641-16)](#670)
+          - [Section 1 : Dispositions applicables au raffinage (art. R641-1 à R641-3)](#671)
+          - [Section 2 : Dispositions applicables aux produits pétroliers et aux carburants renouvelables (art. D641-4 à R641-16)](#672)
+        - [Chapitre II : Le stockage (art. R642-1 à D642-11)](#673)
+          - [Section 1 : Le Comité professionnel des stocks stratégiques pétroliers (art. R642-1 à R642-10)](#674)
+          - [Section 2 : Dispositions diverses (art. D642-11)](#675)
+      - [TITRE VI : LES BIOCARBURANTS ET BIOLIQUIDES (art. D661-2 à R661-11)](#676)
+        - [Chapitre unique (art. D661-2 à R661-11)](#677)
+      - [TITRE VII : LES DISPOSITIONS PARTICULIÈRES À L'OUTRE-MER (art. R671-1 à R671-31)](#678)
+        - [Chapitre unique (art. R671-1 à R671-31)](#679)
+          - [Section 1 : Dispositions relatives au département de la Guadeloupe et aux collectivités territoriales de la Guyane et de la Martinique (art. R671-1 à R671-13)](#680)
+            - [Sous-section 1 : Dispositions générales (art. R671-1)](#681)
+            - [Sous-section 2 : Dispositions relatives aux prix des produits pétroliers autres que le gaz de pétrole liquéfié (art. R671-2 à R671-5)](#682)
+            - [Sous-section 3 : Dispositions relatives aux prix du gaz de pétrole liquéfié (art. R671-6 à R671-10)](#683)
+            - [Sous-section 4 : Dispositions relatives aux activités de stockage de produits pétroliers (art. R671-11 à R671-12)](#684)
+            - [Sous-section 5 : Dispositions relatives à l'information du public (art. R671-13)](#685)
+          - [Section 2 : Dispositions relatives au département de La Réunion (art. R671-14 à R671-22)](#686)
+            - [Sous-section 1 : Dispositions générales (art. R671-14)](#687)
+            - [Sous-section 2 : Dispositions relatives aux prix des produits pétroliers (art. R671-15 à R671-17)](#688)
+            - [Sous-section 3 : Dispositions relatives à la distribution des produits pétroliers (art. R671-18 à R671-19)](#689)
+            - [Sous-section 4 : Dispositions relatives aux activités de stockage de produits pétroliers (art. R671-20 à R671-21)](#690)
+            - [Sous-section 5 : Dispositions relatives à l'information du public (art. R671-22)](#691)
+          - [Section 3 : Dispositions relatives au Département de Mayotte (art. R671-23 à R671-31)](#692)
+            - [Sous-section 1 : Dispositions générales (art. R671-23)](#693)
+            - [Sous-section 2 : Dispositions relatives aux prix des produits pétroliers (art. R671-24 à R671-26)](#694)
+            - [Sous-section 3 : Dispositions relatives à la distribution des produits pétroliers (art. R671-27 à R671-28)](#695)
+            - [Sous-section 4 : Dispositions relatives aux activités de stockage de produits pétroliers (art. R671-29 à R671-30)](#696)
+            - [Sous-section 5 : Dispositions relatives à l'information du public (art. R671-31)](#697)
+    - [LIVRE VII : LES DISPOSITIONS RELATIVES AUX RÉSEAUX DE CHALEUR ET DE FROID (art. R711-1 à R721-20)](#698)
+      - [TITRE Ier : LA PRODUCTION DE CHALEUR ET LE CLASSEMENT DES RÉSEAUX DE CHALEUR ET DE FROID (art. R711-1 à R712-12)](#699)
+        - [Chapitre Ier : La production de chaleur (art. R711-1 à R711-4)](#700)
+        - [Chapitre II : Le classement des reseaux de chaleur et de froid (art. R712-1 à R712-12)](#701)
+          - [Section 1 : Principes et modalités de classement des réseaux de chaleur et de froid (art. R712-1 à R712-5)](#702)
+          - [Section 2 : Effets du classement d'un réseau de chaleur ou de froid (art. R712-6 à R712-9)](#703)
+          - [Section 3 : Abrogation de la décision de classement (art. R712-10)](#704)
+          - [Section 4 : Information du public (art. L712-11)](#705)
+          - [Section 5 : Constatation des infractions (art. R712-12)](#706)
+      - [TITRE II : LE PASSAGE DES CANALISATIONS DE TRANSPORT ET DE DISTRIBUTION DE CHALEUR ET DE FROID (art. R721-1 à R721-20)](#707)
+        - [Chapitre unique (art. R721-1 à R721-20)](#708)
+          - [Section 1 : Procédure régissant la déclaration d'intérêt général des canalisations de transport de distribution de chaleur (art. R721-1 à R721-6)](#709)
+          - [Section 2 : Les servitudes (art. D721-13 à R721-12)](#710)
+          - [Section 3 : Construction, mise en service, exploitation et contrôle (art. R721-14 à R721-20)](#711)
 # Partie législative<a id=1></a>
 
 ## LIVRE IER : L'ORGANISATION GENERALE  DU SECTEUR DE L'ENERGIE<a id=2></a>
@@ -34590,6 +34586,23 @@ _Cité par_:
   - Code de l'énergie - art. R443-7 (V)
 
 
+###### Article R121-4-1
+
+Pour remplir les obligations de continuité de fourniture imposées du 1er novembre au 31 mars de chaque année, définies à
+l'article R. 121-4, tout fournisseur est tenu d'estimer la consommation de ses clients en fonction des profils de
+consommation auxquels ils se rattachent et des contraintes de froid extrême arrêtées par le ministre chargé de l'énergie.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2018-276 du 18 avril 2018 - art. 2
+
+_Cite_:
+
+  - Code de l'énergie - art. R121-4
+
+
 ###### Article R121-5
 
 Pour leur permettre de remplir les obligations de continuité de fourniture imposées par les articles R. 121-3 et R. 121-4 en
@@ -63668,10 +63681,9 @@ _Créé par_:
 
 ###### Article R421-1
 
-Au sens et pour l'application de la présente section, la capacité de stockage est le volume utile de stockage au sein d'un
-site de stockage souterrain, assorti d'un débit de soutirage et d'un débit d'injection et le client est un consommateur ayant
-effectivement conclu un ou plusieurs contrats pour l'approvisionnement, pendant une période déterminée, d'un site de
-consommation de gaz raccordé à un réseau de transport ou de distribution.
+Au sens et pour l’application de la présente section, la capacité de stockage est le volume utile de stockage au sein d’un
+site de stockage souterrain, assorti d’un débit de soutirage et d’un débit d’injection. Le débit de soutirage d’un stockage
+correspond au débit de soutirage maximal disponible avec un niveau de remplissage correspondant à 45% du volume utile.
 
 **Liens relatifs à cet article**
 
@@ -63679,9 +63691,9 @@ _Codifié par_:
 
   - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2015-1823 du 30 décembre 2015 - art.
+  - Décret n°2018-276 du 18 avril 2018 - art. 3
 
 
 ###### Article R421-2
@@ -63702,29 +63714,12 @@ _Créé par_:
 
 ###### Article R421-3
 
-L'utilisation des stockages souterrains de gaz naturel est ouverte en priorité aux gestionnaires de réseau de transport et
-aux opérateurs de stockage souterrain de gaz naturel pour le bon fonctionnement et l'équilibrage des réseaux de transport
-raccordés à ces stockages.
+L’accès aux stockages souterrains de gaz naturel est ouvert en priorité aux gestionnaires de réseau de transport, pour le bon
+fonctionnement et l’équilibrage des réseaux de transport raccordés à ces stockages, ainsi qu’aux opérateurs de stockage
+souterrain de gaz naturel, pour le bon fonctionnement de leurs installations.
 
-Les capacités de stockage restantes, ouvertes dans les conditions prévues par l'article R. 421-6, sont attribuées aux
-fournisseurs autorisés en application du chapitre III du titre IV du présent livre ou à leurs mandataires en vue de
-satisfaire, par ordre de priorité, les besoins en gaz : 
-
-1° Des clients domestiques y compris des ménages résidant dans un immeuble d'habitation chauffé collectivement ; 
-
-2° Des autres clients lorsqu'ils assurent des missions d'intérêt général ; 
-
-3° Des clients n'ayant pas accepté contractuellement une fourniture interruptible ; 
-
-4° Liés au respect des autres obligations de service public prévues à l'article L. 121-32, notamment la fourniture de dernier
-recours ;
-
-5° Des clients ayant accepté contractuellement une fourniture interruptible ; 
-
-6° Résultant des contrats de transit de gaz naturel conclus avant le 1er juillet 2004 ; 
-
-7° Résultant des accords bilatéraux conclus par la France avec un Etat membre de l'Union européenne ou un Etat membre de
-l'Association européenne de libre-échange.
+Les capacités de stockage restantes sont commercialisées au bénéfice des fournisseurs autorisés en application du chapitre
+III du titre IV du présent livre.
 
 **Liens relatifs à cet article**
 
@@ -63732,14 +63727,9 @@ _Codifié par_:
 
   - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-_Cite_:
-
-  - Code de l'énergie - art. L121-32 (VT)
-  - Code de l'énergie - art. R421-6 (V)
+  - Décret n°2018-276 du 18 avril 2018 - art. 3
 
 _Cité par_:
 
@@ -63752,10 +63742,11 @@ _Cité par_:
 
 ###### Article R421-4
 
-Lorsqu'un fournisseur réserve des capacités de stockage en application des articles R. 421-3 et R. 421-19, le gestionnaire du
-réseau de transport auquel est raccordé le stockage lui attribue, sur sa demande, les capacités fermes d'entrée et de sortie
-au point de raccordement entre le réseau de transport et le site de stockage correspondant aux capacités fermes d'injection
-et de soutirage qu'il a réservées, dans la limite des contraintes physiques du réseau de transport. 
+Lorsqu'un fournisseur souscrit, en application des articles L. 421-5-1 et L. 421-6, des capacités de stockage au sein d'une
+infrastructure mentionnée à l'article L. 421-3-1, ou acquiert de telles capacités au sein d'une infrastructure non mentionnée
+à cet article, le gestionnaire du réseau de transport auquel est raccordé le stockage lui attribue, sur sa demande, les
+capacités fermes d'entrée et de sortie au point de raccordement entre le réseau de transport et le site de stockage concerné
+correspondant à ces capacités, dans la limite des contraintes physiques du réseau de transport. 
 
 En cas de congestion, le gestionnaire du réseau de transport répartit les capacités disponibles au point de raccordement
 entre le réseau de transport et les sites de stockage de façon transparente et non discriminatoire.
@@ -63766,20 +63757,21 @@ _Codifié par_:
 
   - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2015-1823 du 30 décembre 2015 - art.
+  - Décret n°2018-276 du 18 avril 2018 - art. 3
 
 _Cite_:
 
-  - Code de l'énergie - art. R421-19 (V)
-  - Code de l'énergie - art. R421-3 (V)
+  - Code de l'énergie - art. L421-3-1 (V)
+  - Code de l'énergie - art. L421-5-1 (V)
 
 
 ###### Article R421-5
 
-L'autorité compétente pour fixer l'ordre de priorité mentionné au 2° de l'article L. 421-14 est le ministre chargé de
-l'énergie.
+Chaque opérateur de stockage souterrain de gaz naturel publie, sur son site internet, les capacités de stockage disponibles,
+par site ou groupement de sites de stockage qu’il exploite, en volume et en débit de soutirage, ainsi que le niveau des
+stocks de gaz pour ce site ou groupement de sites. Ces informations sont actualisées au moins une fois par jour.
 
 **Liens relatifs à cet article**
 
@@ -63787,49 +63779,257 @@ _Codifié par_:
 
   - Décret n°2015-1823 du 30 décembre 2015 - art.
 
+_Modifié par_:
+
+  - Décret n°2018-276 du 18 avril 2018 - art. 3
+
+
+##### Sous-section 2 : Constitution des stocks complémentaires mentionnés à l'article L. 421-6<a id=594></a>
+
+###### Article D421-7
+
+Les gestionnaires de réseau de transport de gaz naturel adressent au ministre chargé de l'énergie, le 1er décembre de chaque
+année, une déclaration comprenant :
+
+1° L'estimation de la consommation de l'ensemble des consommateurs raccordés à leur réseau ou raccordés à un réseau de
+distribution connecté à leur réseau en cas de froid extrême ;
+
+2° Les capacités d'acheminement interruptibles souscrites pour la période comprise entre le 1er novembre et le 31 mars de
+l'année suivante ;
+
+3° Les capacités interruptibles contractualisées avec des consommateurs raccordés à leur réseau pour la période comprise
+entre le 1er novembre et le 31 mars de l'année suivante ;
+
+4° Les capacités fermes proposées aux interconnexions et aux terminaux méthaniers pour la période comprise entre le 1er
+novembre et le 31 mars de l'année suivante ;
+
+5° Les capacités fermes souscrites aux interconnexions et aux terminaux méthaniers pour la période comprise entre le 1er
+novembre et le 31 mars de l'année suivante.
+
+Les gestionnaires de réseau de distribution de gaz naturel adressent au ministre chargé de l'énergie, le 1er décembre de
+chaque année, les capacités interruptibles contractualisées avec des consommateurs raccordés à leur réseau pour la période
+comprise entre le 1er novembre et le 31 mars de l'année suivante.
+
+Les opérateurs exploitant des installations de gaz naturel liquéfié adressent au ministre chargé de l'énergie, le 1er
+décembre de chaque année, les capacités fermes proposées et les capacités fermes souscrites sur ces infrastructures pour la
+période comprise entre le 1er novembre et le 31 mars de l'année suivante.
+
+**Liens relatifs à cet article**
+
 _Créé par_:
 
-  - Décret n°2015-1823 du 30 décembre 2015 - art.
+  - Décret n°2018-221 du 30 mars 2018 - art. 1
+
+
+###### Article D421-8
+
+Les opérateurs de stockage adressent au ministre chargé de l'énergie, chaque année à une date fixée par arrêté du ministre
+chargé de l'énergie, une déclaration comprenant : 
+
+1° Les capacités souscrites pour la période comprise entre le 1er novembre et le 31 mars de l'année suivante dans les
+infrastructures de stockage mentionnées à l'article L. 421-3-1 ; 
+
+2° Les capacités souscrites pour la période comprise entre le 1er novembre et le 31 mars de l'année suivante dans les
+infrastructures de stockage non mentionnées à l'article L. 421-3-1 ; 
+
+3° Les capacités non souscrites des infrastructures de stockage mentionnées à l'article L. 421-3-1 dans lesquelles du gaz
+naturel peut être stocké du 1er novembre au 31 octobre de l'année suivante.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2018-221 du 30 mars 2018 - art. 1
+
+_Cité par_:
+
+  - Arrêté du 9 mai 2018 (V)
+  - Arrêté du 9 mai 2018 - art. 3 (V)
+  - Code de l'énergie - art. D421-10 (V)
+  - Code de l'énergie - art. D421-9 (V)
 
 _Cite_:
 
-  - Code de l'énergie - art. L421-14 (V)
+  - Code de l'énergie - art. L421-3-1 (V)
 
 
-##### Sous-section 2 : Détermination et attribution des droits d'accès à des capacités de stockage<a id=594></a>
+###### Article D421-9
+
+Si les capacités de stockage correspondant aux stocks minimaux fixés pour l'année conformément à l'article L. 421-4 n'ont pas
+été souscrites, le ministre chargé de l'énergie peut fixer par arrêté publié au plus tard le 30 juin le niveau des stocks
+complémentaires que doivent constituer les opérateurs des infrastructures de stockage mentionnées à l'article L. 421-3-1 au
+1er novembre. Ce niveau est défini par un débit de soutirage, ainsi qu'éventuellement une localisation et un volume ; il ne
+peut être supérieur à 20 térawattheures. 
+
+Les opérateurs de stockage constituent ces stocks en recourant d'abord aux capacités non souscrites mentionnées au 3° de
+l'article D. 421-8, complétées, le cas échéant, par d'autres capacités de stockage non souscrites. 
+
+Lorsqu'il est fait application du premier alinéa, les capacités des infrastructures de stockage mentionnées à l'article L.
+421-3-1 dont les opérateurs de stockage ont besoin pour constituer ces stocks complémentaires ne sont pas commercialisées. 
+
+Les opérateurs de stockage adressent au ministre chargé de l'énergie, au plus tard le 15 novembre, les caractéristiques des
+stocks complémentaires de gaz naturel qu'ils détiennent au 1er novembre dans les infrastructures mentionnées à l'article L.
+421-3-1.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2018-221 du 30 mars 2018 - art. 1
+
+_Cité par_:
+
+  - Code de l'énergie - art. D421-12 (V)
+
+_Cite_:
+
+  - Code de l'énergie - art. D421-8 (V)
+  - Code de l'énergie - art. L421-3-1 (V)
+  - Code de l'énergie - art. L421-4 (V)
+
+
+###### Article D421-10
+
+Les opérateurs de stockage conservent du 1er novembre jusqu'au 31 mars de l'année suivante les stocks complémentaires de gaz
+naturel qu'ils ont constitués en ayant recours aux capacités mentionnées au 3° de l'article D. 421-8. 
+
+Toutefois, lorsque les appels au marché pour l'équilibrage ou la continuité d'acheminement se sont révélés insuffisants, un
+gestionnaire de réseau de transport peut acheter, à tout moment, à un opérateur de stockage tout ou partie des stocks
+mentionnés à l'alinéa précédent. 
+
+La Commission de régulation de l'énergie précise les modalités de constitution et de commercialisation des stocks
+complémentaires.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2018-221 du 30 mars 2018 - art. 1
+
+_Cite_:
+
+  - Code de l'énergie - art. D421-8 (V)
+
+
+###### Article D421-11
+
+I.-Les gestionnaires de réseau de transport de gaz naturel adressent au ministre chargé de l'énergie, le 8 avril de chaque
+année, une déclaration comprenant :
+
+1° Les capacités fermes souscrites entre le 1er novembre de l'année précédente et le 31 mars pour des livraisons à des
+consommateurs raccordés à leur réseau ;
+
+2° L'utilisation moyenne des capacités fermes souscrites pour des livraisons à des consommateurs raccordés à leur réseau
+entre le 1er avril de l'année précédente et le 31 mars ;
+
+3° Les capacités fermes souscrites entre le 1er novembre de l'année précédente et le 31 mars pour des livraisons vers des
+réseaux de distribution connectés à leur réseau ;
+
+4° Les capacités interruptibles contractualisées entre le 1er novembre de l'année précédente et le 31 mars avec des
+consommateurs raccordés à leur réseau.
+
+II.-Les gestionnaires de réseau de distribution de gaz naturel adressent au ministre chargé de l'énergie, le 8 avril de
+chaque année, une déclaration comprenant :
+
+1° L'utilisation moyenne des capacités fermes souscrites pour des livraisons à des consommateurs raccordés à leur réseau,
+égale à la consommation annuelle de référence des consommateurs raccordés à leur réseau divisée par 365 ;
+
+2° Les capacités interruptibles contractualisées entre le 1er novembre de l'année précédente et le 31 mars avec des
+consommateurs raccordés à leur réseau.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2018-221 du 30 mars 2018 - art. 1
+
+
+###### Article D421-12
+
+Si la somme des capacités de stockage souscrites et des stocks complémentaires que doivent constituer les opérateurs de
+stockage en application de l'article D. 421-9 ne correspond pas aux stocks minimaux mentionnées à l'article L. 421-4, le
+ministre chargé de l'énergie peut fixer par arrêté publié au plus tard le 30 juin le niveau des stocks globaux que doivent
+constituer les fournisseurs de gaz naturel au 1er novembre. Ce niveau est défini par un débit de soutirage, ainsi
+qu'éventuellement une localisation et un volume. 
+
+A chaque consommateur de gaz naturel est associé un niveau de stocks globaux proportionnel à la différence entre la capacité
+ferme souscrite pour son approvisionnement entre le 1er novembre de l'année précédente et le 31 mars et l'utilisation moyenne
+annuelle de cette capacité. 
+
+Au plus tard un mois après la publication de l'arrêté mentionné au premier alinéa, les capacités de stockage souterrain de
+gaz naturel souscrites par un fournisseur ou son mandataire ne peuvent être inférieures à la somme des stocks globaux
+associés aux consommateurs finals qu'il alimentait au 1er janvier. 
+
+Les capacités de stockage souterrain de gaz naturel peuvent être souscrites dans un autre Etat membre de l'Union européenne
+sous réserve que le fournisseur de gaz naturel dispose de capacités de transport non utilisées entre les capacités de
+stockage souterrain et le réseau de transport français, conformément aux dispositions d'un arrêté du ministre chargé de
+l'énergie. 
+
+Chaque fournisseur de gaz naturel adresse au ministre chargé de l'énergie, au plus tard un mois après la publication de
+l'arrêté mentionné au premier alinéa, une déclaration établissant, d'une part, la somme des stocks globaux des consommateurs
+finals qu'il alimentait au 1er janvier et, d'autre part, les capacités de stockage souterrain souscrites, directement ou par
+l'intermédiaire d'un mandataire, pour l'hiver suivant. 
+
+Au vu de cette déclaration, le ministre chargé de l'énergie peut, lorsque les capacités de stockage souterrain détenues par
+un fournisseur ou son mandataire sont insuffisantes pour garantir le respect de l'obligation définie au troisième alinéa, le
+mettre en demeure de souscrire des capacités de stockage additionnelles. Ces capacités de stockage additionnelles doivent
+être souscrites dans le mois suivant la mise en demeure. 
+
+Les fournisseurs de gaz naturel adressent au ministre chargé de l'énergie, au plus tard le 15 novembre, les caractéristiques
+des stocks souterrains de gaz naturel qu'ils détiennent directement ou par l'intermédiaire d'un mandataire au 1er novembre.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2018-221 du 30 mars 2018 - art. 1
+
+_Cité par_:
+
+  - Décret n°2018-221 du 30 mars 2018 - art. 2 (V)
+  - Code de l'énergie - art. D421-13 (V)
+
+_Cite_:
+
+  - Code de l'énergie - art. D421-9 (V)
+  - Code de l'énergie - art. L421-4 (V)
+
+
+###### Article D421-13
+
+Lorsqu'il est fait application de l'article D. 421-12, les opérateurs des infrastructures de stockage mentionnées à l'article
+L. 421-3-1 offrent aux fournisseurs de gaz naturel, en complément des enchères publiques mentionnées à l'article L. 421-5-1,
+la possibilité de souscrire pour la période comprise entre le 1er novembre et le 31 mars de l'année suivante les capacités
+disponibles de ces infrastructures à un tarif correspondant au prix maximum issu des enchères publiques réalisées avant la
+publication de l'arrêté mentionné à l'article D. 421-12 pour des capacités équivalentes, ou le cas échéant au prix de réserve
+minimum utilisé pour la commercialisation aux enchères de ces capacités, auquel est ajouté un complément de tarif fixé par la
+Commission de régulation de l'énergie.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2018-221 du 30 mars 2018 - art. 1
+
+_Cité par_:
+
+  - Décret n°2018-221 du 30 mars 2018 - art. 2 (V)
+
+_Cite_:
+
+  - Code de l'énergie - art. D421-12 (V)
+  - Code de l'énergie - art. L421-3-1 (V)
+  - Code de l'énergie - art. L421-5-1 (V)
+
 
 ###### Article R421-6
 
-Les gestionnaires de réseaux de distribution affectent à tout client final raccordé à leur réseau un profil de consommation
-déterminé en fonction des caractéristiques de sa consommation. Ils communiquent à chaque fournisseur le profil de
-consommation de ses clients. Ce dernier fait connaître à ses clients qui le demandent leur profil de consommation. Les
-gestionnaires de réseaux de distribution rendent publique la méthode d'attribution des profils de consommation aux clients
-finals. 
-
-A chaque profil de consommation est associé un droit unitaire de stockage calculé pour une consommation annuelle de référence
-égale à 1 gigawattheure (GWh), exprimé en volume utile et en débit de soutirage de pointe. 
-
-Un arrêté du ministre chargé de l'énergie établit les différents profils de consommation et définit les droits unitaires de
-stockage correspondants. 
-
-Le droit de stockage correspondant à un client raccordé à un réseau public de distribution résulte du produit de sa
-consommation annuelle de référence, telle qu'indiquée par le gestionnaire du réseau auquel il est raccordé, par le droit
-unitaire correspondant à son profil de consommation. 
-
-Pour chaque client raccordé à un réseau de transport, les droits de stockage sont calculés à partir de son historique de
-consommation. Un arrêté du ministre chargé de l'énergie précise la méthodologie de calcul. 
-
-Sous réserve des dispositions de l'article R. 421-10, le droit d'accès aux capacités de stockage d'un fournisseur est égal,
-pour chacune des zones d'équilibrage déterminées dans l'arrêté prévu à l'article R. 452-2, à la somme des droits de stockage
-des clients que ce fournisseur alimente et qui sont situés dans cette zone.
+L ’ autorité administrative mentionnée aux articles L. 421-9, L. 421-11, L. 421-13 et L. 421-14 est le ministre chargé de l ’
+énergie.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
-
-  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-_Créé par_:
 
   - Décret n°2015-1823 du 30 décembre 2015 - art.
 
@@ -63847,263 +64047,28 @@ _Cité par_:
   - Code de l'énergie - art. R421-3 (M)
   - Code de l'énergie - art. R421-9 (Ab)
 
-_Cite_:
+_Modifié par_:
 
-  - Code de l'énergie - art. R421-10 (V)
-
-
-###### Article R421-7
-
-Chaque fournisseur qui souhaite réserver des capacités de stockage pour alimenter les clients mentionnés à l'article R. 421-3
-transmet sa demande à un opérateur de stockage souterrain de gaz natureL. Cette demande mentionne notamment, pour chaque zone
-d'équilibrage : 
-
-1° Les droits d'accès aux capacités de stockage dont il dispose, déterminés à partir des données fournies par les
-gestionnaires de réseaux ; 
-
-2° Le niveau des capacités de stockage qu'il souhaite réserver. 
-
-Ces capacités sont attribuées par les opérateurs de stockage de gaz naturel dans le respect des règlements d'allocation
-définis à l'article R. 421-11. 
-
-Les opérateurs de stockage souterrain de gaz naturel communiquent chaque mois au ministre chargé de l'énergie, pour chaque
-fournisseur ou mandataire et par stockage ou groupement de stockages, les capacités réservées destinées aux clients
-mentionnés à l'article R. 421-3 et le niveau de stock au dernier jour du mois précédent.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-_Créé par_:
-
-  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-_Abrogé par_:
-
-  - Décret n°2018-276 du 18 avril 2018 - art. 5
+  - Décret n°2018-276 du 18 avril 2018 - art. 3
 
 _Cite_:
 
-  - Code de l'énergie - art. R421-11
-  - Code de l'énergie - art. R421-3
-
-
-###### Article R421-8
-
-Tout fournisseur peut transférer à son propre fournisseur les droits de stockage de chacun de ses clients. Il en informe
-alors le ministre chargé de l'énergie.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-_Créé par_:
-
-  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-_Abrogé par_:
-
-  - Décret n°2018-276 du 18 avril 2018 - art. 5
-
-_Cité par_:
-
-  - Code de l'énergie - art. R421-15 (M)
-  - Code de l'énergie - art. R421-16 (M)
-
-
-##### Sous-section 3 : Répartition des capacités de stockage<a id=595></a>
-
-###### Article R421-9
-
-Tout fournisseur peut réserver, au-delà de ses droits de stockage, des capacités de stockage correspondant à des droits non
-exercés, qui sont encore disponibles. Un arrêté du ministre chargé de l'énergie détermine, en tant que de besoin, les
-modalités de détermination de ces capacités, qui sont dites " restituables ". 
-
-Ces capacités peuvent être réattribuées aux fournisseurs : 
-
-1° Jusqu'au dernier jour de février, pour satisfaire à l'ensemble de leurs droits d'accès à des capacités de stockage tels
-que définis à l'article R. 421-6 ; 
-
-2° Du 1er mars au 31 octobre, uniquement pour satisfaire leurs droits de stockage le cas échéant nouvellement acquis depuis
-les attributions précédentes et les droits de stockage nécessaires pour couvrir leurs obligations de détention de stocks et
-de capacités prévues à l'article R. 421-15. 
-
-Les capacités de stockage disponibles à la date du 1er mars et qui ne sont pas susceptibles d'être réattribuées entre cette
-date et le 31 octobre sont considérées comme des capacités excédentaires et utilisées conformément à l'article R. 421-19. 
-
-Les règles de réattribution des capacités restituables sont précisées par l'opérateur de stockage souterrain, dans le
-règlement fixant les conditions d'allocation des capacités de stockage prévu à l'article R. 421-11. 
-
-L'opérateur de stockage souterrain de gaz naturel informe le ministre chargé de l'énergie des réattributions de capacités
-intervenues en application du présent article.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-_Créé par_:
-
-  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-_Abrogé par_:
-
-  - Décret n°2018-276 du 18 avril 2018 - art. 5
-
-_Cite_:
-
-  - Code de l'énergie - art. R421-11
-  - Code de l'énergie - art. R421-15
-  - Code de l'énergie - art. R421-19
-  - Code de l'énergie - art. R421-6
-
-_Cité par_:
-
-  - Code de l'énergie - art. R421-20 (Ab)
-
-
-###### Article R421-10
-
-Lorsque les capacités commercialisées par un opérateur de stockage souterrain de gaz naturel ne sont plus suffisantes pour
-répondre aux demandes de réservation de capacités destinées à l'alimentation des clients mentionnés à l'article R. 421-3, cet
-opérateur en informe sans délai le ministre chargé de l'énergie. 
-
-A titre conservatoire, l'opérateur de stockage réduit les capacités de stockage réservées de chaque fournisseur en proportion
-des volumes utiles réservés, compte tenu de l'ordre de priorité établi pour la satisfaction des besoins énumérés à l'article
-R. 421-3. 
-
-Dans le cas d'une pénurie de l'ensemble des capacités de stockage des opérateurs de stockage souterrain de gaz naturel, les
-droits des fournisseurs sont réduits en tant que de besoin, par arrêté ministériel, de façon que la somme des droits de
-stockage alloués en volume utile et en débit de soutirage soit égale aux capacités disponibles une fois satisfaits les
-besoins définis au premier alinéa de l'article R. 421-3.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-_Créé par_:
-
-  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-_Abrogé par_:
-
-  - Décret n°2018-276 du 18 avril 2018 - art. 5
-
-_Cite_:
-
-  - Code de l'énergie - art. R421-3
-
-_Cité par_:
-
-  - Code de l'énergie - art. R421-6 (M)
-
-
-##### Sous-section 4 : Allocation des capacités de stockage<a id=596></a>
-
-###### Article R421-11
-
-Chaque opérateur de stockage souterrain de gaz naturel qui exploite au moins deux sites de stockage soumet au ministre chargé
-de l'énergie, chaque année au plus tard le 1er novembre, un projet de règlement fixant les conditions d'allocation des
-capacités de stockage tenant compte de leur disponibilité physique. Ce règlement doit permettre à tout fournisseur de
-réserver des capacités dans les stockages ou groupements de stockages existant dans la zone d'équilibrage où sont situés ses
-clients, dans des conditions permettant de répondre à leurs besoins. Il précise la liste des produits de stockage qui peuvent
-être attribués au titre des droits ainsi que leur calendrier de commercialisation.
-
-Si le ministre chargé de l'énergie estime que ce projet de règlement ne permet pas d'atteindre l'objectif fixé au premier
-alinéa, ou que son application peut nuire à la fluidité ou à la sécurité d'approvisionnement du marché gazier, il demande à
-l'opérateur de stockage souterrain de gaz naturel de le modifieR. Ce dernier dispose d'un délai d'un mois pour soumettre une
-nouvelle proposition au ministre chargé de l'énergie.
-
-Chaque gestionnaire de stockage rend public son règlement d'allocation sur son site internet.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-_Créé par_:
-
-  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-_Abrogé par_:
-
-  - Décret n°2018-276 du 18 avril 2018 - art. 5
-
-_Cité par_:
-
-  - Code de l'énergie - art. R421-20 (Ab)
-  - Code de l'énergie - art. R421-7 (Ab)
-  - Code de l'énergie - art. R421-9 (Ab)
-
-
-###### Article R421-12
-
-Chaque opérateur de stockage souterrain de gaz naturel rend publics chaque semaine sur son site internet les capacités de
-stockage disponibles, en distinguant les capacités restituables et les capacités excédentaires, par site ou groupement de
-sites de stockage qu'il exploite, en volume et en débit de soutirage, ainsi que le niveau des stocks de gaz.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-_Créé par_:
-
-  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-_Abrogé par_:
-
-  - Décret n°2018-276 du 18 avril 2018 - art. 5
-
-
-###### Article R421-13
-
-L'autorité administrative à laquelle les contrats et protocoles relatifs à l'accès aux stockages souterrains de gaz naturel
-sont transmis en application du deuxième alinéa de l'article L. 421-9 est le ministre chargé de l'énergie.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-_Créé par_:
-
-  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-_Abrogé par_:
-
-  - Décret n°2018-276 du 18 avril 2018 - art. 5
-
-_Cite_:
-
+  - Code de l'énergie - art. L421-11
+  - Code de l'énergie - art. L421-13
   - Code de l'énergie - art. L421-9
 
 
-##### Sous-section 5 : Obligation de déclaration et de détention de stocks et de capacités de stockage des fournisseurs<a id=597></a>
+##### Sous-section 3 : Dispositions applicables aux infrastructures de stockage non mentionnées à l’article L. 421-3-1<a id=595></a>
 
 ###### Article R421-14
 
-Pour remplir les obligations de continuité de fourniture imposées du 1er novembre au 31 mars de chaque année, définies à
-l'article R. 121-47, tout fournisseur est tenu d'estimer la consommation de ses clients en fonction de leurs profils de
-consommation et des contraintes de froid extrême arrêtées par le ministre chargé de l'énergie.
+Chaque opérateur de stockage souterrain de gaz naturel qui exploite une infrastructure de stockage non mentionnée à l ’
+article L. 421-3-1 publie, sur son site internet, ses conditions générales de vente, qui précisent la liste des produits de
+stockage commercialisés ainsi que leur calendrier de commercialisation.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
-
-  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-_Créé par_:
 
   - Décret n°2015-1823 du 30 décembre 2015 - art.
 
@@ -64112,229 +64077,18 @@ _Cité par_:
   - Arrêté du 4 février 2016 (V)
   - Arrêté du 27 janvier 2017 (V)
 
+_Modifié par_:
+
+  - Décret n°2018-276 du 18 avril 2018 - art. 4
+
 _Cite_:
 
-  - Code de l'énergie - art. R121-47 (V)
+  - Code de l'énergie - art. L421-3-1
 
+
+##### Sous-section 4 : Agents chargés du contrôle de l’accès aux stockages souterrains de gaz naturel<a id=596></a>
 
 ###### Article R421-15
-
-Au 31 octobre de chaque année, les volumes de gaz stockés par un fournisseur et les débits de soutirage assortis ne peuvent
-être inférieurs à 80 % de la somme des droits de stockage en volume utile et en débit de soutirage, tels que définis à
-l'article R. 421-6, de ceux de ses clients mentionnés à l'article R. 121-47 raccordés au réseau de distribution. 
-
-En vue de garantir le respect de l'obligation mentionnée au premier alinéa, il lui est associé une obligation de détention de
-capacités de stockage acquises au titre des droits, en volume utile et en débit de soutirage de pointe, correspondant à
-l'obligation de détention de stocks.
-
-Le transfert des droits de stockage au titre de l'article R. 421-8 entraîne le transfert des obligations associées de
-détention de stocks et de détention de capacités de stockage. L'estimation de ces obligations associées aux droits de
-stockage transférés est de la responsabilité du fournisseur qui cède les droits de stockage.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-_Créé par_:
-
-  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-_Cite_:
-
-  - Code de l'énergie - art. R121-47 (V)
-  - Code de l'énergie - art. R421-6 (V)
-  - Code de l'énergie - art. R421-8 (V)
-
-_Cité par_:
-
-  - Code de l'énergie - art. R421-16 (M)
-  - Code de l'énergie - art. R421-9 (Ab)
-
-_Anciens textes_:
-
-  - Code de l'énergie - art. R421-21 (T)
-
-
-###### Article R421-16
-
-Chaque fournisseur qui alimente des clients mentionnés à l'article R. 421-3 adresse au ministre chargé de l'énergie, au plus
-tard le 1er mai de chaque année, une déclaration établissant qu'il est en mesure, d'une part, d'assurer l'approvisionnement
-de ses clients dans les conditions prévues à l'article R. 121-47 et, d'autre part, de remplir ses obligations de stocks et de
-détention de capacités de stockage définies aux I et II de l'article R. 421-15. 
-
-Cette déclaration comprend : 
-
-1° La consommation annuelle de référence de l'ensemble de ses clients ; 
-
-2° La consommation de l'ensemble de ses clients en cas de contrainte de froid extrême ; 
-
-3° Les droits de stockage des clients que ce fournisseur alimente ; 
-
-4° Les droits de stockage des clients alimentés par d'autres fournisseurs et transférés au titre de l'article R. 421-8 ;
-
-5° Les capacités de stockage souscrites en France, en précisant celles qui le sont au titre des droits ; 
-
-6° Des éléments permettant d'apprécier sa politique d'approvisionnement et les autres instruments de modulation dont il
-dispose, conformément aux dispositions d'un arrêté du ministre chargé de l'énergie. 
-
-Ces éléments énumérés ci-dessus sont fournis par zone d'équilibrage. Ils sont constatés au 1er avril et estimés au 31
-octobre. 
-
-Pour les clients raccordés à un réseau de distribution, les éléments sont fournis par profil de consommation. 
-
-Au vu de cette déclaration, le ministre chargé de l'énergie peut, lorsqu'il estime que les capacités de stockage détenues par
-un fournisseur sont insuffisantes pour garantir le respect de l'obligation définie au premier alinéa de l'article R. 421-15,
-le mettre en demeure de souscrire des capacités de stockage additionnelles, dans la limite de son droit d'accès à des
-capacités de stockage et en tenant compte des autres instruments de modulation dont il dispose. Ces capacités de stockage
-additionnelles doivent être souscrites dans les deux mois suivant la mise en demeure. 
-
-Chaque fournisseur qui alimente des clients mentionnés à l'article R. 421-3 adresse au ministre chargé de l'énergie, au plus
-tard le 1er décembre de chaque année, une mise à jour de la déclaration prévue au premier alinéa du présent article, sur la
-base des constatations faites au 31 octobre.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-_Créé par_:
-
-  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-_Cite_:
-
-  - Code de l'énergie - art. R121-47 (V)
-  - Code de l'énergie - art. R421-15 (V)
-  - Code de l'énergie - art. R421-3 (V)
-  - Code de l'énergie - art. R421-8 (V)
-
-_Anciens textes_:
-
-  - Code de l'énergie - art. R421-22 (T)
-
-
-##### Sous-section 6 : Sanctions<a id=598></a>
-
-###### Article R421-17
-
-La méconnaissance des dispositions de l'article R. 421-15 est passible des sanctions prévues au deuxième alinéa de l'article
-L. 421-4.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-_Créé par_:
-
-  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-_Abrogé par_:
-
-  - Décret n°2018-276 du 18 avril 2018 - art. 5
-
-_Cite_:
-
-  - Code de l'énergie - art. L421-4
-  - Code de l'énergie - art. R421-15 (V)
-
-
-###### Article R421-18
-
-La valeur des stocks qui font défaut, servant à déterminer le montant de la sanction pécuniaire prévue au deuxième alinéa de
-l'article L. 421-4 est calculée sur la base du prix journalier du gaz naturel en France le plus élevé des six mois précédant
-la date du manquement.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-_Créé par_:
-
-  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-_Abrogé par_:
-
-  - Décret n°2018-276 du 18 avril 2018 - art. 5
-
-_Cite_:
-
-  - Code de l'énergie - art. L421-4
-
-
-##### Sous-section 7 : Accès aux capacités de stockage excédentaires<a id=599></a>
-
-###### Article R421-19
-
-Lorsque les droits d'accès des fournisseurs à des capacités de stockage, définis à l'article R. 421-6, sont satisfaits, les
-capacités de stockage excédentaires sont mises sur le marché dans des conditions transparentes et non discriminatoires.
-
-La possibilité d'utiliser ces capacités est garantie sous réserve qu'elle ne limite pas la possibilité pour tous les
-fournisseurs de disposer, jusqu'au dernier jour du mois de février de chaque année, des capacités de stockage au titre de
-leurs droits d'accès à des capacités de stockage définis à l'article R. 421-6.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-_Créé par_:
-
-  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-_Abrogé par_:
-
-  - Décret n°2018-276 du 18 avril 2018 - art. 5
-
-_Cité par_:
-
-  - Code de l'énergie - art. R421-4 (M)
-  - Code de l'énergie - art. R421-9 (Ab)
-
-_Cite_:
-
-  - Code de l'énergie - art. R421-6
-
-
-###### Article R421-20
-
-L'utilisation des capacités de stockage résultant de la modification d'installations existantes ou de la mise en service de
-nouvelles installations qui demeurent disponibles une fois satisfaits les besoins de stockage définis à l'article R. 421-3
-peut être autorisée, par dérogation aux règles d'accès aux stockages fixées notamment aux articles R. 421-3, R. 421-6, R.
-421-7, R. 421-9 et R. 421-11, dans les conditions prévues par la section 2 du présent chapitre.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-_Créé par_:
-
-  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-_Abrogé par_:
-
-  - Décret n°2018-276 du 18 avril 2018 - art. 5
-
-_Cite_:
-
-  - Code de l'énergie - art. R421-11 (Ab)
-  - Code de l'énergie - art. R421-3
-  - Code de l'énergie - art. R421-6
-  - Code de l'énergie - art. R421-9 (Ab)
-
-
-##### Sous-section 8 : Agents chargés du contrôle de l'accès aux stockages souterrains de gaz naturel<a id=600></a>
-
-###### Article R421-21
 
 Les fonctionnaires et agents mentionnés aux articles L. 135-3 et L. 142-21 sont chargés de procéder au contrôle du respect
 des dispositions de la présente section.
@@ -64345,27 +64099,27 @@ _Codifié par_:
 
   - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-**Liens**:
-
-  - TRANSFERE: Décret n°2018-276 du 18 avril 2018 - art. 5
+  - Décret n°2018-276 du 18 avril 2018 - art. 5
 
 _Cite_:
 
-  - Code de l'énergie - art. L135-3
-  - Code de l'énergie - art. L142-21
+  - Code de l'énergie - art. L135-3 (V)
+  - Code de l'énergie - art. L142-21 (V)
 
-_Nouveaux textes_:
+_Cité par_:
 
-  - Code de l'énergie - art. R421-15 (V)
+  - Code de l'énergie - art. R421-16 (M)
+  - Code de l'énergie - art. R421-17 (Ab)
+  - Code de l'énergie - art. R421-9 (Ab)
+
+_Anciens textes_:
+
+  - Code de l'énergie - art. R421-21 (T)
 
 
-##### Section 2 : Dérogations à l'accès aux stockages souterrains de gaz naturel<a id=601></a>
-
-###### Article R421-22
+###### Article R421-16
 
 Le ministre chargé de l'énergie peut, conformément à l'article L. 421-13, accorder à l'exploitant une dérogation à l'accès
 des tiers, en application des dispositions des articles R. 111-43 à R. 111-51.
@@ -64376,33 +64130,29 @@ _Codifié par_:
 
   - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-**Liens**:
-
-  - TRANSFERE: Décret n°2018-276 du 18 avril 2018 - art. 5
+  - Décret n°2018-276 du 18 avril 2018 - art. 5
 
 _Cite_:
 
-  - Code de l'énergie - art. L421-13
-  - Code de l'énergie - art. R111-43
+  - Code de l'énergie - art. L421-13 (V)
+  - Code de l'énergie - art. R111-43 (V)
 
-_Nouveaux textes_:
+_Anciens textes_:
 
-  - Code de l'énergie - art. R421-16 (V)
+  - Code de l'énergie - art. R421-22 (T)
 
 
-### TITRE III : LE TRANSPORT ET LA DISTRIBUTION<a id=602></a>
+### TITRE III : LE TRANSPORT ET LA DISTRIBUTION<a id=597></a>
 
-#### Section 1 : Régime de l'autorisation de transport<a id=603></a>
+#### Section 1 : Régime de l'autorisation de transport<a id=598></a>
 
-##### Chapitre Ier : Le transport<a id=604></a>
+##### Chapitre Ier : Le transport<a id=599></a>
 
-##### Section 1 : Régime de l'autorisation de transport<a id=605></a>
+##### Section 1 : Régime de l'autorisation de transport<a id=600></a>
 
-##### Sous-section 1 : Droits et obligations du titulaire de l'autorisation<a id=606></a>
+##### Sous-section 1 : Droits et obligations du titulaire de l'autorisation<a id=601></a>
 
 ###### Article R431-1
 
@@ -64503,7 +64253,7 @@ _Cité par_:
   - Code de l'énergie - art. R121-9 (V)
 
 
-##### Sous-section 2 : Sanctions<a id=607></a>
+##### Sous-section 2 : Sanctions<a id=602></a>
 
 ###### Article R431-3
 
@@ -64524,11 +64274,11 @@ _Cite_:
   - Code de l'énergie - art. L431-2 (V)
 
 
-##### Chapitre II : La distribution<a id=608></a>
+##### Chapitre II : La distribution<a id=603></a>
 
-##### Section 1 : L'organisation de la distribution gazière<a id=609></a>
+##### Section 1 : L'organisation de la distribution gazière<a id=604></a>
 
-##### Sous-section 1 : Agrément des distributeurs de gaz par réseaux publics<a id=610></a>
+##### Sous-section 1 : Agrément des distributeurs de gaz par réseaux publics<a id=605></a>
 
 ###### Article R432-1
 
@@ -64751,7 +64501,7 @@ _Créé par_:
   - Décret n°2015-1823 du 30 décembre 2015 - art.
 
 
-##### Sous-section 2 : Développement de la desserte gazière<a id=611></a>
+##### Sous-section 2 : Développement de la desserte gazière<a id=606></a>
 
 ###### Article R432-8
 
@@ -64889,11 +64639,28 @@ _Cite_:
   - Code de l'énergie - art. L432-12 (V)
 
 
-##### Chapitre III : Les ouvrages de transport et de distribution<a id=612></a>
+##### Section 2 : Les missions des gestionnaires de réseau de distribution<a id=607></a>
 
-##### Section 1 : L'occupation du domaine public ou la traversée des propriétés privées par les ouvrages de transport et de distribution<a id=613></a>
+###### Article R432-13
 
-##### Sous-section 1 : Déclaration d'utilité publique des ouvrages de gaz en vue de l'établissement de servitudes<a id=614></a>
+Les gestionnaires de réseaux de distribution rattachent tout client final raccordé à leur réseau à un profil de consommation,
+en fonction des caractéristiques de sa consommation. Ils communiquent à chaque fournisseur le profil de consommation de ses
+clients. Ce dernier fait connaître à ses clients qui le demandent le profil de consommation auquel ils se rattachent. Les
+gestionnaires de réseaux de distribution rendent publique la méthode d'attribution des profils de consommation aux clients
+finals.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2018-276 du 18 avril 2018 - art. 6
+
+
+##### Chapitre III : Les ouvrages de transport et de distribution<a id=608></a>
+
+##### Section 1 : L'occupation du domaine public ou la traversée des propriétés privées par les ouvrages de transport et de distribution<a id=609></a>
+
+##### Sous-section 1 : Déclaration d'utilité publique des ouvrages de gaz en vue de l'établissement de servitudes<a id=610></a>
 
 ###### Article R433-1
 
@@ -64989,7 +64756,7 @@ _Créé par_:
   - Décret n°2015-1823 du 30 décembre 2015 - art.
 
 
-##### Sous-section 2 : Etablissement des servitudes<a id=615></a>
+##### Sous-section 2 : Etablissement des servitudes<a id=611></a>
 
 ###### Article D433-11
 
@@ -65154,7 +64921,7 @@ _Créé par_:
   - Décret n°2017-1557 du 10 novembre 2017 - art. 6
 
 
-##### Sous-section 3 : Indemnités et frais<a id=616></a>
+##### Sous-section 3 : Indemnités et frais<a id=612></a>
 
 ###### Article R433-12
 
@@ -65194,9 +64961,9 @@ _Cité par_:
   - Code de l'énergie - art. R433-10 (V)
 
 
-##### Section 2 : Le contrôle de la construction et de l'exploitation des ouvrages de transport et de distribution<a id=617></a>
+##### Section 2 : Le contrôle de la construction et de l'exploitation des ouvrages de transport et de distribution<a id=613></a>
 
-##### Sous-section 1 : Les prescriptions techniques applicables<a id=618></a>
+##### Sous-section 1 : Les prescriptions techniques applicables<a id=614></a>
 
 ###### Article R433-1
 
@@ -65385,7 +65152,7 @@ _Cite_:
   - Code de l'énergie - art. R433-14 (V)
 
 
-##### Sous-section 2 : Les organismes de contrôle<a id=619></a>
+##### Sous-section 2 : Les organismes de contrôle<a id=615></a>
 
 ###### Article D433-23
 
@@ -65477,7 +65244,7 @@ _Créé par_:
   - Décret n°2015-1823 du 30 décembre 2015 - art.
 
 
-##### Sous-section 3 : Mesures de police administrative<a id=620></a>
+##### Sous-section 3 : Mesures de police administrative<a id=616></a>
 
 ###### Article D433-24
 
@@ -65539,9 +65306,9 @@ _Cite_:
   - Code de l'énergie - art. L433-19 (V)
 
 
-### TITRE IV : LA COMMERCIALISATION<a id=621></a>
+### TITRE IV : LA COMMERCIALISATION<a id=617></a>
 
-#### Chapitre Ier : Le choix du fournisseur<a id=622></a>
+#### Chapitre Ier : Le choix du fournisseur<a id=618></a>
 
 ###### Article R441-1
 
@@ -65568,9 +65335,9 @@ _Cite_:
   - Code de l'énergie - art. L441-1 (V)
 
 
-#### Chapitre III : Le régime de la fourniture<a id=623></a>
+#### Chapitre III : Le régime de la fourniture<a id=619></a>
 
-##### Section 1 : L'obligation d'une autorisation<a id=624></a>
+##### Section 1 : L'obligation d'une autorisation<a id=620></a>
 
 ###### Article R443-1
 
@@ -65805,10 +65572,22 @@ _Cite_:
 
 ###### Article R443-7
 
-Le titulaire d'une autorisation de fourniture communique au ministre chargé de l'énergie, chaque année avant le 1er mars ou
+Le titulaire d'une autorisation de fourniture communique au ministre chargé de l'énergie, chaque année avant le 1er mai ou
 sur la demande de ce dernier, les informations mentionnées à l'article L. 142-1, et, selon le cas, soit la mise à jour des
 éléments demandés aux 2° et 3° de l'article R. 443-2, soit les estimations de volumes mentionnées aux articles R. 443-3 et R.
-443-5. 
+443-5.
+
+Chaque fournisseur qui alimente des clients mentionnés à l’article R. 121-4 adresse au ministre chargé de l’énergie, au plus
+tard le 1er mai de chaque année, une déclaration établissant qu’il est en mesure d’assurer leur approvisionnement dans les
+conditions prévues au même article. Cette déclaration mentionne :
+
+1° La consommation annuelle de référence de l’ensemble de ses clients, telle que constatée au 1er avril et estimée au 31
+octobre ;
+
+2° La consommation de l’ensemble de ses clients en cas de contrainte de froid extrême, telle que constatée et estimée aux
+mêmes dates ;
+
+3° Des éléments permettant d’apprécier sa politique d’approvisionnement.
 
 Les fournisseurs autorisés sont tenus d'informer le ministre chargé de l'énergie de toute modification substantielle des
 conditions de leur activité. En particulier, ils doivent l'informer de la modification de la composition de leur actionnariat
@@ -65821,15 +65600,16 @@ _Codifié par_:
 
   - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2015-1823 du 30 décembre 2015 - art.
+  - Décret n°2018-276 du 18 avril 2018 - art. 7
 
 _Cite_:
 
-  - Code de l'énergie - art. L142-1 (V)
-  - Code de l'énergie - art. R443-2 (V)
-  - Code de l'énergie - art. R443-5 (V)
+  - Code de l'énergie - art. L142-1
+  - Code de l'énergie - art. R121-4
+  - Code de l'énergie - art. R443-2
+  - Code de l'énergie - art. R443-5
 
 
 ###### Article R443-8
@@ -65864,7 +65644,7 @@ _Créé par_:
   - Décret n°2015-1823 du 30 décembre 2015 - art.
 
 
-##### Section 2 : Contrôles et sanctions administratives<a id=625></a>
+##### Section 2 : Contrôles et sanctions administratives<a id=621></a>
 
 ###### Article R443-10
 
@@ -65963,9 +65743,9 @@ _Cite_:
   - Code de l'énergie - art. L142-31 (V)
 
 
-#### Chapitre V : Les tarifs<a id=626></a>
+#### Chapitre V : Les tarifs<a id=622></a>
 
-##### Section 1 : Tarifs réglementés de vente<a id=627></a>
+##### Section 1 : Tarifs réglementés de vente<a id=623></a>
 
 ###### Article R445-1
 
@@ -66205,9 +65985,9 @@ _Cite_:
   - Code de l'énergie - art. R445-1 (V)
 
 
-#### Chapitre VI : Les dispositions particulières relatives à la vente de biogaz<a id=628></a>
+#### Chapitre VI : Les dispositions particulières relatives à la vente de biogaz<a id=624></a>
 
-##### Section 1 : Conditions de vente du biométhane aux fournisseurs de gaz naturel<a id=629></a>
+##### Section 1 : Conditions de vente du biométhane aux fournisseurs de gaz naturel<a id=625></a>
 
 ###### Article R446-1
 
@@ -66284,7 +66064,7 @@ _Cite_:
   - Code de l'énergie - art. R446-1 (V)
 
 
-##### Section 2 : Les conditions de contractualisation entre producteurs de biométhane et fournisseurs de gaz naturel<a id=630></a>
+##### Section 2 : Les conditions de contractualisation entre producteurs de biométhane et fournisseurs de gaz naturel<a id=626></a>
 
 ###### Article D446-3
 
@@ -66785,7 +66565,7 @@ _Cite_:
   - Code de l'énergie - art. L142-21 (V)
 
 
-##### Section 3 : Les garanties d'origine du biométhane injecté dans les réseaux de gaz naturel<a id=631></a>
+##### Section 3 : Les garanties d'origine du biométhane injecté dans les réseaux de gaz naturel<a id=627></a>
 
 ###### Article D446-17
 
@@ -67109,9 +66889,9 @@ _Cité par_:
   - Code de l'énergie - art. D446-23 (V)
 
 
-### TITRE V : L'ACCÈS ET LE RACCORDEMENT AUX RÉSEAUX ET INSTALLATIONS<a id=632></a>
+### TITRE V : L'ACCÈS ET LE RACCORDEMENT AUX RÉSEAUX ET INSTALLATIONS<a id=628></a>
 
-#### Chapitre II : Les tarifs d'utilisation des réseaux de transport, de distribution de gaz naturel et les tarifs d'utilisation des installations de gaz naturel liquéfié<a id=633></a>
+#### Chapitre II : Les tarifs d'utilisation des réseaux de transport, de distribution de gaz naturel et les tarifs d'utilisation des installations de gaz naturel liquéfié<a id=629></a>
 
 ###### Article D452-1-1
 
@@ -67171,9 +66951,9 @@ _Cite_:
   - Code de l'énergie - art. R111-43 (V)
 
 
-#### Chapitre III : Le raccordement aux réseaux et installations<a id=634></a>
+#### Chapitre III : Le raccordement aux réseaux et installations<a id=630></a>
 
-##### Section 1 : Extensions des réseaux de distribution de gaz naturel<a id=635></a>
+##### Section 1 : Extensions des réseaux de distribution de gaz naturel<a id=631></a>
 
 ###### Article R453-1
 
@@ -67350,7 +67130,7 @@ _Cite_:
   - Code de l'énergie - art. R453-4 (V)
 
 
-##### Section 2 : Contenu du cahier des charges des concessions de distribution publique de gaz et du règlement de service des régies<a id=636></a>
+##### Section 2 : Contenu du cahier des charges des concessions de distribution publique de gaz et du règlement de service des régies<a id=632></a>
 
 ###### Article R453-7
 
@@ -67396,7 +67176,7 @@ _Cite_:
   - Code de l'énergie - art. R453-4 (V)
 
 
-##### Section 3 : Prescriptions techniques fixant les exigences techniques de conception et de fonctionnement<a id=637></a>
+##### Section 3 : Prescriptions techniques fixant les exigences techniques de conception et de fonctionnement<a id=633></a>
 
 ###### Article R453-8
 
@@ -67420,7 +67200,7 @@ _Cite_:
   - Code de l'énergie - art. R433-15 (V)
 
 
-##### Section 4 : Mise à disposition des données de comptage de consommation aux propriétaires ou gestionnaires d'immeubles<a id=638></a>
+##### Section 4 : Mise à disposition des données de comptage de consommation aux propriétaires ou gestionnaires d'immeubles<a id=634></a>
 
 ###### Article D453-9
 
@@ -67519,7 +67299,7 @@ _Créé par_:
   - Décret n°2016-447 du 12 avril 2016 - art. 2
 
 
-##### Section 5 : Mise à disposition des données de comptage aux consommateurs raccordés aux réseaux publics de distribution de gaz naturel<a id=639></a>
+##### Section 5 : Mise à disposition des données de comptage aux consommateurs raccordés aux réseaux publics de distribution de gaz naturel<a id=635></a>
 
 ###### Article D453-14
 
@@ -67622,9 +67402,9 @@ _Créé par_:
   - Décret n°2017-948 du 10 mai 2017 - art. 3
 
 
-### TITRE VI : LES CONSOMMATEURS GAZO-INTENSIFS<a id=640></a>
+### TITRE VI : LES CONSOMMATEURS GAZO-INTENSIFS<a id=636></a>
 
-#### Chapitre unique<a id=641></a>
+#### Chapitre unique<a id=637></a>
 
 ###### Article D461-1
 
@@ -68060,11 +67840,11 @@ _Cite_:
   - Code de l'énergie - art. L461-3
 
 
-## LIVRE V : LES DISPOSITIONS RELATIVES À L'UTILISATION DE L'ÉNERGIE HYDRAULIQUE<a id=642></a>
+## LIVRE V : LES DISPOSITIONS RELATIVES À L'UTILISATION DE L'ÉNERGIE HYDRAULIQUE<a id=638></a>
 
-### TITRE Ier : LES DISPOSITIONS COMMUNES AUX INSTALLATIONS HYDRAULIQUES AUTORISÉES OU CONCÉDÉES<a id=643></a>
+### TITRE Ier : LES DISPOSITIONS COMMUNES AUX INSTALLATIONS HYDRAULIQUES AUTORISÉES OU CONCÉDÉES<a id=639></a>
 
-#### Chapitre Ier : Les caractéristiques générales des régimes d'exploitation de l'énergie hydraulique<a id=644></a>
+#### Chapitre Ier : Les caractéristiques générales des régimes d'exploitation de l'énergie hydraulique<a id=640></a>
 
 ###### Article D511-1
 
@@ -68095,9 +67875,9 @@ _Cité par_:
   - Code de l'environnement - art. R212-37 (VD)
 
 
-### TITRE II : LES DISPOSITIONS RELATIVES AUX INSTALLATIONS HYDRAULIQUES CONCÉDÉES<a id=645></a>
+### TITRE II : LES DISPOSITIONS RELATIVES AUX INSTALLATIONS HYDRAULIQUES CONCÉDÉES<a id=641></a>
 
-#### Chapitre Ier : La procédure applicable aux concessions<a id=646></a>
+#### Chapitre Ier : La procédure applicable aux concessions<a id=642></a>
 
 ###### Article R521-1
 
@@ -68144,9 +67924,9 @@ _Cite_:
   - Code de l'énergie - art. R521-49 (V)
 
 
-##### Section 1 : L'octroi de la concession<a id=647></a>
+##### Section 1 : L'octroi de la concession<a id=643></a>
 
-##### Sous-section 1 : Lancement de la procédure<a id=648></a>
+##### Sous-section 1 : Lancement de la procédure<a id=644></a>
 
 ###### Article R521-2
 
@@ -68289,7 +68069,7 @@ _Cite_:
   - Code de l'énergie - art. R521-4
 
 
-##### Sous-section 2 : Sélection du candidat pressenti<a id=649></a>
+##### Sous-section 2 : Sélection du candidat pressenti<a id=645></a>
 
 ###### Article R521-6
 
@@ -68540,7 +68320,7 @@ _Cité par_:
   - Code de l'énergie - art. R521-24 (V)
 
 
-##### Sous-section 3 : Instruction de la demande du concessionnaire pressenti<a id=650></a>
+##### Sous-section 3 : Instruction de la demande du concessionnaire pressenti<a id=646></a>
 
 ###### Article R521-12
 
@@ -68951,7 +68731,7 @@ _Cite_:
   - Code de l'énergie - art. R521-11 (V)
 
 
-##### Sous-section 4 : Octroi de la concession et déclaration d'utilité publique<a id=651></a>
+##### Sous-section 4 : Octroi de la concession et déclaration d'utilité publique<a id=647></a>
 
 ###### Article R521-25
 
@@ -69067,7 +68847,7 @@ _Cité par_:
   - Code de l'énergie - art. R524-4 (V)
 
 
-##### Sous-section 5 : Règlement d'eau<a id=652></a>
+##### Sous-section 5 : Règlement d'eau<a id=648></a>
 
 ###### Article R521-28
 
@@ -69185,7 +68965,7 @@ _Cité par_:
   - Code de l'énergie - art. R521-31 (M)
 
 
-##### Sous-section 6 : Approbation des projets d'exécution, autorisation et récolement des travaux d'établissement de la concession<a id=653></a>
+##### Sous-section 6 : Approbation des projets d'exécution, autorisation et récolement des travaux d'établissement de la concession<a id=649></a>
 
 ###### Article R521-31
 
@@ -69390,7 +69170,7 @@ _Cite_:
   - Code de l'énergie - art. R521-25
 
 
-##### Sous-section 7 : Approbation des autres travaux<a id=654></a>
+##### Sous-section 7 : Approbation des autres travaux<a id=650></a>
 
 ###### Article R521-40
 
@@ -69505,7 +69285,7 @@ _Cite_:
   - Code de l'environnement - art. L211-1
 
 
-##### Sous-section 8 : Dispositions relatives à la sécurité et à la sûreté des ouvrages hydrauliques concédés<a id=655></a>
+##### Sous-section 8 : Dispositions relatives à la sécurité et à la sûreté des ouvrages hydrauliques concédés<a id=651></a>
 
 ###### Article R521-43
 
@@ -69631,7 +69411,7 @@ _Cite_:
   - Code de l'énergie - art. R521-44 (V)
 
 
-##### Sous-section 9 : Dispositions diverses<a id=656></a>
+##### Sous-section 9 : Dispositions diverses<a id=652></a>
 
 ###### Article R521-47
 
@@ -69671,7 +69451,7 @@ _Cité par_:
   - Code de l'énergie - art. R524-4 (V)
 
 
-##### Section 2 : Le cahier des charges de la concession<a id=657></a>
+##### Section 2 : Le cahier des charges de la concession<a id=653></a>
 
 ###### Article R521-49
 
@@ -69704,7 +69484,7 @@ _Cité par_:
   - Code de l'énergie - art. R521-1 (V)
 
 
-##### Section 3 : L'occupation ou la traversée des propriétés privées<a id=658></a>
+##### Section 3 : L'occupation ou la traversée des propriétés privées<a id=654></a>
 
 ###### Article R521-50
 
@@ -69747,9 +69527,9 @@ _Cite_:
   - Code de l'énergie - art. L521-11
 
 
-##### Section 4 :  Les dispositions particulières à la fin de la concession et à son renouvellement<a id=659></a>
+##### Section 4 :  Les dispositions particulières à la fin de la concession et à son renouvellement<a id=655></a>
 
-##### Sous-section 1 : Décision d'arrêt ou de poursuite de l'exploitation<a id=660></a>
+##### Sous-section 1 : Décision d'arrêt ou de poursuite de l'exploitation<a id=656></a>
 
 ###### Article R521-52
 
@@ -69835,7 +69615,7 @@ _Cite_:
   - Code de l'énergie - art. L521-16
 
 
-##### Sous-section 2 : Fin de la concession<a id=661></a>
+##### Sous-section 2 : Fin de la concession<a id=657></a>
 
 ###### Article R521-54
 
@@ -70001,7 +69781,7 @@ _Cite_:
   - Code de l'énergie - art. L521-16
 
 
-##### Sous-section 3 : Dispositions spécifiques au renouvellement de concession<a id=662></a>
+##### Sous-section 3 : Dispositions spécifiques au renouvellement de concession<a id=658></a>
 
 ###### Article R521-58
 
@@ -70082,7 +69862,7 @@ _Cité par_:
   - Code de l'énergie - art. R521-8 (VD)
 
 
-##### Sous-section 4 : Regroupement de concessions<a id=663></a>
+##### Sous-section 4 : Regroupement de concessions<a id=659></a>
 
 ###### Article R521-60
 
@@ -70346,7 +70126,7 @@ _Cité par_:
   - Code de l'énergie - art. R521-8 (M)
 
 
-##### Sous-section 5 : Prorogation des concessions<a id=664></a>
+##### Sous-section 5 : Prorogation des concessions<a id=660></a>
 
 ###### Article R521-66
 
@@ -70375,7 +70155,7 @@ _Modifié par_:
   - Décret n°2016-530 du 27 avril 2016 - art. 1
 
 
-##### Section 5 : Les sociétés d'économie mixte hydroélectriques<a id=665></a>
+##### Section 5 : Les sociétés d'économie mixte hydroélectriques<a id=661></a>
 
 ###### Article R521-67
 
@@ -70545,7 +70325,7 @@ _Cite_:
   - Code de l'énergie - art. R521-25
 
 
-#### Chapitre II : Les reserves en énergie<a id=666></a>
+#### Chapitre II : Les reserves en énergie<a id=662></a>
 
 ###### Article D522-5
 
@@ -70691,7 +70471,7 @@ _Créé par_:
   - Décret n°2015-1823 du 30 décembre 2015 - art.
 
 
-#### Chapitre III : Les redevances proportionnelles<a id=667></a>
+#### Chapitre III : Les redevances proportionnelles<a id=663></a>
 
 ###### Article R523-1
 
@@ -70811,7 +70591,7 @@ _Cite_:
   - Code de l'énergie - art. L523-2
 
 
-#### Chapitre IV :  L'information des collectivités territoriales et des habitants riverains sur l'exécution de la concession et leur participation à la gestion des usages de l'eau<a id=668></a>
+#### Chapitre IV :  L'information des collectivités territoriales et des habitants riverains sur l'exécution de la concession et leur participation à la gestion des usages de l'eau<a id=664></a>
 
 ###### Article R524-1
 
@@ -70983,11 +70763,11 @@ _Cite_:
   - Code de l'énergie - art. R524-4
 
 
-## LIVRE VI : LES DISPOSITIONS RELATIVES AU PÉTROLE, AUX BIOCARBURANTS ET BIOLIQUIDES<a id=669></a>
+## LIVRE VI : LES DISPOSITIONS RELATIVES AU PÉTROLE, AUX BIOCARBURANTS ET BIOLIQUIDES<a id=665></a>
 
-### TITRE III : LE TRANSPORT<a id=670></a>
+### TITRE III : LE TRANSPORT<a id=666></a>
 
-#### Chapitre Ier : Le transport par navire<a id=671></a>
+#### Chapitre Ier : Le transport par navire<a id=667></a>
 
 ###### Article D631-1
 
@@ -71284,7 +71064,7 @@ _Cite_:
   - Code de l'énergie - art. L631-1
 
 
-#### Chapitre II : Le transport par canalisation<a id=672></a>
+#### Chapitre II : Le transport par canalisation<a id=668></a>
 
 ###### Article R632-1
 
@@ -71370,11 +71150,11 @@ _Créé par_:
   - Décret n°2015-1823 du 30 décembre 2015 - art.
 
 
-### TITRE IV : LE RAFFINAGE ET LE STOCKAGE<a id=673></a>
+### TITRE IV : LE RAFFINAGE ET LE STOCKAGE<a id=669></a>
 
-#### Chapitre Ier : Le raffinage et les produits pétroliers<a id=674></a>
+#### Chapitre Ier : Le raffinage et les produits pétroliers<a id=670></a>
 
-##### Section 1 : Dispositions applicables au raffinage<a id=675></a>
+##### Section 1 : Dispositions applicables au raffinage<a id=671></a>
 
 ###### Article R641-1
 
@@ -71447,7 +71227,7 @@ _Cite_:
   - Code de l'énergie - art. L641-3 (V)
 
 
-##### Section 2 : Dispositions applicables aux produits pétroliers et aux carburants renouvelables<a id=676></a>
+##### Section 2 : Dispositions applicables aux produits pétroliers et aux carburants renouvelables<a id=672></a>
 
 ###### Article D641-4
 
@@ -71886,9 +71666,9 @@ _Cite_:
   - Code de l'énergie - art. D641-11 (V)
 
 
-#### Chapitre II : Le stockage<a id=677></a>
+#### Chapitre II : Le stockage<a id=673></a>
 
-##### Section 1 : Le Comité professionnel des stocks stratégiques pétroliers<a id=678></a>
+##### Section 1 : Le Comité professionnel des stocks stratégiques pétroliers<a id=674></a>
 
 ###### Article R642-1
 
@@ -72171,7 +71951,7 @@ _Cite_:
   - Code de l'énergie - art. R642-9 (V)
 
 
-##### Section 2 : Dispositions diverses<a id=679></a>
+##### Section 2 : Dispositions diverses<a id=675></a>
 
 ###### Article D642-11
 
@@ -72193,9 +71973,9 @@ _Cite_:
   - Code de l'énergie - art. L642-10 (V)
 
 
-### TITRE VI : LES BIOCARBURANTS ET BIOLIQUIDES<a id=680></a>
+### TITRE VI : LES BIOCARBURANTS ET BIOLIQUIDES<a id=676></a>
 
-#### Chapitre unique<a id=681></a>
+#### Chapitre unique<a id=677></a>
 
 ###### Article D661-2
 
@@ -72567,13 +72347,13 @@ _Créé par_:
   - Décret n°2015-1823 du 30 décembre 2015 - art.
 
 
-### TITRE VII : LES DISPOSITIONS PARTICULIÈRES À L'OUTRE-MER<a id=682></a>
+### TITRE VII : LES DISPOSITIONS PARTICULIÈRES À L'OUTRE-MER<a id=678></a>
 
-#### Chapitre unique<a id=683></a>
+#### Chapitre unique<a id=679></a>
 
-##### Section 1 : Dispositions relatives au département de la Guadeloupe et aux collectivités territoriales de la Guyane et de la Martinique<a id=684></a>
+##### Section 1 : Dispositions relatives au département de la Guadeloupe et aux collectivités territoriales de la Guyane et de la Martinique<a id=680></a>
 
-##### Sous-section 1 : Dispositions générales<a id=685></a>
+##### Sous-section 1 : Dispositions générales<a id=681></a>
 
 ###### Article R671-1
 
@@ -72593,7 +72373,7 @@ _Créé par_:
   - Décret n°2015-1823 du 30 décembre 2015 - art.
 
 
-##### Sous-section 2 : Dispositions relatives aux prix des produits pétroliers autres que le gaz de pétrole liquéfié<a id=686></a>
+##### Sous-section 2 : Dispositions relatives aux prix des produits pétroliers autres que le gaz de pétrole liquéfié<a id=682></a>
 
 ###### Article R671-2
 
@@ -72781,7 +72561,7 @@ _Cite_:
   - Code de l'énergie - art. R671-2 (V)
 
 
-##### Sous-section 3 : Dispositions relatives aux prix du gaz de pétrole liquéfié<a id=687></a>
+##### Sous-section 3 : Dispositions relatives aux prix du gaz de pétrole liquéfié<a id=683></a>
 
 ###### Article R671-6
 
@@ -72920,7 +72700,7 @@ _Cite_:
   - Code de l'énergie - art. R671-7 (V)
 
 
-##### Sous-section 4 : Dispositions relatives aux activités de stockage de produits pétroliers<a id=688></a>
+##### Sous-section 4 : Dispositions relatives aux activités de stockage de produits pétroliers<a id=684></a>
 
 ###### Article R671-11
 
@@ -72969,7 +72749,7 @@ _Cite_:
   - Code de l'énergie - art. R671-6 (V)
 
 
-##### Sous-section 5 : Dispositions relatives à l'information du public<a id=689></a>
+##### Sous-section 5 : Dispositions relatives à l'information du public<a id=685></a>
 
 ###### Article R671-13
 
@@ -73009,9 +72789,9 @@ _Cité par_:
   - Code de l'énergie - art. R671-31 (V)
 
 
-##### Section 2 : Dispositions relatives au département de La Réunion<a id=690></a>
+##### Section 2 : Dispositions relatives au département de La Réunion<a id=686></a>
 
-##### Sous-section 1 : Dispositions générales<a id=691></a>
+##### Sous-section 1 : Dispositions générales<a id=687></a>
 
 ###### Article R671-14
 
@@ -73030,7 +72810,7 @@ _Créé par_:
   - Décret n°2015-1823 du 30 décembre 2015 - art.
 
 
-##### Sous-section 2 : Dispositions relatives aux prix des produits pétroliers<a id=692></a>
+##### Sous-section 2 : Dispositions relatives aux prix des produits pétroliers<a id=688></a>
 
 ###### Article R671-15
 
@@ -73142,7 +72922,7 @@ _Cite_:
   - Code de l'énergie - art. R671-15 (V)
 
 
-##### Sous-section 3 : Dispositions relatives à la distribution des produits pétroliers<a id=693></a>
+##### Sous-section 3 : Dispositions relatives à la distribution des produits pétroliers<a id=689></a>
 
 ###### Article R671-18
 
@@ -73206,7 +72986,7 @@ _Cite_:
   - Code de l'énergie - art. R671-18 (V)
 
 
-##### Sous-section 4 : Dispositions relatives aux activités de stockage de produits pétroliers<a id=694></a>
+##### Sous-section 4 : Dispositions relatives aux activités de stockage de produits pétroliers<a id=690></a>
 
 ###### Article R671-20
 
@@ -73253,7 +73033,7 @@ _Cite_:
   - Code de l'énergie - art. R671-15 (V)
 
 
-##### Sous-section 5 : Dispositions relatives à l'information du public<a id=695></a>
+##### Sous-section 5 : Dispositions relatives à l'information du public<a id=691></a>
 
 ###### Article R671-22
 
@@ -73289,9 +73069,9 @@ _Cite_:
   - Code de l'énergie - art. R671-13 (V)
 
 
-##### Section 3 : Dispositions relatives au Département de Mayotte<a id=696></a>
+##### Section 3 : Dispositions relatives au Département de Mayotte<a id=692></a>
 
-##### Sous-section 1 : Dispositions générales<a id=697></a>
+##### Sous-section 1 : Dispositions générales<a id=693></a>
 
 ###### Article R671-23
 
@@ -73314,7 +73094,7 @@ _Cité par_:
   - Code de l'énergie - art. R671-27 (V)
 
 
-##### Sous-section 2 : Dispositions relatives aux prix des produits pétroliers<a id=698></a>
+##### Sous-section 2 : Dispositions relatives aux prix des produits pétroliers<a id=694></a>
 
 ###### Article R671-24
 
@@ -73423,7 +73203,7 @@ _Cite_:
   - Code de l'énergie - art. R671-24 (V)
 
 
-##### Sous-section 3 : Dispositions relatives à la distribution des produits pétroliers<a id=699></a>
+##### Sous-section 3 : Dispositions relatives à la distribution des produits pétroliers<a id=695></a>
 
 ###### Article R671-27
 
@@ -73488,7 +73268,7 @@ _Cite_:
   - Code de l'énergie - art. R671-27 (V)
 
 
-##### Sous-section 4 : Dispositions relatives aux activités de stockage de produits pétroliers<a id=700></a>
+##### Sous-section 4 : Dispositions relatives aux activités de stockage de produits pétroliers<a id=696></a>
 
 ###### Article R671-29
 
@@ -73535,7 +73315,7 @@ _Cite_:
   - Code de l'énergie - art. R671-24 (V)
 
 
-##### Sous-section 5 : Dispositions relatives à l'information du public<a id=701></a>
+##### Sous-section 5 : Dispositions relatives à l'information du public<a id=697></a>
 
 ###### Article R671-31
 
@@ -73570,11 +73350,11 @@ _Cite_:
   - Code de l'énergie - art. R671-13 (V)
 
 
-## LIVRE VII : LES DISPOSITIONS RELATIVES AUX RÉSEAUX DE CHALEUR ET DE FROID<a id=702></a>
+## LIVRE VII : LES DISPOSITIONS RELATIVES AUX RÉSEAUX DE CHALEUR ET DE FROID<a id=698></a>
 
-### TITRE Ier : LA PRODUCTION DE CHALEUR ET LE CLASSEMENT DES RÉSEAUX DE CHALEUR ET DE FROID<a id=703></a>
+### TITRE Ier : LA PRODUCTION DE CHALEUR ET LE CLASSEMENT DES RÉSEAUX DE CHALEUR ET DE FROID<a id=699></a>
 
-#### Chapitre Ier : La production de chaleur<a id=704></a>
+#### Chapitre Ier : La production de chaleur<a id=700></a>
 
 ###### Article R711-1
 
@@ -73686,9 +73466,9 @@ _Cite_:
   - Code de l'énergie - art. L711-3 (V)
 
 
-#### Chapitre II : Le classement des reseaux de chaleur et de froid<a id=705></a>
+#### Chapitre II : Le classement des reseaux de chaleur et de froid<a id=701></a>
 
-##### Section 1 : Principes et modalités de classement des réseaux de chaleur et de froid<a id=706></a>
+##### Section 1 : Principes et modalités de classement des réseaux de chaleur et de froid<a id=702></a>
 
 ###### Article R712-1
 
@@ -73867,7 +73647,7 @@ _Cité par_:
   - Code de l'énergie - art. R712-10 (V)
 
 
-##### Section 2 : Effets du classement d'un réseau de chaleur ou de froid<a id=707></a>
+##### Section 2 : Effets du classement d'un réseau de chaleur ou de froid<a id=703></a>
 
 ###### Article R712-6
 
@@ -73982,7 +73762,7 @@ _Cite_:
   - Code de l'énergie - art. L712-3 (V)
 
 
-##### Section 3 : Abrogation de la décision de classement<a id=708></a>
+##### Section 3 : Abrogation de la décision de classement<a id=704></a>
 
 ###### Article R712-10
 
@@ -74010,7 +73790,7 @@ _Cite_:
   - Code de l'énergie - art. R712-5 (V)
 
 
-##### Section 4 : Information du public<a id=709></a>
+##### Section 4 : Information du public<a id=705></a>
 
 ###### Article L712-11
 
@@ -74040,7 +73820,7 @@ _Cite_:
   - Code général des collectivités territoriales - art. L1413-1 (M)
 
 
-##### Section 5 : Constatation des infractions<a id=710></a>
+##### Section 5 : Constatation des infractions<a id=706></a>
 
 ###### Article R712-12
 
@@ -74062,11 +73842,11 @@ _Cite_:
   - Code de l'énergie - art. L712-4 (V)
 
 
-### TITRE II : LE PASSAGE DES CANALISATIONS DE TRANSPORT ET DE DISTRIBUTION DE CHALEUR ET DE FROID<a id=711></a>
+### TITRE II : LE PASSAGE DES CANALISATIONS DE TRANSPORT ET DE DISTRIBUTION DE CHALEUR ET DE FROID<a id=707></a>
 
-#### Chapitre unique<a id=712></a>
+#### Chapitre unique<a id=708></a>
 
-##### Section 1 : Procédure régissant la déclaration d'intérêt général des canalisations de transport de distribution de chaleur<a id=713></a>
+##### Section 1 : Procédure régissant la déclaration d'intérêt général des canalisations de transport de distribution de chaleur<a id=709></a>
 
 ###### Article R721-1
 
@@ -74209,7 +73989,7 @@ _Créé par_:
   - Décret n°2015-1823 du 30 décembre 2015 - art.
 
 
-##### Section 2 : Les servitudes<a id=714></a>
+##### Section 2 : Les servitudes<a id=710></a>
 
 ###### Article D721-13
 
@@ -74359,7 +74139,7 @@ _Créé par_:
   - Décret n°2015-1823 du 30 décembre 2015 - art.
 
 
-##### Section 3 : Construction, mise en service, exploitation et contrôle<a id=715></a>
+##### Section 3 : Construction, mise en service, exploitation et contrôle<a id=711></a>
 
 ###### Article R721-14
 
