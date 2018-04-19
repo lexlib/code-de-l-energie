@@ -1,5 +1,5 @@
 # Code de l'énergie  
-Version Consolidée au 2018-04-20
+Version Consolidée au 2018-04-20 00:00:01 +0200
 ## Contenu: 
   - [Partie législative (art. L100-1 à L731-1)](#1)
     - [LIVRE IER : L'ORGANISATION GENERALE  DU SECTEUR DE L'ENERGIE (art. L100-1 à L161-6)](#2)
@@ -598,8 +598,8 @@ relatives à la vente de biogaz (art. L446-1 à L446-5)](#243)
       - [TITRE II : LE STOCKAGE (art. R421-1 à R421-16)](#589)
         - [Chapitre unique (art. R421-1 à R421-16)](#590)
           - [Section 1 : L'accès aux stockages souterrains de gaz naturel (art. R421-1 à R421-16)](#591)
-            - [Sous-section 1 : Principes généraux d'utilisation des stockages (art. R421-1 à R421-5)](#592)
-            - [Sous-section 2 : Constitution des stocks complémentaires mentionnés à l'article L. 421-6 (art. D421-7 à R421-6)](#593)
+            - [Sous-section 1 : Principes généraux d'utilisation des stockages (art. R421-1 à R421-6)](#592)
+            - [Sous-section 2 : Constitution des stocks complémentaires mentionnés à l'article L. 421-6 (art. D421-7 à D421-13)](#593)
             - [Sous-section 3 : Dispositions applicables aux infrastructures de stockage non mentionnées à l’article L. 421-3-1 (art. R421-14)](#594)
             - [Sous-section 4 : Agents chargés du contrôle de l’accès aux stockages souterrains de gaz naturel (art. R421-15 à R421-16)](#595)
       - [TITRE III : LE TRANSPORT ET LA DISTRIBUTION (art. R431-1 à R433-26)](#596)
@@ -62518,6 +62518,41 @@ _Modifié par_:
   - Décret n°2018-276 du 18 avril 2018 - art. 3
 
 
+###### Article R421-6
+
+L’autorité administrative mentionnée aux articles L. 421-9, L. 421-11, L. 421-13 et L. 421-14 est le ministre chargé de
+l’énergie.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2015-1823 du 30 décembre 2015 - art.
+
+_Cité par_:
+
+  - Arrêté du 4 février 2016 (V)
+  - Arrêté du 4 février 2016 - art. 2
+  - Arrêté du 27 janvier 2017 (V)
+  - Arrêté du 27 janvier 2017 - art. 2
+  - Code de l'énergie - art. R421-15 (M)
+  - Code de l'énergie - art. R421-19 (Ab)
+  - Code de l'énergie - art. R421-20 (Ab)
+  - Code de l'énergie - art. R421-3 (M)
+  - Code de l'énergie - art. R421-9 (Ab)
+
+_Modifié par_:
+
+  - Décret n°2018-221 du 30 mars 2018 - art. 1
+
+_Cite_:
+
+  - Code de l'énergie - art. L421-11
+  - Code de l'énergie - art. L421-13
+  - Code de l'énergie - art. L421-14 (V)
+  - Code de l'énergie - art. L421-9
+
+
 ##### Sous-section 2 : Constitution des stocks complémentaires mentionnés à l'article L. 421-6<a id=593></a>
 
 ###### Article D421-7
@@ -62754,40 +62789,6 @@ _Cite_:
   - Code de l'énergie - art. D421-12 (V)
   - Code de l'énergie - art. L421-3-1 (V)
   - Code de l'énergie - art. L421-5-1 (V)
-
-
-###### Article R421-6
-
-L ’ autorité administrative mentionnée aux articles L. 421-9, L. 421-11, L. 421-13 et L. 421-14 est le ministre chargé de l ’
-énergie.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-_Cité par_:
-
-  - Arrêté du 4 février 2016 (V)
-  - Arrêté du 4 février 2016 - art. 2
-  - Arrêté du 27 janvier 2017 (V)
-  - Arrêté du 27 janvier 2017 - art. 2
-  - Code de l'énergie - art. R421-15 (M)
-  - Code de l'énergie - art. R421-19 (Ab)
-  - Code de l'énergie - art. R421-20 (Ab)
-  - Code de l'énergie - art. R421-3 (M)
-  - Code de l'énergie - art. R421-9 (Ab)
-
-_Modifié par_:
-
-  - Décret n°2018-276 du 18 avril 2018 - art. 3
-
-_Cite_:
-
-  - Code de l'énergie - art. L421-11
-  - Code de l'énergie - art. L421-13
-  - Code de l'énergie - art. L421-9
 
 
 ##### Sous-section 3 : Dispositions applicables aux infrastructures de stockage non mentionnées à l’article L. 421-3-1<a id=594></a>
