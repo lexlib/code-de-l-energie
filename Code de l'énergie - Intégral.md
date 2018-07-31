@@ -1,5 +1,5 @@
 # Code de l'énergie  
-Version Consolidée au 2018-07-01
+Version Consolidée au 2018-08-01
 ## Contenu: 
   - [Partie législative (art. L100-1 à L731-1)](#1)
     - [LIVRE IER : L'ORGANISATION GENERALE  DU SECTEUR DE L'ENERGIE (art. L100-1 à L161-6)](#2)
@@ -13784,16 +13784,16 @@ Les personnes morales immatriculées au registre du commerce et des sociétés a
 mentionnées à l'article L. 612-1 du code de commerce dont le total du bilan, le chiffre d'affaires ou les effectifs excèdent
 des seuils fixés par décret en Conseil d'Etat sont tenues de réaliser, tous les quatre ans, un audit énergétique satisfaisant
 à des critères définis par voie réglementaire, établi de manière indépendante par des auditeurs reconnus compétents, des
-activités exercées par elles en France. 
+activités exercées par elles en France.
 
 Les personnes morales nouvellement tenues à l'obligation mentionnée au premier alinéa réalisent leur premier audit
 énergétique dans un délai de six mois.
 
 Les personnes morales mentionnées au premier alinéa transmettent par voie électronique à l'autorité administrative les
-informations relatives à la mise en œuvre de cette obligation dans un délai de deux mois suivant la réalisation de l'audit. 
+informations relatives à la mise en œuvre de cette obligation dans un délai de deux mois suivant la réalisation de l'audit.
 
-Les données transmises par ces personnes restent leur propriété et sont couvertes par le secret en matière commerciale et
-industrielle. Elles sont exploitées par l'autorité administrative à des fins d'études statistiques. 
+Les données transmises par ces personnes restent leur propriété et sont couvertes par le secret des affaires. Elles sont
+exploitées par l'autorité administrative à des fins d'études statistiques.
 
 Un arrêté du ministre chargé de l'énergie détermine les données à renseigner sur la plate-forme informatique mise en place
 pour assurer cette transmission et, en fonction des catégories d'utilisateurs, les restrictions d'accès nécessaires à la
@@ -13821,7 +13821,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2015-1737 du 24 décembre 2015 - art. 2
+  - Loi n°2018-670 du 30 juillet 2018 - art. 4
 
 _Cite_:
 
