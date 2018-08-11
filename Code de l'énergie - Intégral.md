@@ -1,5 +1,5 @@
 # Code de l'énergie  
-Version Consolidée au 2018-08-06
+Version Consolidée au 2018-08-12
 ## Contenu: 
   - [Partie législative (art. L100-1 à L731-1)](#1)
     - [LIVRE IER : L'ORGANISATION GENERALE  DU SECTEUR DE L'ENERGIE (art. L100-1 à L161-6)](#2)
@@ -15610,7 +15610,18 @@ Par dérogation au premier alinéa du présent article, sans préjudice de la su
 établis et que l'autorité administrative a mis en demeure l'exploitant d'y mettre fin, ils peuvent faire l'objet d'une
 sanction pécuniaire dans le respect de la procédure et des garanties prévues aux articles L. 142-30 et L. 142-33 à L. 142-36.
 Cette sanction est déterminée en fonction de la puissance électrique maximale installée de l'installation et ne peut excéder
-un plafond de 100 000 € par mégawatt.
+un plafond de 100 000 € par mégawatt. 
+
+Tout manquement aux articles L. 314-1 à L. 314-13, L. 314-18 à L. 314-27, L. 311-10 à L. 311-13-6, aux dispositions
+réglementaires prises en application de ces articles ou aux prescriptions prévues par le cahier des charges d'une procédure
+de mise en concurrence mentionnée à l'article L. 311-10 par les producteurs ayant fait une demande de contrat en application
+des articles L. 314-1 à L. 314-13 ou L. 314-18 à L. 314-27 ou par le lauréat désigné à l'issue de cette procédure peut donner
+lieu à une sanction pécuniaire, dans le respect de la procédure et des garanties prévues au paragraphe 2 de la sous-section 3
+de la section 2 du chapitre II du titre IV du livre Ier du présent code. La sanction est déterminée en fonction de la
+puissance électrique prévue de l'installation et de façon proportionnée à la gravité du manquement, dans la limite d'un
+plafond de 500 € par kilowatt. Le cahier des charges de la procédure de mise en concurrence peut fixer le barème des
+sanctions pécuniaires spécifiques à l'installation, dans la limite de ce plafond. Les modalités d'application du présent
+alinéa sont fixées par décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
@@ -15632,14 +15643,17 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2015-992 du 17 août 2015 - art. 107
+  - Loi n°2018-727 du 10 août 2018 - art. 58 (V)
 
 _Cite_:
 
-  - Code de l'énergie - art. L142-30 (V)
+  - Code de l'énergie - art. L142-30
   - Code de l'énergie - art. L142-31
-  - Code de l'énergie - art. L142-33 (V)
-  - Code de l'énergie - art. L311-14 (V)
+  - Code de l'énergie - art. L142-33
+  - Code de l'énergie - art. L311-10
+  - Code de l'énergie - art. L311-14
+  - Code de l'énergie - art. L314-1
+  - Code de l'énergie - art. L314-18
 
 
 ###### Article L311-16
@@ -18949,11 +18963,11 @@ dans chaque commune et ne peut avoir lieu qu'après approbation du projet de dé
 Des décrets en Conseil d'Etat déterminent :
 
 1° Les formes de l'instruction des projets de construction des ouvrages de transport et de distribution d'électricité. En
-outre, les ouvrages dont la tension maximale est supérieure à 50 kilovolts ainsi que les ouvrages privés qui empruntent le
-domaine public font l'objet d'une approbation par l'autorité administrative ; 
+outre, la construction de lignes électriques aériennes dont la tension est supérieure à 50 kilovolts fait l'objet d'une
+approbation par l'autorité administrative ;
 
-2° L'organisation du contrôle de la construction et de l'exploitation de ces ouvrages, les frais du contrôle étant à la
-charge du concessionnaire ;
+2° L'organisation du contrôle de la construction et de l'exploitation des ouvrages acheminant de l'électricité sur le domaine
+public ou présentant des risques pour les tiers, les frais du contrôle étant à la charge du concessionnaire ou exploitant ;
 
 3° Les mesures relatives à la police et à la sécurité de l'exploitation du transport et de la distribution d'électricité.
 
@@ -18986,7 +19000,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2014-1 du 2 janvier 2014 - art. 20
+  - Loi n°2018-727 du 10 août 2018 - art. 59
 
 
 ###### Article L323-12
@@ -21312,10 +21326,13 @@ _Cite_:
 
 ###### Article L342-2
 
-Lorsque le raccordement est destiné à desservir une installation de production, le producteur peut, sous réserve de l'accord
-du maître d'ouvrage mentionné à l'article L. 342-7 ou à l'article L. 342-8, exécuter à ses frais exclusifs les travaux de
-raccordement par des entreprises agréées par le maître d'ouvrage selon les dispositions d'un cahier des charges établi par le
-maître d'ouvrage.
+Le producteur, ou le consommateur, peut faire exécuter, à ses frais et sous sa responsabilité, les travaux de raccordement
+sur les ouvrages dédiés à son installation par des entreprises agréées par le maître d'ouvrage mentionné à l'article L. 342-7
+ou à l'article L. 342-8 et selon les dispositions d'un cahier des charges établi par ce maître d'ouvrage sur la base de
+modèles publiés par ce dernier. La mise en service de l'ouvrage est conditionnée à sa réception par le maître d'ouvrage. 
+
+Les modalités d'application du présent article sont fixées par décret pris après avis de la Commission de régulation de
+l'énergie.
 
 **Liens relatifs à cet article**
 
@@ -21327,14 +21344,14 @@ _Codifié par_:
 
   - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
+  - Loi n°2018-727 du 10 août 2018 - art. 59
 
 _Cite_:
 
-  - Code de l'énergie - art. L342-7 (V)
-  - Code de l'énergie - art. L342-8 (V)
+  - Code de l'énergie - art. L342-7
+  - Code de l'énergie - art. L342-8
 
 
 ###### Article L342-3
