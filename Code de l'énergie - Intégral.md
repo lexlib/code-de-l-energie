@@ -1,5 +1,5 @@
 # Code de l'énergie  
-Version Consolidée au 2018-11-02
+Version Consolidée au 2018-11-18
 ## Contenu: 
   - [Partie législative (art. L100-1 à L731-1)](#1)
     - [LIVRE IER : L'ORGANISATION GENERALE  DU SECTEUR DE L'ENERGIE (art. L100-1 à L161-6)](#2)
@@ -537,201 +537,208 @@ relatives à la vente de biogaz (art. L446-1 à L446-5)](#244)
           - [Section 1 : Autorisation d'exercer l'activité d'achat d'électricité pour revente (art. R333-1 à R333-9)](#528)
           - [Section 2 : Obligations des fournisseurs en matière d'information des consommateurs d'électricité (art. R333-10 à R333-15)](#529)
           - [Section 3 : Application dans les zones non interconnectées (art. R333-16)](#530)
-        - [Chapitre V : La contribution des fournisseurs à la sécurité d'approvisionnement en électricité (art. R335-1 à D335-54)](#531)
+        - [Chapitre V : La contribution des fournisseurs à la sécurité d'approvisionnement en électricité (art. R335-1 à R335-2)](#531)
           - [Section 1 : Définitions (art. R335-1 à R335-2)](#532)
-          - [Section 2 : Obligations de capacité des fournisseurs d'électricité (art. R335-3 à R335-12)](#533)
-            - [Sous-section 1 : Calcul de la puissance de référence (art. R335-4 à R335-7)](#534)
-            - [Sous-section 2 : Rééquilibrage en capacité (art. R335-8 à R335-12)](#535)
-          - [Section 2 : Certification des exploitants de capacité (art. R335-13 à R335-33)](#536)
-            - [Sous-section 1 : Certification et contrôle des capacités (art. R335-13 à R335-20)](#537)
-            - [Sous-section 2 : Evolution et rééquilibrage des capacités (art. R335-21 à R335-28)](#538)
-            - [Sous-section 3 : Règlement des écarts (art. R335-29 à R335-33)](#539)
-          - [Section 4 : Echange et cession des garanties de capacité (art. R335-34 à R335-44)](#540)
-          - [Section 5 : Dispositions particulières (art. R335-45 à R335-46)](#541)
-          - [Section 6 : Dispositif de sécurisation (art. R335-47 à R335-53)](#542)
-          - [Section 7 : Sanctions (art. D335-54)](#543)
-        - [Chapitre VI : L'accès régulé à l'électricité nucléaire historique (art. R336-1 à D336-43)](#544)
-          - [Section 1 : Définitions (art. R336-1 à R336-7)](#545)
-          - [Section 2 : Demande d'accès régulé à l'électricité nucléaire historique et calcul des quantités de produit cédées (art. R336-8 à R336-18)](#546)
-            - [Sous-section 1 : Demande d'accès régulé à l'électricité nucléaire historique (art. R336-8 à R336-12)](#547)
-            - [Sous-section 2 : Calcul des quantités de produit cédées (art. R336-13 à R336-18)](#548)
-          - [Section 3 : Notification par la Commission de régulation de l'énergie des cessions d'électricité et transfert de l'énergie par le gestionnaire du réseau public de transport (art. R336-19 à R336-20)](#549)
-          - [Section 4 : Gestion des flux financiers et facturation (art. R336-21 à R336-27)](#550)
-            - [Sous-section 1 : Gestion des flux financiers (art. R336-21 à R336-24)](#551)
-            - [Sous-section 2 : Facturation (art. R336-25 à R336-27)](#552)
-          - [Section 5 : Contrôle ex post et complément de prix (art. R336-28 à R336-38)](#553)
-          - [Section 6 : Dispositions applicables en cas de dépassement du plafond (art. R336-39)](#554)
-          - [Section 7 : Sociétés ayant pour activité l'acquisition de contrats d'approvisionnement à long terme d'électricité (art. 336-44 à D336-43)](#555)
-        - [Chapitre VII : Les tarifs et les prix (art. R337-17-1 à R337-28)](#556)
-          - [Section 1 : Dispositions applicables aux tarifs de vente (art. R337-17-1 à R337-24)](#557)
-            - [Sous-section 2 : Application à Mayotte (art. R337-17-1)](#558)
-            - [Sous-section 3 : Les tarifs réglementés de vente de l'électricité (art. 337-19-1 à R337-24)](#559)
-          - [Section 2 : Dispositions particulières applicables aux tarifs de cession aux entreprises locales de distribution (art. R337-25 à R337-28)](#560)
-      - [TITRE IV : L'ACCÈS ET LE RACCORDEMENT AUX RÉSEAUX (art. R341-1 à D345-4)](#561)
-        - [Chapitre Ier : L'accès aux réseaux (art. R341-1 à D341-24)](#562)
-          - [Section 1 : Tarifs d'utilisation des réseaux publics de transport et de distribution d'électricité (art. R341-1 à R341-3)](#563)
-          - [Section 2 : Dispositifs de comptage sur les réseaux publics d'électricité (art. R341-4 à R341-8)](#564)
-          - [Section 3 : Réduction de tarif d'utilisation du réseau public de transport accordée aux sites fortement consommateurs d'électricité (art. Annexe article D341-9 à D341-12-1)](#565)
-          - [Section 4 : Mise à disposition des données de comptage de consommation aux propriétaires ou gestionnaires d'immeubles (art. D341-13 à D341-17)](#566)
-          - [Section 5 : Mise à disposition des données de consommation aux consommateurs raccordés aux réseaux publics de distribution (art. D341-18 à D341-24)](#567)
-        - [Chapitre II : Le raccordement aux réseaux (art. D342-1 à D342-24)](#568)
-          - [Section 1 : Consistance des ouvrages de branchement et d'extension (art. D342-1 à D342-2)](#569)
-          - [Section 2 : Indemnités en cas de retard de raccordement d'une installation de production d'énergie renouvelable (art. R342-3 à D342-4-13)](#570)
-            - [Sous-section 1 : Dispositions applicables aux installations de production d'électricité d'une puissance installée inférieure ou égale à 3 kilovoltampères (art. R342-3 à R342-4)](#571)
-            - [Sous-section 2 : Dispositions applicables aux installations de production d'électricité d'une puissance installée supérieure à 3 kilovoltampères (art. D342-4-1 à D342-4-13)](#572)
-              - [Paragraphe 1 : Dispositions générales (art. R342-4-7 à R342-4-8)](#573)
-              - [Paragraphe 2 : Dispositions propres aux installations de production d'électricité à partir de sources d'énergie renouvelable en mer (art. D342-4-9 à R342-4-11)](#574)
-              - [Paragraphe 3 : Dispositions propres aux installations de production d'électricité à partir de sources d'énergie renouvelable en mer dont le coût du raccordement est supporté par le gestionnaire de réseau (art. D342-4-12 à D342-4-13)](#575)
-          - [Section 3 : Règles générales pour le raccordement aux réseaux publics d'électricité (art. D342-5 à D342-13)](#576)
-          - [Section 4 : Règles complémentaires applicables pour le raccordement aux réseaux publics d'électricité du territoire métropolitain continental (art. R342-13-1 à R342-13-8)](#577)
-            - [Sous-section 1 : Mise en œuvre du règlement (UE) n° 2016/631 de la Commission du 14 avril 2016 établissant un code de réseau sur les exigences applicables au raccordement au réseau des installations de production d'électricité (art. R342-13-1 à R342-13-2)](#578)
-            - [Sous-section 2 : Mise en œuvre du règlement (UE) n° 2016/1388 de la Commission du 17 août 2016 établissant un code de réseau sur le raccordement des réseaux de distribution et des installations de consommation (art. R342-13-3 à R342-13-4)](#579)
-            - [Sous-section 3 : Mise en œuvre du règlement (UE) n° 2016/1447 de la Commission du 26 août 2016 établissant un code de réseau relatif aux exigences applicables au raccordement au réseau des systèmes en courant continu à haute tension et des parcs non synchrones de générateurs raccordés en courant continu (art. R342-13-5 à R342-13-6)](#580)
-            - [Sous-section 4 : Dispositions communes aux utilisateurs soumis aux règlements européens (art. R342-13-7 à R342-13-8)](#581)
-          - [Section 5 : Règles complémentaires applicables aux utilisateurs du réseau non soumis aux règlements européens et aux utilisateurs du réseau dans les zones non interconnectées au réseau public métropolitain continental (art. D342-13-9 à R342-14-1)](#582)
-          - [Section 6 :  Autres raccordements aux réseaux électriques (art. D342-15 à D342-15-7)](#583)
-            - [Sous-section 1 : Raccordement entre réseaux (art. D342-15)](#584)
-            - [Sous-section 2 :  Raccordement de plusieurs installations de production en un point unique du réseau public (art. D342-15-2 à D342-15-5)](#585)
-            - [Sous-section 3 :  Raccordement d'une ou plusieurs installations de production au sein d'un site de consommation (art. D342-15-6)](#586)
-            - [Sous-section 4 :  Comptage pour les installations de production non directement raccordées aux réseaux publics (art. D342-15-7)](#587)
-          - [Section 7 : Contrôles (art. D342-16 à D342-21)](#588)
-            - [Sous-section 1 : Contrôles des installations de production raccordées aux réseaux publics d'électricité (art. D342-16 à D342-17)](#589)
-            - [Sous-section 2 : Contrôles des installations raccordées aux réseaux publics d'électricité (art. D342-18 à D342-21)](#590)
-          - [Section 8 : Schéma régional de raccordement au réseau des énergies renouvelables et établissement de la quote-part (art. D342-22 à D342-24)](#591)
-        - [Chapitre III : Les lignes directes (art. R343-1 à R343-9)](#592)
-        - [Chapitre V : Les réseaux intérieurs des bâtiments (art. D345-1 à D345-4)](#593)
-      - [TITRE V : LES DISPOSITIONS RELATIVES À L'UTILISATION DE L'ÉLECTRICITÉ (art. D351-1 à D351-7)](#594)
-        - [Chapitre unique : Consommateurs électro-intensifs (art. D351-1 à D351-7)](#595)
-      - [TITRE VI : LES DISPOSITIONS RELATIVES À L'OUTRE-MER (art. R361-1 à R361-8)](#596)
-        - [Chapitre Ier : Dispositions relatives à l'outre-mer (art. R361-1 à D361-7-5)](#597)
-          - [Section 1 : Dispositions relatives à l'obligation d'achat (art. R361-1 à R361-7)](#598)
-          - [Section 2 : Schémas de raccordement (art. D361-7-1 à D361-7-2)](#599)
-          - [Section 3 : Dispositions spécifiques aux procédures de mise en concurrence dans les collectivités de Guadeloupe, de Guyane, de Martinique et de La Réunion (art. D361-7-3 à D361-7-5)](#600)
-        - [Chapitre II : Dispositions relatives à Mayotte (art. D361-9 à R361-8)](#601)
-    - [LIVRE IV : LES DISPOSITIONS RELATIVES AU GAZ (art. R421-1 à D461-14)](#602)
-      - [TITRE II : LE STOCKAGE (art. R421-1 à R421-16)](#603)
-        - [Chapitre unique (art. R421-1 à R421-16)](#604)
-          - [Section 1 : L'accès aux stockages souterrains de gaz naturel (art. R421-1 à R421-16)](#605)
-            - [Sous-section 1 : Principes généraux d'utilisation des stockages (art. R421-1 à R421-6)](#606)
-            - [Sous-section 2 : Constitution des stocks complémentaires mentionnés à l'article L. 421-6 (art. D421-7 à D421-13)](#607)
-            - [Sous-section 3 : Dispositions applicables aux infrastructures de stockage non mentionnées à l’article L. 421-3-1 (art. R421-14)](#608)
-            - [Sous-section 4 : Agents chargés du contrôle de l’accès aux stockages souterrains de gaz naturel (art. R421-15 à R421-16)](#609)
-      - [TITRE III : LE TRANSPORT ET LA DISTRIBUTION (art. R431-1 à R433-26)](#610)
-        - [Section 1 : Régime de l'autorisation de transport (art. R431-1 à R433-26)](#611)
-          - [Chapitre Ier : Le transport (art. R431-1 à R431-3)](#612)
-            - [Section 1 : Régime de l'autorisation de transport (art. R431-1 à R431-3)](#613)
-              - [Sous-section 1 : Droits et obligations du titulaire de l'autorisation (art. R431-1 à R431-2)](#614)
-              - [Sous-section 2 : Sanctions (art. R431-3)](#615)
-          - [Chapitre II : La distribution (art. R432-1 à R432-13)](#616)
-            - [Section 1 : L'organisation de la distribution gazière (art. R432-1 à R432-12)](#617)
-              - [Sous-section 1 : Agrément des distributeurs de gaz par réseaux publics (art. R432-1 à R432-7)](#618)
-              - [Sous-section 2 : Développement de la desserte gazière (art. R432-8 à R432-12)](#619)
-            - [Section 2 : Les missions des gestionnaires de réseau de distribution (art. R432-13)](#620)
-          - [Chapitre III : Les ouvrages de transport et de distribution (art. R433-1 à R433-26)](#621)
-            - [Section 1 : L'occupation du domaine public ou la traversée des propriétés privées par les ouvrages de transport et de distribution (art. R433-1 à R433-13)](#622)
-              - [Sous-section 1 : Déclaration d'utilité publique des ouvrages de gaz en vue de l'établissement de servitudes (art. R433-1 à R433-4)](#623)
-              - [Sous-section 2 : Etablissement des servitudes (art. D433-11 à R433-10-1)](#624)
-              - [Sous-section 3 : Indemnités et frais (art. R433-12 à R433-13)](#625)
-            - [Section 2 : Le contrôle de la construction et de l'exploitation des ouvrages de transport et de distribution (art. R433-1 à R433-26)](#626)
-              - [Sous-section 1 : Les prescriptions techniques applicables (art. R433-1 à R433-19)](#627)
-              - [Sous-section 2 : Les organismes de contrôle (art. D433-23 à R433-22)](#628)
-              - [Sous-section 3 : Mesures de police administrative (art. D433-24 à R433-26)](#629)
-      - [TITRE IV : LA COMMERCIALISATION (art. R441-1 à D446-24)](#630)
-        - [Chapitre Ier : Le choix du fournisseur (art. R441-1)](#631)
-        - [Chapitre III : Le régime de la fourniture (art. R443-1 à R443-13)](#632)
-          - [Section 1 : L'obligation d'une autorisation (art. R443-1 à R443-9)](#633)
-          - [Section 2 : Contrôles et sanctions administratives (art. R443-10 à R443-13)](#634)
-        - [Chapitre V : Les tarifs (art. R445-1 à R445-7)](#635)
-          - [Section 1 : Tarifs réglementés de vente (art. R445-1 à R445-7)](#636)
-        - [Chapitre VI : Les dispositions particulières relatives à la vente de biogaz (art. R446-1 à D446-24)](#637)
-          - [Section 1 : Conditions de vente du biométhane aux fournisseurs de gaz naturel (art. R446-1 à R446-2)](#638)
-          - [Section 2 : Les conditions de contractualisation entre producteurs de biométhane et fournisseurs de gaz naturel (art. D446-3 à D446-16)](#639)
-          - [Section 3 : Les garanties d'origine du biométhane injecté dans les réseaux de gaz naturel (art. D446-17 à D446-24)](#640)
-      - [TITRE V : L'ACCÈS ET LE RACCORDEMENT AUX RÉSEAUX ET INSTALLATIONS (art. D452-1-1 à D453-19)](#641)
-        - [Chapitre II : Les tarifs d'utilisation des réseaux de transport, de distribution de gaz naturel et les tarifs d'utilisation des installations de gaz naturel liquéfié (art. D452-1-1 à R452-1)](#642)
-        - [Chapitre III : Le raccordement aux réseaux et installations (art. R453-1 à D453-19)](#643)
-          - [Section 1 : Extensions des réseaux de distribution de gaz naturel (art. R453-1 à R453-6)](#644)
-          - [Section 2 : Contenu du cahier des charges des concessions de distribution publique de gaz et du règlement de service des régies (art. R453-7)](#645)
-          - [Section 3 : Prescriptions techniques fixant les exigences techniques de conception et de fonctionnement (art. R453-8)](#646)
-          - [Section 4 : Mise à disposition des données de comptage de consommation aux propriétaires ou gestionnaires d'immeubles (art. D453-9 à D453-13)](#647)
-          - [Section 5 : Mise à disposition des données de comptage aux consommateurs raccordés aux réseaux publics de distribution de gaz naturel (art. D453-14 à D453-19)](#648)
-      - [TITRE VI : LES CONSOMMATEURS GAZO-INTENSIFS (art. D461-1 à D461-14)](#649)
-        - [Chapitre unique (art. D461-1 à D461-14)](#650)
-    - [LIVRE V : LES DISPOSITIONS RELATIVES À L'UTILISATION DE L'ÉNERGIE HYDRAULIQUE (art. D511-1 à R524-6)](#651)
-      - [TITRE Ier : LES DISPOSITIONS COMMUNES AUX INSTALLATIONS HYDRAULIQUES AUTORISÉES OU CONCÉDÉES (art. D511-1)](#652)
-        - [Chapitre Ier : Les caractéristiques générales des régimes d'exploitation de l'énergie hydraulique (art. D511-1)](#653)
-      - [TITRE II : LES DISPOSITIONS RELATIVES AUX INSTALLATIONS HYDRAULIQUES CONCÉDÉES (art. R521-1 à R524-6)](#654)
-        - [Chapitre Ier : La procédure applicable aux concessions (art. R521-1 à R521-72)](#655)
-          - [Section 1 : L'octroi de la concession (art. R521-2 à R521-48)](#656)
-            - [Sous-section 1 : Lancement de la procédure (art. R521-2 à R521-5)](#657)
-            - [Sous-section 2 : Sélection du candidat pressenti (art. R521-6 à R521-11)](#658)
-            - [Sous-section 3 : Instruction de la demande du concessionnaire pressenti (art. R521-12 à R521-24)](#659)
-            - [Sous-section 4 : Octroi de la concession et déclaration d'utilité publique (art. R521-25 à R521-27)](#660)
-            - [Sous-section 5 : Règlement d'eau (art. R521-28 à R521-30)](#661)
-            - [Sous-section 6 : Approbation des projets d'exécution, autorisation et récolement des travaux d'établissement de la concession (art. R521-31 à R521-39)](#662)
-            - [Sous-section 7 : Approbation des autres travaux (art. R521-40 à R521-42)](#663)
-            - [Sous-section 8 : Dispositions relatives à la sécurité et à la sûreté des ouvrages hydrauliques concédés (art. R521-43 à R521-46)](#664)
-            - [Sous-section 9 : Dispositions diverses (art. R521-47 à R521-48)](#665)
-          - [Section 2 : Le cahier des charges de la concession (art. R521-49)](#666)
-          - [Section 3 : L'occupation ou la traversée des propriétés privées (art. R521-50 à R521-51)](#667)
-          - [Section 4 :  Les dispositions particulières à la fin de la concession et à son renouvellement (art. R521-52 à R521-66)](#668)
-            - [Sous-section 1 : Décision d'arrêt ou de poursuite de l'exploitation (art. R521-52 à R521-53)](#669)
-            - [Sous-section 2 : Fin de la concession (art. R521-54 à R521-57)](#670)
-            - [Sous-section 3 : Dispositions spécifiques au renouvellement de concession (art. R521-58 à R521-59)](#671)
-            - [Sous-section 4 : Regroupement de concessions (art. R521-60 à R521-65)](#672)
-            - [Sous-section 5 : Prorogation des concessions (art. R521-66)](#673)
-          - [Section 5 : Les sociétés d'économie mixte hydroélectriques (art. R521-67 à R521-72)](#674)
-        - [Chapitre II : Les reserves en énergie (art. D522-5 à R522-4)](#675)
-        - [Chapitre III : Les redevances proportionnelles (art. R523-1 à R523-4)](#676)
-        - [Chapitre IV :  L'information des collectivités territoriales et des habitants riverains sur l'exécution de la concession et leur participation à la gestion des usages de l'eau (art. R524-1 à R524-6)](#677)
-    - [LIVRE VI : LES DISPOSITIONS RELATIVES AU PÉTROLE, AUX BIOCARBURANTS ET BIOLIQUIDES (art. D631-1 à R671-31)](#678)
-      - [TITRE III : LE TRANSPORT (art. D631-1 à R632-4)](#679)
-        - [Chapitre Ier : Le transport par navire (art. D631-1 à D631-10)](#680)
-        - [Chapitre II : Le transport par canalisation (art. R632-1 à R632-4)](#681)
-      - [TITRE IV : LE RAFFINAGE ET LE STOCKAGE (art. R641-1 à D642-11)](#682)
-        - [Chapitre Ier : Le raffinage et les produits pétroliers (art. R641-1 à R641-16)](#683)
-          - [Section 1 : Dispositions applicables au raffinage (art. R641-1 à R641-3)](#684)
-          - [Section 2 : Dispositions applicables aux produits pétroliers et aux carburants renouvelables (art. D641-4 à R641-16)](#685)
-        - [Chapitre II : Le stockage (art. R642-1 à D642-11)](#686)
-          - [Section 1 : Le Comité professionnel des stocks stratégiques pétroliers (art. R642-1 à R642-10)](#687)
-          - [Section 2 : Dispositions diverses (art. D642-11)](#688)
-      - [TITRE VI : LES BIOCARBURANTS ET BIOLIQUIDES (art. D661-2 à R662-4)](#689)
-        - [Chapitre Ier : Obligations relatives aux biocarburants et aux bioliquides (art. D661-2 à R661-11)](#690)
-        - [Chapitre II : Contrôles et sanctions administratives (art. R662-1 à R662-4)](#691)
-      - [TITRE VII : LES DISPOSITIONS PARTICULIÈRES À L'OUTRE-MER (art. R671-1 à R671-31)](#692)
-        - [Chapitre unique (art. R671-1 à R671-31)](#693)
-          - [Section 1 : Dispositions relatives au département de la Guadeloupe et aux collectivités territoriales de la Guyane et de la Martinique (art. R671-1 à R671-13)](#694)
-            - [Sous-section 1 : Dispositions générales (art. R671-1)](#695)
-            - [Sous-section 2 : Dispositions relatives aux prix des produits pétroliers autres que le gaz de pétrole liquéfié (art. R671-2 à R671-5)](#696)
-            - [Sous-section 3 : Dispositions relatives aux prix du gaz de pétrole liquéfié (art. R671-6 à R671-10)](#697)
-            - [Sous-section 4 : Dispositions relatives aux activités de stockage de produits pétroliers (art. R671-11 à R671-12)](#698)
-            - [Sous-section 5 : Dispositions relatives à l'information du public (art. R671-13)](#699)
-          - [Section 2 : Dispositions relatives au département de La Réunion (art. R671-14 à R671-22)](#700)
-            - [Sous-section 1 : Dispositions générales (art. R671-14)](#701)
-            - [Sous-section 2 : Dispositions relatives aux prix des produits pétroliers (art. R671-15 à R671-17)](#702)
-            - [Sous-section 3 : Dispositions relatives à la distribution des produits pétroliers (art. R671-18 à R671-19)](#703)
-            - [Sous-section 4 : Dispositions relatives aux activités de stockage de produits pétroliers (art. R671-20 à R671-21)](#704)
-            - [Sous-section 5 : Dispositions relatives à l'information du public (art. R671-22)](#705)
-          - [Section 3 : Dispositions relatives au Département de Mayotte (art. R671-23 à R671-31)](#706)
-            - [Sous-section 1 : Dispositions générales (art. R671-23)](#707)
-            - [Sous-section 2 : Dispositions relatives aux prix des produits pétroliers (art. R671-24 à R671-26)](#708)
-            - [Sous-section 3 : Dispositions relatives à la distribution des produits pétroliers (art. R671-27 à R671-28)](#709)
-            - [Sous-section 4 : Dispositions relatives aux activités de stockage de produits pétroliers (art. R671-29 à R671-30)](#710)
-            - [Sous-section 5 : Dispositions relatives à l'information du public (art. R671-31)](#711)
-    - [LIVRE VII : LES DISPOSITIONS RELATIVES AUX RÉSEAUX DE CHALEUR ET DE FROID (art. R711-1 à R721-20)](#712)
-      - [TITRE Ier : LA PRODUCTION DE CHALEUR ET LE CLASSEMENT DES RÉSEAUX DE CHALEUR ET DE FROID (art. R711-1 à R712-12)](#713)
-        - [Chapitre Ier : La production de chaleur (art. R711-1 à R711-4)](#714)
-        - [Chapitre II : Le classement des reseaux de chaleur et de froid (art. R712-1 à R712-12)](#715)
-          - [Section 1 : Principes et modalités de classement des réseaux de chaleur et de froid (art. R712-1 à R712-5)](#716)
-          - [Section 2 : Effets du classement d'un réseau de chaleur ou de froid (art. R712-6 à R712-9)](#717)
-          - [Section 3 : Abrogation de la décision de classement (art. R712-10)](#718)
-          - [Section 4 : Information du public (art. L712-11)](#719)
-          - [Section 5 : Constatation des infractions (art. R712-12)](#720)
-      - [TITRE II : LE PASSAGE DES CANALISATIONS DE TRANSPORT ET DE DISTRIBUTION DE CHALEUR ET DE FROID (art. R721-1 à R721-20)](#721)
-        - [Chapitre unique (art. R721-1 à R721-20)](#722)
-          - [Section 1 : Procédure régissant la déclaration d'intérêt général des canalisations de transport de distribution de chaleur (art. R721-1 à R721-6)](#723)
-          - [Section 2 : Les servitudes (art. D721-13 à R721-12)](#724)
-          - [Section 3 : Construction, mise en service, exploitation et contrôle (art. R721-14 à R721-20)](#725)
+        - [Chapitre V : La contribution des acteurs obligés à la sécurité d'approvisionnement en électricité (art.  à D335-89)](#533)
+          - [Section 1 : Définitions (art.  à R335-2)](#534)
+          - [Section 2 : Obligations de capacité des acteurs obligés (art. R335-3 à R335-8)](#535)
+          - [Section 3 : Contributions transfrontalières à la sécurité d'approvisionnement en France (art. R335-9 à R335-23)](#536)
+            - [Sous-section 1 : Procédure approfondie de participation transfrontalière (art. R335-10 à R335-18)](#537)
+            - [Sous-section 2 : Procédure simplifiée de participation transfrontalière (art. R335-19 à R335-22)](#538)
+            - [Sous-section 3 : Dispositions communes aux deux procédures de participation transfrontalière (art. R335-23)](#539)
+          - [Section 4 : Certification des capacités et des interconnexions (art. R335-24 à R335-45)](#540)
+            - [Sous-section 1 : Certification des capacités et des interconnexions dérogatoires (art. R335-24 à R335-40)](#541)
+            - [Sous-section 2 :  Certification des interconnexions régulées (art. R335-41 à R335-45)](#542)
+          - [Section 5 : Ecarts et règlements financiers (art. R335-46 à R335-57)](#543)
+            - [Sous-section 1 : Règlement financier du rééquilibrage en capacité des acteurs obligés (art. R335-46 à R335-50)](#544)
+            - [Sous-section 2 : Règlement financier des responsables du périmètre de certification (art. R335-51 à R335-56)](#545)
+            - [Sous-section 3 : Dispositions communes (art. R335-57)](#546)
+          - [Section 6 : Echange et cession des garanties de capacité (art. R335-58 à R335-68)](#547)
+          - [Section 7 : Dispositions particulières (art. R335-69 à R335-70)](#548)
+          - [Section 8 : Dispositif de contractualisation pluriannuelle (art. R335-71 à R335-88)](#549)
+          - [Section 9 : Sanctions (art. D335-89)](#550)
+        - [Chapitre VI : L'accès régulé à l'électricité nucléaire historique (art. R336-1 à D336-43)](#551)
+          - [Section 1 : Définitions (art. R336-1 à R336-7)](#552)
+          - [Section 2 : Demande d'accès régulé à l'électricité nucléaire historique et calcul des quantités de produit cédées (art. R336-8 à R336-18)](#553)
+            - [Sous-section 1 : Demande d'accès régulé à l'électricité nucléaire historique (art. R336-8 à R336-12)](#554)
+            - [Sous-section 2 : Calcul des quantités de produit cédées (art. R336-13 à R336-18)](#555)
+          - [Section 3 : Notification par la Commission de régulation de l'énergie des cessions d'électricité et transfert de l'énergie par le gestionnaire du réseau public de transport (art. R336-19 à R336-20)](#556)
+          - [Section 4 : Gestion des flux financiers et facturation (art. R336-21 à R336-27)](#557)
+            - [Sous-section 1 : Gestion des flux financiers (art. R336-21 à R336-24)](#558)
+            - [Sous-section 2 : Facturation (art. R336-25 à R336-27)](#559)
+          - [Section 5 : Contrôle ex post et complément de prix (art. R336-28 à R336-38)](#560)
+          - [Section 6 : Dispositions applicables en cas de dépassement du plafond (art. R336-39)](#561)
+          - [Section 7 : Sociétés ayant pour activité l'acquisition de contrats d'approvisionnement à long terme d'électricité (art. 336-44 à D336-43)](#562)
+        - [Chapitre VII : Les tarifs et les prix (art. R337-17-1 à R337-28)](#563)
+          - [Section 1 : Dispositions applicables aux tarifs de vente (art. R337-17-1 à R337-24)](#564)
+            - [Sous-section 2 : Application à Mayotte (art. R337-17-1)](#565)
+            - [Sous-section 3 : Les tarifs réglementés de vente de l'électricité (art. 337-19-1 à R337-24)](#566)
+          - [Section 2 : Dispositions particulières applicables aux tarifs de cession aux entreprises locales de distribution (art. R337-25 à R337-28)](#567)
+      - [TITRE IV : L'ACCÈS ET LE RACCORDEMENT AUX RÉSEAUX (art. R341-1 à D345-4)](#568)
+        - [Chapitre Ier : L'accès aux réseaux (art. R341-1 à D341-24)](#569)
+          - [Section 1 : Tarifs d'utilisation des réseaux publics de transport et de distribution d'électricité (art. R341-1 à R341-3)](#570)
+          - [Section 2 : Dispositifs de comptage sur les réseaux publics d'électricité (art. R341-4 à R341-8)](#571)
+          - [Section 3 : Réduction de tarif d'utilisation du réseau public de transport accordée aux sites fortement consommateurs d'électricité (art. Annexe article D341-9 à D341-12-1)](#572)
+          - [Section 4 : Mise à disposition des données de comptage de consommation aux propriétaires ou gestionnaires d'immeubles (art. D341-13 à D341-17)](#573)
+          - [Section 5 : Mise à disposition des données de consommation aux consommateurs raccordés aux réseaux publics de distribution (art. D341-18 à D341-24)](#574)
+        - [Chapitre II : Le raccordement aux réseaux (art. D342-1 à D342-24)](#575)
+          - [Section 1 : Consistance des ouvrages de branchement et d'extension (art. D342-1 à D342-2)](#576)
+          - [Section 2 : Indemnités en cas de retard de raccordement d'une installation de production d'énergie renouvelable (art. R342-3 à D342-4-13)](#577)
+            - [Sous-section 1 : Dispositions applicables aux installations de production d'électricité d'une puissance installée inférieure ou égale à 3 kilovoltampères (art. R342-3 à R342-4)](#578)
+            - [Sous-section 2 : Dispositions applicables aux installations de production d'électricité d'une puissance installée supérieure à 3 kilovoltampères (art. D342-4-1 à D342-4-13)](#579)
+              - [Paragraphe 1 : Dispositions générales (art. R342-4-7 à R342-4-8)](#580)
+              - [Paragraphe 2 : Dispositions propres aux installations de production d'électricité à partir de sources d'énergie renouvelable en mer (art. D342-4-9 à R342-4-11)](#581)
+              - [Paragraphe 3 : Dispositions propres aux installations de production d'électricité à partir de sources d'énergie renouvelable en mer dont le coût du raccordement est supporté par le gestionnaire de réseau (art. D342-4-12 à D342-4-13)](#582)
+          - [Section 3 : Règles générales pour le raccordement aux réseaux publics d'électricité (art. D342-5 à D342-13)](#583)
+          - [Section 4 : Règles complémentaires applicables pour le raccordement aux réseaux publics d'électricité du territoire métropolitain continental (art. R342-13-1 à R342-13-8)](#584)
+            - [Sous-section 1 : Mise en œuvre du règlement (UE) n° 2016/631 de la Commission du 14 avril 2016 établissant un code de réseau sur les exigences applicables au raccordement au réseau des installations de production d'électricité (art. R342-13-1 à R342-13-2)](#585)
+            - [Sous-section 2 : Mise en œuvre du règlement (UE) n° 2016/1388 de la Commission du 17 août 2016 établissant un code de réseau sur le raccordement des réseaux de distribution et des installations de consommation (art. R342-13-3 à R342-13-4)](#586)
+            - [Sous-section 3 : Mise en œuvre du règlement (UE) n° 2016/1447 de la Commission du 26 août 2016 établissant un code de réseau relatif aux exigences applicables au raccordement au réseau des systèmes en courant continu à haute tension et des parcs non synchrones de générateurs raccordés en courant continu (art. R342-13-5 à R342-13-6)](#587)
+            - [Sous-section 4 : Dispositions communes aux utilisateurs soumis aux règlements européens (art. R342-13-7 à R342-13-8)](#588)
+          - [Section 5 : Règles complémentaires applicables aux utilisateurs du réseau non soumis aux règlements européens et aux utilisateurs du réseau dans les zones non interconnectées au réseau public métropolitain continental (art. D342-13-9 à R342-14-1)](#589)
+          - [Section 6 :  Autres raccordements aux réseaux électriques (art. D342-15 à D342-15-7)](#590)
+            - [Sous-section 1 : Raccordement entre réseaux (art. D342-15)](#591)
+            - [Sous-section 2 :  Raccordement de plusieurs installations de production en un point unique du réseau public (art. D342-15-2 à D342-15-5)](#592)
+            - [Sous-section 3 :  Raccordement d'une ou plusieurs installations de production au sein d'un site de consommation (art. D342-15-6)](#593)
+            - [Sous-section 4 :  Comptage pour les installations de production non directement raccordées aux réseaux publics (art. D342-15-7)](#594)
+          - [Section 7 : Contrôles (art. D342-16 à D342-21)](#595)
+            - [Sous-section 1 : Contrôles des installations de production raccordées aux réseaux publics d'électricité (art. D342-16 à D342-17)](#596)
+            - [Sous-section 2 : Contrôles des installations raccordées aux réseaux publics d'électricité (art. D342-18 à D342-21)](#597)
+          - [Section 8 : Schéma régional de raccordement au réseau des énergies renouvelables et établissement de la quote-part (art. D342-22 à D342-24)](#598)
+        - [Chapitre III : Les lignes directes (art. R343-1 à R343-9)](#599)
+        - [Chapitre V : Les réseaux intérieurs des bâtiments (art. D345-1 à D345-4)](#600)
+      - [TITRE V : LES DISPOSITIONS RELATIVES À L'UTILISATION DE L'ÉLECTRICITÉ (art. D351-1 à D351-7)](#601)
+        - [Chapitre unique : Consommateurs électro-intensifs (art. D351-1 à D351-7)](#602)
+      - [TITRE VI : LES DISPOSITIONS RELATIVES À L'OUTRE-MER (art. R361-1 à R361-8)](#603)
+        - [Chapitre Ier : Dispositions relatives à l'outre-mer (art. R361-1 à D361-7-5)](#604)
+          - [Section 1 : Dispositions relatives à l'obligation d'achat (art. R361-1 à R361-7)](#605)
+          - [Section 2 : Schémas de raccordement (art. D361-7-1 à D361-7-2)](#606)
+          - [Section 3 : Dispositions spécifiques aux procédures de mise en concurrence dans les collectivités de Guadeloupe, de Guyane, de Martinique et de La Réunion (art. D361-7-3 à D361-7-5)](#607)
+        - [Chapitre II : Dispositions relatives à Mayotte (art. D361-9 à R361-8)](#608)
+    - [LIVRE IV : LES DISPOSITIONS RELATIVES AU GAZ (art. R421-1 à D461-14)](#609)
+      - [TITRE II : LE STOCKAGE (art. R421-1 à R421-16)](#610)
+        - [Chapitre unique (art. R421-1 à R421-16)](#611)
+          - [Section 1 : L'accès aux stockages souterrains de gaz naturel (art. R421-1 à R421-16)](#612)
+            - [Sous-section 1 : Principes généraux d'utilisation des stockages (art. R421-1 à R421-6)](#613)
+            - [Sous-section 2 : Constitution des stocks complémentaires mentionnés à l'article L. 421-6 (art. D421-7 à D421-13)](#614)
+            - [Sous-section 3 : Dispositions applicables aux infrastructures de stockage non mentionnées à l’article L. 421-3-1 (art. R421-14)](#615)
+            - [Sous-section 4 : Agents chargés du contrôle de l’accès aux stockages souterrains de gaz naturel (art. R421-15 à R421-16)](#616)
+      - [TITRE III : LE TRANSPORT ET LA DISTRIBUTION (art. R431-1 à R433-26)](#617)
+        - [Section 1 : Régime de l'autorisation de transport (art. R431-1 à R433-26)](#618)
+          - [Chapitre Ier : Le transport (art. R431-1 à R431-3)](#619)
+            - [Section 1 : Régime de l'autorisation de transport (art. R431-1 à R431-3)](#620)
+              - [Sous-section 1 : Droits et obligations du titulaire de l'autorisation (art. R431-1 à R431-2)](#621)
+              - [Sous-section 2 : Sanctions (art. R431-3)](#622)
+          - [Chapitre II : La distribution (art. R432-1 à R432-13)](#623)
+            - [Section 1 : L'organisation de la distribution gazière (art. R432-1 à R432-12)](#624)
+              - [Sous-section 1 : Agrément des distributeurs de gaz par réseaux publics (art. R432-1 à R432-7)](#625)
+              - [Sous-section 2 : Développement de la desserte gazière (art. R432-8 à R432-12)](#626)
+            - [Section 2 : Les missions des gestionnaires de réseau de distribution (art. R432-13)](#627)
+          - [Chapitre III : Les ouvrages de transport et de distribution (art. R433-1 à R433-26)](#628)
+            - [Section 1 : L'occupation du domaine public ou la traversée des propriétés privées par les ouvrages de transport et de distribution (art. R433-1 à R433-13)](#629)
+              - [Sous-section 1 : Déclaration d'utilité publique des ouvrages de gaz en vue de l'établissement de servitudes (art. R433-1 à R433-4)](#630)
+              - [Sous-section 2 : Etablissement des servitudes (art. D433-11 à R433-10-1)](#631)
+              - [Sous-section 3 : Indemnités et frais (art. R433-12 à R433-13)](#632)
+            - [Section 2 : Le contrôle de la construction et de l'exploitation des ouvrages de transport et de distribution (art. R433-1 à R433-26)](#633)
+              - [Sous-section 1 : Les prescriptions techniques applicables (art. R433-1 à R433-19)](#634)
+              - [Sous-section 2 : Les organismes de contrôle (art. D433-23 à R433-22)](#635)
+              - [Sous-section 3 : Mesures de police administrative (art. D433-24 à R433-26)](#636)
+      - [TITRE IV : LA COMMERCIALISATION (art. R441-1 à D446-24)](#637)
+        - [Chapitre Ier : Le choix du fournisseur (art. R441-1)](#638)
+        - [Chapitre III : Le régime de la fourniture (art. R443-1 à R443-13)](#639)
+          - [Section 1 : L'obligation d'une autorisation (art. R443-1 à R443-9)](#640)
+          - [Section 2 : Contrôles et sanctions administratives (art. R443-10 à R443-13)](#641)
+        - [Chapitre V : Les tarifs (art. R445-1 à R445-7)](#642)
+          - [Section 1 : Tarifs réglementés de vente (art. R445-1 à R445-7)](#643)
+        - [Chapitre VI : Les dispositions particulières relatives à la vente de biogaz (art. R446-1 à D446-24)](#644)
+          - [Section 1 : Conditions de vente du biométhane aux fournisseurs de gaz naturel (art. R446-1 à R446-2)](#645)
+          - [Section 2 : Les conditions de contractualisation entre producteurs de biométhane et fournisseurs de gaz naturel (art. D446-3 à D446-16)](#646)
+          - [Section 3 : Les garanties d'origine du biométhane injecté dans les réseaux de gaz naturel (art. D446-17 à D446-24)](#647)
+      - [TITRE V : L'ACCÈS ET LE RACCORDEMENT AUX RÉSEAUX ET INSTALLATIONS (art. D452-1-1 à D453-19)](#648)
+        - [Chapitre II : Les tarifs d'utilisation des réseaux de transport, de distribution de gaz naturel et les tarifs d'utilisation des installations de gaz naturel liquéfié (art. D452-1-1 à R452-1)](#649)
+        - [Chapitre III : Le raccordement aux réseaux et installations (art. R453-1 à D453-19)](#650)
+          - [Section 1 : Extensions des réseaux de distribution de gaz naturel (art. R453-1 à R453-6)](#651)
+          - [Section 2 : Contenu du cahier des charges des concessions de distribution publique de gaz et du règlement de service des régies (art. R453-7)](#652)
+          - [Section 3 : Prescriptions techniques fixant les exigences techniques de conception et de fonctionnement (art. R453-8)](#653)
+          - [Section 4 : Mise à disposition des données de comptage de consommation aux propriétaires ou gestionnaires d'immeubles (art. D453-9 à D453-13)](#654)
+          - [Section 5 : Mise à disposition des données de comptage aux consommateurs raccordés aux réseaux publics de distribution de gaz naturel (art. D453-14 à D453-19)](#655)
+      - [TITRE VI : LES CONSOMMATEURS GAZO-INTENSIFS (art. D461-1 à D461-14)](#656)
+        - [Chapitre unique (art. D461-1 à D461-14)](#657)
+    - [LIVRE V : LES DISPOSITIONS RELATIVES À L'UTILISATION DE L'ÉNERGIE HYDRAULIQUE (art. D511-1 à R524-6)](#658)
+      - [TITRE Ier : LES DISPOSITIONS COMMUNES AUX INSTALLATIONS HYDRAULIQUES AUTORISÉES OU CONCÉDÉES (art. D511-1)](#659)
+        - [Chapitre Ier : Les caractéristiques générales des régimes d'exploitation de l'énergie hydraulique (art. D511-1)](#660)
+      - [TITRE II : LES DISPOSITIONS RELATIVES AUX INSTALLATIONS HYDRAULIQUES CONCÉDÉES (art. R521-1 à R524-6)](#661)
+        - [Chapitre Ier : La procédure applicable aux concessions (art. R521-1 à R521-72)](#662)
+          - [Section 1 : L'octroi de la concession (art. R521-2 à R521-48)](#663)
+            - [Sous-section 1 : Lancement de la procédure (art. R521-2 à R521-5)](#664)
+            - [Sous-section 2 : Sélection du candidat pressenti (art. R521-6 à R521-11)](#665)
+            - [Sous-section 3 : Instruction de la demande du concessionnaire pressenti (art. R521-12 à R521-24)](#666)
+            - [Sous-section 4 : Octroi de la concession et déclaration d'utilité publique (art. R521-25 à R521-27)](#667)
+            - [Sous-section 5 : Règlement d'eau (art. R521-28 à R521-30)](#668)
+            - [Sous-section 6 : Approbation des projets d'exécution, autorisation et récolement des travaux d'établissement de la concession (art. R521-31 à R521-39)](#669)
+            - [Sous-section 7 : Approbation des autres travaux (art. R521-40 à R521-42)](#670)
+            - [Sous-section 8 : Dispositions relatives à la sécurité et à la sûreté des ouvrages hydrauliques concédés (art. R521-43 à R521-46)](#671)
+            - [Sous-section 9 : Dispositions diverses (art. R521-47 à R521-48)](#672)
+          - [Section 2 : Le cahier des charges de la concession (art. R521-49)](#673)
+          - [Section 3 : L'occupation ou la traversée des propriétés privées (art. R521-50 à R521-51)](#674)
+          - [Section 4 :  Les dispositions particulières à la fin de la concession et à son renouvellement (art. R521-52 à R521-66)](#675)
+            - [Sous-section 1 : Décision d'arrêt ou de poursuite de l'exploitation (art. R521-52 à R521-53)](#676)
+            - [Sous-section 2 : Fin de la concession (art. R521-54 à R521-57)](#677)
+            - [Sous-section 3 : Dispositions spécifiques au renouvellement de concession (art. R521-58 à R521-59)](#678)
+            - [Sous-section 4 : Regroupement de concessions (art. R521-60 à R521-65)](#679)
+            - [Sous-section 5 : Prorogation des concessions (art. R521-66)](#680)
+          - [Section 5 : Les sociétés d'économie mixte hydroélectriques (art. R521-67 à R521-72)](#681)
+        - [Chapitre II : Les reserves en énergie (art. D522-5 à R522-4)](#682)
+        - [Chapitre III : Les redevances proportionnelles (art. R523-1 à R523-4)](#683)
+        - [Chapitre IV :  L'information des collectivités territoriales et des habitants riverains sur l'exécution de la concession et leur participation à la gestion des usages de l'eau (art. R524-1 à R524-6)](#684)
+    - [LIVRE VI : LES DISPOSITIONS RELATIVES AU PÉTROLE, AUX BIOCARBURANTS ET BIOLIQUIDES (art. D631-1 à R671-31)](#685)
+      - [TITRE III : LE TRANSPORT (art. D631-1 à R632-4)](#686)
+        - [Chapitre Ier : Le transport par navire (art. D631-1 à D631-10)](#687)
+        - [Chapitre II : Le transport par canalisation (art. R632-1 à R632-4)](#688)
+      - [TITRE IV : LE RAFFINAGE ET LE STOCKAGE (art. R641-1 à D642-11)](#689)
+        - [Chapitre Ier : Le raffinage et les produits pétroliers (art. R641-1 à R641-16)](#690)
+          - [Section 1 : Dispositions applicables au raffinage (art. R641-1 à R641-3)](#691)
+          - [Section 2 : Dispositions applicables aux produits pétroliers et aux carburants renouvelables (art. D641-4 à R641-16)](#692)
+        - [Chapitre II : Le stockage (art. R642-1 à D642-11)](#693)
+          - [Section 1 : Le Comité professionnel des stocks stratégiques pétroliers (art. R642-1 à R642-10)](#694)
+          - [Section 2 : Dispositions diverses (art. D642-11)](#695)
+      - [TITRE VI : LES BIOCARBURANTS ET BIOLIQUIDES (art. D661-2 à R662-4)](#696)
+        - [Chapitre Ier : Obligations relatives aux biocarburants et aux bioliquides (art. D661-2 à R661-11)](#697)
+        - [Chapitre II : Contrôles et sanctions administratives (art. R662-1 à R662-4)](#698)
+      - [TITRE VII : LES DISPOSITIONS PARTICULIÈRES À L'OUTRE-MER (art. R671-1 à R671-31)](#699)
+        - [Chapitre unique (art. R671-1 à R671-31)](#700)
+          - [Section 1 : Dispositions relatives au département de la Guadeloupe et aux collectivités territoriales de la Guyane et de la Martinique (art. R671-1 à R671-13)](#701)
+            - [Sous-section 1 : Dispositions générales (art. R671-1)](#702)
+            - [Sous-section 2 : Dispositions relatives aux prix des produits pétroliers autres que le gaz de pétrole liquéfié (art. R671-2 à R671-5)](#703)
+            - [Sous-section 3 : Dispositions relatives aux prix du gaz de pétrole liquéfié (art. R671-6 à R671-10)](#704)
+            - [Sous-section 4 : Dispositions relatives aux activités de stockage de produits pétroliers (art. R671-11 à R671-12)](#705)
+            - [Sous-section 5 : Dispositions relatives à l'information du public (art. R671-13)](#706)
+          - [Section 2 : Dispositions relatives au département de La Réunion (art. R671-14 à R671-22)](#707)
+            - [Sous-section 1 : Dispositions générales (art. R671-14)](#708)
+            - [Sous-section 2 : Dispositions relatives aux prix des produits pétroliers (art. R671-15 à R671-17)](#709)
+            - [Sous-section 3 : Dispositions relatives à la distribution des produits pétroliers (art. R671-18 à R671-19)](#710)
+            - [Sous-section 4 : Dispositions relatives aux activités de stockage de produits pétroliers (art. R671-20 à R671-21)](#711)
+            - [Sous-section 5 : Dispositions relatives à l'information du public (art. R671-22)](#712)
+          - [Section 3 : Dispositions relatives au Département de Mayotte (art. R671-23 à R671-31)](#713)
+            - [Sous-section 1 : Dispositions générales (art. R671-23)](#714)
+            - [Sous-section 2 : Dispositions relatives aux prix des produits pétroliers (art. R671-24 à R671-26)](#715)
+            - [Sous-section 3 : Dispositions relatives à la distribution des produits pétroliers (art. R671-27 à R671-28)](#716)
+            - [Sous-section 4 : Dispositions relatives aux activités de stockage de produits pétroliers (art. R671-29 à R671-30)](#717)
+            - [Sous-section 5 : Dispositions relatives à l'information du public (art. R671-31)](#718)
+    - [LIVRE VII : LES DISPOSITIONS RELATIVES AUX RÉSEAUX DE CHALEUR ET DE FROID (art. R711-1 à R721-20)](#719)
+      - [TITRE Ier : LA PRODUCTION DE CHALEUR ET LE CLASSEMENT DES RÉSEAUX DE CHALEUR ET DE FROID (art. R711-1 à R712-12)](#720)
+        - [Chapitre Ier : La production de chaleur (art. R711-1 à R711-4)](#721)
+        - [Chapitre II : Le classement des reseaux de chaleur et de froid (art. R712-1 à R712-12)](#722)
+          - [Section 1 : Principes et modalités de classement des réseaux de chaleur et de froid (art. R712-1 à R712-5)](#723)
+          - [Section 2 : Effets du classement d'un réseau de chaleur ou de froid (art. R712-6 à R712-9)](#724)
+          - [Section 3 : Abrogation de la décision de classement (art. R712-10)](#725)
+          - [Section 4 : Information du public (art. L712-11)](#726)
+          - [Section 5 : Constatation des infractions (art. R712-12)](#727)
+      - [TITRE II : LE PASSAGE DES CANALISATIONS DE TRANSPORT ET DE DISTRIBUTION DE CHALEUR ET DE FROID (art. R721-1 à R721-20)](#728)
+        - [Chapitre unique (art. R721-1 à R721-20)](#729)
+          - [Section 1 : Procédure régissant la déclaration d'intérêt général des canalisations de transport de distribution de chaleur (art. R721-1 à R721-6)](#730)
+          - [Section 2 : Les servitudes (art. D721-13 à R721-12)](#731)
+          - [Section 3 : Construction, mise en service, exploitation et contrôle (art. R721-14 à R721-20)](#732)
 # Partie législative<a id=1></a>
 
 ## LIVRE IER : L'ORGANISATION GENERALE  DU SECTEUR DE L'ENERGIE<a id=2></a>
@@ -56439,115 +56446,274 @@ _Créé par_:
 
 Au sens et pour l'application du présent chapitre : 
 
-1° Le " risque de défaillance " est le risque de rupture de l'équilibre entre l'offre et la demande d'électricité en France
+1° Un acteur obligé est une personne soumise à l'obligation de capacité au sens du présent chapitre. Il s'agit de chaque
+fournisseur dont des clients sont situés sur le territoire de la France métropolitaine continentale, ainsi que des
+consommateurs finals et des gestionnaires de réseaux pour leurs pertes situées sur le territoire de la France métropolitaine
+continentale qui, pour tout ou partie de leur consommation, ne s'approvisionnent pas auprès d'un fournisseur, et des
+consommateurs finals auxquels l'obligation de capacité a été transférée, le cas échéant, en application de l'article L.
+335-5 ; 
+
+2° Le " risque de défaillance " est le risque de rupture de l'équilibre entre l'offre et la demande d'électricité en France
 métropolitaine continentale ; 
 
-2° Une " période de pointe " désigne les heures d'une année de livraison durant lesquelles le risque de défaillance est le
+3° Une " période de pointe " désigne les heures d'une année de livraison durant lesquelles le risque de défaillance est le
 plus élevé, en particulier celles durant lesquelles la consommation nationale est la plus élevée. 
 
 La " période de pointe PP1 " est la période de pointe servant à calculer la puissance de référence des consommateurs ; la "
-période de pointe PP2 " est la période de pointe utilisée dans les méthodes de certification et de contrôle des capacités. 
+période de pointe PP2 " est la période de pointe utilisée dans les méthodes de certification et de contrôle des capacités et
+des interconnexions. 
 
 Les périodes de pointe PP1 et PP2 sont déterminées de manière à ne pas s'écarter significativement du principe de non-
 discrimination entre la réduction du montant de l'obligation de capacité par une réduction de la consommation et la
 certification de capacité d'effacement. 
 
-3° Une " année de livraison " est une période de douze mois, pouvant ne pas coïncider avec l'année civile, incluant une
-période de pointe PP1 et une période de pointe PP2. La première année de livraison commence en 2016 et couvre les périodes de
-pointe de l'hiver 2016-2017.
+4° Une " année de livraison " est une période de douze mois, pouvant ne pas coïncider avec l'année civile, incluant une
+période de pointe PP1 et une période de pointe PP2. 
 
-4° Une " capacité " est une capacité de production ou une capacité correspondant à l'effacement d'un consommateuR.
-L'installation de production ou le consommateur en effacement est situé en France métropolitaine continentale et est
-raccordé, soit directement en bénéficiant d'un contrat d'accès au réseau, soit indirectement par un contrat de service de
-décompte, au réseau public de transport d'électricité ou au réseau public de distribution. 
+5° Une capacité correspond à une installation de production ou à un consommateur réalisant des effacements, situé sur le
+territoire de la France métropolitaine continentale ou d'un Etat participant interconnecté, dans le cadre de l'application
+des articles R. 335-10 à R. 335-18. Une installation de production ou un consommateur réalisant des effacements est raccordé
+au réseau public de transport d'électricité ou au réseau public de distribution dans l'Etat où est situé cette installation
+ou ce consommateur, soit directement en bénéficiant d'un contrat d'accès au réseau, soit indirectement lorsque l'installation
+de production est raccordée à l'installation intérieure d'un site lui-même raccordé directement au réseau public de transport
+ou de distribution dans l'Etat où est situé cette installation ou ce consommateur et que cette installation intérieure est
+équipée d'un dispositif de comptage géré par le gestionnaire d'un de ces réseaux publics. 
 
-5° L'" obligation de capacité " désigne l'obligation, pour tout fournisseur, de contribuer à la sécurité d'approvisionnement
-en électricité conformément à l'article L. 335-1 en disposant, pour chaque année de livraison, de garanties de capacité
-valables pour cette année de livraison, dont le montant est calculé en fonction de la puissance de référence de ses clients
-et d'un coefficient de sécurité tenant compte du risque de défaillance. 
+L'installation de production ou le consommateur réalisant des effacements ne peut prétendre à la certification de capacité au
+titre des volumes autoconsommés. 
 
-6° La " puissance de référence " d'un consommateur d'électricité est une puissance normative, fondée sur la consommation de
+6° Une courbe de demande administrée, prenant en compte s'il y a lieu un coefficient d'abattement, est élaborée par le
+gestionnaire du réseau de transport français pour chaque appel d'offres réalisé au titre du dispositif de contractualisation
+pluriannuelle prévu à l'article R. 335-71. Elle est utilisée pour sélectionner les capacités lauréates du dispositif d'appel
+d'offres de contractualisation pluriannuelle. Elle permet également de déterminer le prix garanti dont bénéficient les
+éventuelles capacités lauréates. L'appel d'offres n'est organisé que si la courbe de demande administrée garantit que la
+sélection de lauréats s'accompagnerait d'un bénéfice économique pour la collectivité. 
+
+7° Conformément à l'article L. 335-1, l'obligation de capacité désigne l'obligation, pour tout fournisseur dont des clients
+sont situés sur le territoire de la France métropolitaine continentale, de contribuer à la sécurité d'approvisionnement en
+électricité en disposant, pour chaque année de livraison, de garanties de capacité valables pour cette année de livraison. 
+
+Les consommateurs finals et les gestionnaires de réseaux pour leurs pertes situées sur le territoire de la France
+métropolitaine continentale qui, pour tout ou partie de leur consommation, ne s'approvisionnent pas auprès d'un fournisseur
+ont également obligation de contribuer à la sécurité d'approvisionnement en électricité et sont de ce fait également soumis à
+l'obligation de capacité. 
+
+Le montant de l'obligation de capacité d'un acteur obligé est calculé en fonction :
+
+- de la puissance de référence des consommateurs et des gestionnaires de réseaux pour leurs pertes, pour lesquels l'acteur
+obligé est responsable de la couverture de l'obligation de capacité, conformément aux articles L. 335-1 et L. 335-5 ;
+
+- d'un coefficient de sécurité tenant compte du risque de défaillance. 
+
+8° Le prix garanti est le prix, permettant le calcul de la compensation devant être perçue, ou de la somme devant être
+restituée, pour une année de livraison donnée, par un lauréat de l'appel d'offres, comme prévu à l'article R. 335-80.
+
+9° La " puissance de référence " d'un consommateur d'électricité est une puissance normative, fondée sur la consommation de
 ce consommateur durant la période de pointe PP1 et reflétant sa contribution au risque de défaillance pendant l'année de
-livraison considérée. Elle sert à calculer le montant de l'obligation de capacité des fournisseurs. 
+livraison considérée. Elle sert à calculer le montant de l'obligation de capacité des acteurs obligés. 
 
-7° Une " garantie de capacité " est un bien meuble incorporel, fongible, échangeable et cessible, correspondant à une
-puissance unitaire normative, émis par le gestionnaire du réseau public de transport d'électricité et délivré à un exploitant
-de capacité à la suite de la certification d'une capacité et valable pour une année de livraison donnée. 
+10° Une garantie de capacité est un bien meuble incorporel, fongible et cessible, correspondant à une puissance unitaire
+normative, émis par le gestionnaire du réseau de transport français, valable pour une année de livraison donnée. 
 
-Une garantie de capacité ne confère à son détenteur aucun droit d'accès à l'énergie produite par la capacité ayant donné lieu
-à sa délivrance. 
+Les garanties de capacité sont délivrées :
 
-8° Le " contrat de certification de capacité " est le contrat conclu par chaque exploitant de capacité avec le gestionnaire
-du réseau public de transport d'électricité en application de l'article L. 335-3. Par ce contrat, l'exploitant s'engage sur
-le caractère effectif de sa capacité. 
+- soit à un exploitant de capacité à la suite de la certification d'une capacité ;
 
-Le niveau de capacité certifié est le montant de garanties de capacité émis par le gestionnaire de réseau de transport et
-délivré à l'exploitant d'une capacité certifiée, pour une année de livraison donnée. Il reflète la contribution de cette
-capacité à la réduction du risque de défaillance pendant l'année de livraison. Il tient compte notamment de la disponibilité
-prévisionnelle de celle-ci durant la période de pointe PP2 de l'année de livraison. 
+- soit au gestionnaire du réseau de transport français à la suite de la certification d'une interconnexion régulée ;
 
-Le contrat de certification est indissociable de la capacité sur laquelle il porte. En particulier, si cette capacité est
-cédée à un autre exploitant, le contrat de certification ainsi que les engagements afférents sont intégralement transférés au
-nouvel exploitant. 
+- soit au gestionnaire de l'interconnexion dérogatoire à la suite de la certification de cette interconnexion. 
 
-9° Le " responsable de périmètre de certification " est la personne morale tenue pour responsable des engagements, pris par
-les exploitants des capacités dans son périmètre, relatifs au règlement de la pénalité mentionnée à l'article L. 335-3. Il
-est soumis, à ce titre, au règlement financier relatif à l'écart du responsable de périmètre de certification. La qualité de
-responsable de périmètre de certification s'acquiert par signature d'un contrat dédié avec le gestionnaire du réseau public
-de transport d'électricité. Toute capacité est rattachée à un périmètre de certification par un contrat conclu entre son
-exploitant et le responsable de périmètre de certification.
+Une garantie de capacité ne confère à son détenteur aucun droit d'accès à l'énergie produite par la capacité dans le cas de
+la certification d'une capacité ou transitant sur l'interconnexion dans le cas de la certification d'une interconnexion. 
 
-10° Le " rééquilibrage d'un fournisseur " est la modification, par le gestionnaire du réseau public de transport
-d'électricité, avant la date limite de recouvrement des garanties de capacité, de l'obligation d'un fournisseur, accompagnée
-d'un règlement financier.
+11° Le contrat de certification d'une capacité est le contrat conclu par chaque exploitant de capacité avec le gestionnaire
+du réseau de transport français en application de l'article L. 335-3. Par ce contrat, l'exploitant s'engage sur la
+disponibilité effective de sa capacité. Conformément à cet engagement, le contrat de certification fixe le niveau de capacité
+certifié de la capacité concernée. 
 
-11° Le " règlement financier relatif au rééquilibrage d'un fournisseur " est la transaction financière réalisée entre ce
-fournisseur et le gestionnaire du réseau de transport à l'occasion d'un rééquilibrage, pour une année de livraison donnée. 
+Le contrat de certification est indissociable de la capacité sur laquelle il porte. En particulier, sous réserve des
+dispositions du dernier alinéa de l'article L. 335-5, si cette capacité est cédée à un autre exploitant, le contrat de
+certification ainsi que les engagements afférents sont intégralement transférés au nouvel exploitant. 
 
-12° Le " rééquilibrage d'un exploitant de capacité " désigne une modification du niveau de certification d'une capacité ; il
-se traduit par la signature d'un nouveau contrat de certification remplaçant et annulant le contrat en vigueur. 
+12° Le contrat de certification d'une interconnexion dérogatoire est le contrat conclu par chaque gestionnaire
+d'interconnexion dérogatoire avec le gestionnaire du réseau de transport français. Par ce contrat, le gestionnaire de
+l'interconnexion dérogatoire s'engage sur la disponibilité effective de son interconnexion. Conformément à cet engagement, le
+contrat de certification fixe le niveau de capacité certifié de l'interconnexion dérogatoire concernée. 
 
-13° Le " niveau de capacité effectif " reflète, pour une année de livraison donnée, la contribution réelle de la capacité à
-la réduction du risque de défaillance pour une année de livraison donnée. 
+Le contrat de certification est indissociable de l'interconnexion sur laquelle il porte. En particulier, si cette
+interconnexion dérogatoire est cédée à un autre gestionnaire d'interconnexion, le contrat de certification ainsi que les
+engagements afférents sont intégralement transférés au nouveau gestionnaire d'interconnexion de l'interconnexion
+dérogatoire. 
 
-14° Le " règlement financier relatif à l'écart d'un responsable du périmètre de certification " désigne la transaction
-financière réalisée par ce responsable lorsque le niveau de capacité effectif total dans son périmètre diffère du niveau de
-capacité certifié total ou lorsqu'un rééquilibrage d'un des exploitants de capacité est intervenu dans son périmètre. 
+13° La déclaration de certification d'une interconnexion régulée est une déclaration signée par le gestionnaire du réseau de
+transport français par laquelle il s'engage unilatéralement sur la disponibilité effective de l'interconnexion. Conformément
+à cet engagement, la déclaration de certification fixe le niveau de capacité certifié de l'interconnexion régulée concernée. 
 
-15° Le " registre des capacités certifiées " est un registre tenu par le gestionnaire du réseau public de transport
-d'électricité, à caractère public, répertoriant les capacités certifiées et leurs caractéristiques. 
+14° Les Etats participants interconnectés sont : 
+
+a) Les Etats membres de l'Union européenne dont le réseau électrique est relié par une interconnexion au réseau électrique de
+la France métropolitaine continentale ; 
+
+b) Les Etats non membres de l'Union européenne, dont le réseau électrique est directement relié par une interconnexion au
+réseau électrique de la France métropolitaine continentale, et ayant mis en place un mécanisme de capacité, valorisant
+l'ensemble des contributions à leur sécurité d'approvisionnement, notamment les contributions de leurs interconnexions avec
+la France métropolitaine continentale, ou celles des capacités françaises. La liste de ces Etats est établie par arrêté du
+ministre chargé de l'énergie. 
+
+15° Le gestionnaire du réseau de transport français est le gestionnaire du réseau public de transport d'électricité de la
+France métropolitaine continentale. 
+
+16° Une interconnexion est une ligne de transport d'électricité qui traverse ou enjambe une frontière entre des Etats et qui
+relie les réseaux de transport des Etats. Une interconnexion peut être régulée ou dérogatoire. 
+
+17° Une interconnexion régulée est une interconnexion ne bénéficiant pas, au titre de l'article 17 du règlement (CE) n°
+714/2009, d'une dérogation aux obligations imposées aux gestionnaires de réseau de transport par ce règlement et la directive
+2009/72/ CE. 
+
+18° Une interconnexion dérogatoire est une interconnexion bénéficiant, au titre de l'article 17 du règlement (CE) n°
+714/2009, d'une dérogation aux obligations imposées aux gestionnaires de réseau de transport par ce règlement et la directive
+2009/72/ CE. 
+
+19° Un mécanisme de capacité est un dispositif mis en place à l'initiative des pouvoirs publics, visant à garantir la
+disponibilité de capacités de production ou d'effacement afin de garantir la sécurité d'approvisionnement en électricité sur
+le territoire national. 
+
+20° Le mécanisme de capacité français est le dispositif de contribution des acteurs obligés à la sécurité d'approvisionnement
+en électricité régi par les articles L. 321-16 à L. 321-17, L. 335-1 à L. 335-7 et R. 335-1 à D. 335-89.
+
+21° Le niveau de capacité certifié d'une capacité ou d'une interconnexion dérogatoire ou régulée reflète, pour une année de
+livraison donnée, la contribution de cette capacité ou de cette interconnexion à la réduction du risque de défaillance
+pendant l'année de livraison. Il est calculé à partir de la disponibilité prévisionnelle de la capacité ou de
+l'interconnexion régulée ou dérogatoire durant la période de pointe PP2 de l'année de livraison considérée et il figure dans
+le contrat de certification de la capacité ou de l'interconnexion dérogatoire, ou dans la déclaration de certification de
+l'interconnexion régulée. 
+
+Le montant des garanties de capacité émis par le gestionnaire du réseau de transport français, égal au niveau de capacité
+certifié, est délivré :
+
+- à l'exploitant ou à une personne mandatée par lui, à la suite de la conclusion du contrat de certification dans le cas de
+la certification d'une capacité ;
+
+- au gestionnaire de l'interconnexion dérogatoire ou à une personne mandatée par lui, à la suite de la conclusion du contrat
+de certification d'une interconnexion dérogatoire ;
+
+- au gestionnaire du réseau de transport français lui-même à la suite de la conclusion du contrat de certification d'une
+interconnexion régulée. 
+
+Le niveau de capacité certifié peut être modifié à la hausse ou à la baisse à la suite d'un rééquilibrage dans les conditions
+prévues aux articles R. 335-36 à R. 335-40 et R. 335-45.
+
+22° La prise en compte des contributions transfrontalières à la sécurité d'approvisionnement en France, lorsqu'elle est
+explicite, consiste : 
+
+a) Soit à certifier une interconnexion régulée ; 
+
+b) Soit à certifier une interconnexion dérogatoire ; 
+
+c) Soit à certifier des capacités situées sur le territoire des Etats participants interconnectés. 
+
+23° La prise en compte des contributions transfrontalières à la sécurité d'approvisionnement en France métropolitaine
+continentale, lorsqu'elle est implicite, consiste à leur prise en compte uniquement dans la détermination de l'obligation de
+capacité des acteurs obligés via l'application du coefficient de sécurité mentionné à l'article R. 335-8.
+
+24° La procédure approfondie de participation transfrontalière, décrite aux articles R. 335-10 à R. 335-18, est une procédure
+de prise en compte explicite de certaines contributions de l'interconnexion du marché français avec les autres marchés
+européens à la sécurité d'approvisionnement en France. Applicable à partir de l'année de livraison 2019, elle consiste en la
+certification d'installations de production et de consommateurs réalisant des effacements sur le territoire d'un Etat
+participant interconnecté, ayant acquis au préalable des tickets d'accès au marché de capacité français. 
+
+Cette procédure ne peut être mise en œuvre, pour une année de livraison donnée, que si une convention entre le gestionnaire
+du réseau de transport français et le ou les gestionnaires de réseau de transport de l'Etat participant interconnecté a été
+signée, et annexée aux règles du mécanisme de capacité par un arrêté du ministre chargé de l'énergie, avant une date limite
+fixée dans les règles du mécanisme de capacité. 
+
+25° La procédure simplifiée de participation transfrontalière, décrite aux articles R. 335-19 à R. 335-22, est une procédure
+de prise en compte explicite de certaines contributions de l'interconnexion du marché français avec les autres marchés
+européens à la sécurité d'approvisionnement en France. Elle peut être appliquée à partir de l'année de livraison 2019 et
+permet la certification des interconnexions régulées ou dérogatoires de la France avec un Etat participant interconnecté. 
+
+Cette procédure n'est applicable que lorsque les conditions d'application de la procédure approfondie ne sont pas
+satisfaites. 
+
+26° Le responsable de périmètre de certification est la personne morale tenue pour responsable des engagements, pris par les
+personnes morales ayant conclu des contrats de certification des capacités ou des interconnexions dans son périmètre,
+relatifs au règlement de la pénalité mentionnée à l'article L. 335-3. Il est soumis, à ce titre, au règlement financier
+relatif à l'écart constaté sur son périmètre de certification. La qualité de responsable de périmètre de certification
+s'acquiert par signature d'un contrat dédié avec le gestionnaire du réseau de transport français, ou d'une déclaration dédiée
+dans le cas où le gestionnaire du réseau de transport français serait responsable de périmètre de certification pour la
+certification des interconnexions régulées. Toute capacité est rattachée à un périmètre de certification par un contrat
+conclu entre son exploitant et le responsable de périmètre de certification. Toute interconnexion régulée certifiée est
+rattachée à un périmètre de certification par une déclaration du gestionnaire du réseau de transport français. Toute
+interconnexion dérogatoire certifiée est rattachée à un périmètre de certification par un contrat conclu entre son
+gestionnaire et le responsable de périmètre de certification. 
+
+27° Le " rééquilibrage d'un acteur obligé " est la modification, par le gestionnaire du réseau de transport français, avant
+la date limite de recouvrement des garanties de capacité, de l'obligation d'un fournisseur, accompagnée d'un règlement
+financier. 
+
+28° Le règlement financier relatif au rééquilibrage d'un acteur obligé est la transaction financière réalisée entre cet
+acteur obligé et le gestionnaire du réseau de transport français, au titre des articles R. 335-46 à R. 335-50, à l'occasion
+d'un rééquilibrage, pour une année de livraison donnée. 
+
+29° Le rééquilibrage d'un exploitant de capacité ou, dans le cadre de la procédure simplifiée de participations
+transfrontalières, du gestionnaire d'une interconnexion dérogatoire ou régulée, est une modification du niveau de capacité
+certifié de la capacité ou de l'interconnexion concernée. 
+
+Il se traduit :
+
+- par la signature d'un nouveau contrat de certification remplaçant et annulant le contrat en vigueur dans le cas d'une
+capacité ou d'une interconnexion dérogatoire ;
+
+- par la signature d'une nouvelle déclaration de certification, remplaçant et annulant la précédente dans le cas d'une
+interconnexion régulée. 
+
+30° Le " niveau de capacité effectif " reflète, pour une année de livraison donnée, la contribution réelle d'une capacité ou
+d'une interconnexion à la réduction du risque de défaillance pour une année de livraison donnée. 
+
+31° Le " règlement financier d'un responsable du périmètre de certification " désigne la transaction financière réalisée par
+ce responsable lorsque le niveau de capacité effectif total dans son périmètre diffère du niveau de capacité certifié total
+ou lorsqu'un rééquilibrage d'un des exploitants de capacité ou d'un des gestionnaires d'interconnexion dérogatoire ou du
+gestionnaire du réseau de transport français est intervenu dans son périmètre. 
+
+32° Le " registre des capacités certifiées " est un registre tenu par le gestionnaire du réseau de transport français, à
+caractère public, répertoriant les capacités et les interconnexions certifiées et leurs caractéristiques. 
 
 Toute capacité figurant dans ce registre pour une année de livraison à venir, présente ou échue est une capacité existante. 
 
-Une capacité en projet, dont l'exploitation est envisagée et qui ne figure dans le registre pour aucune année de livraison,
-est une capacité nouvelle. 
+Une capacité, dont l'exploitation est envisagée et qui ne figure dans le registre pour aucune année de livraison, est une
+capacité nouvelle. 
 
-16° Le " registre des garanties de capacité " est un registre tenu par le gestionnaire du réseau public de transport
-d'électricité, à caractère confidentiel, comptabilisant de manière sécurisée toutes les opérations de délivrance, de
-transaction et de destruction de garanties de capacité. Il comporte un compte pour chaque personne qui détient des garanties
-de capacité. La propriété d'une garantie de capacité résulte de son inscription, par le gestionnaire du réseau public de
-transport d'électricité, au compte du propriétaire. 
+33° Le " registre des garanties de capacité " est un registre tenu par le gestionnaire du réseau de transport français, à
+caractère confidentiel, comptabilisant de manière sécurisée toutes les opérations de délivrance, de transaction-au comptant
+ou à terme-et de destruction de garanties de capacité. Il comporte un compte pour chaque personne qui détient des garanties
+de capacité. La propriété d'une garantie de capacité résulte de son inscription, par le gestionnaire du réseau de transport
+français, au compte du propriétaire. 
 
-17° Les " règles du mécanisme de capacité " comprennent : 
+34° Les " règles du mécanisme de capacité français " comprennent : 
 
 a) Les dispositions déterminant les années de livraison et les périodes de pointe PP1 et PP2 ; 
 
-b) L'ensemble des dispositions relatives à l'obligation de capacité, notamment au mode de calcul de la puissance de référence
-et à la détermination de l'obligation des fournisseurs, à la puissance unitaire de la garantie de capacité et au recouvrement
-des garanties de capacité ; 
+b) Des dispositions relatives à l'obligation de capacité, notamment au mode de calcul de la puissance de référence et à la
+détermination de l'obligation des fournisseurs, à la puissance unitaire de la garantie de capacité et au recouvrement des
+garanties de capacité ; 
 
-c) L'ensemble des dispositions relatives à la certification de capacité, notamment les méthodes de certification et les
-conditions du contrôle des capacités certifiées, les modalités d'adaptation prévue par l'article L. 321-16 pour la
-certification des capacités dont la participation à la sécurité d'approvisionnement est réduite, le rééquilibrage des
-exploitants de capacités et le règlement financier relatif à ce rééquilibrage.
+c) Des dispositions relatives à la certification de capacité, notamment les méthodes de certification et les conditions du
+contrôle des capacités certifiées, les modalités d'adaptation prévue par l'article L. 321-16 pour la certification des
+capacités dont la participation à la sécurité d'approvisionnement est réduite, le rééquilibrage des exploitants de capacités,
+des gestionnaires d'interconnexion dérogatoire, et du gestionnaire du réseau de transport français ; 
+
+d) Des dispositions relatives aux règlements financiers relatifs aux rééquilibrages des acteurs obligés, ainsi qu'aux
+règlements financiers des responsables de périmètre de certification. 
+
+35° Les tickets d'accès au mécanisme de capacité français sont des biens meubles, incorporels et correspondant à une
+puissance unitaire normative, mis en vente initialement par le gestionnaire du réseau de transport français et pouvant être
+acquis par des exploitants de capacités situés sur le territoire d'Etats participants interconnectés lors d'enchères dédiées.
+Les tickets d'accès sont fongibles au sein d'un Etat participant interconnecté donné. Ils sont valables pour une année de
+livraison donnée.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
-
-  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-_Créé par_:
 
   - Décret n°2015-1823 du 30 décembre 2015 - art.
 
@@ -56562,6 +56728,7 @@ _Cité par_:
   - Code de l'énergie - art. R335-15 (V)
   - Code de l'énergie - art. R335-2 (V)
   - Code de l'énergie - art. R335-21 (V)
+  - Code de l'énergie - art. R335-31 (V)
   - Code de l'énergie - art. R335-36 (V)
   - Code de l'énergie - art. R335-40 (V)
   - Code de l'énergie - art. R335-47 (V)
@@ -56577,51 +56744,73 @@ _Cité par_:
   - Code de l'énergie - art. R335-81 (V)
   - Code de l'énergie - art. R335-87 (V)
 
+_Modifié par_:
+
+  - Décret n°2018-997 du 15 novembre 2018 - art. 2
+
 _Cite_:
 
-  - Code de l'énergie - art. L321-16 (V)
-  - Code de l'énergie - art. L335-1 (V)
-  - Code de l'énergie - art. L335-3 (V)
+  - Code de l'énergie - art. L321-16
+  - Code de l'énergie - art. L321-17
+  - Code de l'énergie - art. L335-1
+  - Code de l'énergie - art. L335-5
+  - Code de l'énergie - art. L335-7
 
 
 ###### Article R335-2
 
 Les règles du mécanisme de capacité mentionnées à l'article R. 335-1 sont approuvées par le ministre chargé de l'énergie, sur
-proposition du gestionnaire du réseau public de transport d'électricité, après avis de la Commission de régulation de
-l'énergie. Elles sont transparentes et non discriminatoires.
+proposition du gestionnaire de réseau de transport français, après avis de la Commission de régulation de l'énergie. Elles
+sont transparentes et non discriminatoires.
+
+Les règles peuvent prévoir que certaines sections ou dispositions qu'elles contiennent puissent être modifiées sur
+proposition du gestionnaire de réseau de transport français, après que la Commission de régulation de l'énergie a rendu au
+ministre en charge de l'énergie son avis sur cette proposition et sous réserve que le ministre en charge de l'énergie ne
+s'oppose pas aux modifications proposées dans un délai d'un mois à compter de la publication de cet avis.
 
 **Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2015-1823 du 30 décembre 2015 - art.
 
 _Cité par_:
 
   - Arrêté du 28 avril 2011 - art. 7-1 (V)
   - Arrêté du 14 novembre 2016 - art. 1
   - Arrêté du 23 avril 2018 - art. (V)
+  - Code de l'énergie - art. R335-9 (V)
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-_Créé par_:
-
-  - Décret n°2015-1823 du 30 décembre 2015 - art.
+  - Décret n°2018-997 du 15 novembre 2018 - art. 3
 
 _Cite_:
 
-  - Code de l'énergie - art. R335-1 (V)
+  - Code de l'énergie - art. R335-1
 
 
-##### Section 2 : Obligations de capacité des fournisseurs d'électricité<a id=533></a>
+#### Chapitre V : La contribution des acteurs obligés à la sécurité d'approvisionnement en électricité<a id=533></a>
+
+##### Section 1 : Définitions<a id=534></a>
+
+##### Section 2 : Obligations de capacité des acteurs obligés<a id=535></a>
 
 ###### Article R335-3
 
-L'obligation de capacité des fournisseurs est établie, pour chaque année de livraison, par le gestionnaire du réseau de
-transport d'électricité à partir de la puissance de référence des clients de chaque fournisseur, qu'il calcule selon une
-méthode permettant de satisfaire l'objectif de sécurité d'approvisionnement en électricité mentionné à l'article L. 335-2.
+L'obligation de capacité des acteurs obligés est établie, pour chaque année de livraison, par le gestionnaire du réseau de
+transport français. 
 
-Les interconnexions du marché français de l'électricité avec les autres marchés européens sont prises en compte dans la
-détermination de l'obligation de capacité. Leur effet est intégré dans la détermination du coefficient de sécurité tenant
-compte du risque de défaillance.
+L'obligation de capacité d'un acteur obligé est calculée comme le produit : 
+
+1° De la puissance de référence des consommateurs et des gestionnaires de réseaux pour leurs pertes, pour lesquels l'acteur
+obligé est responsable de la couverture de l'obligation de capacité, pour tout ou partie de leurs consommations, conformément
+aux articles L. 335-1 et L. 335-5 ; 
+
+2° D'un coefficient de sécurité déterminé dans les modalités prévues à l'article R. 335-9. 
+
+Le gestionnaire du réseau de transport français calcule l'obligation de capacité selon une méthode permettant de satisfaire
+l'objectif de sécurité d'approvisionnement en électricité mentionné à l'article L. 335-2.
 
 **Liens relatifs à cet article**
 
@@ -56629,29 +56818,31 @@ _Codifié par_:
 
   - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2015-1823 du 30 décembre 2015 - art.
+  - Décret n°2018-997 du 15 novembre 2018 - art. 4
 
 _Cite_:
 
-  - Code de l'énergie - art. L335-2 (V)
+  - Code de l'énergie - art. L335-1
+  - Code de l'énergie - art. L335-5
 
-
-##### Sous-section 1 : Calcul de la puissance de référence<a id=534></a>
 
 ###### Article R335-4
 
-Pour chaque année de livraison, la puissance de référence est calculée à partir de la consommation constatée de chaque
-consommateur et des gestionnaires de réseaux publics de transport et de distribution d'électricité pour leurs pertes.
+Dans le cadre du calcul de l'obligation de capacité des acteurs obligés, pour chaque année de livraison, la puissance de
+référence d'un acteur obligé est calculée à partir des consommations constatées, pour lesquelles l'acteur obligé est
+responsable de la couverture de l'obligation de capacité, conformément aux articles L. 335-1 et L. 335-5. Ces consommations
+peuvent être, en tout ou partie, celles de consommateurs finals ou celles de gestionnaires de réseaux de transport ou de
+distribution d'électricité pour leurs pertes. 
 
-Pour ce calcul :
+Pour ce calcul : 
 
 1° La consommation constatée de chaque consommateur et des gestionnaires de réseaux publics de transport et de distribution
-d'électricité pour leurs pertes est corrigée pour prendre en compte la sensibilité de leur consommation à la température ;
+d'électricité pour leurs pertes est corrigée pour prendre en compte la sensibilité de leur consommation à la température ; 
 
-2° La consommation constatée d'un client qui a contribué à la constitution d'une capacité d'effacement certifiée est corrigée
-de la puissance effacée conformément aux règles relatives au mécanisme de capacité.
+2° La consommation constatée d'un consommateur final qui a contribué à la constitution d'une capacité d'effacement certifiée
+est corrigée de la puissance effacée.
 
 **Liens relatifs à cet article**
 
@@ -56659,33 +56850,42 @@ _Codifié par_:
 
   - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-_Créé par_:
+**Liens**:
 
-  - Décret n°2015-1823 du 30 décembre 2015 - art.
+  - DEPLACE: Décret n°2018-997 du 15 novembre 2018 - art. 1
+
+_Modifié par_:
+
+  - Décret n°2018-997 du 15 novembre 2018 - art. 5
 
 _Cité par_:
 
-  - Code de l'énergie - art. R335-5 (M)
+  - Code de l'énergie - art. R335-5 (V)
 
 
 ###### Article R335-5
 
-Afin de permettre au gestionnaire du réseau public de transport d'électricité de déterminer les puissances de référence, les
-gestionnaires des réseaux publics de distribution d'électricité lui transmettent :
+Afin de permettre au gestionnaire du réseau de transport français de déterminer les puissances de référence des acteurs
+obligés, les gestionnaires des réseaux publics de distribution d'électricité lui transmettent :
 
-1° La puissance de référence des consommateurs finals raccordés à leurs réseaux, par fournisseur ; 
+1° La puissance de référence des consommateurs finals raccordés à leurs réseaux, par acteur obligé concerné ;
 
-2° Leur puissance de référence pour leurs pertes, par fournisseur. 
+2° Leur puissance de référence pour leurs pertes, par acteur obligé concerné.
 
 La puissance de référence transmise par les gestionnaires de réseaux publics de distribution d'électricité au gestionnaire du
-réseau public de transport d'électricité prend en compte les corrections mentionnées à l'article R. 335-4. Les données et
-paramètres utilisés pour réaliser ces corrections sont transmis par les gestionnaires de réseaux publics de distribution
-d'électricité au gestionnaire du réseau public de transport d'électricité en même temps que les puissances de référence
-auxquelles elles s'appliquent.
+réseau de transport français prend en compte les corrections mentionnées à l'article R. 335-4. Les données et paramètres
+utilisés pour réaliser ces corrections sont transmis par les gestionnaires de réseaux publics de distribution d'électricité
+au gestionnaire du réseau de transport français en même temps que les puissances de référence auxquelles elles s'appliquent.
 
-Des conventions conclues entre le gestionnaire du réseau public de transport d'électricité et les gestionnaires des réseaux
-publics de distribution d'électricité, approuvées par la Commission de régulation de l'énergie dans un délai de deux mois à
-compter du dépôt de la demande complète d'approbation, déterminent les modalités et délais de transmission de ces données.
+Des conventions conclues entre le gestionnaire du réseau de transport français et les gestionnaires des réseaux publics de
+distribution d'électricité, approuvées par la Commission de régulation de l'énergie dans un délai de deux mois à compter du
+dépôt de la demande complète d'approbation, déterminent les modalités et délais de transmission de ces données.
+
+Pour permettre le calcul de la puissance de référence d'un acteur obligé, les règles du mécanisme de capacité peuvent prévoir
+que les responsables d'équilibres dont le périmètre d'équilibre contient un ou des consommateurs finals situés sur le
+territoire de la France métropolitaine continentale transmettent les informations nécessaires à ce calcul sur le ou les
+fournisseurs en électricité de ce ou de ces consommateurs finals aux gestionnaires des réseaux publics de transport ou de
+distribution d'électricité.
 
 **Liens relatifs à cet article**
 
@@ -56693,9 +56893,13 @@ _Codifié par_:
 
   - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-_Créé par_:
+**Liens**:
 
-  - Décret n°2015-1823 du 30 décembre 2015 - art.
+  - DEPLACE: Décret n°2018-997 du 15 novembre 2018 - art. 1
+
+_Modifié par_:
+
+  - Décret n°2018-997 du 15 novembre 2018 - art. 6
 
 _Cite_:
 
@@ -56704,94 +56908,97 @@ _Cite_:
 
 ###### Article R335-6
 
-Pour les sous-catégories des petits consommateurs et des grands consommateurs au sens du chapitre VI du présent titre, la
-méthode de calcul de la consommation constatée est approuvée, sur proposition du gestionnaire du réseau public de transport
-d'électricité, par la Commission de régulation de l'énergie. 
+Les règles du mécanisme de capacité mentionnées à l'article R. 335-1 fixent la méthode de calcul de la consommation constatée
+mentionnée à l'article R. 335-4, en distinguant la méthode applicable aux consommateurs finals et celle applicable aux
+acheteurs pour leur pertes, au sens de l'article R. 336-5-1. 
 
-Pour la sous-catégorie des acheteurs pour les pertes, au sens du chapitre VI du présent titre, la consommation constatée est
-calculée, selon des modalités définies par la Commission de régulation de l'énergie, à partir du volume d'énergie vendu par
-le fournisseur aux gestionnaires de réseaux publics de transport et de distribution d'électricité pour leurs pertes dans le
-cadre des contrats spécifiques ouvrant droit à l'accès régulé à l'électricité nucléaire historique (ARENH), mentionnés à
-l'article R. 336-30 et des contrats distincts des contrats spécifiques ouvrant droit à l'ARENH.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-_Créé par_:
-
-  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-_Cite_:
-
-  - Code de l'énergie - art. R336-30 (V)
-
-
-###### Article R335-7
-
-Les frais exposés par les gestionnaires des réseaux publics de transport ou de distribution d'électricité pour le calcul et
-les transmissions de données liés à la puissance de référence sont à la charge des fournisseurs. Leurs modalités de
-recouvrement et leur niveau sont approuvés par la Commission de régulation de l'énergie.
+Dans le cas d'un acheteur pour les pertes s'approvisionnant pour tout ou partie de sa consommation auprès d'un fournisseur,
+ce calcul est réalisé à partir du volume d'énergie vendu par le fournisseur aux gestionnaires de réseaux de transport et de
+distribution d'électricité pour leurs pertes dans le cadre des contrats spécifiques ouvrant droit à l'accès régulé à
+l'électricité nucléaire historique (ARENH), mentionnés à l'article R. 336-30 et des contrats distincts des contrats
+spécifiques ouvrant droit à l'ARENH.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
-
-  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-_Créé par_:
-
-  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-
-##### Sous-section 2 : Rééquilibrage en capacité<a id=535></a>
-
-###### Article R335-8
-
-Un compte spécifique appelé " Fonds pour le règlement du rééquilibrage en capacité des fournisseurs " est ouvert par le
-gestionnaire du réseau de transport d'électricité dans ses écritures. Ce compte retrace et centralise les flux financiers
-entre les fournisseurs et le gestionnaire du réseau public de transport d'électricité relatifs au règlement financier
-mentionné à l'article R. 335-10. 
-
-Le gestionnaire du réseau public de transport d'électricité assure la gestion administrative, comptable et financière de ce
-compte selon les règles de la comptabilité privée. Il est notamment chargé de la facturation et du versement des règlements
-financiers relatifs au rééquilibrage en capacité des fournisseurs ainsi que de la constatation des éventuels défauts de
-paiement.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-_Créé par_:
 
   - Décret n°2015-1823 du 30 décembre 2015 - art.
 
 **Liens**:
 
-  - TRANSFERE: Décret n°2018-997 du 15 novembre 2018 - art. 1
+  - DEPLACE: Décret n°2018-997 du 15 novembre 2018 - art. 1
+
+_Modifié par_:
+
+  - Décret n°2018-997 du 15 novembre 2018 - art. 7
 
 _Cite_:
 
-  - Code de l'énergie - art. R335-10 (V)
+  - Code de l'énergie - art. R336-30
+
+
+###### Article R335-7
+
+Les frais exposés par les gestionnaires des réseaux publics de transport ou de distribution d'électricité pour le calcul et
+les transmissions de données liés à la puissance de référence sont à la charge des acteurs obligés. Leurs modalités de
+recouvrement et leur niveau sont approuvés par la Commission de régulation de l'énergie, sur proposition du gestionnaire du
+réseau de transport français et des gestionnaires des réseaux publics de distribution.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2015-1823 du 30 décembre 2015 - art.
+
+**Liens**:
+
+  - DEPLACE: Décret n°2018-997 du 15 novembre 2018 - art. 1
+
+_Modifié par_:
+
+  - Décret n°2018-997 du 15 novembre 2018 - art. 8
+
+
+###### Article R335-8
+
+Les contributions de l'interconnexion du marché français avec les autres marchés européens à la sécurité d'approvisionnement
+en France, hors contributions faisant l'objet d'une prise en compte explicite, sont prises en compte forfaitairement dans la
+détermination de l'obligation de capacité. A cette fin, leur effet est intégré dans le calcul du coefficient de sécurité
+tenant compte du risque de défaillance, mentionné à l'article R. 335-9.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2015-1823 du 30 décembre 2015 - art.
+
+_Modifié par_:
+
+  - Décret n°2018-997 du 15 novembre 2018 - art. 9
+
+_Cite_:
+
+  - Code de l'énergie - art. R335-10
 
 _Nouveaux textes_:
 
   - Code de l'énergie - art. R335-46 (V)
 
 
+##### Section 3 : Contributions transfrontalières à la sécurité d'approvisionnement en France<a id=536></a>
+
 ###### Article R335-9
 
-Pour chaque année de livraison, sont fixées :
+La valeur globale des contributions transfrontalières à la sécurité d'approvisionnement, les coefficients de répartition de
+cette valeur globale par Etat interconnecté avec le territoire de la France métropolitaine continentale, et le coefficient de
+sécurité sont déterminés, pour une année de livraison donnée, quatre années avant le début de l'année de livraison. Ils sont
+ensuite figés pour l'année de livraison considérée, sauf évolution du cadre réglementaire imposant une révision
+exceptionnelle d'un ou plusieurs de ces paramètres. 
 
-1° La date limite de cession des garanties de capacité, au-delà de laquelle les cessions de garanties de capacité ne sont
-plus possibles ;
-
-2° La date limite de recouvrement des garanties de capacité, à laquelle chaque fournisseur doit disposer du montant de
-garanties de capacité correspondant à son obligation ; elle est fixée au plus tard deux mois après la date limite de cession.
+Ces paramètres sont calculés par le gestionnaire du réseau de transport français sur la base d'une étude d'adéquation
+probabiliste sur les importations d'électricité en situation de défaillance en France, tenant compte du fonctionnement
+constaté des marchés européens de l'énergie en situation de tension. Ils sont approuvés conformément à la procédure décrite
+au second alinéa de l'article R. 335-2.
 
 **Liens relatifs à cet article**
 
@@ -56799,42 +57006,42 @@ _Codifié par_:
 
   - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-**Liens**:
-
-  - TRANSFERE: Décret n°2018-997 du 15 novembre 2018 - art. 1
+  - Décret n°2018-997 du 15 novembre 2018 - art. 10
 
 _Cité par_:
 
   - Code de l'énergie - art. R335-14 (V)
   - Code de l'énergie - art. R335-23 (V)
   - Code de l'énergie - art. R335-24 (V)
+  - Code de l'énergie - art. R335-25 (V)
   - Code de l'énergie - art. R335-32 (V)
   - Code de l'énergie - art. R335-38 (V)
+
+_Cite_:
+
+  - Code de l'énergie - art. R335-2 (V)
 
 _Nouveaux textes_:
 
   - Code de l'énergie - art. R335-47 (V)
 
 
+##### Sous-section 1 : Procédure approfondie de participation transfrontalière<a id=537></a>
+
 ###### Article R335-10
 
-Quinze jours au moins avant la date limite de cession des garanties de capacité, le gestionnaire du réseau public de
-transport d'électricité notifie à chaque fournisseur le montant de son obligation de capacité. Immédiatement après la date
-limite de cession des garanties de capacité, le gestionnaire du réseau public de transport d'électricité calcule, pour chaque
-fournisseur, le déséquilibre entre le montant de l'obligation de capacité du fournisseur et le montant de garanties de
-capacité figurant sur le compte du fournisseur dans le registre des garanties de capacité prévu à l'article R. 335-35. 
+La procédure approfondie de participation transfrontalière s'applique avec un Etat participant interconnecté lorsque les deux
+conditions suivantes sont remplies : 
 
-Au plus tard quinze jours après la date limite de cession, il notifie à chaque fournisseur son déséquilibre et le règlement
-financier correspondant à son rééquilibrage en capacité. Pour chaque fournisseur, le règlement financier de rééquilibrage est
-calculé à partir d'un prix unitaire : il est positif lorsque le fournisseur en est redevable et négatif lorsque le
-fournisseur a droit à ce règlement. 
+1° Une convention, telle que décrite à l'article R. 335-11, est signée entre le gestionnaire du réseau de transport français
+et le ou, le cas échéant et sous peine de nullité, tous les gestionnaires de réseau de transport de l'Etat participant
+interconnecté ; 
 
-Le règlement financier relatif au rééquilibrage en capacité des fournisseurs est proportionnel au déséquilibre du fournisseur
-et à un prix unitaire dépendant du signe du déséquilibre.
+2° Cette convention est signée après approbation de la Commission de régulation de l'énergie, et est homologuée par le
+ministre chargé de l'énergie avant une date limite définie dans les règles du mécanisme de capacité mentionnées à l'article
+R. 335-1.
 
 **Liens relatifs à cet article**
 
@@ -56842,20 +57049,18 @@ _Codifié par_:
 
   - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-**Liens**:
-
-  - TRANSFERE: Décret n°2018-997 du 15 novembre 2018 - art. 1
+  - Décret n°2018-997 du 15 novembre 2018 - art. 10
 
 _Cite_:
 
-  - Code de l'énergie - art. R335-35 (V)
+  - Code de l'énergie - art. R335-1
+  - Code de l'énergie - art. R335-11
 
 _Cité par_:
 
+  - Code de l'énergie - art. R335-12 (V)
   - Code de l'énergie - art. R335-40 (V)
   - Code de l'énergie - art. R335-8 (V)
 
@@ -56866,24 +57071,58 @@ _Nouveaux textes_:
 
 ###### Article R335-11
 
-La méthode de calcul du prix unitaire du règlement financier relatif au rééquilibrage en capacité est approuvée par la
-Commission de régulation de l'énergie, sur proposition du gestionnaire du réseau de transport. 
+En cas d'application de la procédure approfondie de participation transfrontalière avec un Etat participant interconnecté, la
+convention signée par le gestionnaire du réseau de transport français et le ou les gestionnaires de réseau de transport de
+l'Etat participant interconnecté encadre les modalités de participation des capacités situées dans ces Etats au mécanisme de
+capacité français. 
 
-Elle est déterminée de manière à :
+Cette convention traite notamment : 
 
-- assurer à moyen terme une incitation économique à la satisfaction de l'obligation de capacité des fournisseurs ;
+1° De l'accord de principe de la participation au mécanisme de capacité français de tout ou partie des capacités situées sur
+le territoire de l'Etat participant interconnecté ; 
 
-- inciter les fournisseurs à évaluer leurs besoins en garanties de capacité, en vue de remplir leur obligation de capacité,
-sur la base d'une estimation de bonne foi de la puissance de référence de leurs clients ;
+2° Des processus de pré-certification et de certification des capacités situées sur le territoire de l'Etat participant
+interconnecté ; 
 
-- limiter les possibilités d'arbitrage entre le règlement financier relatif à l'écart du responsable de périmètre de
-certification et le règlement financier relatif au rééquilibrage des fournisseurs. 
+3° Des modalités de contrôle de la disponibilité des capacités situées sur le territoire de l'Etat participant interconnecté
+selon les mécanismes de marché en place dans cet Etat ; 
 
-Toutefois, lorsque la sécurité d'approvisionnement n'est pas menacée de manière significative au regard de l'objectif de
-sécurité d'approvisionnement en électricité mentionné à l'article L. 335-2, la méthode de calcul du prix unitaire du
-règlement financier du rééquilibrage des fournisseurs est adaptée en fonction de la somme des écarts des responsables de
-périmètre de certification et de la différence entre la somme des montants d'obligation de capacité de tous les fournisseurs
-et le montant global de garanties de capacité que ceux-ci possédaient à la date limite de cession.
+4° De l'obligation pour les gestionnaires de réseau de transport de l'Etat participant interconnecté de mettre en place les
+échanges de données nécessaires avec les gestionnaires de réseaux de distribution de ce même Etat pour la pré-certification,
+la certification et le contrôle des capacités situées sur le territoire de cet Etat ; 
+
+5° Des modalités de recouvrement des frais de certification et de contrôle des capacités situées sur le territoire de l'Etat
+participant interconnecté, ainsi que le niveau de ces frais ; 
+
+6° Des modalités d'allocation des revenus perçus par le gestionnaire du réseau de transport français dans le cadre de la
+vente des tickets d'accès au mécanisme de capacité français ou de la vente des garanties de capacité octroyées aux
+interconnexions régulées, conformément aux articles R. 335-18 et R. 335-21. 
+
+En outre, la convention précise les modalités de traitement des capacités situées sur le territoire d'un Etat participant
+interconnecté, participant déjà à un ou plusieurs autres mécanismes de capacité, et souhaitant participer au mécanisme de
+capacité français. Un avenant à la convention peut être signé dans le cas où les capacités dont il s'agit se voient ouvrir
+ultérieurement la possibilité de participer à un autre mécanisme de capacité. La convention ou, le cas échéant, l'avenant,
+prévoit notamment que chaque capacité d'un Etat participant interconnecté souhaitant participer au mécanisme de capacité
+français fournit au gestionnaire du réseau de transport français, lors de la demande de pré-certification, une déclaration
+sur l'honneur attestant ses participations éventuelles à un ou plusieurs autres mécanismes de capacité. Ces modalités devront
+par ailleurs respecter les principes suivants : 
+
+a) La participation au mécanisme de capacité français d'une capacité située sur le territoire d'un Etat participant
+interconnecté et participant à un mécanisme de capacité autre que le mécanisme de capacité en France n'est pas autorisée en
+cas d'incompatibilité des engagements de disponibilité sur ces deux mécanismes ; 
+
+b) Si une capacité située sur le territoire d'un Etat participant interconnecté participe à la fois au mécanisme de capacité
+en France et à un autre mécanisme de capacité, alors cette capacité ne peut pas recevoir deux rémunérations sur une même
+période d'engagement de disponibilité dans les deux mécanismes de capacité : l'engagement prioritaire doit être défini dans
+les conventions entre gestionnaires de réseau de transport. 
+
+Enfin, sont prévues dans la convention : 
+
+a) Sa durée ; 
+
+b) Les modalités de sa révision ; 
+
+c) Les modalités de son annulation.
 
 **Liens relatifs à cet article**
 
@@ -56891,21 +57130,19 @@ _Codifié par_:
 
   - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-**Liens**:
-
-  - TRANSFERE: Décret n°2018-997 du 15 novembre 2018 - art. 1
-
-_Cite_:
-
-  - Code de l'énergie - art. L335-2 (V)
+  - Décret n°2018-997 du 15 novembre 2018 - art. 10
 
 _Cité par_:
 
   - Code de l'énergie - art. R335-10 (V)
+  - Code de l'énergie - art. R335-13 (V)
+
+_Cite_:
+
+  - Code de l'énergie - art. R335-18
+  - Code de l'énergie - art. R335-21
 
 _Nouveaux textes_:
 
@@ -56914,32 +57151,18 @@ _Nouveaux textes_:
 
 ###### Article R335-12
 
-Le rééquilibrage des fournisseurs intervient avant la date limite de recouvrement des garanties de capacité. Les fournisseurs
-dont le règlement financier est de signe positif versent sur le fonds pour le règlement du rééquilibrage en capacité des
-fournisseurs les montants correspondants calculés par le gestionnaire du réseau public de transport d'électricité comme
-mentionné à l'article R. 335-10. 
+En cas d'application de la procédure approfondie de participation transfrontalière avec un Etat participant interconnecté
+pour lequel il existe une interconnexion dérogatoire le reliant à la France, pour chaque année de livraison, le gestionnaire
+d'interconnexion dérogatoire souhaitant intégrer les contributions transitant sur l'interconnexion dérogatoire considérée au
+volume de tickets d'accès au mécanisme de capacité français émis sur la frontière entre la France et l'Etat participant
+interconnecté, doit signer avec le gestionnaire du réseau de transport français un accord de participation avant une date
+limite définie dans les règles du mécanisme de capacité mentionnée à l'article R. 335-1. 
 
-Les fournisseurs dont le règlement financier est de signe négatif reçoivent du fonds pour le règlement du rééquilibrage en
-capacité des fournisseurs les montants correspondants, calculés par le gestionnaire du réseau public de transport
-d'électricité comme mentionné à l'article R. 335-10. La somme des montants versés par le fonds ne peut être supérieure à la
-somme des montants effectivement versés par les fournisseurs dont le règlement financier est positif pour cette année de
-livraison ; le cas échéant, les montants correspondant aux règlements financiers négatifs sont réduits de manière
-proportionnée de telle manière que leur somme soit égale au montant disponible sur le compte. 
+A défaut, si le gestionnaire de l'interconnexion dérogatoire n'a pas signé un engagement tel que décrit au premier alinéa,
+alors les contributions européennes à la sécurité d'approvisionnement en France transitant sur l'interconnexion dérogatoire
+sont prises en compte de manière implicite dans la détermination de l'obligation de capacité. 
 
-Le solde éventuel restant sur le fonds pour le règlement du rééquilibrage en capacité des fournisseurs, qui n'est pas la
-propriété du gestionnaire de réseau public de transport d'électricité, est intégralement redistribué aux utilisateurs du
-réseau public de transport d'électricité selon des modalités fixées par la Commission de régulation de l'énergie. 
-
-A la date limite de recouvrement des garanties de capacité, le gestionnaire du réseau public de transport d'électricité
-contrôle, pour chaque fournisseur, qu'il remplit son obligation de capacité. Pour chaque fournisseur, il notifie à la
-Commission de régulation de l'énergie, pour l'application des dispositions de l'article L. 335-7, l'écart entre :
-
-- d'une part, le montant de son obligation de capacité, déduction faite du montant versé au titre du règlement financier
-relatif au rééquilibrage en capacité, divisé par le prix du règlement financier relatif au rééquilibrage en capacité de ce
-fournisseur ;
-
-- d'autre part, le montant de garanties qu'il détient effectivement à la date limite de recouvrement, sur la base des
-informations contenues dans le registre des garanties de capacité.
+Le modèle d'accord de participation est soumis à l'approbation préalable de la Commission de régulation de l'énergie.
 
 **Liens relatifs à cet article**
 
@@ -56947,52 +57170,35 @@ _Codifié par_:
 
   - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-**Liens**:
-
-  - TRANSFERE: Décret n°2018-997 du 15 novembre 2018 - art. 1
+  - Décret n°2018-997 du 15 novembre 2018 - art. 10
 
 _Cite_:
 
-  - Code de l'énergie - art. L335-7 (V)
-  - Code de l'énergie - art. R335-10 (V)
+  - Code de l'énergie - art. R335-1
+
+_Cité par_:
+
+  - Code de l'énergie - art. R335-14 (V)
 
 _Nouveaux textes_:
 
   - Code de l'énergie - art. R335-50 (V)
 
 
-##### Section 2 : Certification des exploitants de capacité<a id=536></a>
-
-##### Sous-section 1 : Certification et contrôle des capacités<a id=537></a>
-
 ###### Article R335-13
 
-Tout exploitant d'une capacité, ou une personne mandatée par lui, présente, pour chaque année de livraison, une demande de
-certification de sa capacité, avant une date limite déterminée en fonction des caractéristiques techniques de la capacité et,
-pour une capacité nouvelle, de l'état d'avancement du projet. 
+Conformément aux modalités définies dans la convention entre gestionnaires de réseau de transport, l'exploitant d'une
+capacité située sur le territoire de l'Etat participant interconnecté concerné souhaitant participer au mécanisme de capacité
+français pour une année de livraison donnée, dépose au préalable une demande de pré-certification de sa capacité auprès du
+gestionnaire du réseau de transport français, avant une date limite définie dans les règles du mécanisme de capacité
+mentionnées à l'articles R. 335-1. 
 
-Le dossier de demande de certification est présenté au gestionnaire du réseau de transport ou au gestionnaire du réseau de
-distribution selon le réseau auquel est raccordée la capacité ; il comprend les éléments suivants : 
-
-1° L'engagement ferme de signer le contrat de certification ; 
-
-2° L'année de livraison pour laquelle la capacité doit être certifiée ; 
-
-3° L'identité du responsable du périmètre de certification auquel est rattachée la capacité ; 
-
-4° Les informations nécessaires à l'évaluation de la contribution de cette capacité à la réduction du risque de
-défaillance ; 
-
-5° Les modalités d'activation et de contrôle de la capacité ; 
-
-6° La disponibilité prévisionnelle de la capacité durant la période de pointe PP2. 
-
-La présentation du dossier vaut engagement ferme de l'exploitant à signer le contrat de certification mentionné à l'article
-R. 335-15.
+Le niveau de capacité pré-certifié est exprimé en mégawatts et il correspond au niveau de disponibilité prévisionnelle de la
+capacité. Un coefficient d'abattement peut être utilisé dans le calcul du niveau de capacité pré-certifié d'une capacité dans
+le cas où cette capacité est située dans une zone de prix non adjacente au territoire métropolitain continental français. Les
+modalités de définition d'un tel coefficient sont définies dans les conventions mentionnées à l'article R. 335-11.
 
 **Liens relatifs à cet article**
 
@@ -57000,23 +57206,21 @@ _Codifié par_:
 
   - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2015-1823 du 30 décembre 2015 - art.
+  - Décret n°2018-997 du 15 novembre 2018 - art. 10
 
-**Liens**:
+_Cite_:
 
-  - TRANSFERE: Décret n°2018-997 du 15 novembre 2018 - art. 1
+  - Code de l'énergie - art. R335-1
+  - Code de l'énergie - art. R335-11 (V)
 
 _Cité par_:
 
   - Code de l'énergie - art. R335-14 (V)
+  - Code de l'énergie - art. R335-25 (V)
   - Code de l'énergie - art. R335-34 (V)
   - Code de l'énergie - art. R335-50 (M)
-
-_Cite_:
-
-  - Code de l'énergie - art. R335-15 (V)
 
 _Nouveaux textes_:
 
@@ -57025,20 +57229,14 @@ _Nouveaux textes_:
 
 ###### Article R335-14
 
-Lorsqu'un gestionnaire de réseau public de distribution d'électricité reçoit le dossier de demande de certification mentionné
-à l'article R. 335-13, il conclut avec l'exploitant un contrat et transmet au gestionnaire du réseau public de transport
-d'électricité le dossier de demande de certification, accompagné d'un exemplaire de ce contrat et d'une proposition de
-contrat de certification. 
+Pour chaque année de livraison, un volume de tickets d'accès au mécanisme de capacité français est émis par le gestionnaire
+du réseau de transport français pour la frontière avec l'Etat participant interconnecté concerné. 
 
-Le contrat conclu entre l'exploitant de capacité et le gestionnaire du réseau de distribution prévoit : 
-
-1° Les modalités du contrôle de la capacité ; 
-
-2° Les modalités de facturation, par le gestionnaire de réseau auquel est raccordée la capacité, des frais exposés par celui-
-ci pour la certification et le contrôle de la capacité. 
-
-La conclusion de ce contrat est une condition préalable à la conclusion du contrat de certification entre le gestionnaire du
-réseau public de transport d'électricité et l'exploitant.
+Ce volume est cohérent avec la valeur globale des contributions transfrontalières à la sécurité d'approvisionnement et les
+coefficients de répartition par frontière de cette valeur globale, définis à l'article R. 335-9. Ce volume correspond aux
+contributions européennes transitant sur les interconnexions régulées entre la France et l'Etat participant interconnecté,
+ainsi que sur les interconnexions dérogatoires dans le cas où des accords de participation mentionnés à l'article R. 335-12
+ont été signés.
 
 **Liens relatifs à cet article**
 
@@ -57046,21 +57244,19 @@ _Codifié par_:
 
   - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-**Liens**:
-
-  - TRANSFERE: Décret n°2018-997 du 15 novembre 2018 - art. 1
+  - Décret n°2018-997 du 15 novembre 2018 - art. 10
 
 _Cite_:
 
-  - Code de l'énergie - art. R335-13 (V)
+  - Code de l'énergie - art. R335-12 (V)
+  - Code de l'énergie - art. R335-9
 
 _Cité par_:
 
   - Code de l'énergie - art. R335-18 (V)
+  - Code de l'énergie - art. R335-23 (V)
 
 _Nouveaux textes_:
 
@@ -57069,9 +57265,16 @@ _Nouveaux textes_:
 
 ###### Article R335-15
 
-Le contrat de certification de capacité est signé par le gestionnaire du réseau public de transport d'électricité puis par
-l'exploitant de la capacité. Le contrat entièrement signé est renvoyé au gestionnaire du réseau de transport et, le cas
-échéant, au gestionnaire de réseau de distribution concerné.
+Sur chaque frontière où la procédure approfondie de participation transfrontalière est appliquée et pour une année de
+livraison donnée, le gestionnaire du réseau de transport français alloue lors d'une enchère les tickets d'accès au mécanisme
+de capacité français, selon des modalités techniques précisées dans les règles du mécanisme de capacité mentionnées à
+l'article R. 335-1. Cette allocation est réalisée après la date limite de pré-certification des capacités dans un délai fixé
+dans ces mêmes règles, et conduit à la mise en vente, par le gestionnaire du réseau de transport français, de l'intégralité
+des tickets d'accès au mécanisme de capacité français émis pour chacune de ces frontières. 
+
+Les exploitants de capacités de l'Etat participant interconnecté concerné autorisés à participer au mécanisme de capacité
+français, conformément à la convention entre gestionnaires de réseaux de transport, peuvent déposer des offres d'achat sur
+ces enchères pour un montant maximal égal à la somme des niveaux de capacité pré-certifiés de leurs capacités.
 
 **Liens relatifs à cet article**
 
@@ -57079,13 +57282,13 @@ _Codifié par_:
 
   - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2015-1823 du 30 décembre 2015 - art.
+  - Décret n°2018-997 du 15 novembre 2018 - art. 10
 
-**Liens**:
+_Cite_:
 
-  - TRANSFERE: Décret n°2018-997 du 15 novembre 2018 - art. 1
+  - Code de l'énergie - art. R335-1
 
 _Cité par_:
 
@@ -57098,34 +57301,13 @@ _Nouveaux textes_:
 
 ###### Article R335-16
 
-Le contrat de certification d'une capacité est établi à partir des éléments transmis dans le dossier de demande de
-certification, selon les méthodes de certification précisées dans les règles relatives au mécanisme de capacité et en
-fonction des caractéristiques techniques de chaque capacité. 
+Si, à la suite de la tenue d'une enchère de tickets d'accès au mécanisme de capacité, certains tickets d'accès demeurent
+invendus, ils sont détruits. 
 
-Le contrat de certification comprend : 
-
-1° Les conditions dans lesquelles l'exploitant s'engage à maintenir effective sa capacité ;
-
-2° Les modalités selon lesquelles le contrôle de la capacité est effectué ; 
-
-3° Le niveau de capacité certifié pour cette capacité et les conditions et délais de délivrance des garanties de capacité ; 
-
-4° Le cas échéant, notamment lorsqu'il s'agit de nouvelles capacités, le montant du dépôt de garantie à régler par
-l'exploitant ; 
-
-5° Une attestation de la signature, d'une part, du contrat conclu entre le responsable de périmètre de certification auquel
-est rattachée cette capacité et le gestionnaire du réseau public de transport d'électricité, d'autre part, du contrat conclu
-entre le même responsable de périmètre de certification et l'exploitant de capacité ;
-
-6° Les modalités de règlement de la pénalité mentionnée à l'article L. 335-3, acquittée par le responsable de périmètre de
-certification pour le compte de l'exploitant ; 
-
-7° Les modalités de rééquilibrage ; 
-
-8° Les modalités de facturation, par le gestionnaire de réseau auquel est raccordée la capacité, des frais exposés par celui-
-ci pour la certification et le contrôle de la capacité ; 
-
-9° Les cas de force majeure susceptibles de suspendre les obligations de l'exploitant.
+Un volume de garanties de capacité équivalent au volume de tickets d'accès au mécanisme de capacité français détruits est
+ensuite émis et conservé par le gestionnaire du réseau de transport français, qui peut les valoriser. Les dispositions des
+articles R. 335-19 à R. 335-22 relatives à la procédure simplifiée de participation transfrontalière s'appliquent alors pour
+ce volume de garanties de capacité.
 
 **Liens relatifs à cet article**
 
@@ -57133,17 +57315,14 @@ _Codifié par_:
 
   - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-**Liens**:
-
-  - TRANSFERE: Décret n°2018-997 du 15 novembre 2018 - art. 1
+  - Décret n°2018-997 du 15 novembre 2018 - art. 10
 
 _Cite_:
 
-  - Code de l'énergie - art. L335-3 (V)
+  - Code de l'énergie - art. R335-19
+  - Code de l'énergie - art. R335-22
 
 _Nouveaux textes_:
 
@@ -57152,11 +57331,12 @@ _Nouveaux textes_:
 
 ###### Article R335-17
 
-Les gestionnaires de réseaux publics de distribution d'électricité sont responsables du contrôle des capacités raccordées à
-leurs réseaux. Ils informent le gestionnaire du réseau public de transport d'électricité du résultat de ce contrôle.
-
-Pour l'exercice de ces missions, les gestionnaires de réseaux publics de distribution d'électricité peuvent se regrouper ou
-désigner un tiers, indépendant des fournisseurs et des exploitants de capacité, mandaté par eux.
+Un exploitant de capacité ayant acquis des tickets d'accès au mécanisme de capacité français présente au gestionnaire du
+réseau de transport français, avant une date limite fixée dans les règles du mécanisme de capacité, une demande de
+certification pour ses capacités pré-certifiées, selon des modalités conformes à celles décrites à la sous-section 1 de la
+section 4 du présent chapitre, à hauteur du volume de tickets qu'il a acquis. Les règles du mécanisme de capacité et les
+conventions conclues entre gestionnaires de réseau de transport précisent le détail des pièces justificatives devant être
+fournies lors des phases de pré-certification et de certification.
 
 **Liens relatifs à cet article**
 
@@ -57164,13 +57344,9 @@ _Codifié par_:
 
   - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-**Liens**:
-
-  - TRANSFERE: Décret n°2018-997 du 15 novembre 2018 - art. 1
+  - Décret n°2018-997 du 15 novembre 2018 - art. 10
 
 _Cité par_:
 
@@ -57183,10 +57359,23 @@ _Nouveaux textes_:
 
 ###### Article R335-18
 
-Des conventions passées entre les gestionnaires de réseaux publics de distribution d'électricité et le gestionnaire du réseau
-public de transport d'électricité, approuvées par la Commission de régulation de l'énergie dans un délai de deux mois à
-compter du dépôt de la demande complète d'approbation, précisent les modalités et les délais de transmission des éléments
-mentionnés aux articles R. 335-14 et R. 335-15 et des informations mentionnées à l'article R. 335-17.
+Si les contributions européennes à la sécurité d'approvisionnement en France transitant sur une interconnexion dérogatoire
+ont été prises en compte dans le volume de tickets d'accès au mécanisme de capacité français émis sur une frontière donnée,
+alors une partie des revenus perçus par le gestionnaire du réseau de transport français correspondant aux contributions
+transitant sur l'interconnexion dérogatoire est reversée par le gestionnaire du réseau de transport français au gestionnaire
+d'interconnexion dérogatoire concerné. Les règles du mécanisme de capacité fixent la méthodologie de calcul permettant de
+déterminer la part des revenus de la vente des tickets d'accès au mécanisme qui doit revenir aux gestionnaires
+d'interconnexion dérogatoire.
+
+Les autres revenus perçus par le gestionnaire du réseau de transport français lors de la vente des tickets d'accès au
+mécanisme de capacité relatifs à un Etat participant interconnecté donné sont partagés avec le ou les gestionnaires de réseau
+de transport de cet Etat uniquement dans le cas où cet Etat a également mis en place un mécanisme de capacité valorisant
+l'ensemble des contributions à sa sécurité d'approvisionnement, et notamment les contributions françaises, et procède à un
+partage des revenus capacitaires liés à l'interconnexion sur des principes similaires.
+
+La part des revenus revenant au gestionnaire du réseau de transport français lors de la vente des tickets d'accès au
+mécanisme de capacité relatifs à un Etat participant interconnecté donné est utilisée par le gestionnaire du réseau de
+transport français selon des modalités définies par la Commission de régulation de l'énergie.
 
 **Liens relatifs à cet article**
 
@@ -57194,27 +57383,26 @@ _Codifié par_:
 
   - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-**Liens**:
-
-  - TRANSFERE: Décret n°2018-997 du 15 novembre 2018 - art. 1
+  - Décret n°2018-997 du 15 novembre 2018 - art. 10
 
 _Cité par_:
 
   - Code de l'énergie - art. R335-11 (V)
+  - Code de l'énergie - art. R335-23 (V)
 
 _Cite_:
 
-  - Code de l'énergie - art. R335-14 (V)
-  - Code de l'énergie - art. R335-17 (V)
+  - Code de l'énergie - art. R335-14
+  - Code de l'énergie - art. R335-17
 
 _Nouveaux textes_:
 
   - Code de l'énergie - art. R335-29 (V)
 
+
+##### Sous-section 2 : Procédure simplifiée de participation transfrontalière<a id=538></a>
 
 ###### Article R335-19
 
@@ -57228,13 +57416,9 @@ _Codifié par_:
 
   - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-**Liens**:
-
-  - TRANSFERE: Décret n°2018-997 du 15 novembre 2018 - art. 1
+  - Décret n°2018-997 du 15 novembre 2018 - art. 10
 
 _Cité par_:
 
@@ -57247,15 +57431,16 @@ _Nouveaux textes_:
 
 ###### Article R335-20
 
-Les méthodes de certification et de contrôle des capacités dont la contribution à la sécurité d'approvisionnement est réduite
-sont adaptées de manière proportionnée, de manière à ce que les coûts exposés par les gestionnaires de réseaux de transport
-ou de distribution d'électricité demeurent significativement inférieurs à la valeur économique de la contribution de ces
-capacités à la sécurité d'approvisionnement. Les caractéristiques techniques de ces capacités sont définies dans les règles
-relatives au mécanisme de capacité.
+En cas d'application de la procédure simplifiée de participation transfrontalière avec un Etat participant interconnecté,
+pour chaque année de livraison, le gestionnaire du réseau de transport français signe une déclaration de certification avant
+une date limite définie dans les règles pour chaque interconnexion régulée entre la France et l'Etat participant
+interconnecté.
 
-La demande de certification de ces capacités n'est recevable que de manière groupée, par la transmission d'un seul dossier de
-demande de certification pour plusieurs d'entre elles, selon des modalités définies dans les règles relatives au mécanisme de
-capacité.
+La certification des capacités d'interconnexion régulées s'effectue conformément aux dispositions à la sous-section 2 de la
+section 4 du présent chapitre.
+
+Ces certificats sont valorisés selon des modalités transparentes et publiques, approuvées par la Commission de régulation de
+l'énergie, sur proposition du gestionnaire de réseau de transport français.
 
 **Liens relatifs à cet article**
 
@@ -57263,13 +57448,9 @@ _Codifié par_:
 
   - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-**Liens**:
-
-  - TRANSFERE: Décret n°2018-997 du 15 novembre 2018 - art. 1
+  - Décret n°2018-997 du 15 novembre 2018 - art. 10
 
 _Nouveaux textes_:
 
@@ -57280,15 +57461,19 @@ _Cité par_:
   - Code de l'énergie - art. R335-42 (V)
 
 
-##### Sous-section 2 : Evolution et rééquilibrage des capacités<a id=538></a>
-
 ###### Article R335-21
 
-L'exploitant d'une capacité certifiée, ou la personne mandatée par lui, tient informé le gestionnaire du réseau public de
-transport ou de distribution d'électricité auquel est raccordée sa capacité de toute évolution ou précision relative aux
-caractéristiques de la capacité et aux conditions de son exploitation susceptible d'avoir une incidence sur la disponibilité
-prévisionnelle de celle-ci durant la période de pointe PP2. Les gestionnaires de réseaux publics de distribution
-d'électricité partagent ces informations avec le gestionnaire du réseau public de transport d'électricité.
+En cas d'application de la procédure simplifiée de participation transfrontalière avec un Etat participant interconnecté, les
+revenus perçus par le gestionnaire du réseau de transport français lors de la vente des garanties de capacité relatives à une
+frontière donnée sont partagés avec le ou les gestionnaires de réseau de transport de l'Etat participant interconnecté selon
+des modalités fixés dans les règles du mécanisme de capacité mentionnées à l'article R. 335-1, uniquement dans le cas où cet
+Etat a également mis en place un mécanisme de capacité valorisant l'ensemble des contributions à sa sécurité
+d'approvisionnement, et notamment les contributions françaises, et procède à un partage des revenus capacitaires liés à
+l'interconnexion selon des principes similaires. 
+
+La part des revenus revenant au gestionnaire du réseau de transport français lors de la vente des garanties de capacité
+relatives à une frontière donnée est utilisée par le gestionnaire du réseau de transport français selon des modalités
+définies par la Commission de régulation de l'énergie.
 
 **Liens relatifs à cet article**
 
@@ -57296,18 +57481,19 @@ _Codifié par_:
 
   - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2015-1823 du 30 décembre 2015 - art.
+  - Décret n°2018-997 du 15 novembre 2018 - art. 10
 
-**Liens**:
+_Cite_:
 
-  - TRANSFERE: Décret n°2018-997 du 15 novembre 2018 - art. 1
+  - Code de l'énergie - art. R335-1
 
 _Cité par_:
 
   - Code de l'énergie - art. R335-11 (V)
   - Code de l'énergie - art. R335-23 (V)
+  - Code de l'énergie - art. R335-24 (V)
 
 _Nouveaux textes_:
 
@@ -57316,19 +57502,24 @@ _Nouveaux textes_:
 
 ###### Article R335-22
 
-Si l'exploitant d'une capacité existante, non encore certifiée pour une année de livraison donnée, prévoit que celle-ci
-fermera d'ici là, il transmet au gestionnaire du réseau public de transport ou de distribution d'électricité auquel est
-raccordée sa capacité, avant la date limite de demande de certification, un avis de fermeture de capacité. Cet avis mentionne
-la date prévue de la fermeture de la capacité et le caractère définitif ou non de la fermeture. Les gestionnaires de réseaux
-publics de distribution d'électricité transmettent au gestionnaire du réseau public de transport d'électricité les avis
-qu'ils reçoivent et les informations sur les conditions de fermeture effectivement constatées.
+En cas d'application de la procédure simplifiée de participation transfrontalière avec un Etat participant interconnecté pour
+lequel il existe une interconnexion dérogatoire le reliant à la France, pour chaque année de livraison, le gestionnaire de
+l'interconnexion dérogatoire souhaitant la faire certifier dans le cadre du mécanisme de capacité français doit signer avec
+le gestionnaire du réseau de transport français un accord de participation avant une date limite définie dans les règles du
+mécanisme de capacité. Le modèle d'accord de participation est soumis à l'approbation préalable de la Commission de
+régulation de l'énergie.
 
-Le gestionnaire du réseau public de transport d'électricité transmet à la Commission de régulation de l'énergie l'avis de
-fermeture de capacité.
+En cas de signature d'un tel engagement de participation avant la date limite, le gestionnaire d'interconnexion doit déposer
+une demande de certification pour cette interconnexion pour l'année de livraison concernée, conformément aux modalités de la
+sous-section 1 de la section 4 du présent chapitre.
 
-Si le gestionnaire du réseau public de transport d'électricité constate que l'exploitant n'a pas fermé la capacité
-conformément à l'avis de fermeture, il en informe la Commission de régulation de l'énergie. Une capacité qui n'a pas donné
-lieu à fermeture effective ne peut donner lieu à délivrance d'une garantie de capacité pour l'année de livraison considérée.
+En cas d'absence de signature d'un tel engagement de participation au mécanisme de capacité français avant la date limite
+précisée au premier alinéa pour une interconnexion dérogatoire donnée, alors le volume de contributions européennes
+transitant sur cette interconnexion, calculé en cohérence avec les modalités de l'article R. 335-9, est pris en compte
+implicitement et est intégré dans le calcul du coefficient de sécurité, tel que décrit au même article.
+
+Dans les deux cas, la répartition de la valeur capacitaire entre les interconnexions régulées et chaque interconnexion
+dérogatoire se fait conformément à des modalités fixées dans les règles du mécanisme de capacité.
 
 **Liens relatifs à cet article**
 
@@ -57336,17 +57527,14 @@ _Codifié par_:
 
   - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-**Liens**:
-
-  - TRANSFERE: Décret n°2018-997 du 15 novembre 2018 - art. 1
+  - Décret n°2018-997 du 15 novembre 2018 - art. 10
 
 _Cité par_:
 
   - Code de l'énergie - art. R335-16 (V)
+  - Code de l'énergie - art. R335-23 (V)
   - Code de l'énergie - art. R335-24 (V)
 
 _Nouveaux textes_:
@@ -57354,14 +57542,23 @@ _Nouveaux textes_:
   - Code de l'énergie - art. R335-33 (V)
 
 
+##### Sous-section 3 : Dispositions communes aux deux procédures de participation transfrontalière<a id=539></a>
+
 ###### Article R335-23
 
-Lorsque l'exploitant d'une capacité qui existe mais n'a pas encore été certifiée pour une année de livraison donnée n'a ni
-fait de demande de certification à la date limite prévue à l'article R. 335-9, ni envoyé l'avis de fermeture de capacité
-mentionné à l'article R. 335-22, le gestionnaire du réseau public de transport ou de distribution d'électricité auquel est
-raccordée la capacité l'invite à faire sa demande de certification dans un délai de dix jours ouvrés à compter de la date
-limite de demande de certification. Si, à l'issue de ce délai, aucune demande n'a été reçue par le gestionnaire du réseau
-public de transport ou de distribution d'électricité concerné, celui-ci en informe la Commission de régulation de l'énergie.
+I.-Le ministre chargé de l'énergie fixe par arrêté la liste des mécanismes de capacité remplissant les conditions définies
+aux articles R. 335-18 et R. 335-21. 
+
+II.-Les règles du mécanisme de capacité définissent les modalités spécifiques de contrôle de la disponibilité technique des
+interconnexions régulées et dérogatoires durant la période de pointe PP2. Ces modalités sont équivalentes pour les
+interconnexions dérogatoires et régulées. 
+
+III.-Dans le cas de la procédure approfondie de participation transfrontalière et si la disponibilité technique de
+l'interconnexion n'est pas cohérente avec le volume de tickets d'accès au mécanisme de capacité mentionné à l'article R.
+335-14, les revenus du gestionnaire de l'interconnexion issus de la vente de tickets d'accès au mécanisme sont diminués selon
+des modalités définies dans les règles du mécanisme de capacité. Les sommes correspondant à cette diminution sont reversées
+aux utilisateurs du réseau public de transport d'électricité selon des modalités fixées par la Commission de régulation de
+l'énergie.
 
 **Liens relatifs à cet article**
 
@@ -57369,32 +57566,80 @@ _Codifié par_:
 
   - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-**Liens**:
-
-  - TRANSFERE: Décret n°2018-997 du 15 novembre 2018 - art. 1
+  - Décret n°2018-997 du 15 novembre 2018 - art. 10
 
 _Cite_:
 
-  - Code de l'énergie - art. R335-22 (V)
-  - Code de l'énergie - art. R335-9 (V)
+  - Code de l'énergie - art. R335-14 (V)
+  - Code de l'énergie - art. R335-18 (V)
+  - Code de l'énergie - art. R335-21
 
 _Nouveaux textes_:
 
   - Code de l'énergie - art. R335-34 (V)
 
 
+##### Section 4 : Certification des capacités et des interconnexions<a id=540></a>
+
+##### Sous-section 1 : Certification des capacités et des interconnexions dérogatoires<a id=541></a>
+
 ###### Article R335-24
 
-Des conventions passées entre les gestionnaires du réseau public de distribution d'électricité, le gestionnaire du réseau
-public de transport d'électricité et les exploitants de capacité précisent les modalités et délais de transmission des
-informations par les exploitants ainsi que l'organisation des flux d'information entre les gestionnaires de réseaux publics
-de distribution d'électricité, le gestionnaire du réseau public de transport d'électricité et la Commission de régulation de
-l'énergie mentionnés aux articles R. 335-21 à R. 335-23. Ces conventions sont approuvées dans un délai de deux mois par la
-Commission de régulation de l'énergie, sur proposition du gestionnaire du réseau public de transport d'électricité.
+Tout exploitant d'une capacité située sur le territoire métropolitain continental de la France, ou une personne mandatée par
+lui, présente, pour chaque année de livraison, une demande de certification de sa capacité, avant une date limite déterminée
+en fonction des caractéristiques techniques de la capacité et, pour une capacité nouvelle, de l'état d'avancement du projet. 
+
+En cas d'application de la procédure approfondie de participation transfrontalière avec un Etat participant interconnecté, le
+contrat de pré-certification prévoit l'obligation de se certifier pour les capacités dont les exploitants ont acquis des
+tickets d'accès au mécanisme de capacité français. Tout exploitant d'une telle capacité, ou une personne mandatée par lui,
+présente, pour chaque année de livraison, une demande de certification de sa capacité, avant une date limite déterminée en
+fonction des caractéristiques techniques de la capacité et, pour une capacité nouvelle, de l'état d'avancement du projet. 
+
+Tout gestionnaire d'une interconnexion dérogatoire entre la France et un Etat participant interconnecté, s'étant engagé à
+certifier cette interconnexion conformément à l'article R. 335-22, ou une personne mandatée par lui présente alors, pour
+l'année de livraison concernée, une demande de certification de son interconnexion dérogatoire, avant une date limite
+déterminée en fonction des caractéristiques techniques de la capacité et, pour une capacité nouvelle, de l'état d'avancement
+du projet. 
+
+Le dossier de demande de certification est présenté :
+
+- au gestionnaire du réseau de transport français dans le cas d'une capacité raccordée directement ou indirectement au réseau
+de transport sur le territoire de la France continentale métropolitaine, d'une capacité située sur le territoire d'un Etat
+participant interconnecté, ou d'une interconnexion dérogatoire entre la France et un Etat participant interconnecté ;
+
+- au gestionnaire du réseau de distribution public auquel est raccordée directement ou indirectement la capacité, dans le cas
+d'une capacité située sur le territoire de la France continentale métropolitaine. 
+
+Le dossier de demande de certification comprend les éléments suivants : 
+
+1° L'engagement ferme de signer le contrat de certification ; 
+
+2° L'année de livraison pour laquelle la capacité ou l'interconnexion dérogatoire doit être certifiée ; 
+
+3° L'identité du responsable du périmètre de certification auquel est rattachée la capacité ou l'interconnexion
+dérogatoire ; 
+
+4° La disponibilité prévisionnelle de la capacité ou de l'interconnexion dérogatoire durant la période de pointe PP2 ; dans
+le cas d'une interconnexion dérogatoire, cette disponibilité est calculée en prenant en compte la valeur globale du système
+interconnecté, le coefficient de répartition par frontière correspondant et la valeur des contributions européennes
+transitant sur les autres interconnexions avec l'Etat membre interconnecté, conformément à l'article R. 335-9. 
+
+Dans le cas d'une capacité, la demande de certification contient également les informations nécessaires à l'évaluation de la
+contribution de cette capacité à la réduction du risque de défaillance en France. 
+
+Dans le cas d'une interconnexion dérogatoire, les modalités de contrôle de la disponibilité sont adaptées, en raison de
+l'impossibilité de commander les flux d'énergie circulant sur les interconnexions. 
+
+La présentation du dossier vaut engagement ferme de l'exploitant ou du gestionnaire d'interconnexion dérogatoire de signer le
+contrat de certification mentionné à l'article R. 335-26. 
+
+En cas de mise en œuvre de la procédure approfondie de participation transfrontalière avec un Etat participant interconnecté,
+conformément à l'article R. 335-10, la somme des niveaux de disponibilité prévisionnelle précisés dans les demandes de
+certification des capacités situées sur le territoire de l'Etat participant interconnecté d'un même exploitant de capacité ne
+peut être supérieur au volume de tickets d'accès au mécanisme de capacité français acquis par l'exploitant de la capacité
+concernée.
 
 **Liens relatifs à cet article**
 
@@ -57402,13 +57647,10 @@ _Codifié par_:
 
   - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-**Liens**:
-
-  - TRANSFERE: Décret n°2018-997 du 15 novembre 2018 - art. 1
+  - Décret n°2018-997 du 15 novembre 2018 - art. 1
+  - Décret n°2018-997 du 15 novembre 2018 - art. 11
 
 _Anciens textes_:
 
@@ -57416,7 +57658,8 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Code de l'énergie - art. R335-21 (V)
+  - Code de l'énergie - art. R335-22
+  - Code de l'énergie - art. R335-9
 
 _Nouveaux textes_:
 
@@ -57424,22 +57667,26 @@ _Nouveaux textes_:
 
 _Cité par_:
 
+  - Code de l'énergie - art. R335-36 (V)
   - Code de l'énergie - art. R335-59 (V)
 
 
 ###### Article R335-25
 
-Lorsque l'exploitant d'une capacité certifiée anticipe, avant la date limite de cession des garanties de capacité mentionnée
-à l'article R. 335-9, que son niveau de capacité effectif sera inférieur ou supérieur au niveau de capacité certifié, le
-responsable de périmètre de certification dont relève l'exploitant peut faire une demande de rééquilibrage.
+Lorsqu'un gestionnaire de réseau public de distribution d'électricité reçoit le dossier de demande de certification mentionné
+à l'article R. 335-24, il conclut avec l'exploitant un contrat et transmet au gestionnaire du réseau de transport français le
+dossier de demande de certification, accompagné d'un exemplaire de ce contrat et d'une proposition de contrat de
+certification.
 
-La demande de rééquilibrage donne lieu à la transmission par le responsable de périmètre de certification, selon les
-modalités prévues à l'article R. 335-13, d'un nouveau dossier de demande de certification ainsi que de l'accord de
-l'exploitant de la capacité concernée.
+Le contrat conclu entre l'exploitant de capacité et le gestionnaire du réseau de distribution prévoit :
 
-Cette demande de rééquilibrage intervient dans des conditions fixées dans les règles relatives au mécanisme de capacité. Ces
-conditions concernent notamment les périodes pendant lesquelles les demandes de rééquilibrages sont recevables et le nombre
-de demandes de rééquilibrage possibles.
+1° Les modalités du contrôle de la capacité ;
+
+2° Les modalités de facturation, par le gestionnaire de réseau auprès duquel la demande de certification est déposée, des
+frais exposés par celui-ci pour la certification et le contrôle de la capacité.
+
+La conclusion de ce contrat est une condition préalable à la conclusion du contrat de certification entre le gestionnaire du
+réseau de transport français et l'exploitant.
 
 **Liens relatifs à cet article**
 
@@ -57447,18 +57694,10 @@ _Codifié par_:
 
   - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-**Liens**:
-
-  - TRANSFERE: Décret n°2018-997 du 15 novembre 2018 - art. 1
-
-_Cite_:
-
-  - Code de l'énergie - art. R335-13 (V)
-  - Code de l'énergie - art. R335-9 (V)
+  - Décret n°2018-997 du 15 novembre 2018 - art. 1
+  - Décret n°2018-997 du 15 novembre 2018 - art. 12
 
 _Anciens textes_:
 
@@ -57466,6 +57705,7 @@ _Anciens textes_:
 
 _Cité par_:
 
+  - Code de l'énergie - art. R335-29 (V)
   - Code de l'énergie - art. R335-34 (V)
 
 _Nouveaux textes_:
@@ -57475,9 +57715,9 @@ _Nouveaux textes_:
 
 ###### Article R335-26
 
-Le gestionnaire du réseau public de transport d'électricité notifie au responsable de périmètre de certification le volume de
-rééquilibrage retenu pour la capacité concernée, qui correspond à la différence entre le niveau de capacité certifié
-initialement et le nouveau niveau de capacité. Le rééquilibrage peut se faire à la hausse ou à la baisse.
+Le contrat de certification de capacité est signé par le gestionnaire du réseau de transport français puis par l'exploitant
+de la capacité ou le gestionnaire d'interconnexion dérogatoire. Le contrat entièrement signé est renvoyé au gestionnaire du
+réseau de transport français et, le cas échéant, au gestionnaire de réseau de distribution concerné.
 
 **Liens relatifs à cet article**
 
@@ -57485,13 +57725,10 @@ _Codifié par_:
 
   - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-**Liens**:
-
-  - TRANSFERE: Décret n°2018-997 du 15 novembre 2018 - art. 1
+  - Décret n°2018-997 du 15 novembre 2018 - art. 1
+  - Décret n°2018-997 du 15 novembre 2018 - art. 13
 
 _Anciens textes_:
 
@@ -57510,19 +57747,38 @@ _Nouveaux textes_:
 
 ###### Article R335-27
 
-A la suite de la notification mentionnée à l'article R. 335-26, dans le cas d'un rééquilibrage à la baisse, le responsable de
-périmètre de certification restitue au gestionnaire du réseau de transport, dans un délai prévu par les règles du mécanisme
-de capacité et selon les modalités prévues à l'article R. 335-37 les garanties de capacité correspondant au volume de
-rééquilibrage retenu.
+Le contrat de certification est établi à partir des éléments transmis dans le dossier de demande de certification, selon les
+méthodes de certification précisées dans les règles du mécanisme de capacité et en fonction des caractéristiques techniques
+de chaque capacité ou interconnexion dérogatoire.
 
-Si le montant de garanties de capacité est effectivement restitué dans le délai imparti, le gestionnaire du réseau public de
-transport d'électricité transmet à l'exploitant de capacité le nouveau contrat de certification qui annule et remplace le
-précédent. L'exploitant de capacité signe le contrat ; lorsque la capacité est raccordée au réseau public de distribution
-d'électricité, le gestionnaire du réseau public de transport d'électricité transmet un exemplaire du contrat de certification
-au gestionnaire de réseau public de distribution d'électricité concerné. 
+Le contrat de certification précise, en tant qu'ils complètent les règles relatives au mécanisme de capacité, les éléments
+suivants :
 
-Si les garanties ne sont pas restituées ou si elles le sont au-delà du délai imparti, la demande de rééquilibrage est réputée
-nulle et non avenue. Aucun rééquilibrage de l'exploitant de capacité ne peut intervenir.
+1° Les conditions dans lesquelles l'exploitant ou le gestionnaire d'interconnexion dérogatoire s'engage à maintenir effective
+sa capacité ;
+
+2° Les modalités selon lesquelles le contrôle de la capacité ou l'interconnexion dérogatoire est effectué ;
+
+3° Le niveau de capacité certifié et les conditions et délais de délivrance des garanties de capacité ;
+
+4° Le cas échéant, notamment lorsqu'il s'agit de nouvelles capacités ou de nouvelles interconnexions dérogatoires, le montant
+du dépôt de garantie à régler par l'exploitant ;
+
+5° Une attestation de la signature, d'une part, du contrat conclu entre le responsable de périmètre de certification auquel
+est rattachée cette capacité ou interconnexion dérogatoire et le gestionnaire du réseau de transport français, d'autre part,
+du contrat conclu entre le même responsable de périmètre de certification et l'exploitant de capacité ou le gestionnaire
+d'interconnexion dérogatoire ;
+
+6° Les modalités de règlement de la pénalité mentionnée à l'article L. 335-3 du code de l'énergie, acquittée par le
+responsable de périmètre de certification pour le compte de l'exploitant ou du gestionnaire d'interconnexion ;
+
+7° Les modalités de rééquilibrage ;
+
+8° Les modalités de facturation, par le gestionnaire de réseau auprès duquel la demande de certification a été déposée, des
+frais exposés par celui-ci pour la certification et le contrôle de la capacité ou de l'interconnexion dérogatoire ;
+
+9° Les cas de force majeure susceptibles de suspendre les obligations de l'exploitant ou du gestionnaire d'interconnexion
+dérogatoire.
 
 **Liens relatifs à cet article**
 
@@ -57530,13 +57786,10 @@ _Codifié par_:
 
   - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-**Liens**:
-
-  - TRANSFERE: Décret n°2018-997 du 15 novembre 2018 - art. 1
+  - Décret n°2018-997 du 15 novembre 2018 - art. 1
+  - Décret n°2018-997 du 15 novembre 2018 - art. 14
 
 _Anciens textes_:
 
@@ -57544,7 +57797,7 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Code de l'énergie - art. R335-26 (V)
+  - Code de l'énergie - art. R335-26
 
 _Cité par_:
 
@@ -57557,12 +57810,11 @@ _Nouveaux textes_:
 
 ###### Article R335-28
 
-A la suite de la notification mentionnée à l'article R. 335-26, dans le cas d'un rééquilibrage à la hausse, le gestionnaire
-du réseau public de transport d'électricité transmet à l'exploitant de capacité, pour signature, le nouveau contrat de
-certification, qui annule et remplace le précédent. Lorsque la capacité est raccordée au réseau public de distribution
-d'électricité, le gestionnaire du réseau public de transport d'électricité transmet un exemplaire du contrat de certification
-au gestionnaire de réseau public de distribution d'électricité concerné. Les garanties de capacité correspondant au volume de
-rééquilibrage retenu sont délivrées à l'exploitant de capacité.
+Les gestionnaires de réseaux publics de distribution d'électricité sont responsables du contrôle des capacités raccordées à
+leurs réseaux. Ils informent le gestionnaire du réseau de transport français du résultat de ce contrôle.
+
+Pour l'exercice de ces missions, les gestionnaires de réseaux publics de distribution d'électricité peuvent se regrouper ou
+désigner un tiers, indépendant des acteurs obligés et des exploitants de capacité, mandaté par eux.
 
 **Liens relatifs à cet article**
 
@@ -57570,13 +57822,10 @@ _Codifié par_:
 
   - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-**Liens**:
-
-  - TRANSFERE: Décret n°2018-997 du 15 novembre 2018 - art. 1
+  - Décret n°2018-997 du 15 novembre 2018 - art. 1
+  - Décret n°2018-997 du 15 novembre 2018 - art. 15
 
 _Anciens textes_:
 
@@ -57584,26 +57833,23 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Code de l'énergie - art. R335-26 (V)
+  - Code de l'énergie - art. R335-26
+
+_Cité par_:
+
+  - Code de l'énergie - art. R335-29 (V)
 
 _Nouveaux textes_:
 
   - Code de l'énergie - art. R335-39 (V)
 
 
-##### Sous-section 3 : Règlement des écarts<a id=539></a>
-
 ###### Article R335-29
 
-Un compte appelé " Fonds pour le règlement des écarts des responsables de périmètre de certification " est ouvert par le
-gestionnaire du réseau public de transport d'électricité dans ses écritures. Ce compte retrace et centralise les flux
-financiers entre les responsables de périmètre de certification et le gestionnaire du réseau public de transport
-d'électricité relatifs au règlement financier mentionné à l'article R. 335-31. 
-
-Le gestionnaire du réseau public de transport d'électricité assure la gestion administrative, comptable et financière de ce
-compte selon les règles de la comptabilité privée. Il est notamment chargé de la facturation et du versement des règlements
-financiers relatifs au règlement financier des responsables de périmètre de certification et de la constatation des éventuels
-défauts de paiement.
+Des conventions passées entre les gestionnaires de réseaux publics de distribution d'électricité et le gestionnaire du réseau
+de transport français approuvées par la Commission de régulation de l'énergie dans un délai de deux mois à compter du dépôt
+de la demande complète d'approbation, précisent les modalités et les délais de transmission des éléments mentionnés aux
+articles R. 335-25 et R. 335-26 et des informations mentionnées à l'article R. 335-28.
 
 **Liens relatifs à cet article**
 
@@ -57611,13 +57857,10 @@ _Codifié par_:
 
   - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-**Liens**:
-
-  - TRANSFERE: Décret n°2018-997 du 15 novembre 2018 - art. 1
+  - Décret n°2018-997 du 15 novembre 2018 - art. 1
+  - Décret n°2018-997 du 15 novembre 2018 - art. 16
 
 _Anciens textes_:
 
@@ -57625,7 +57868,9 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Code de l'énergie - art. R335-31 (V)
+  - Code de l'énergie - art. R335-25 (V)
+  - Code de l'énergie - art. R335-26
+  - Code de l'énergie - art. R335-28 (V)
 
 _Nouveaux textes_:
 
@@ -57634,14 +57879,10 @@ _Nouveaux textes_:
 
 ###### Article R335-30
 
-Pour chaque année de livraison et pour chaque capacité certifiée, le gestionnaire du réseau public de transport d'électricité
-calcule, après la période de pointe PP2, le niveau de capacité effectif, conformément aux règles relatives au mécanisme de
-capacité.
-
-Il en déduit, pour chaque périmètre de certification, l'écart du responsable de périmètre de certification. Cet écart est la
-différence entre le niveau de capacité effectif cumulé des capacités certifiées rattachées à son périmètre et le niveau de
-capacité certifié cumulé des capacités certifiées rattachées à son périmètre, compte tenu, le cas échéant, des contrats de
-certification conclus après rééquilibrage.
+Le niveau et les modalités du recouvrement des frais exposés par les gestionnaires des réseaux publics de transport ou de
+distribution d'électricité pour la certification et le contrôle des capacités sont approuvés, sur proposition du gestionnaire
+du réseau de transport français et des gestionnaires des réseaux publics de distribution, par la Commission de régulation de
+l'énergie.
 
 **Liens relatifs à cet article**
 
@@ -57649,13 +57890,10 @@ _Codifié par_:
 
   - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-**Liens**:
-
-  - TRANSFERE: Décret n°2018-997 du 15 novembre 2018 - art. 1
+  - Décret n°2018-997 du 15 novembre 2018 - art. 1
+  - Décret n°2018-997 du 15 novembre 2018 - art. 17
 
 _Anciens textes_:
 
@@ -57672,23 +57910,18 @@ _Nouveaux textes_:
 
 ###### Article R335-31
 
-Le gestionnaire du réseau public de transport d'électricité notifie à chaque responsable de périmètre de certification :
+Les méthodes de certification et de contrôle des capacités dont la contribution à la sécurité d'approvisionnement est réduite
+sont adaptées de manière proportionnée, de manière à ce que les coûts exposés par les gestionnaires de réseaux de transport
+ou de distribution d'électricité demeurent significativement inférieurs à la valeur économique de la contribution de ces
+capacités à la sécurité d'approvisionnement. Les caractéristiques techniques de ces capacités sont définies dans les règles
+du mécanisme de capacité.
 
-1° Son écart ; 
+La demande de certification de ces capacités n'est recevable que de manière groupée, par la transmission d'un seul dossier de
+demande de certification pour plusieurs d'entre elles, selon des modalités définies dans les règles du mécanisme de capacité.
 
-2° Le cas échéant, les volumes de rééquilibrage effectués pour certaines capacités du périmètre de certification ;
-
-3° Le règlement financier. 
-
-Le règlement financier est positif si le responsable de périmètre de certification est redevable de son montant. Un tel
-règlement est requis, en application des dispositions de l'article L. 335-3, lorsque le niveau de capacité effectif est
-inférieur au niveau de capacité certifié. 
-
-Un règlement financier négatif donnant lieu à un versement au profit du responsable de périmètre de certification peut
-également intervenir lorsque le niveau de capacité effectif du responsable de périmètre de certification est supérieur au
-niveau de capacité certifié. Sa mise en œuvre effective est subordonnée à la disponibilité des sommes nécessaires sur le
-Fonds pour le règlement des écarts des responsables de périmètre de certification, dans les conditions prévues à l'article R.
-335-33.
+Les capacités de production bénéficiant d'un contrat d'achat d'électricité établi en application des articles L. 121-27, L.
+311-3, L. 314-1, L. 314-6-1 et, le cas échéant, des dispositions dérogatoires de l'article L. 314-26, peuvent être certifiés
+selon la méthode normative définie dans les règles du mécanisme de capacité mentionnées à l'article R. 335-1.
 
 **Liens relatifs à cet article**
 
@@ -57696,18 +57929,19 @@ _Codifié par_:
 
   - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-**Liens**:
-
-  - TRANSFERE: Décret n°2018-997 du 15 novembre 2018 - art. 1
+  - Décret n°2018-997 du 15 novembre 2018 - art. 1
+  - Décret n°2018-997 du 15 novembre 2018 - art. 18
 
 _Cite_:
 
-  - Code de l'énergie - art. L335-3 (V)
-  - Code de l'énergie - art. R335-33 (V)
+  - Code de l'énergie - art. L121-27
+  - Code de l'énergie - art. L311-3
+  - Code de l'énergie - art. L314-1
+  - Code de l'énergie - art. L314-26
+  - Code de l'énergie - art. L314-6-1
+  - Code de l'énergie - art. R335-1 (V)
 
 _Anciens textes_:
 
@@ -57724,27 +57958,15 @@ _Nouveaux textes_:
 
 ###### Article R335-32
 
-La méthode de calcul du règlement financier relatif à l'écart du responsable de périmètre de certification est déterminée de
-manière à :
+L'exploitant d'une capacité certifiée, ou la personne mandatée par lui, tient informé le gestionnaire du réseau auquel il a
+transmis sa demande de certification de toute évolution ou précision relative aux caractéristiques de la capacité et aux
+conditions de son exploitation susceptible d'avoir une incidence sur la disponibilité prévisionnelle de celle-ci durant la
+période de pointe PP2. Les gestionnaires de réseaux publics de distribution d'électricité partagent ces informations avec le
+gestionnaire du réseau de transport français.
 
-1° Assurer à moyen terme une incitation économique à la satisfaction de l'engagement des exploitants ; 
-
-2° Inciter les exploitants de capacité à transmettre, lors des demandes de certification et de rééquilibrage, des
-informations sincères, en particulier pour ce qui concerne la disponibilité prévisionnelle de leur capacité ; 
-
-3° Limiter les possibilités d'arbitrage entre le règlement financier relatif à l'écart du responsable de périmètre de
-certification et le règlement financier relatif au rééquilibrage des fournisseurs. 
-
-Le règlement financier est fonction de l'écart du responsable de périmètre de certification et, en cas de recours au
-rééquilibrage, de la somme algébrique des volumes de rééquilibrage effectués ainsi que, dans le cas où plusieurs
-rééquilibrages successifs ont eu lieu, du nombre et du sens de ces rééquilibrages successifs. Pour un même écart, le recours
-au rééquilibrage augmente la valeur algébrique du règlement financier par rapport à une situation sans rééquilibrage.
-
-Toutefois, lorsque la sécurité d'approvisionnement n'est pas menacée de manière significative au regard de l'objectif
-mentionné à l'article L. 335-2, la méthode de calcul du règlement financier relatif à l'écart du responsable de périmètre de
-certification est adaptée en fonction de la somme des écarts des responsables de périmètre de certification et de la
-différence entre la somme des montants d'obligation de capacité des fournisseurs et le montant global de garanties de
-capacité que ceux-ci détiennent à la date limite de cession des garanties de capacité prévue au I de l'article R. 335-9.
+Le gestionnaire d'une interconnexion dérogatoire certifiée, ou la personne mandatée par lui, tient informé le gestionnaire du
+réseau de transport français de toute évolution de la disponibilité prévisionnelle d'une interconnexion dérogatoire certifiée
+durant la période de pointe PP2.
 
 **Liens relatifs à cet article**
 
@@ -57752,18 +57974,15 @@ _Codifié par_:
 
   - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-**Liens**:
-
-  - TRANSFERE: Décret n°2018-997 du 15 novembre 2018 - art. 1
+  - Décret n°2018-997 du 15 novembre 2018 - art. 1
+  - Décret n°2018-997 du 15 novembre 2018 - art. 19
 
 _Cite_:
 
-  - Code de l'énergie - art. L335-2 (V)
-  - Code de l'énergie - art. R335-9 (V)
+  - Code de l'énergie - art. L335-2
+  - Code de l'énergie - art. R335-9
 
 _Anciens textes_:
 
@@ -57781,20 +58000,20 @@ _Nouveaux textes_:
 
 ###### Article R335-33
 
-Les responsables de périmètre de certification dont le règlement financier est de signe positif versent le montant de ce
-règlement sur le fonds pour le règlement des écarts des responsables de périmètre de certification. En cas de défaut de
-paiement d'un responsable de périmètre de certification, le gestionnaire du réseau public de transport d'électricité met
-l'intéressé en demeure de régulariser sa situation dans un délai de cinq jours ouvrés.
+Si l'exploitant d'une capacité existante située sur le territoire métropolitain continental de la France, non encore
+certifiée pour une année de livraison donnée, prévoit que celle-ci fermera d'ici là, il transmet au gestionnaire du réseau
+public de transport ou de distribution d'électricité auquel est raccordée sa capacité, avant la date limite de demande de
+certification, un avis de fermeture de capacité. Cet avis mentionne la date prévue de la fermeture de la capacité et le
+caractère définitif ou non de la fermeture. Les gestionnaires de réseaux publics de distribution d'électricité transmettent
+au gestionnaire du réseau de transport français les avis qu'ils reçoivent et les informations sur les conditions de fermeture
+effectivement constatées.
 
-Les responsables de périmètre de certification dont le règlement financier est de signe négatif reçoivent du fonds pour le
-règlement des écarts des responsables de périmètre de certification le montant du règlement. La somme de ces règlements est
-au plus égale, pour une année de livraison donnée, à la somme des versements effectués au titre des règlements financiers
-positifs. Le cas échéant, les règlements financiers négatifs sont ramenés de manière proportionnelle à un niveau cohérent
-avec cette somme.
+Le gestionnaire du réseau de transport français transmet à la Commission de régulation de l'énergie l'avis de fermeture de
+capacité.
 
-Le solde éventuel restant sur le Fonds pour le règlement des écarts des responsables de périmètre de certification, qui n'est
-pas la propriété du gestionnaire du réseau public de transport d'électricité, est intégralement redistribué aux utilisateurs
-du réseau public de transport d'électricité selon des modalités fixées par la Commission de régulation de l'énergie.
+Si le gestionnaire du réseau de transport français constate que l'exploitant n'a pas fermé la capacité conformément à l'avis
+de fermeture, il en informe la Commission de régulation de l'énergie. Une capacité qui n'a pas donné lieu à fermeture
+effective ne peut se voir délivrer des garanties de capacité pour l'année de livraison considérée.
 
 **Liens relatifs à cet article**
 
@@ -57802,13 +58021,10 @@ _Codifié par_:
 
   - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-**Liens**:
-
-  - TRANSFERE: Décret n°2018-997 du 15 novembre 2018 - art. 1
+  - Décret n°2018-997 du 15 novembre 2018 - art. 1
+  - Décret n°2018-997 du 15 novembre 2018 - art. 20
 
 _Anciens textes_:
 
@@ -57825,34 +58041,15 @@ _Nouveaux textes_:
   - Code de l'énergie - art. R335-56 (V)
 
 
-##### Section 4 : Echange et cession des garanties de capacité<a id=540></a>
-
 ###### Article R335-34
 
-I. - Pour chaque année de livraison, le registre des capacités certifiées mentionne notamment, pour chaque capacité
-certifiée : 
-
-1° La date de certification ; 
-
-2° Le niveau de capacité certifié ; 
-
-3° Les caractéristiques techniques de la capacité ; 
-
-4° Sa disponibilité prévisionnelle durant la période de pointe PP2 ; 
-
-5° Le responsable de périmètre de certification auquel est rattachée cette capacité. 
-
-II. - Le registre est réactualisé dans les plus brefs délais, notamment : 
-
-1° A chaque transmission d'information, prévue à l'article R. 335-13 relative à la disponibilité prévisionnelle d'une
-capacité certifiée ou sa fermeture éventuelle ; 
-
-2° En cas de demande de rééquilibrage prévue à l'article R. 335-25 ; 
-
-3° Lorsqu'une capacité change de responsable de périmètre de certification. 
-
-Les modalités de gestion du registre des capacités certifiées sont approuvées, sur proposition du gestionnaire du réseau
-public de transport d'électricité, par la Commission de régulation de l'énergie.
+Lorsque l'exploitant d'une capacité située sur le territoire continental de la France, qui existe mais n'a pas encore été
+certifiée pour une année de livraison donnée n'a ni fait de demande de certification à la date limite prévue à l'article R.
+335-47, ni envoyé l'avis de fermeture de capacité mentionné à l'article R. 335-33, le gestionnaire du réseau public de
+transport ou de distribution d'électricité auquel est raccordée la capacité l'invite à faire sa demande de certification dans
+un délai de dix jours ouvrés à compter de la date limite de demande de certification. Si, à l'issue de ce délai, aucune
+demande n'a été reçue par le gestionnaire du réseau public de transport ou de distribution d'électricité concerné, celui-ci
+en informe la Commission de régulation de l'énergie.
 
 **Liens relatifs à cet article**
 
@@ -57860,22 +58057,23 @@ _Codifié par_:
 
   - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-**Liens**:
-
-  - TRANSFERE: Décret n°2018-997 du 15 novembre 2018 - art. 1
-
-_Cite_:
-
-  - Code de l'énergie - art. R335-13 (V)
-  - Code de l'énergie - art. R335-25 (V)
+  - Décret n°2018-997 du 15 novembre 2018 - art. 1
+  - Décret n°2018-997 du 15 novembre 2018 - art. 21
 
 _Anciens textes_:
 
   - Code de l'énergie - art. R335-23 (T)
+
+_Cite_:
+
+  - Code de l'énergie - art. R335-33
+  - Code de l'énergie - art. R335-47
+
+_Cité par_:
+
+  - Code de l'énergie - art. R335-35 (V)
 
 _Nouveaux textes_:
 
@@ -57884,17 +58082,12 @@ _Nouveaux textes_:
 
 ###### Article R335-35
 
-Toute personne souhaitant ouvrir un compte dans le registre des garanties de capacité adresse une déclaration au gestionnaire
-du réseau public de transport d'électricité. 
-
-Au titre de son obligation prévue à l'article L. 335-2, chaque fournisseur doit être titulaire en propre d'un compte. 
-
-Chaque exploitant de capacité titulaire d'un contrat de certification doit être titulaire en propre d'un compte au titre de
-la certification de ses capacités. 
-
-Le gestionnaire du réseau public de transport d'électricité transmet chaque année au ministre chargé de l'énergie la liste
-des titulaires d'un compte. Le gestionnaire du réseau public de transport d'électricité est titulaire d'un compte spécifique,
-pour l'émission ou la restitution de garanties.
+Des conventions passées entre les gestionnaires du réseau public de distribution d'électricité, le gestionnaire du réseau de
+transport français et les exploitants de capacité précisent les modalités et délais de transmission des informations par les
+exploitants ainsi que l'organisation des flux d'information entre les gestionnaires de réseaux publics de distribution
+d'électricité, le gestionnaire du réseau de transport français et la Commission de régulation de l'énergie mentionnés aux
+articles R. 335-32 à R. 335-34. Ces conventions sont approuvées dans un délai de deux mois par la Commission de régulation de
+l'énergie, sur proposition du gestionnaire du réseau de transport français.
 
 **Liens relatifs à cet article**
 
@@ -57902,17 +58095,10 @@ _Codifié par_:
 
   - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-**Liens**:
-
-  - TRANSFERE: Décret n°2018-997 du 15 novembre 2018 - art. 1
-
-_Cite_:
-
-  - Code de l'énergie - art. L335-2 (V)
+  - Décret n°2018-997 du 15 novembre 2018 - art. 1
+  - Décret n°2018-997 du 15 novembre 2018 - art. 22
 
 _Cité par_:
 
@@ -57923,6 +58109,11 @@ _Anciens textes_:
 
   - Code de l'énergie - art. R335-24 (T)
 
+_Cite_:
+
+  - Code de l'énergie - art. R335-32
+  - Code de l'énergie - art. R335-34 (V)
+
 _Nouveaux textes_:
 
   - Code de l'énergie - art. R335-59 (V)
@@ -57930,15 +58121,23 @@ _Nouveaux textes_:
 
 ###### Article R335-36
 
-L'émission d'une garantie de capacité résulte de son inscription par le gestionnaire du réseau public de transport
-d'électricité sur le compte dont il est titulaire. Chaque garantie de capacité émise est numérotée.
+Lorsque l'exploitant d'une capacité certifiée anticipe, avant une date limite définie dans les règles du mécanisme de
+capacité mentionnées à l'article R. 335-1, que son niveau de capacité effectif sera inférieur ou supérieur au niveau de
+capacité certifié, le responsable de périmètre de certification dont relève l'exploitant peut faire une demande de
+rééquilibrage. 
 
-La délivrance d'une garantie de capacité résulte du transfert, effectué par le gestionnaire du réseau public de transport
-d'électricité, d'une garantie de capacité du compte du gestionnaire du réseau public de transport d'électricité vers le
-compte du bénéficiaire.
+Lorsque le gestionnaire d'une interconnexion dérogatoire certifiée anticipe, avant une date limite définie dans les règles du
+mécanisme, que son niveau de capacité effectif sera inférieur ou supérieur au niveau de capacité certifié, le responsable de
+périmètre de certification dont relève le gestionnaire d'interconnexion dérogatoire peut faire une demande de rééquilibrage.
+Pour une année de livraison donnée, le niveau de certification d'une interconnexion dérogatoire ne peut jamais excéder le
+niveau de certification initial. 
 
-La cession d'une garantie de capacité consiste dans le transfert, effectué par le gestionnaire du réseau public de transport
-d'électricité, d'une garantie de capacité du compte du détenteur vers le compte de l'acquéreur.
+La demande de rééquilibrage donne lieu à la transmission par le responsable de périmètre de certification, selon les
+modalités prévues à l'article R. 335-24, d'un nouveau dossier de demande de certification ainsi que de l'accord de
+l'exploitant de la capacité concernée ou du gestionnaire d'interconnexion dérogatoire concernée. 
+
+Cette demande de rééquilibrage intervient dans des conditions fixées dans les règles du mécanisme de capacité. Ces conditions
+concernent notamment les périodes pendant lesquelles les demandes de rééquilibrages sont recevables.
 
 **Liens relatifs à cet article**
 
@@ -57946,13 +58145,15 @@ _Codifié par_:
 
   - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2015-1823 du 30 décembre 2015 - art.
+  - Décret n°2018-997 du 15 novembre 2018 - art. 1
+  - Décret n°2018-997 du 15 novembre 2018 - art. 23
 
-**Liens**:
+_Cite_:
 
-  - TRANSFERE: Décret n°2018-997 du 15 novembre 2018 - art. 1
+  - Code de l'énergie - art. R335-1
+  - Code de l'énergie - art. R335-24 (V)
 
 _Anciens textes_:
 
@@ -57969,17 +58170,9 @@ _Nouveaux textes_:
 
 ###### Article R335-37
 
-Pour procéder à une cession de garantie de capacité, l'acquéreur et le détenteur conjointement, ou une personne mandatée par
-eux, ou le même titulaire des deux comptes présentent une demande conjointe au gestionnaire du réseau public de transport
-d'électricité.
-
-Dans le cadre du rééquilibrage mentionné à l'article R. 335-27, le responsable de périmètre de certification peut restituer
-des garanties de capacité, pour le volume de rééquilibrage retenu. A cette fin, le responsable, ou une personne mandatée par
-lui, présente une demande de restitution de garanties au gestionnaire du réseau public de transport d'électricité, qui
-transfère alors les garanties à restituer vers le compte du gestionnaire du réseau public de transport d'électricité. Cette
-opération a pour effet de bloquer définitivement les garanties. 
-
-En dehors du rééquilibrage, aucun détenteur de garanties de capacité ne peut demander à restituer ces garanties.
+Le gestionnaire du réseau de transport français notifie au responsable de périmètre de certification le volume de
+rééquilibrage retenu pour la capacité ou l'interconnexion dérogatoire concernées, qui correspond à la différence entre le
+niveau de capacité certifié à la date de la demande de rééquilibrage et le nouveau niveau de capacité certifié.
 
 **Liens relatifs à cet article**
 
@@ -57987,13 +58180,10 @@ _Codifié par_:
 
   - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-**Liens**:
-
-  - TRANSFERE: Décret n°2018-997 du 15 novembre 2018 - art. 1
+  - Décret n°2018-997 du 15 novembre 2018 - art. 1
+  - Décret n°2018-997 du 15 novembre 2018 - art. 24
 
 _Anciens textes_:
 
@@ -58011,8 +58201,21 @@ _Nouveaux textes_:
 
 ###### Article R335-38
 
-Le registre des garanties de capacité, pour une année de livraison, est clos à la date limite de cession des garanties de
-capacité, mentionnée à l'article R. 335-9.
+A la suite de la notification mentionnée à l'article R. 335-37, dans le cas d'un rééquilibrage à la baisse, le responsable de
+périmètre de certification restitue au gestionnaire du réseau de transport français, dans un délai prévu par les règles du
+mécanisme de capacité et selon les modalités prévues à l'article R. 335-61 les garanties de capacité correspondant au volume
+de rééquilibrage retenu. 
+
+Si ce montant de garanties de capacité est effectivement restitué dans le délai imparti, le gestionnaire du réseau de
+transport français transmet à l'exploitant de capacité ou au gestionnaire d'interconnexion dérogatoire le nouveau contrat de
+certification qui annule et remplace le précédent. L'exploitant de capacité ou le gestionnaire d'interconnexion dérogatoire
+signe le contrat. Dans le cas d'une capacité, lorsque celle-ci est raccordée à un réseau public de distribution
+d'électricité, le gestionnaire du réseau de transport français transmet un exemplaire du contrat de certification au
+gestionnaire de réseau public de distribution d'électricité concerné. 
+
+Si les garanties ne sont pas restituées ou si elles le sont au-delà du délai imparti, la demande de rééquilibrage est réputée
+nulle et non avenue. Aucun rééquilibrage de l'exploitant de capacité ou du gestionnaire d'interconnexion dérogatoire ne peut
+intervenir.
 
 **Liens relatifs à cet article**
 
@@ -58020,17 +58223,18 @@ _Codifié par_:
 
   - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-**Liens**:
-
-  - TRANSFERE: Décret n°2018-997 du 15 novembre 2018 - art. 1
+  - Décret n°2018-997 du 15 novembre 2018 - art. 1
+  - Décret n°2018-997 du 15 novembre 2018 - art. 25
 
 _Anciens textes_:
 
   - Code de l'énergie - art. R335-27 (T)
+
+_Cite_:
+
+  - Code de l'énergie - art. R335-37
 
 _Cité par_:
 
@@ -58040,17 +58244,16 @@ _Nouveaux textes_:
 
   - Code de l'énergie - art. R335-62 (V)
 
-_Cite_:
-
-  - Code de l'énergie - art. R335-9 (V)
-
 
 ###### Article R335-39
 
-La Commission de régulation de l'énergie a accès au registre des garanties de capacité. Les modalités de gestion du registre
-des garanties de capacité, y compris les éléments que doit contenir la déclaration mentionnée à l'article R. 335-35, sont
-approuvées, sur proposition du gestionnaire du réseau public de transport d'électricité, par la Commission de régulation de
-l'énergie.
+A la suite de la notification mentionnée à l'article R. 335-37, dans le cas d'un rééquilibrage à la hausse, le le
+gestionnaire du réseau de transport français transmet à l'exploitant de capacité concernée ou au gestionnaire de
+l'interconnexion dérogatoire concernée, pour signature, le nouveau contrat de certification, qui annule et remplace le
+précédent. Lorsque la capacité est raccordée au réseau public de distribution d'électricité, le gestionnaire du réseau de
+transport français transmet un exemplaire du contrat de certification au gestionnaire de réseau public de distribution
+d'électricité concerné. Les garanties de capacité correspondant au volume de rééquilibrage retenu sont délivrées à
+l'exploitant de capacité concernée ou au gestionnaire de l'interconnexion dérogatoire concernée.
 
 **Liens relatifs à cet article**
 
@@ -58058,13 +58261,10 @@ _Codifié par_:
 
   - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-**Liens**:
-
-  - TRANSFERE: Décret n°2018-997 du 15 novembre 2018 - art. 1
+  - Décret n°2018-997 du 15 novembre 2018 - art. 1
+  - Décret n°2018-997 du 15 novembre 2018 - art. 26
 
 _Anciens textes_:
 
@@ -58081,15 +58281,20 @@ _Nouveaux textes_:
 
 ###### Article R335-40
 
-Toute personne qui procède à la cession d'une garantie de capacité ou d'un produit dérivé ou qui fait une offre publique
-d'achat ou de vente de garanties de capacité ou d'un produit dérivé informe la Commission de régulation de l'énergie,
-directement ou par un tiers, des caractéristiques de cette cession ou de cette offre, notamment de son prix.
+Dans le cas d'une mise en œuvre de la procédure approfondie de participation transfrontalière avec un Etat participant
+interconnecté, conformément à l'article R. 335-10 : 
 
-Les modalités de cette collecte d'informations sont définies par la Commission de régulation de l'énergie, après consultation
-du gestionnaire du réseau public de transport d'électricité. Au moins une fois par an, la Commission de régulation de
-l'énergie publie par tout moyen approprié des données statistiques concernant l'ensemble des transactions et des offres
-publiques de transaction de garanties de capacité et de produits dérivés et rendant compte des volumes échangés ou offerts et
-de leur prix.
+1° Un rééquilibrage à la hausse doit être précédé, dans un délai prévu par les règles du mécanisme de capacité, de
+l'acquisition d'un volume équivalent de tickets d'accès au mécanisme de capacité français relatifs à l'Etat participant
+interconnecté concerné ; 
+
+2° Un rééquilibrage à la baisse doit être précédé, dans un délai prévu par les règles du mécanisme de capacité, de la
+restitution d'un volume équivalent de tickets d'accès au mécanisme de capacité français relatifs à l'Etat participant
+interconnecté concerné ; 
+
+3° Les règles du mécanisme de capacité mentionnées à l'article R. 335-1 précisent les modalités d'acquisition et de
+restitution des tickets d'accès au mécanisme de capacité par les exploitants de capacités situées sur le territoire d'Etats
+participants interconnectés.
 
 **Liens relatifs à cet article**
 
@@ -58097,26 +58302,26 @@ _Codifié par_:
 
   - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2015-1823 du 30 décembre 2015 - art.
+  - Décret n°2018-997 du 15 novembre 2018 - art. 27
 
-**Liens**:
+_Cite_:
 
-  - TRANSFERE: Décret n°2018-997 du 15 novembre 2018 - art. 1
+  - Code de l'énergie - art. R335-1
+  - Code de l'énergie - art. R335-10
 
 _Nouveaux textes_:
 
   - Code de l'énergie - art. R335-64 (V)
 
 
+##### Sous-section 2 :  Certification des interconnexions régulées<a id=542></a>
+
 ###### Article R335-41
 
-Pendant la période de quatre ans précédant chaque année de livraison, et au moins une fois par an pour chaque année de
-livraison, le gestionnaire du réseau public de transport d'électricité publie des prévisions relatives au niveau global de
-garanties de capacité permettant de satisfaire l'obligation de capacité de tous les fournisseurs. Le format de ces prévisions
-et le calendrier de publication sont approuvés, sur proposition du gestionnaire du réseau public de transport d'électricité,
-par la Commission de régulation de l'énergie.
+Les interconnexions régulées certifiées dans le cadre de la procédure simplifiée sont toutes rattachées au périmètre de
+certification du gestionnaire du réseau de transport français.
 
 **Liens relatifs à cet article**
 
@@ -58124,17 +58329,13 @@ _Codifié par_:
 
   - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-**Liens**:
-
-  - TRANSFERE: Décret n°2018-997 du 15 novembre 2018 - art. 1
+  - Décret n°2018-997 du 15 novembre 2018 - art. 28
 
 _Cité par_:
 
-  - Code de l'énergie - art. R335-48 (M)
+  - Code de l'énergie - art. R335-48 (V)
 
 _Nouveaux textes_:
 
@@ -58143,13 +58344,34 @@ _Nouveaux textes_:
 
 ###### Article R335-42
 
-Le gestionnaire du réseau public de transport d'électricité crée un registre, renseigné par les fournisseurs et les
-consommateurs, des mesures visant à maîtriser la consommation pendant les périodes de pointe. Les informations du registre
-nécessaires au bon fonctionnement du marché sont rendues publiques et réactualisées dans les plus brefs délais en fonction de
-leur évolution.
+La déclaration de certification d'une interconnexion régulée, telle que mentionnée à l'article R. 335-20, est réalisée par le
+gestionnaire de réseau de transport français. Elle comprend les éléments suivants : 
 
-La nature de ces informations et les modalités de gestion de ce registre sont approuvées, sur proposition du gestionnaire du
-réseau public de transport d'électricité, par la Commission de régulation de l'énergie.
+1° L'année de livraison pour laquelle l'interconnexion est certifiée ; 
+
+2° La disponibilité prévisionnelle de l'interconnexion pendant les périodes de pointe PP2 : elle est calculée en prenant en
+compte la valeur globale du système interconnecté, le coefficient de répartition par frontière correspondant et la valeur des
+contributions européennes transitant sur les autres interconnexions avec l'Etat membre interconnecté, conformément à
+l'article R. 335-9 ; 
+
+3° Les conditions et délais d'émission des garanties de capacités ; 
+
+4° La déclaration signée liée à l'acquisition du statut de responsable de périmètre de certification par le gestionnaire du
+réseau de transport français ; 
+
+5° La déclaration signée de rattachement de l'interconnexion au périmètre de certification du gestionnaire du réseau de
+transport français ; 
+
+6° Les modalités de contrôle de l'interconnexion ; 
+
+7° Les modalités de règlement de la pénalité mentionnée à l' article L. 335-3 du code de l'énergie , acquittée par le
+gestionnaire de réseau de transport en sa qualité de responsable de périmètre de certification pour le compte de
+l'exploitant ; 
+
+8° Les modalités de rééquilibrage ; 
+
+9° Les cas de force majeure susceptibles de suspendre les obligations du gestionnaire du réseau de transport français en tant
+que gestionnaire de l'interconnexion entre la France et l'Etat participant interconnecté concerné.
 
 **Liens relatifs à cet article**
 
@@ -58157,13 +58379,14 @@ _Codifié par_:
 
   - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2015-1823 du 30 décembre 2015 - art.
+  - Décret n°2018-997 du 15 novembre 2018 - art. 28
 
-**Liens**:
+_Cite_:
 
-  - TRANSFERE: Décret n°2018-997 du 15 novembre 2018 - art. 1
+  - Code de l'énergie - art. L335-3
+  - Code de l'énergie - art. R335-20
 
 _Nouveaux textes_:
 
@@ -58172,38 +58395,14 @@ _Nouveaux textes_:
 
 ###### Article R335-43
 
-Au plus tard un an après la publication des règles relatives au mécanisme de capacité, puis au moins une fois par an ensuite,
-la Commission de régulation de l'énergie transmet au ministre chargé de l'énergie un rapport relatif au fonctionnement du
-marché des garanties de capacité.
-
-Le ministre chargé de l'énergie peut, compte tenu des propositions de ce rapport, décider le lancement d'un appel d'offres
-pour la mise en place d'une plate-forme d'échange.
-
-Cette plate-forme d'échange centralise les offres d'achat et de vente de garanties de capacité et offre des services
-facilitant les transactions. La couverture des coûts relatifs à la mise en place et au fonctionnement de cette plate-forme
-d'échange est assurée pour partie par ses utilisateurs et pour partie par l'ensemble des fournisseurs, au prorata du montant
-de leurs obligations de capacité.
-
-La Commission de régulation de l'énergie établit le cahier des charges de cet appel d'offres. Elle consulte le gestionnaire
-du réseau public de transport d'électricité pour les éléments concernant la gestion du registre des garanties de capacité.
-
-Le ministre chargé de l'énergie peut également décider, sur proposition de la Commission de régulation de l'énergie,
-d'imposer que tout ou partie des offres d'achat ou de vente et des cessions de garanties de capacité soient effectuées par le
-biais d'une plate-forme d'échange.
+Les modalités de contrôle de la disponibilité des interconnexions régulées sont adaptées, pour prendre en compte
+l'impossibilité de commander les flux d'énergie circulant sur les interconnexions.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-_Créé par_:
-
-  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-**Liens**:
-
-  - TRANSFERE: Décret n°2018-997 du 15 novembre 2018 - art. 1
+  - Décret n°2018-997 du 15 novembre 2018 - art. 28
 
 _Nouveaux textes_:
 
@@ -58212,26 +58411,15 @@ _Nouveaux textes_:
 
 ###### Article R335-44
 
-Un an après la publication des règles relatives au mécanisme de capacité, et ensuite chaque année, la Commission de
-régulation de l'énergie remet au ministre chargé de l'énergie un rapport, établi sur la base des travaux du gestionnaire du
-réseau de transport, sur l'intégration du mécanisme de capacité dans le marché européen. Ce rapport inclut des informations
-relatives à l'évolution, dans les pays voisins, de la régulation relative à la contribution des acteurs à la sécurité
-d'approvisionnement en électricité. Il analyse l'interaction entre le mécanisme de capacité français et les dispositifs mis
-en place dans ces pays. Il propose, le cas échéant, des améliorations du fonctionnement du mécanisme de capacité.
+Le gestionnaire du réseau de transport français renseigne dans le registre des capacités et des interconnexions certifiées,
+toute évolution de la disponibilité technique effective prévisionnelle d'une interconnexion régulée certifiée durant la
+période de pointe PP2.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-_Créé par_:
-
-  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-**Liens**:
-
-  - TRANSFERE: Décret n°2018-997 du 15 novembre 2018 - art. 1
+  - Décret n°2018-997 du 15 novembre 2018 - art. 28
 
 _Cité par_:
 
@@ -58242,9 +58430,907 @@ _Nouveaux textes_:
   - Code de l'énergie - art. R335-68 (V)
 
 
-##### Section 5 : Dispositions particulières<a id=541></a>
-
 ###### Article R335-45
+
+Lorsque le gestionnaire du réseau de transport français anticipe, avant la date limite de cession des garanties de capacité
+mentionnée à l'article R. 335-47, que la disponibilité technique effective prévisionnelle d'une interconnexion régulée qu'il
+a certifiée sera inférieure ou supérieure au niveau de capacité certifié, il peut procéder à un rééquilibrage à la baisse ou
+la hausse. Pour une année de livraison donnée, le niveau de certification d'une interconnexion régulée ne peut jamais excéder
+le niveau de certification initial.
+
+Le rééquilibrage donne lieu à la signature d'une nouvelle déclaration de certification qui annule et remplace la précédente.
+
+Ce rééquilibrage intervient dans des conditions analogues à celles décrites aux articles R. 335-35 à R. 335-40 et sont
+précisées dans les règles du mécanisme de capacité mentionnées à l'article R. 335-1. Ces conditions concernent notamment les
+périodes pendant lesquelles il peut être procédé à des rééquilibrages.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Arrêté du 28 avril 2011 - art. Annexe (V)
+  - Arrêté du 14 novembre 2016 - art.
+  - Code de l'énergie - art. R335-58 (V)
+  - Code de l'énergie - art. R335-61 (V)
+
+_Modifié par_:
+
+  - Décret n°2018-997 du 15 novembre 2018 - art. 28
+
+_Nouveaux textes_:
+
+  - Code de l'énergie - art. R335-69 (V)
+
+_Cite_:
+
+  - Code de l'énergie - art. R336-3
+
+
+##### Section 5 : Ecarts et règlements financiers<a id=543></a>
+
+##### Sous-section 1 : Règlement financier du rééquilibrage en capacité des acteurs obligés<a id=544></a>
+
+###### Article R335-46
+
+Un compte spécifique appelé " Fonds pour le règlement du rééquilibrage en capacité des acteurs obligés " est ouvert par le
+gestionnaire du réseau de transport français dans ses écritures comptables. Ce compte retrace les flux financiers entre les
+acteurs obligés et le gestionnaire du réseau de transport français relatifs au règlement financier mentionné à l'article R.
+335-48.
+
+Le gestionnaire du réseau de transport français assure la gestion administrative et financière de ce compte, ainsi que sa
+gestion comptable selon les règles de la comptabilité privée. Il est notamment chargé de la facturation et du versement des
+règlements financiers relatifs au rééquilibrage en capacité des acteurs obligés ainsi que de la constatation des éventuels
+défauts de paiement.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2015-1823 du 30 décembre 2015 - art.
+
+_Modifié par_:
+
+  - Décret n°2018-997 du 15 novembre 2018 - art. 1
+  - Décret n°2018-997 du 15 novembre 2018 - art. 29
+
+_Cite_:
+
+  - Code de l'énergie - art. R335-48
+
+_Nouveaux textes_:
+
+  - Code de l'énergie - art. R335-70 (V)
+
+_Anciens textes_:
+
+  - Code de l'énergie - art. R335-8 (T)
+
+
+###### Article R335-47
+
+Pour chaque année de livraison, sont fixées dans les règles du mécanisme de capacité mentionnées à l'article R. 335-1 : 
+
+1° La date limite de notification de l'obligation de capacité, avant laquelle le gestionnaire du réseau de transport français
+notifie à chaque acteur obligé le montant de son obligation de capacité ; 
+
+2° La date limite de cession des garanties de capacité, au-delà de laquelle les cessions de garanties de capacité ne sont
+plus possibles ; 
+
+3° La date limite de notification du règlement financier relatif au rééquilibrage en capacité des acteurs obligés, avant
+laquelle le gestionnaire du réseau de transport français notifie à chaque acteur obligé le montant du règlement financier
+relatif à son rééquilibrage en capacité ; 
+
+4° La date limite de recouvrement des garanties de capacité, à laquelle chaque acteur obligé doit disposer du montant de
+garanties de capacité correspondant à son obligation : elle est fixée au plus tard trois mois après la date limite de
+notification de l'obligation de capacité.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2015-1823 du 30 décembre 2015 - art.
+
+_Modifié par_:
+
+  - Décret n°2018-997 du 15 novembre 2018 - art. 1
+  - Décret n°2018-997 du 15 novembre 2018 - art. 30
+
+**Liens**:
+
+  - DEPLACE: Décret n°2018-997 du 15 novembre 2018 - art. 29
+
+_Cite_:
+
+  - Code de l'énergie - art. R335-1
+
+_Cité par_:
+
+  - Code de l'énergie - art. R335-34 (V)
+  - Code de l'énergie - art. R335-55 (V)
+  - Code de l'énergie - art. R335-62 (V)
+
+_Anciens textes_:
+
+  - Code de l'énergie - art. R335-9 (T)
+
+
+###### Article R335-48
+
+Au plus tard quinze jours après la date de notification de l'obligation de capacité, le gestionnaire du réseau de transport
+français calcule, pour chaque acteur obligé, le déséquilibre entre le montant de son obligation de capacité et le montant de
+garanties de capacité figurant sur son compte dans le registre des garanties de capacité prévu à l'article R. 335-59. A cette
+occasion, il notifie à chaque acteur obligé son déséquilibre et le règlement financier correspondant à son rééquilibrage en
+capacité. Pour chaque acteur obligé, le règlement financier de rééquilibrage est calculé à partir d'un prix unitaire négatif
+lorsque l'acteur obligé est redevable du règlement financier et d'un prix unitaire positif, de valeur absolue inférieure à
+celle de la valeur absolue du prix unitaire précédent, lorsque l'acteur obligé a droit à ce règlement.
+
+Le règlement financier relatif au rééquilibrage en capacité des acteurs obligés est proportionnel au déséquilibre du
+fournisseur, au prix unitaire dépendant du signe du déséquilibre. En outre, ce règlement peut être modulé en fonction de
+l'ampleur du déséquilibre de l'acteur obligé.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2015-1823 du 30 décembre 2015 - art.
+
+_Modifié par_:
+
+  - Décret n°2018-997 du 15 novembre 2018 - art. 1
+  - Décret n°2018-997 du 15 novembre 2018 - art. 31
+
+**Liens**:
+
+  - DEPLACE: Décret n°2018-997 du 15 novembre 2018 - art. 29
+
+_Anciens textes_:
+
+  - Code de l'énergie - art. R335-10 (T)
+
+_Cite_:
+
+  - Code de l'énergie - art. R335-41 (V)
+  - Code de l'énergie - art. R335-49
+
+_Cité par_:
+
+  - Code de l'énergie - art. R335-46 (V)
+  - Code de l'énergie - art. R335-50 (V)
+
+
+###### Article R335-49
+
+La méthode de calcul des prix unitaires du règlement financier relatif au rééquilibrage en capacité est approuvée par la
+Commission de régulation de l'énergie, sur proposition du gestionnaire du réseau de transport français. 
+
+Elle est déterminée de manière à :
+
+- assurer à moyen terme une incitation économique à la satisfaction de l'obligation de capacité des acteurs obligés ;
+
+- inciter les acteurs obligés à évaluer leurs besoins en garanties de capacité, en vue de remplir leur obligation de
+capacité, sur la base d'une estimation de bonne foi de la puissance de référence des consommateurs finals et des
+gestionnaires de réseau pour leurs pertes, pour lesquels ils sont responsables, pour tout ou partie de leur consommation, de
+la couverture de l'obligation de capacité, conformément aux articles L. 335-1 et L. 335-5 ;
+
+- limiter les possibilités d'arbitrage entre le règlement financier relatif à l'écart du responsable de périmètre de
+certification et le règlement financier relatif au rééquilibrage des acteurs obligés. 
+
+Toutefois, lorsque la sécurité d'approvisionnement n'est pas menacée de manière significative au regard de l'objectif de
+sécurité d'approvisionnement en électricité mentionné à l'article L. 335-2, la méthode de calcul des prix unitaires du
+règlement financier du rééquilibrage des acteurs obligés est adaptée en fonction de la somme des écarts des responsables de
+périmètre de certification et de la différence entre la somme des montants d'obligation de capacité de tous les acteurs
+obligés et le montant global de garanties de capacité que ceux-ci possédaient à la date limite de cession.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2015-1823 du 30 décembre 2015 - art.
+
+_Modifié par_:
+
+  - Décret n°2018-997 du 15 novembre 2018 - art. 1
+  - Décret n°2018-997 du 15 novembre 2018 - art. 32
+
+**Liens**:
+
+  - DEPLACE: Décret n°2018-997 du 15 novembre 2018 - art. 29
+
+_Cite_:
+
+  - Code de l'énergie - art. L335-1
+  - Code de l'énergie - art. L335-5
+
+_Anciens textes_:
+
+  - Code de l'énergie - art. R335-11 (T)
+
+_Cité par_:
+
+  - Code de l'énergie - art. R335-48 (V)
+
+
+###### Article R335-50
+
+Le rééquilibrage des acteurs obligés intervient avant la date limite de recouvrement des garanties de capacité. Les acteurs
+obligés dont le règlement financier est de signe négatif versent sur le fonds pour le règlement du rééquilibrage en capacité
+des acteurs obligés les montants correspondants calculés par le gestionnaire du réseau de transport français comme mentionné
+à l'article R. 335-48. 
+
+Les acteurs obligés dont le règlement financier est de signe positif reçoivent du fonds pour le règlement du rééquilibrage en
+capacité des acteurs obligés les montants correspondants, calculés par le gestionnaire du réseau de transport français comme
+mentionné à l'article R. 335-48. La somme des montants versés par le fonds ne peut être supérieure, pour une année de
+livraison donnée, à la somme des montants effectivement versés par les acteurs obligés dont le règlement financier est
+négatif pour cette année de livraison ; le cas échéant, les montants correspondant aux règlements financiers positifs sont
+ramenés de manière proportionnelle à un niveau cohérent avec cette somme. 
+
+Le solde éventuel restant sur le fonds pour le règlement du rééquilibrage en capacité des acteurs obligés, qui n'est pas la
+propriété du gestionnaire du réseau de transport français, est intégralement redistribué aux utilisateurs du réseau public de
+transport d'électricité selon des modalités fixées par la Commission de régulation de l'énergie. 
+
+la date limite de recouvrement des garanties de capacité, le gestionnaire du réseau de transport français contrôle, pour
+chaque acteur obligé, qu'il remplit son obligation de capacité. Pour chaque acteur obligé, il notifie à la Commission de
+régulation de l'énergie, pour l'application des  dispositions de l'article L. 335-7 du code de l'énergie , l'écart entre :
+
+- le montant de son obligation de capacité, déduction faite du montant versé par cet acteur obligé au titre du règlement
+financier relatif au rééquilibrage en capacité divisé par le prix unitaire appliqué à cet acteur obligé ;
+
+- le montant de garanties qu'il détient effectivement à la date limite de recouvrement, sur la base des informations
+contenues dans le registre des garanties de capacité.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2015-1823 du 30 décembre 2015 - art.
+
+_Modifié par_:
+
+  - Décret n°2018-997 du 15 novembre 2018 - art. 1
+  - Décret n°2018-997 du 15 novembre 2018 - art. 33
+
+**Liens**:
+
+  - DEPLACE: Décret n°2018-997 du 15 novembre 2018 - art. 29
+
+_Cite_:
+
+  - Code de l'énergie - art. L335-7
+  - Code de l'énergie - art. R335-48 (V)
+
+_Anciens textes_:
+
+  - Code de l'énergie - art. R335-12 (T)
+
+_Cité par_:
+
+  - Code de l'énergie - art. R335-51 (M)
+
+
+##### Sous-section 2 : Règlement financier des responsables du périmètre de certification<a id=545></a>
+
+###### Article R335-51
+
+Un compte appelé " Fonds pour le règlement des écarts des responsables de périmètre de certification " est ouvert par le
+gestionnaire du réseau de transport français dans ses écritures comptable. Ce compte retrace les flux financiers entre les
+responsables de périmètre de certification et le gestionnaire du réseau de transport français relatifs au règlement financier
+mentionné à l'article R. 335-54. 
+
+Le gestionnaire du réseau de transport français assure la gestion administrative et financière de ce compte, ainsi que sa
+gestion comptable selon les règles de la comptabilité privée. Il est notamment chargé de la facturation et du versement des
+règlements financiers relatifs au règlement financier des responsables de périmètre de certification et de la constatation
+des éventuels défauts de paiement.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2015-1823 du 30 décembre 2015 - art.
+
+_Modifié par_:
+
+  - Décret n°2018-997 du 15 novembre 2018 - art. 1
+  - Décret n°2018-997 du 15 novembre 2018 - art. 34
+
+_Cite_:
+
+  - Code de l'énergie - art. D335-54
+
+_Anciens textes_:
+
+  - Code de l'énergie - art. R335-29 (T)
+
+_Cité par_:
+
+  - Code de l'énergie - art. R335-47 (M)
+  - Code de l'énergie - art. R335-52 (M)
+
+
+###### Article R335-52
+
+Pour chaque année de livraison, sont fixées dans les règles du mécanisme de capacité mentionnées à l'article R. 335-1 : 
+
+1° La date limite de notification du règlement financier des responsables de périmètre de certification, avant laquelle le
+gestionnaire du réseau de transport français doit notifier à chaque responsable de périmètre de certification l'écart
+constaté sur son périmètre ; 
+
+2° La date limite de recouvrement des règlements financiers des responsables de périmètre de certification à laquelle les
+responsables de périmètre de certification doivent avoir acquitté ou perçu leur règlement financier.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2015-1823 du 30 décembre 2015 - art.
+
+**Liens**:
+
+  - DEPLACE: Décret n°2018-997 du 15 novembre 2018 - art. 34
+
+_Modifié par_:
+
+  - Décret n°2018-997 du 15 novembre 2018 - art. 35
+
+_Cite_:
+
+  - Code de l'énergie - art. R335-1
+
+
+###### Article R335-53
+
+Pour chaque année de livraison et pour chaque capacité ou interconnexion certifiée, le gestionnaire du réseau de transport
+français calcule, après la période de pointe PP2, le niveau de capacité effectif, conformément aux règles du mécanisme de
+capacité.
+
+Il en déduit, pour chaque périmètre de certification, l'écart du responsable de périmètre de certification. Cet écart est la
+différence entre le niveau de capacité effectif cumulé des capacités ou des interconnexions certifiées rattachées à son
+périmètre et le niveau de capacité certifié cumulé des capacités ou des interconnexions certifiées rattachées à son
+périmètre, compte tenu, le cas échéant, des contrats de certification ou des déclarations de certification conclus après
+rééquilibrage.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2015-1823 du 30 décembre 2015 - art.
+
+_Modifié par_:
+
+  - Décret n°2018-997 du 15 novembre 2018 - art. 1
+  - Décret n°2018-997 du 15 novembre 2018 - art. 36
+
+**Liens**:
+
+  - DEPLACE: Décret n°2018-997 du 15 novembre 2018 - art. 34
+
+_Anciens textes_:
+
+  - Code de l'énergie - art. R335-30 (T)
+
+
+###### Article R335-54
+
+Le gestionnaire du réseau de transport français notifie à chaque responsable de périmètre de certification, avant la date
+limite de notification du règlement financier des responsables de périmètre de certification : 
+
+1° Son écart ; 
+
+2° Le cas échéant, les volumes de rééquilibrage effectués pour certaines capacités ou certaines interconnexions du périmètre
+de certification ; 
+
+3° Le règlement financier. 
+
+Le règlement financier est négatif si le responsable de périmètre de certification est redevable de son montant. Un tel
+règlement est requis, en application des dispositions de l'article L. 335-3, lorsque le niveau de capacité effectif est
+inférieur au niveau de capacité certifié. 
+
+Un règlement financier positif donnant lieu à un versement au profit du responsable de périmètre de certification peut
+également intervenir lorsque le niveau de capacité effectif du responsable de périmètre de certification est supérieur au
+niveau de capacité certifié. Sa mise en œuvre effective est subordonnée à la disponibilité des sommes nécessaires sur le
+Fonds pour le règlement des écarts des responsables de périmètre de certification, dans les conditions prévues à l'article R.
+335-56.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2015-1823 du 30 décembre 2015 - art.
+
+_Modifié par_:
+
+  - Décret n°2018-997 du 15 novembre 2018 - art. 1
+  - Décret n°2018-997 du 15 novembre 2018 - art. 37
+
+**Liens**:
+
+  - DEPLACE: Décret n°2018-997 du 15 novembre 2018 - art. 34
+
+_Nouveaux textes_:
+
+  - Code de l'énergie - art. D335-89 (V)
+
+_Anciens textes_:
+
+  - Code de l'énergie - art. R335-31 (T)
+
+_Cité par_:
+
+  - Code de l'énergie - art. R335-51 (V)
+
+_Cite_:
+
+  - Code de l'énergie - art. R335-56
+
+
+###### Article R335-55
+
+La méthode de calcul du règlement financier du responsable de périmètre de certification est approuvée par la Commission de
+régulation de l'énergie, sur proposition du gestionnaire du réseau de transport français et déterminée de manière à :
+
+1° Assurer à moyen terme une incitation économique à la satisfaction de l'engagement des exploitants ;
+
+2° Inciter les exploitants de capacité à transmettre, lors des demandes de certification et de rééquilibrage, des
+informations sincères, en particulier pour ce qui concerne la disponibilité prévisionnelle de leur capacité ;
+
+3° Limiter les possibilités d'arbitrage entre le règlement financier du responsable de périmètre de certification et le
+règlement financier relatif au rééquilibrage des acteurs obligés.
+
+Le règlement financier est fonction de l'écart du responsable de périmètre de certification et, en cas de recours au
+rééquilibrage, de la somme des valeurs absolues des volumes des rééquilibrages effectués ainsi que de la date à laquelle ces
+rééquilibrages ont eu lieu.
+
+Toutefois, lorsque la sécurité d'approvisionnement n'est pas menacée de manière significative au regard de l'objectif
+mentionné à l'article L. 141-7, la méthode de calcul du règlement financier du responsable de périmètre de certification est
+adaptée en fonction de la somme algébrique des écarts des responsables de périmètre de certification et de la différence
+entre la somme des montants d'obligation de capacité des acteurs obligés et le montant global de garanties de capacité que
+ceux-ci détiennent à la date limite de cession des garanties de capacité prévue au I de l'article R. 335-47.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2018-997 du 15 novembre 2018 - art. 1
+
+**Liens**:
+
+  - DEPLACE: Décret n°2018-997 du 15 novembre 2018 - art. 34
+
+_Modifié par_:
+
+  - Décret n°2018-997 du 15 novembre 2018 - art. 38
+
+_Cite_:
+
+  - Code de l'énergie - art. L141-7
+  - Code de l'énergie - art. R335-47 (V)
+
+_Anciens textes_:
+
+  - Code de l'énergie - art. R335-32 (T)
+
+
+###### Article R335-56
+
+Les responsables de périmètre de certification dont le règlement financier est de signe négatif versent le montant de ce
+règlement sur le fonds pour le règlement des écarts des responsables de périmètre de certification. En cas de défaut de
+paiement d'un responsable de périmètre de certification, le gestionnaire du réseau de transport français met l'intéressé en
+demeure de régulariser sa situation dans un délai de cinq jours ouvrés.
+
+Les responsables de périmètre de certification dont le règlement financier est de signe positif reçoivent du fonds pour le
+règlement des écarts des responsables de périmètre de certification le montant du règlement. La somme de ces règlements est
+au plus égale, pour une année de livraison donnée, à la somme des versements effectués au titre des règlements financiers
+négatifs. Le cas échéant, les règlements financiers positifs sont ramenés de manière proportionnelle à un niveau cohérent
+avec cette somme.
+
+Le solde éventuel restant sur le Fonds pour le règlement des écarts des responsables de périmètre de certification, qui n'est
+pas la propriété du gestionnaire du réseau de transport français, est intégralement redistribué aux utilisateurs du réseau
+public de transport d'électricité selon des modalités fixées par la Commission de régulation de l'énergie.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2018-997 du 15 novembre 2018 - art. 1
+
+**Liens**:
+
+  - DEPLACE: Décret n°2018-997 du 15 novembre 2018 - art. 34
+
+_Modifié par_:
+
+  - Décret n°2018-997 du 15 novembre 2018 - art. 39
+
+_Anciens textes_:
+
+  - Code de l'énergie - art. R335-33 (T)
+
+_Cité par_:
+
+  - Code de l'énergie - art. R335-54 (V)
+
+
+##### Sous-section 3 : Dispositions communes<a id=546></a>
+
+###### Article R335-57
+
+Le calcul du règlement financier relatif au rééquilibrage en capacité des acteurs obligés et celui du règlement financier des
+responsables de périmètre de certification font notamment intervenir une référence de prix pour le calcul des écarts de
+capacité pour l'année de livraison considérée et un prix plafond.
+
+Le prix plafond est inférieur à un prix maximal déterminé en référence au coût de la construction d'une nouvelle capacité de
+pointe permettant de réduire le risque de défaillance. Le prix plafond est fixé, pour chaque année de livraison, par la
+Commission de régulation de l'énergie sur la base d'une proposition du gestionnaire de réseau de transport français.
+
+La Commission de régulation de l'énergie, après consultation publique, définit et publie les modalités de calcul de la
+référence de prix pour le calcul des écarts. Avant chaque année de livraison et en fonction des prix observés sur le marché
+des garanties de capacité, elle calcule et publie la valeur de la référence de prix pour le calcul des écarts.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2018-997 du 15 novembre 2018 - art. 40
+
+
+##### Section 6 : Echange et cession des garanties de capacité<a id=547></a>
+
+###### Article R335-58
+
+I.-Pour chaque année de livraison, le registre des capacités et des interconnexions certifiées mentionne notamment, pour
+chaque capacité ou interconnexion certifiée : 
+
+1° La date de certification ; 
+
+2° Le niveau de capacité certifié ; 
+
+3° Les caractéristiques techniques de la capacité ou de l'interconnexion ; 
+
+4° Sa disponibilité prévisionnelle durant la période de pointe PP2 ; 
+
+5° Le responsable de périmètre de certification auquel est rattachée cette capacité ou cette interconnexion. 
+
+II.-Le registre est actualisé dans les plus brefs délais, notamment : 
+
+1° A chaque transmission d'information, prévue aux articles R. 335-32 et R. 335-33 et aux articles R. 335-44 et R. 335-45,
+relative à la disponibilité prévisionnelle d'une capacité ou d'une interconnexion certifiée ou sa fermeture éventuelle ; 
+
+2° En cas de demande de rééquilibrage prévue aux articles R. 335-36 et R. 335-45 ; 
+
+3° Lorsqu'une capacité ou une interconnexion change de responsable de périmètre de certification. 
+
+III.-Les modalités de gestion du registre des capacités et des interconnexions certifiées sont fixées dans les règles du
+mécanisme de capacité mentionnées à l'article R. 335-1.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2018-997 du 15 novembre 2018 - art. 1
+
+_Modifié par_:
+
+  - Décret n°2018-997 du 15 novembre 2018 - art. 41
+
+_Cite_:
+
+  - Code de l'énergie - art. R335-1
+  - Code de l'énergie - art. R335-32
+  - Code de l'énergie - art. R335-33
+  - Code de l'énergie - art. R335-36
+  - Code de l'énergie - art. R335-44
+  - Code de l'énergie - art. R335-45
+
+_Anciens textes_:
+
+  - Code de l'énergie - art. R335-34 (T)
+
+
+###### Article R335-59
+
+Toute personne souhaitant ouvrir un compte dans le registre des garanties de capacité adresse une déclaration au gestionnaire
+du réseau de transport français. 
+
+Au titre de son obligation prévue à l'article L. 335-2 du code de l'énergie, chaque acteur obligé est titulaire en propre
+d'un compte. 
+
+Chaque exploitant de capacité titulaire en propre d'un contrat de certification, ou la personne morale qu'il a mandatée pour
+la certification de ses capacités, conformément à l'article R. 335-24, est titulaire en propre d'un compte au titre de la
+certification. 
+
+Tout gestionnaire d'interconnexion dérogatoire titulaire en propre d'un contrat de certification pour son interconnexion
+dérogatoire, ou la personne morale qu'il a mandatée pour la certification de son interconnexion dérogatoire, conformément à
+l'article R. 335-24, est titulaire en propre d'un compte au titre de la certification. 
+
+Le gestionnaire du réseau de transport français est titulaire de comptes séparés dans le registre des garanties de capacité
+respectivement en tant qu'administrateur du registre, en tant qu'acheteur de pertes et en tant que gestionnaire
+d'interconnexions régulées.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2018-997 du 15 novembre 2018 - art. 1
+
+_Modifié par_:
+
+  - Décret n°2018-997 du 15 novembre 2018 - art. 42
+
+_Cite_:
+
+  - Code de l'énergie - art. L335-2
+  - Code de l'énergie - art. R335-24
+
+_Anciens textes_:
+
+  - Code de l'énergie - art. R335-35 (T)
+
+_Cité par_:
+
+  - Code de l'énergie - art. R335-63 (V)
+
+
+###### Article R335-60
+
+L'émission d'une garantie de capacité résulte de son inscription par le gestionnaire du réseau de transport français sur le
+compte dont il est titulaire en tant qu'administrateur. Chaque garantie de capacité émise est numérotée.
+
+La délivrance d'une garantie de capacité résulte du mouvement, effectué par le gestionnaire du réseau de transport français
+d'une garantie de capacité du compte du gestionnaire du réseau de transport français en tant qu'administrateur du registre,
+vers le compte du bénéficiaire.
+
+La cession d'une garantie de capacité consiste dans le mouvement, effectué par le gestionnaire du réseau de transport
+français, d'une garantie de capacité du compte du détenteur vers le compte de l'acquéreur.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2018-997 du 15 novembre 2018 - art. 1
+
+_Modifié par_:
+
+  - Décret n°2018-997 du 15 novembre 2018 - art. 43
+
+_Anciens textes_:
+
+  - Code de l'énergie - art. R335-36 (T)
+
+
+###### Article R335-61
+
+Pour procéder à une cession de garantie de capacité, l'acquéreur et le détenteur conjointement, ou une personne mandatée par
+eux, ou le même titulaire des deux comptes présentent une demande conjointe au gestionnaire du réseau de transport français. 
+
+Dans le cadre du rééquilibrage mentionné aux articles R. 335-38 et R. 335-45, le responsable de périmètre de certification
+peut restituer des garanties de capacité, pour le volume de rééquilibrage retenu. A cette fin, le responsable, ou une
+personne mandatée par lui, présente une demande de restitution de garanties au gestionnaire du réseau de transport français,
+qui transfère alors les garanties à restituer vers le compte du gestionnaire du réseau de transport français. Cette opération
+a pour effet de bloquer définitivement les garanties. 
+
+En dehors du rééquilibrage, aucun détenteur de garanties de capacité ne peut demander à restituer ces garanties.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2018-997 du 15 novembre 2018 - art. 1
+
+_Modifié par_:
+
+  - Décret n°2018-997 du 15 novembre 2018 - art. 44
+
+_Anciens textes_:
+
+  - Code de l'énergie - art. R335-37 (T)
+
+_Cité par_:
+
+  - Code de l'énergie - art. R335-38 (V)
+
+_Cite_:
+
+  - Code de l'énergie - art. R335-45
+
+
+###### Article R335-62
+
+Le registre des garanties de capacité, pour une année de livraison donnée, est clos un mois après la date limite de
+recouvrement des garanties de capacité mentionnée à l'article R. 335-47.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2018-997 du 15 novembre 2018 - art. 1
+
+_Modifié par_:
+
+  - Décret n°2018-997 du 15 novembre 2018 - art. 45
+
+_Anciens textes_:
+
+  - Code de l'énergie - art. R335-38 (T)
+
+_Cite_:
+
+  - Code de l'énergie - art. R335-47
+
+
+###### Article R335-63
+
+Le ministre chargé de l'énergie et la Commission de régulation de l'énergie ont, seuls, accès à l'ensemble des informations
+contenues dans le registre des garanties de capacité. 
+
+Par ailleurs, un accès aux données de prix, de volume et d'horodatage des cessions au comptant ou à terme retracées sur ce
+registre est assuré pour tous les acteurs de marché, tout en garantissant l'anonymat des opérateurs de chaque cession. 
+
+Les modalités de gestion du registre des garanties de capacité, y compris les éléments que doit contenir la déclaration
+mentionnée à l'article R. 335-59, sont approuvées, sur proposition du gestionnaire du réseau public de transport
+d'électricité, par la Commission de régulation de l'énergie.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2018-997 du 15 novembre 2018 - art. 1
+
+_Modifié par_:
+
+  - Décret n°2018-997 du 15 novembre 2018 - art. 46
+
+_Anciens textes_:
+
+  - Code de l'énergie - art. R335-39 (T)
+
+_Cite_:
+
+  - Code de l'énergie - art. R335-59
+
+
+###### Article R335-64
+
+Toute personne qui procède à la cession au comptant ou à terme d'une garantie de capacité ou d'un produit dérivé ou qui fait
+une offre publique d'achat ou de vente de garanties de capacité ou d'un produit dérivé informe la Commission de régulation de
+l'énergie, directement ou par un tiers, des caractéristiques de cette cession au comptant ou à terme ou de cette offre,
+notamment de son prix.
+
+Les modalités de cette collecte d'informations sont définies par la Commission de régulation de l'énergie, après consultation
+du gestionnaire du réseau de transport français. Au moins une fois par an, la Commission de régulation de l'énergie publie
+par tout moyen approprié des données statistiques concernant l'ensemble des transactions et des offres publiques de
+transaction de garanties de capacité et de produits dérivés et rendant compte des volumes échangés ou offerts et de leur
+prix.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2018-997 du 15 novembre 2018 - art. 1
+
+_Modifié par_:
+
+  - Décret n°2018-997 du 15 novembre 2018 - art. 47
+
+_Anciens textes_:
+
+  - Code de l'énergie - art. R335-40 (T)
+
+
+###### Article R335-65
+
+Pendant la période de quatre ans précédant chaque année de livraison, et au moins une fois par an pour chaque année de
+livraison, le gestionnaire du réseau de transport français publie des prévisions relatives au niveau global de garanties de
+capacité permettant de satisfaire l'obligation de capacité de tous les acteurs obligés. Le format de ces prévisions et le
+calendrier de publication sont définis dans les règles du mécanisme de capacité mentionnées à l'article R. 335-1.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2018-997 du 15 novembre 2018 - art. 1
+
+_Modifié par_:
+
+  - Décret n°2018-997 du 15 novembre 2018 - art. 48
+
+_Cite_:
+
+  - Code de l'énergie - art. R335-1
+
+_Anciens textes_:
+
+  - Code de l'énergie - art. R335-41 (T)
+
+
+###### Article R335-66
+
+Le gestionnaire du réseau de transport français crée un registre des mesures visant à maîtriser la consommation pendant les
+périodes de pointe, renseigné par les fournisseurs et les consommateurs mettant en place de telles mesures. Les informations
+du registre nécessaires au bon fonctionnement du marché sont rendues publiques et actualisées dans les plus brefs délais en
+fonction de leur évolution. 
+
+La nature de ces informations et les modalités de gestion de ce registre sont fixées dans les règles du mécanisme de capacité
+mentionnées à l'article R. 335-1.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2018-997 du 15 novembre 2018 - art. 1
+
+_Modifié par_:
+
+  - Décret n°2018-997 du 15 novembre 2018 - art. 49
+
+_Cite_:
+
+  - Code de l'énergie - art. R335-1
+
+_Anciens textes_:
+
+  - Code de l'énergie - art. R335-42 (T)
+
+
+###### Article R335-67
+
+La Commission de régulation de l'énergie transmet au ministre chargé de l'énergie un rapport annuel relatif au fonctionnement
+du marché des garanties de capacité.
+
+Le ministre chargé de l'énergie peut, compte tenu des propositions de ce rapport, décider le lancement d'un appel d'offres
+pour la mise en place d'une plate-forme d'échange.
+
+Cette plate-forme d'échange centralise les offres d'achat et de vente de garanties de capacité et offre des services
+facilitant les transactions. La couverture des coûts relatifs à la mise en place et au fonctionnement de cette plate-forme
+d'échange est assurée pour partie par ses utilisateurs et pour partie par l'ensemble des acteurs obligés, au prorata du
+montant de leurs obligations de capacité.
+
+La Commission de régulation de l'énergie établit le cahier des charges de cet appel d'offres. Elle consulte le gestionnaire
+du réseau de transport français pour les éléments concernant la gestion du registre des garanties de capacité.
+
+Le ministre chargé de l'énergie peut également décider, sur proposition de la Commission de régulation de l'énergie,
+d'imposer que tout ou partie des offres d'achat ou de vente et des cessions de garanties de capacité soient effectuées par le
+biais d'une plate-forme d'échange.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2018-997 du 15 novembre 2018 - art. 1
+
+_Modifié par_:
+
+  - Décret n°2018-997 du 15 novembre 2018 - art. 50
+
+_Anciens textes_:
+
+  - Code de l'énergie - art. R335-43 (T)
+
+
+###### Article R335-68
+
+Au plus tard un an après la fin de la première année de livraison pour laquelle les dispositions prévues à la section 3 du
+présent chapitre ont été appliquées, le gestionnaire du réseau public de transport d'électricité remet au ministre chargé de
+l'énergie et à la Commission de régulation de l'énergie un rapport évaluant le bénéfice pour la sécurité d'approvisionnement
+de la France de cette prise en compte explicite, ainsi que des informations relatives à l'évolution, dans les pays voisins,
+de la régulation relative à la contribution des acteurs à la sécurité d'approvisionnement en électricité.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2018-997 du 15 novembre 2018 - art. 1
+
+_Modifié par_:
+
+  - Décret n°2018-997 du 15 novembre 2018 - art. 51
+
+_Anciens textes_:
+
+  - Code de l'énergie - art. R335-44 (T)
+
+
+##### Section 7 : Dispositions particulières<a id=548></a>
+
+###### Article R335-69
 
 Conformément à l'article R. 336-3, le produit cédé dans le cadre de l'accès régulé à l'électricité nucléaire historique
 (l'ARENH) comprend la garantie de capacité. Pour chaque année de livraison, la Commission de régulation de l'énergie calcule
@@ -58258,41 +59344,21 @@ fournisseurs et à cette société d'avoir une visibilité suffisante sur le mon
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-_Cité par_:
-
-  - Arrêté du 28 avril 2011 - art. Annexe (V)
-  - Arrêté du 14 novembre 2016 - art.
-  - Code de l'énergie - art. R335-58 (V)
-  - Code de l'énergie - art. R335-61 (V)
-
 _Créé par_:
 
-  - Décret n°2015-1823 du 30 décembre 2015 - art.
+  - Décret n°2018-997 du 15 novembre 2018 - art. 1
 
-**Liens**:
+_Anciens textes_:
 
-  - TRANSFERE: Décret n°2018-997 du 15 novembre 2018 - art. 1
-
-_Nouveaux textes_:
-
-  - Code de l'énergie - art. R335-69 (V)
-
-_Cite_:
-
-  - Code de l'énergie - art. R336-3
+  - Code de l'énergie - art. R335-45 (T)
 
 
-###### Article R335-46
+###### Article R335-70
 
 Une entreprise locale de distribution mentionnée à l'article L. 111-54, pour transférer son obligation de capacité à une
 autre entreprise locale de distribution, comme prévu à l'article L. 335-5, conclut un contrat avec celle-ci. L'entreprise
 locale de distribution désignée remplit alors l'obligation de capacité pour ses clients propres et pour les clients de cette
-entreprise locale de distribution. Elle notifie au gestionnaire du réseau public de transport d'électricité le transfert
-d'obligation. 
+entreprise locale de distribution. Elle notifie au gestionnaire du réseau de transport français le transfert d'obligation.
 
 Les contrats d'approvisionnement d'électricité au tarif de cession mentionnés à l'article L. 337-10 dont bénéficient les
 entreprises locales de distribution mentionnées à l'article L. 111-54 sont réputés inclure la cession d'un montant de
@@ -58303,330 +59369,628 @@ des ministres dans un délai de trois mois suivant la réception de ces proposit
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
 _Créé par_:
 
-  - Décret n°2015-1823 du 30 décembre 2015 - art.
+  - Décret n°2018-997 du 15 novembre 2018 - art. 1
+
+_Modifié par_:
+
+  - Décret n°2018-997 du 15 novembre 2018 - art. 52
+
+_Anciens textes_:
+
+  - Code de l'énergie - art. R335-46 (T)
+
+
+##### Section 8 : Dispositif de contractualisation pluriannuelle<a id=549></a>
+
+###### Article R335-71
+
+Pour chaque année de livraison, et si la courbe de demande administrée, élaborée et approuvée suivant les modalités décrites
+à l'article R. 335-73 reflète l'existence d'un bénéfice possible pour la collectivité, le ministre chargé de l'énergie
+organise, avant une date limite définie dans les règles du mécanisme de capacité et au plus tard le 31 octobre de la
+quatrième année précédant l'année de livraison considérée, un appel d'offres pour les nouvelles capacités qui comprend un
+contrat à prix garanti sur une période de sept années.
+
+Les modalités de cet appel d'offres sont précisées dans les règles du mécanisme de capacité mentionnées à l'article R. 335-1
+et dans le cahier des charges de l'appel d'offres.
+
+Le gestionnaire du réseau de transport français organise la concertation sur les modalités techniques relatives à l'appel
+d'offres pour les nouvelles capacités. Il élabore le projet de cahier des charges de l'appel d'offres et la trame des
+contrats conclus avec les candidats retenus à l'issue de l'appel d'offres, dans le respect des conditions précisées dans la
+présente section et les règles du mécanisme de capacité, puis les propose au ministre chargé de l'énergie.
+
+Le ministre chargé de l'énergie peut, le cas échéant, apporter des modifications aux projets de cahier des charges et de
+contrat transmis par le gestionnaire du réseau de transport français. Il transmet ensuite le cahier des charges et le modèle
+de contrat définitifs au gestionnaire du réseau de transport français.
+
+Le ministre chargé de l'énergie adresse un avis d'appel d'offres à l'Office des publications de l'Union européenne en vue de
+sa publication au Journal officiel de l'Union européenne.
+
+Cet avis public décrit les modalités de l'appel d'offres et mentionne à cet effet :
+
+- l'objet de l'appel d'offres ;
+
+- l'adresse électronique ainsi que la date de mise à disposition du cahier des charges de l'appel d'offres ;
+
+- la date et l'heure limites de dépôt des candidatures mentionnées.
+
+**Liens relatifs à cet article**
 
 **Liens**:
 
-  - TRANSFERE: Décret n°2018-997 du 15 novembre 2018 - art. 1
-
-_Cite_:
-
-  - Code de l'énergie - art. L111-54 (V)
-  - Code de l'énergie - art. L335-5 (V)
-  - Code de l'énergie - art. L337-10 (V)
-
-_Nouveaux textes_:
-
-  - Code de l'énergie - art. R335-70 (V)
-
-_Anciens textes_:
-
-  - Code de l'énergie - art. R335-8 (T)
-
-
-##### Section 6 : Dispositif de sécurisation<a id=542></a>
-
-###### Article R335-47
-
-Un compte spécifique appelé " Fonds du dispositif de sécurisation " est ouvert par le gestionnaire du réseau public de
-transport d'électricité dans ses écritures. Ce compte est destiné à retracer et à centraliser les flux financiers entre les
-fournisseurs et les exploitants de capacités relatifs au règlement financier de la compensation mentionnée à l'article R.
-335-51. 
-
-Le gestionnaire du réseau public de transport d'électricité assure la gestion administrative, comptable et financière de ce
-compte selon les règles de la comptabilité privée. Il est notamment chargé de la facturation et du versement de la
-compensation et de la constatation des éventuels défauts de paiement.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2015-1823 du 30 décembre 2015 - art.
+  - DEPLACE: Décret n°2018-997 du 15 novembre 2018 - art. 1
 
 _Créé par_:
 
-  - Décret n°2015-1823 du 30 décembre 2015 - art.
+  - Décret n°2018-997 du 15 novembre 2018 - art. 53
+
+_Cite_:
+
+  - Code de l'énergie - art. R335-1
+  - Code de l'énergie - art. R335-73
 
 _Cité par_:
 
-  - Code de l'énergie - art. R335-34 (V)
-  - Code de l'énergie - art. R335-62 (V)
-
-_Cite_:
-
-  - Code de l'énergie - art. R335-51 (V)
-
-_Anciens textes_:
-
-  - Code de l'énergie - art. R335-9 (T)
+  - Code de l'énergie - art. R335-78 (V)
+  - Code de l'énergie - art. R335-80 (V)
 
 
-###### Article R335-48
+###### Article R335-72
 
-En vue d'accompagner le démarrage du mécanisme de capacité, des appels d'offres de sécurisation peuvent être lancés, durant
-les six premières années de livraison, si un risque exceptionnel de déséquilibre entre l'offre et la demande est anticipé, en
-vue de réaliser les nouvelles capacités de production nécessaires. 
+Le gestionnaire du réseau de transport français publie sur son site internet le cahier des charges de l'appel d'offres et le
+projet de contrat définitif dans les meilleurs délais suivant la publication de l'avis par l'Office des publications de
+l'Union européenne.
 
-Six mois avant le début de chaque année de livraison, le gestionnaire du réseau public de transport d'électricité présente au
-ministre chargé de l'énergie un rapport sur le risque de déficit de capacités pour les trois années de livraison qui suivent
-l'année de livraison à veniR. Ce rapport, qui se fonde notamment sur le registre des capacités certifiées, sur les prévisions
-sur le besoin global de garanties de capacité mentionnées à l'article R. 335-41 et sur le registre des mesures visant à
-maîtriser la consommation pendant les périodes de pointe mentionné à l'article R. 335-42, décrit plusieurs scénarios
-d'évolution de l'offre et de la demande en électricité et les éventuels besoins en garanties de capacité supplémentaires que
-ces scénarios peuvent impliquer.
-
-Les modalités de l'appel d'offres de sécurisation et des opérations prévues aux articles R. 335-49 à 53 sont fixées et
-publiées par la Commission de régulation de l'énergie, au plus tard un an après la publication des règles du mécanisme de
-capacité. Ces modalités incluent la règle de calcul du prix plafond des offres de nouvelles capacités, qui doit être
-inférieur à un prix maximal déterminé en référence au coût de la construction d'une nouvelle capacité, estimé à dire
-d'expert, permettant de réduire le risque de défaillance. La détermination de ce prix, qui peut dépendre du prix de marché
-des garanties de capacité ainsi que du prix des offres, doit viser à éviter tout effet d'aubaine lié au lancement des appels
-d'offres.
+Le gestionnaire de réseau de transport français met en place, à cet effet, un site de candidature en ligne, permettant
+notamment le téléchargement du cahier des charges de l'appel d'offres et le dépôt des candidatures.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+**Liens**:
 
-  - Décret n°2015-1823 du 30 décembre 2015 - art.
+  - DEPLACE: Décret n°2018-997 du 15 novembre 2018 - art. 1
 
 _Créé par_:
 
-  - Décret n°2015-1823 du 30 décembre 2015 - art.
+  - Décret n°2018-997 du 15 novembre 2018 - art. 53
 
-_Anciens textes_:
 
-  - Code de l'énergie - art. R335-10 (T)
+###### Article R335-73
+
+Pour chaque appel d'offres, le gestionnaire du réseau de transport français élabore un projet de courbe de demande
+administrée, qui peut prendre en compte un coefficient d'abattement visant à accroître la part des consommateurs dans le
+bénéfice de la collectivité.
+
+Ce projet est transmis par le gestionnaire du réseau de transport français pour avis au ministre chargé de l'énergie et est
+réputé approuvé en l'absence d'opposition dans un délai d'un mois. Dans ce délai, le ministre chargé de l'énergie peut
+demander au gestionnaire du réseau de transport français d'apporter des modifications au projet de courbe de demande et de
+coefficient d'abattement.
+
+Le projet approuvé est soumis à l'approbation de la Commission de régulation de l'énergie.
+
+Les règles du mécanisme de capacité mentionnées à l'article R. 335-1 précisent les principes directeurs de la méthodologie de
+construction de la courbe de demande administrée ainsi que les principes qui encadrent le choix d'un éventuel coefficient
+d'abattement et son niveau.
+
+**Liens relatifs à cet article**
+
+**Liens**:
+
+  - DEPLACE: Décret n°2018-997 du 15 novembre 2018 - art. 1
+
+_Créé par_:
+
+  - Décret n°2018-997 du 15 novembre 2018 - art. 53
 
 _Cite_:
 
-  - Code de l'énergie - art. R335-41 (V)
-  - Code de l'énergie - art. R335-49 (V)
+  - Code de l'énergie - art. R335-1
 
 _Cité par_:
 
-  - Code de l'énergie - art. R335-46 (V)
+  - Code de l'énergie - art. R335-71 (V)
+  - Code de l'énergie - art. R335-80 (V)
 
 
-###### Article R335-49
+###### Article R335-74
 
-Lorsque l'analyse met en évidence un risque exceptionnel de déséquilibre entre l'offre et la demande sur une ou plusieurs des
-trois années de livraison étudiées, le ministre chargé de l'énergie peut décider du lancement d'un appel d'offres de
-nouvelles capacités pour ces années de livraison. 
+Pour être éligible au dispositif de contractualisation pluriannuelle, une installation de production doit être située sur le
+territoire de la France métropolitaine continentale et ne doit pas bénéficier d'un mécanisme de soutien public, en
+application des articles L. 314-1 et suivants, L. 314-18 et suivants et L. 311-10 et suivants.
 
-Une situation de risque exceptionnel de déséquilibre se caractérise par l'identification, selon les différents scénarios
-mentionnés à l'article R. 335-48, d'un risque de défaillance particulièrement aigu au regard des bilans prévisionnels prévus
-à l'article L. 141-8.
+Pour chaque appel d'offres organisé dans le cadre de ce dispositif, une nouvelle installation de production doit, pour être
+éligible, n'être certifiée, à la date de sélection des lauréats, individuellement ou en s'agrégeant avec d'autres
+installations de production, pour aucune des années de livraison [strictement] antérieures à la première année de livraison
+couverte par le contrat pluriannuel conclu à l'issue de l'appel d'offres.
 
-Le ministre chargé de l'énergie, s'il décide de lancer un appel d'offres, arrête, dans un délai de deux mois à compter de la
-réception du rapport du gestionnaire du réseau public de transport d'électricité, le montant de garanties de capacité à
-prendre en compte dans l'appel d'offres pour faire cesser la situation de risque exceptionnel identifiée. Il peut réserver la
-couverture d'une partie du besoin en vue d'éventuels appels d'offres de sécurisation ultérieurs concernant la même année de
-livraison, de manière à ne pas introduire de distorsion en faveur de capacités d'une nature particulière et à minimiser le
-coût de cette sécurisation ; il tient notamment compte du potentiel de développement des capacités d'effacement.
+De plus, afin d'éviter tout effet d'aubaine, la nouvelle installation de production ne doit pas avoir fait l'objet d'une
+convention de raccordement dont la signature serait intervenue antérieurement à la désignation des lauréats de l'appel
+d'offres. Dans le cas de l'ajout d'une installation de production sur un site existant, l'avenant à la convention de
+raccordement ne doit pas avoir été signé antérieurement à la désignation des lauréats de l'appel d'offres.
+
+Sont également éligibles à l'appel d'offres, sous réserve des dispositions du premier alinéa, les installations de production
+qui se voient délivrer une nouvelle autorisation administrative d'exploiter du fait d'une augmentation de leur puissance
+installée d'au moins 20 % ou d'une modification de leur source d'énergie primaire, comme mentionné à l'article L. 311-1, à la
+condition que ces évolutions interviennent au plus tôt durant l'année qui précède la première année de livraison couverte par
+le contrat pluriannuel et au plus tard au cours de cette même année.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+**Liens**:
 
-  - Décret n°2015-1823 du 30 décembre 2015 - art.
+  - DEPLACE: Décret n°2018-997 du 15 novembre 2018 - art. 1
 
 _Créé par_:
 
-  - Décret n°2015-1823 du 30 décembre 2015 - art.
+  - Décret n°2018-997 du 15 novembre 2018 - art. 53
 
 _Cite_:
 
-  - Code de l'énergie - art. L141-8 (V)
+  - Code de l'énergie - art. L311-1
+  - Code de l'énergie - art. L311-10
+  - Code de l'énergie - art. L314-1
+  - Code de l'énergie - art. L314-18
 
-_Anciens textes_:
 
-  - Code de l'énergie - art. R335-11 (T)
+###### Article R335-75
+
+Est également éligible au dispositif de contractualisation pluriannuelle, toute capacité d'effacement dont la composition en
+sites de soutirage vérifie, pour chacune des années de livraison couvertes par le contrat conclu à l'issue de l'appel
+d'offres, les conditions cumulatives suivantes.
+
+Pour chaque année de livraison couverte par le contrat pluriannuel, la capacité est constituée de sites :
+
+1° Qui sont tous localisés sur le territoire de la France métropolitaine continentale ;
+
+2° N'ayant pas participé au mécanisme de valorisation des effacements sur les marchés de l'énergie ou au mécanisme
+d'ajustement avant l'entrée en vigueur du présent article ou ayant vu leur puissance souscrite augmenter d'au moins 20 %
+depuis leur dernière participation à l'un ou l'autre de ces mécanismes ;
+
+3° N'ayant déjà perçu une rémunération pendant une durée cumulée de plus de six ans au titre soit du présent dispositif, soit
+de l'appel d'offres prévu à l' article L. 271-4 du code de l'énergie ; le respect de cette durée limite s'appréciant par
+rapport à la somme du nombre d'années de participation aux deux dispositifs ;
+
+4° Dont aucun ne bénéficie, pour tout ou partie de l'année de livraison considérée, d'un soutien public au titre du
+dispositif décrit à l' article L. 271-4 du code de l'énergie , ou au titre du régime dérogatoire mentionné à l'article L.
+271-3 ;
+
+5° Ne participant pas à la constitution d'une autre capacité pour cette même année de livraison.
+
+Les règles du mécanisme de capacité mentionnées à l'article R. 335-1 et le cahier des charges de l'appel d'offres précisent
+les modalités de participation des capacités d'effacement au dispositif de contractualisation pluriannuelle.
+
+**Liens relatifs à cet article**
+
+**Liens**:
+
+  - DEPLACE: Décret n°2018-997 du 15 novembre 2018 - art. 1
+
+_Créé par_:
+
+  - Décret n°2018-997 du 15 novembre 2018 - art. 53
+
+_Cite_:
+
+  - Code de l'énergie - art. L271-3
+  - Code de l'énergie - art. L271-4
+  - Code de l'énergie - art. R335-1
+
+
+###### Article R335-76
+
+Une valeur limite en termes de bilan d'émission de dioxyde de carbone par kilowattheure, ainsi que les conditions normalisées
+dans lesquelles elle est mesurée sont fixées par arrêté du ministre chargé de l'énergie. Une capacité de production ou
+d'effacement émettant au-delà de cette valeur limite ne peut pas présenter sa candidature au dispositif.
+
+Cette valeur limite ne peut pas être supérieure à cinq cent cinquante grammes de dioxyde de carbone par kilowattheure.
+
+Le ministre chargé de l'énergie peut préciser, par arrêté, d'autres critères d'émissions de substances polluantes devant être
+respectés par les installations de production et d'effacement pour pouvoir présenter leur candidature au dispositif.
+
+**Liens relatifs à cet article**
+
+**Liens**:
+
+  - DEPLACE: Décret n°2018-997 du 15 novembre 2018 - art. 1
+
+_Créé par_:
+
+  - Décret n°2018-997 du 15 novembre 2018 - art. 53
+
+
+###### Article R335-77
+
+Pour s'assurer de la solvabilité des candidats retenus à l'issue de l'appel d'offres pour le paiement des éventuelles
+pénalités R. 335-81 du présent article, des garanties financières obtenues auprès d'établissements de crédit peuvent être
+demandées par le gestionnaire du réseau de transport français aux candidats à l'appel d'offres.
+
+Les règles du mécanisme de capacité mentionnées à l'article R. 335-1 précisent les conditions exigées des candidats pour
+assurer la crédibilité financières des offres déposées ainsi que les règles de fixation du montant des garanties financières.
+
+**Liens relatifs à cet article**
+
+**Liens**:
+
+  - DEPLACE: Décret n°2018-997 du 15 novembre 2018 - art. 1
+
+_Créé par_:
+
+  - Décret n°2018-997 du 15 novembre 2018 - art. 53
+
+_Cite_:
+
+  - Code de l'énergie - art. R335-1
+  - Code de l'énergie - art. R335-81
+
+
+###### Article R335-78
+
+Chaque appel d'offres fait intervenir une procédure de qualification pour les candidats souhaitant y participer, au cours de
+laquelle l'éligibilité des offres déposées est examinée.
+
+Toute offre comprend une description technique du projet, le montant de garanties de capacité associé au projet sur lequel le
+candidat s'engage et un prix d'offre exprimé en euros par garantie de capacité. Une offre peut porter sur tout ou partie d'un
+projet de capacité éligible et peut mentionner ou non, qu'en cas de sélection partielle de la capacité offerte, l'offre
+demeure valable pour la capacité partiellement retenue. L'offre indique, le cas échéant, le volume minimal de capacité devant
+être retenu.
+
+La remise d'une offre vaut engagement ferme du candidat à respecter, s'il est retenu, l'ensemble des obligations et
+prescriptions de toute nature figurant au cahier des charges et dans le modèle de contrat mentionnés à l'article R. 335-71.
+
+**Liens relatifs à cet article**
+
+**Liens**:
+
+  - DEPLACE: Décret n°2018-997 du 15 novembre 2018 - art. 1
+
+_Créé par_:
+
+  - Décret n°2018-997 du 15 novembre 2018 - art. 53
+
+_Cite_:
+
+  - Code de l'énergie - art. R335-71
 
 _Cité par_:
 
-  - Code de l'énergie - art. R335-48 (V)
+  - Code de l'énergie - art. R335-80 (V)
 
 
-###### Article R335-50
+###### Article R335-79
 
-Chaque candidat à l'appel d'offres de sécurisation remet une offre à la Commission de régulation de l'énergie. Toute offre
-comprend notamment un dossier de demande de certification de capacité pour l'année de livraison considérée et un prix
-d'offre, exprimé par unité de garantie de capacité, inférieur à un prix plafond. 
+Après la date limite de dépôt des offres, le gestionnaire du réseau de transport français notifie à chaque exploitant le
+caractère éligible ou non de son offre. Le gestionnaire du réseau de transport peut demander aux capacités lauréates de
+l'appel d'offres les informations nécessaires pour lui permettre de vérifier le caractère éligible de la capacité pendant
+toute la durée de contractualisation.
 
-La Commission de régulation de l'énergie transmet le dossier de demande de certification au gestionnaire du réseau public de
-transport d'électricité ou au gestionnaire du réseau public de distribution d'électricité, dans les conditions prévues à
-l'article R. 335-13. 
-
-Pour chaque offre, le gestionnaire du réseau de transport d'électricité indique à la Commission de régulation de l'énergie le
-montant de garanties de capacité qui figurera dans le contrat de certification si elle est retenue. Sur la base de ces
-informations, la Commission de régulation de l'énergie sélectionne les offres par ordre de prix d'offre croissant, dans la
-limite du niveau de garanties de capacité défini pour l'appel d'offres de sécurisation. Elle notifie à chaque exploitant
-ayant déposé une offre s'il a été retenu ou non. 
-
-Seules les demandes de certification des exploitants sélectionnées sont réputées effectives. Les demandes de certification
-des exploitants non retenues sont réputées nulles et non avenues.
+Les règles du mécanisme de capacité mentionnées à l'article R. 335-1 et le cahier des charges de l'appel d'offres précisent
+les modalités du déroulement de la procédure de qualification ainsi que le contenu des offres remises à cette occasion, ainsi
+que les modalités pour mettre fin au contrat en cas de non respect des conditions d'éligibilité.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+**Liens**:
 
-  - Décret n°2015-1823 du 30 décembre 2015 - art.
+  - DEPLACE: Décret n°2018-997 du 15 novembre 2018 - art. 1
 
 _Créé par_:
 
-  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-_Anciens textes_:
-
-  - Code de l'énergie - art. R335-12 (T)
+  - Décret n°2018-997 du 15 novembre 2018 - art. 53
 
 _Cite_:
 
-  - Code de l'énergie - art. R335-13 (V)
+  - Code de l'énergie - art. R335-1
 
 _Cité par_:
 
-  - Code de l'énergie - art. R335-51 (M)
+  - Code de l'énergie - art. R335-80 (V)
 
 
-###### Article R335-51
+###### Article R335-80
 
-Pour un appel d'offres donné, après les opérations prévues à l'article R. 335-30 à R. 335-33 pour l'année de livraison
-concernée, la Commission de régulation de l'énergie notifie à chaque exploitant retenu sa compensation. La compensation
-désigne le montant en euros, positif s'il est dû à l'exploitant, de signe négatif s'il est dû par l'exploitant. 
+Au plus tard un mois après la notification prévue à l'article R. 335-79, le gestionnaire du réseau de transport français
+classe les offres éligibles reçues par ordre de prix d'offre croissant et construit ainsi une courbe d'offre pour les
+nouvelles capacités.
 
-La compensation est égale à l'écart entre le prix d'offre mentionné à l'article R. 335-50 et le prix de référence de la
-capacité pour l'année de livraison considérée multiplié par le montant de garanties de capacité attribué à l'exploitant. 
+Le gestionnaire du réseau de transport français adresse au ministre chargé de l'énergie un compte rendu comprenant :
 
-Après consultation publique des acteurs du mécanisme de capacité et en fonction des prix observés sur le marché des garanties
-de capacité, la Commission de régulation de l'énergie définit et publie les modalités de calcul du prix de référence pour
-chaque année de livraison. Elle notifie les compensations de chaque exploitant retenu au gestionnaire du Fonds du dispositif
-de sécurisation.
+1° Le prix garanti, déterminé par la comparaison de la courbe d'offre pour les nouvelles capacités et de la courbe de demande
+administrée après application du coefficient d'abattement mentionnée à l'article R. 335-73 ;
+
+2° Les offres qu'il propose de retenir. Seules peuvent être retenues celles assorties d'un prix inférieur ou égal au prix
+garanti. Les règles du mécanisme de capacité déterminent les critères sur la base desquels est effectuée la sélection
+éventuelle des offres ayant proposé un prix égal au prix garanti. Elles prennent en compte la possibilité de sélection
+partielle d'une offre, conformément aux dispositions de l'article R. 335-78.
+
+Dans un délai d'un mois après la transmission au ministre chargé de l'énergie du compte rendu, celui-ci désigne le ou les
+candidats retenus, les en avise et demande au gestionnaire du réseau de transport français de conclure avec ces lauréats les
+contrats mentionnés à l'article R. 335-71. Le ministre chargé de l'énergie avise également tous les autres candidats du rejet
+de leurs offres.
+
+Le gestionnaire du réseau de transport français publie sur son site internet la liste des candidats retenus.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+**Liens**:
 
-  - Décret n°2015-1823 du 30 décembre 2015 - art.
+  - DEPLACE: Décret n°2018-997 du 15 novembre 2018 - art. 1
 
 _Créé par_:
 
-  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-_Anciens textes_:
-
-  - Code de l'énergie - art. R335-29 (T)
+  - Décret n°2018-997 du 15 novembre 2018 - art. 53
 
 _Cite_:
 
-  - Code de l'énergie - art. R335-30 (V)
-  - Code de l'énergie - art. R335-50 (V)
+  - Code de l'énergie - art. R335-71
+  - Code de l'énergie - art. R335-73
+  - Code de l'énergie - art. R335-78
+  - Code de l'énergie - art. R335-79
 
 _Cité par_:
 
-  - Code de l'énergie - art. R335-47 (M)
-  - Code de l'énergie - art. R335-52 (M)
+  - Code de l'énergie - art. R335-83 (V)
 
 
-###### Article R335-52
+###### Article R335-81
 
-A la suite de la notification prévue à l'article R. 335-51, les exploitants dont la compensation est de signe négatif versent
-sur le fonds du dispositif de sécurité les montants correspondants. En cas de défaut de paiement d'un exploitant, le
-gestionnaire du réseau public de transport d'électricité met l'intéressé en demeure de régulariser sa situation dans un délai
-de cinq jours ouvrés. Puis le même fonds verse aux exploitants dont la compensation est de signe positif le montant
-correspondant. 
+Les contrats conclus avec les candidats retenus prévoient les pénalités dues par ces derniers en cas de non-exécution
+partielle ou totale des engagements décrits dans l'offre soumise ou dans le cahier des charges de l'appel d'offres.
 
-Si la somme des montants effectivement versés sur le fonds du dispositif de sécurité est inférieure à la somme des
-compensations de signe positif, l'écart est recouvré par un versement complémentaire de chaque fournisseur sur ce fonds au
-prorata de leurs obligations de capacité respectives. En cas de défaut de paiement d'un fournisseur, le gestionnaire du
-réseau public de transport d'électricité met l'intéressé en demeure de régulariser sa situation dans un délai de cinq jours
-ouvrés. 
+Les pénalités dues par les exploitants au titre d'une année de livraison alimentent le fonds du dispositif de
+contractualisation pluriannuelle mentionné à l'article R. 335-82.
 
-A l'issue de ces opérations, le solde du fonds, s'il est positif, est redistribué aux fournisseurs au prorata de leurs
-obligations de capacité respectives.
+Les formules permettant le calcul des pénalités applicables sont précisées dans le cahier des charges de chaque appel
+d'offres sur la base des dispositions prévues dans les règles du mécanisme de capacité mentionnées à l'article R. 335-1.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+**Liens**:
 
-  - Décret n°2015-1823 du 30 décembre 2015 - art.
+  - DEPLACE: Décret n°2018-997 du 15 novembre 2018 - art. 1
 
 _Créé par_:
 
-  - Décret n°2015-1823 du 30 décembre 2015 - art.
+  - Décret n°2018-997 du 15 novembre 2018 - art. 53
 
 _Cite_:
 
-  - Code de l'énergie - art. R335-51 (V)
+  - Code de l'énergie - art. R335-1
+
+_Cité par_:
+
+  - Code de l'énergie - art. R335-77 (V)
+  - Code de l'énergie - art. R335-82 (V)
+  - Code de l'énergie - art. R335-85 (V)
 
 
-###### Article R335-53
+###### Article R335-82
 
-Au plus tard six mois avant le début de la sixième année de livraison, le gestionnaire du réseau public de transport
-d'électricité remet au ministre chargé de l'énergie un rapport d'analyse de l'efficacité du dispositif de sécurisation.
+Un compte spécifique appelé “ fonds du dispositif de contractualisation pluriannuelle ” est ouvert par le gestionnaire du
+réseau de transport français dans ses écritures comptables. Ce compte est destiné à retracer les flux financiers, pour chaque
+année de livraison, entre les acteurs obligés et les exploitants de capacité relatifs à la compensation mentionnée à
+l'article R. 335-83 et aux pénalités mentionnées à l'article R. 335-81.
+
+Le gestionnaire du réseau de transport français assure la gestion administrative et financière de ce compte, ainsi que sa
+gestion comptable selon les règles de la comptabilité privée. Il est notamment chargé de la facturation et du versement de la
+compensation, du recouvrement des pénalités dues par les candidats retenus ne remplissant pas leurs engagements contractuels,
+de la constatation des éventuels défauts de paiement et le cas échéant des procédures de recouvrement.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+**Liens**:
 
-  - Décret n°2015-1823 du 30 décembre 2015 - art.
+  - DEPLACE: Décret n°2018-997 du 15 novembre 2018 - art. 1
 
 _Créé par_:
 
-  - Décret n°2015-1823 du 30 décembre 2015 - art.
+  - Décret n°2018-997 du 15 novembre 2018 - art. 53
 
-_Anciens textes_:
+_Cité par_:
 
-  - Code de l'énergie - art. R335-30 (T)
+  - Code de l'énergie - art. R335-81 (V)
+
+_Cite_:
+
+  - Code de l'énergie - art. R335-83
 
 
-##### Section 7 : Sanctions<a id=543></a>
+###### Article R335-83
 
-###### Article D335-54
+Avant chaque année de livraison, le gestionnaire du réseau de transport français notifie sa compensation à chaque exploitant
+de capacité de production ou d'effacement retenue au cours d'un appel d'offres portant sur cette année de livraison. La
+compensation désigne le montant en euros, qui sera de signe positif s'il est dû à l'exploitant, de signe négatif s'il est dû
+par l'exploitant.
+
+La compensation est égale au produit de l'écart entre le prix garanti, mentionné à l'article R. 335-80, et la référence de
+prix pour le calcul de la compensation pour l'année de livraison considérée par le montant de garanties de capacité sur
+lequel l'exploitant s'est engagé à l'issue de l'appel d'offres.
+
+Après consultation publique des acteurs du marché, la Commission de régulation de l'énergie définit et publie les modalités
+de calcul de la référence de prix pour le calcul de la compensation. Celles-ci sont actualisées pour chaque année de
+livraison en fonction des prix observés sur le marché des garanties de capacité.
+
+La référence de prix pour le calcul de la compensation est publiée par la Commission de régulation de l'énergie avant le
+début de chaque année de livraison, ainsi que la somme des compensations de signe positif et la somme des compensations de
+signe négatif pour l'année de livraison en cours.
+
+La Commission de régulation de l'énergie précisera pour chacune de ces sommes, les montants relatifs à chaque appel d'offres.
+
+**Liens relatifs à cet article**
+
+**Liens**:
+
+  - DEPLACE: Décret n°2018-997 du 15 novembre 2018 - art. 1
+
+_Créé par_:
+
+  - Décret n°2018-997 du 15 novembre 2018 - art. 53
+
+_Cite_:
+
+  - Code de l'énergie - art. R335-80
+
+_Cité par_:
+
+  - Code de l'énergie - art. R335-82 (V)
+  - Code de l'énergie - art. R335-84 (V)
+
+
+###### Article R335-84
+
+A l'occasion de la notification prévue à l'article R. 335-83, le gestionnaire du réseau de transport français notifie à
+chaque exploitant, le cas échéant, le montant des pénalités devant être versées au titre de l'année de livraison précédant
+l'année de notification sur le fonds du dispositif de contractualisation pluriannuelle dans un délai d'un mois.
+
+**Liens relatifs à cet article**
+
+**Liens**:
+
+  - DEPLACE: Décret n°2018-997 du 15 novembre 2018 - art. 1
+
+_Créé par_:
+
+  - Décret n°2018-997 du 15 novembre 2018 - art. 53
+
+_Cite_:
+
+  - Code de l'énergie - art. R335-83
+
+_Cité par_:
+
+  - Code de l'énergie - art. R335-85 (V)
+
+
+###### Article R335-85
+
+Dans un délai d'un mois à l'issue de la notification prévue à l'article R. 335-84, les exploitants dont la compensation est
+de signe négatif, ainsi que ceux redevables d'une pénalité mentionnée à l'article R. 335-81, versent sur le fonds du
+dispositif de contractualisation pluriannuelle les montants correspondants.
+
+Le gestionnaire du réseau de transport français calcule ensuite les montants devant être versés aux exploitants dont la
+compensation est de signe positif.
+
+Si la somme des montants versés sur le fonds du dispositif de contractualisation pluriannuelle est inférieure à la somme des
+montants devant être versés, l'écart est recouvré par un versement de chaque acteur obligé sur le fonds du dispositif de
+contractualisation pluriannuelle au prorata de leurs obligations de capacité respectives. Le gestionnaire du réseau de
+transport français notifie alors à chaque acteur obligé les montants devant être versés dans un délai d'un mois. Une fois ces
+versements effectués, le même fonds verse aux exploitants, dont la compensation est de signe positif, les montants
+correspondants.
+
+Si la somme des montants versés sur le fonds du dispositif de contractualisation pluriannuelle au titre des compensations
+négatives est supérieure à la somme des montants devant être versés au titre des compensations positives, le fonds verse aux
+exploitants dont la compensation est de signe positif les montants correspondants à leur compensation. Le solde est versé aux
+acteurs obligés au prorata de leur obligation de capacité.
+
+**Liens relatifs à cet article**
+
+**Liens**:
+
+  - DEPLACE: Décret n°2018-997 du 15 novembre 2018 - art. 1
+
+_Créé par_:
+
+  - Décret n°2018-997 du 15 novembre 2018 - art. 53
+
+_Cite_:
+
+  - Code de l'énergie - art. R335-81
+  - Code de l'énergie - art. R335-84
+
+
+###### Article R335-86
+
+A la date à laquelle ont lieu les notifications aux exploitants et aux acteurs obligés, les obligations de capacité
+définitives des acteurs obligés n'étant pas connues, le gestionnaire de réseau de transport français utilise l'obligation de
+capacité des acteurs obligés d'une année de livraison antérieure.
+
+Une fois les données définitives connues, il est procédé à une régularisation entre les acteurs obligés.
+
+**Liens relatifs à cet article**
+
+**Liens**:
+
+  - DEPLACE: Décret n°2018-997 du 15 novembre 2018 - art. 1
+
+_Créé par_:
+
+  - Décret n°2018-997 du 15 novembre 2018 - art. 53
+
+
+###### Article R335-87
+
+En cas de défaut de paiement d'un acteur obligé ou d'un exploitant, le gestionnaire du réseau de transport français met
+l'intéressé en demeure de régulariser sa situation dans un délai de cinq jours ouvrés. Les montants n'ayant pu être recouvrés
+à l'issue de cette procédure malgré l'activation des éventuelles garanties financières déposées par l'acteur obligé ou
+l'exploitant concerné, sont à la charge de l'ensemble des autres acteurs obligés. 
+
+Les règles du mécanisme de capacité mentionnées à l'article R. 335-1 précisent les modalités suivant lesquelles sont
+appliquées les dispositions du présent article.
+
+**Liens relatifs à cet article**
+
+**Liens**:
+
+  - DEPLACE: Décret n°2018-997 du 15 novembre 2018 - art. 1
+
+_Créé par_:
+
+  - Décret n°2018-997 du 15 novembre 2018 - art. 53
+
+_Cite_:
+
+  - Code de l'énergie - art. R335-1
+
+
+###### Article R335-88
+
+Au plus tard six ans après la publication du présent décret, et sur sollicitation du ministre chargé de l'énergie, le
+gestionnaire du réseau de transport français remet au ministre chargé de l'énergie et à la Commission de régulation de
+l'énergie un rapport d'analyse de l'efficacité du dispositif de contractualisation pluriannuelle.
+
+Ce rapport analyse la contribution du dispositif de contractualisation pluriannuelle :
+
+1° A la sécurité d'approvisionnement nationale ;
+
+2° A la réduction du coût de la sécurité d'approvisionnement pour les consommateurs français ;
+
+3° Au maintien et au développement de la concurrence sur le marché de la production d'électricité.
+
+Ce rapport analyse également l'impact du dispositif de contractualisation pluriannuelle sur le processus de formation des
+prix du mécanisme de capacité français, ainsi que la contribution des effacements de consommation à ce dispositif.
+
+**Liens relatifs à cet article**
+
+**Liens**:
+
+  - DEPLACE: Décret n°2018-997 du 15 novembre 2018 - art. 1
+
+_Créé par_:
+
+  - Décret n°2018-997 du 15 novembre 2018 - art. 53
+
+
+##### Section 9 : Sanctions<a id=550></a>
+
+###### Article D335-89
 
 L'autorité compétente pour prononcer la sanction prévue au deuxième alinéa de l'article L. 335-7 est le ministre chargé de
 l'énergie.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
 _Créé par_:
 
-  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-**Liens**:
-
-  - TRANSFERE: Décret n°2018-997 du 15 novembre 2018 - art. 1
-
-_Nouveaux textes_:
-
-  - Code de l'énergie - art. D335-89 (V)
-
-_Cite_:
-
-  - Code de l'énergie - art. L335-7 (V)
+  - Décret n°2018-997 du 15 novembre 2018 - art. 1
 
 _Anciens textes_:
 
-  - Code de l'énergie - art. R335-31 (T)
-
-_Cité par_:
-
-  - Code de l'énergie - art. R335-51 (V)
+  - Code de l'énergie - art. D335-54 (T)
 
 
-#### Chapitre VI : L'accès régulé à l'électricité nucléaire historique<a id=544></a>
+#### Chapitre VI : L'accès régulé à l'électricité nucléaire historique<a id=551></a>
 
-##### Section 1 : Définitions<a id=545></a>
+##### Section 1 : Définitions<a id=552></a>
 
 ###### Article R336-1
 
@@ -58844,9 +60208,9 @@ _Cite_:
   - Code de l'énergie - art. R336-6-1 (V)
 
 
-##### Section 2 : Demande d'accès régulé à l'électricité nucléaire historique et calcul des quantités de produit cédées<a id=546></a>
+##### Section 2 : Demande d'accès régulé à l'électricité nucléaire historique et calcul des quantités de produit cédées<a id=553></a>
 
-##### Sous-section 1 : Demande d'accès régulé à l'électricité nucléaire historique<a id=547></a>
+##### Sous-section 1 : Demande d'accès régulé à l'électricité nucléaire historique<a id=554></a>
 
 ###### Article R336-8
 
@@ -59033,7 +60397,7 @@ _Cite_:
   - Code de l'énergie - art. R336-33 (V)
 
 
-##### Sous-section 2 : Calcul des quantités de produit cédées<a id=548></a>
+##### Sous-section 2 : Calcul des quantités de produit cédées<a id=555></a>
 
 ###### Article R336-13
 
@@ -59232,7 +60596,7 @@ _Cité par_:
   - Code de l'énergie - art. R336-39 (V)
 
 
-##### Section 3 : Notification par la Commission de régulation de l'énergie des cessions d'électricité et transfert de l'énergie par le gestionnaire du réseau public de transport<a id=549></a>
+##### Section 3 : Notification par la Commission de régulation de l'énergie des cessions d'électricité et transfert de l'énergie par le gestionnaire du réseau public de transport<a id=556></a>
 
 ###### Article R336-19
 
@@ -59301,9 +60665,9 @@ _Cite_:
   - Code de l'énergie - art. R336-19 (V)
 
 
-##### Section 4 : Gestion des flux financiers et facturation<a id=550></a>
+##### Section 4 : Gestion des flux financiers et facturation<a id=557></a>
 
-##### Sous-section 1 : Gestion des flux financiers<a id=551></a>
+##### Sous-section 1 : Gestion des flux financiers<a id=558></a>
 
 ###### Article R336-21
 
@@ -59425,7 +60789,7 @@ _Créé par_:
   - Décret n°2015-1823 du 30 décembre 2015 - art.
 
 
-##### Sous-section 2 : Facturation<a id=552></a>
+##### Sous-section 2 : Facturation<a id=559></a>
 
 ###### Article R336-25
 
@@ -59532,7 +60896,7 @@ _Cite_:
   - Code de l'énergie - art. R336-26
 
 
-##### Section 5 : Contrôle ex post et complément de prix<a id=553></a>
+##### Section 5 : Contrôle ex post et complément de prix<a id=560></a>
 
 ###### Article R336-28
 
@@ -59903,7 +61267,7 @@ _Créé par_:
   - Décret n°2015-1823 du 30 décembre 2015 - art.
 
 
-##### Section 6 : Dispositions applicables en cas de dépassement du plafond<a id=554></a>
+##### Section 6 : Dispositions applicables en cas de dépassement du plafond<a id=561></a>
 
 ###### Article R336-39
 
@@ -59938,7 +61302,7 @@ _Cite_:
   - Code de l'énergie - art. R336-6-1 (V)
 
 
-##### Section 7 : Sociétés ayant pour activité l'acquisition de contrats d'approvisionnement à long terme d'électricité<a id=555></a>
+##### Section 7 : Sociétés ayant pour activité l'acquisition de contrats d'approvisionnement à long terme d'électricité<a id=562></a>
 
 ###### Article 336-44
 
@@ -60129,11 +61493,11 @@ _Cite_:
   - Code de l'énergie - art. R336-31 (V)
 
 
-#### Chapitre VII : Les tarifs et les prix<a id=556></a>
+#### Chapitre VII : Les tarifs et les prix<a id=563></a>
 
-##### Section 1 : Dispositions applicables aux tarifs de vente<a id=557></a>
+##### Section 1 : Dispositions applicables aux tarifs de vente<a id=564></a>
 
-##### Sous-section 2 : Application à Mayotte<a id=558></a>
+##### Sous-section 2 : Application à Mayotte<a id=565></a>
 
 ###### Article R337-17-1
 
@@ -60158,7 +61522,7 @@ _Cite_:
   - Code de l'énergie - art. R337-1 (V)
 
 
-##### Sous-section 3 : Les tarifs réglementés de vente de l'électricité<a id=559></a>
+##### Sous-section 3 : Les tarifs réglementés de vente de l'électricité<a id=566></a>
 
 ###### Article 337-19-1
 
@@ -60278,7 +61642,8 @@ fixé par l'article L. 336-2.
 Le coût du complément d'approvisionnement sur le marché est calculé en fonction des caractéristiques moyennes de consommation
 et des prix de marché à terme constatés. Jusqu'au début de la première année de livraison du mécanisme d'obligation de
 capacité prévu au chapitre V du présent titre, le coût de la garantie de capacité est considéré comme nul. Ensuite, il est
-pris en compte dans la part proportionnelle à l'énergie consommée du prix de fourniture.
+pris en compte dans la part proportionnelle à l'énergie consommée du prix de fourniture. Le coût de la garantie de capacité
+intègre les flux financiers mentionnés à l'article R. 335-85.
 
 Les coûts d'acheminement de l'électricité sont déterminés en fonction des tarifs d'utilisation des réseaux publics.
 
@@ -60294,15 +61659,15 @@ _Codifié par_:
 
   - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2015-1823 du 30 décembre 2015 - art.
+  - Décret n°2018-997 du 15 novembre 2018 - art. 54
 
 _Cite_:
 
-  - Code de l'énergie - art. L336-2 (V)
-  - Code de l'énergie - art. R336-14 (V)
-  - Code de l'énergie - art. R337-18 (V)
+  - Code de l'énergie - art. L336-2
+  - Code de l'énergie - art. R336-14
+  - Code de l'énergie - art. R337-18
 
 
 ###### Article R337-20
@@ -60463,7 +61828,7 @@ _Créé par_:
   - Décret n°2015-1823 du 30 décembre 2015 - art.
 
 
-##### Section 2 : Dispositions particulières applicables aux tarifs de cession aux entreprises locales de distribution<a id=560></a>
+##### Section 2 : Dispositions particulières applicables aux tarifs de cession aux entreprises locales de distribution<a id=567></a>
 
 ###### Article R337-25
 
@@ -60495,24 +61860,24 @@ _Cite_:
 Les tarifs de cession de l'électricité sont déterminés, sous réserve de la prise en compte des coûts d'Electricité de France
 pour l'activité de fourniture de l'électricité aux tarifs de cession, par l'addition du coût de l'accès régulé à
 l'électricité nucléaire historique et du coût du complément d'approvisionnement sur le marché, qui inclut la garantie de
-capacité. 
+capacité.
 
 Le coût de l'accès régulé à l'électricité nucléaire historique est déterminé en fonction du prix de l'accès régulé à
 l'électricité nucléaire historique appliqué au prorata de la quantité de produit théorique calculée en application de
 l'article R. 336-14 aux catégories fondées sur les caractéristiques intrinsèques des fournitures mentionnées à l'article L.
 337-11, compte tenu, le cas échéant, de l'atteinte du volume global maximal d'électricité nucléaire historique fixé par
-l'article L. 336-2. 
+l'article L. 336-2.
 
 Le coût du complément d'approvisionnement sur le marché est calculé en fonction des caractéristiques intrinsèques de
 fourniture et des prix de marché à terme constatés. Ce coût inclut les frais annexes associés à ce mode d'approvisionnement
-pour la fourniture aux tarifs de cession. 
+pour la fourniture aux tarifs de cession.
 
 Jusqu'au début de la première année de livraison du mécanisme d'obligation de capacité prévu au chapitre V du présent titre,
 le coût de la garantie de capacité est considéré comme nul pour la détermination du niveau des tarifs de cession. Par la
-suite, ce coût est intégré au tarif de cession. 
+suite, ce coût est intégré au tarif de cession.
 
 Les tarifs de cession de l'électricité comportent plusieurs périodes tarifaires qui associent chacune un prix unitaire au
-volume d'énergie consommée.
+volume d'énergie consommée, laquelle intègre les flux financiers mentionnés à l'article R. 335-85.
 
 **Nota:**
 
@@ -60527,13 +61892,13 @@ _Codifié par_:
 
   - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-_Modifié par_:
-
-  - Décret n°2016-1133 du 19 août 2016 - art. 1
-
 _Cité par_:
 
   - Décret n°2016-1133 du 19 août 2016 - art. 2 (V)
+
+_Modifié par_:
+
+  - Décret n°2018-997 du 15 novembre 2018 - art. 54
 
 _Cite_:
 
@@ -60591,11 +61956,11 @@ _Modifié par_:
   - Décret n°2016-1133 du 19 août 2016 - art. 1
 
 
-### TITRE IV : L'ACCÈS ET LE RACCORDEMENT AUX RÉSEAUX<a id=561></a>
+### TITRE IV : L'ACCÈS ET LE RACCORDEMENT AUX RÉSEAUX<a id=568></a>
 
-#### Chapitre Ier : L'accès aux réseaux<a id=562></a>
+#### Chapitre Ier : L'accès aux réseaux<a id=569></a>
 
-##### Section 1 : Tarifs d'utilisation des réseaux publics de transport et de distribution d'électricité<a id=563></a>
+##### Section 1 : Tarifs d'utilisation des réseaux publics de transport et de distribution d'électricité<a id=570></a>
 
 ###### Article R341-1
 
@@ -60673,7 +62038,7 @@ _Créé par_:
   - Décret n°2015-1823 du 30 décembre 2015 - art.
 
 
-##### Section 2 : Dispositifs de comptage sur les réseaux publics d'électricité<a id=564></a>
+##### Section 2 : Dispositifs de comptage sur les réseaux publics d'électricité<a id=571></a>
 
 ###### Article R341-4
 
@@ -60833,7 +62198,7 @@ _Cite_:
   - Code de l'énergie - art. R341-6 (V)
 
 
-##### Section 3 : Réduction de tarif d'utilisation du réseau public de transport accordée aux sites fortement consommateurs d'électricité<a id=565></a>
+##### Section 3 : Réduction de tarif d'utilisation du réseau public de transport accordée aux sites fortement consommateurs d'électricité<a id=572></a>
 
 ###### Article Annexe article D341-9
 
@@ -61216,7 +62581,7 @@ _Cite_:
   - Code de l'énergie - art. L341-4-2 (V)
 
 
-##### Section 4 : Mise à disposition des données de comptage de consommation aux propriétaires ou gestionnaires d'immeubles<a id=566></a>
+##### Section 4 : Mise à disposition des données de comptage de consommation aux propriétaires ou gestionnaires d'immeubles<a id=573></a>
 
 ###### Article D341-13
 
@@ -61308,7 +62673,7 @@ _Créé par_:
   - Décret n°2016-447 du 12 avril 2016 - art. 1
 
 
-##### Section 5 : Mise à disposition des données de consommation aux consommateurs raccordés aux réseaux publics de distribution<a id=567></a>
+##### Section 5 : Mise à disposition des données de consommation aux consommateurs raccordés aux réseaux publics de distribution<a id=574></a>
 
 ###### Article D341-18
 
@@ -61463,9 +62828,9 @@ _Cite_:
   - Code de l'énergie - art. D341-22 (V)
 
 
-#### Chapitre II : Le raccordement aux réseaux<a id=568></a>
+#### Chapitre II : Le raccordement aux réseaux<a id=575></a>
 
-##### Section 1 : Consistance des ouvrages de branchement et d'extension<a id=569></a>
+##### Section 1 : Consistance des ouvrages de branchement et d'extension<a id=576></a>
 
 ###### Article D342-1
 
@@ -61548,9 +62913,9 @@ _Cite_:
   - Code de l'énergie - art. L342-5 (V)
 
 
-##### Section 2 : Indemnités en cas de retard de raccordement d'une installation de production d'énergie renouvelable<a id=570></a>
+##### Section 2 : Indemnités en cas de retard de raccordement d'une installation de production d'énergie renouvelable<a id=577></a>
 
-##### Sous-section 1 : Dispositions applicables aux installations de production d'électricité d'une puissance installée inférieure ou égale à 3 kilovoltampères<a id=571></a>
+##### Sous-section 1 : Dispositions applicables aux installations de production d'électricité d'une puissance installée inférieure ou égale à 3 kilovoltampères<a id=578></a>
 
 ###### Article R342-3
 
@@ -61609,7 +62974,7 @@ _Cite_:
   - Code de l'énergie - art. R342-3 (V)
 
 
-##### Sous-section 2 : Dispositions applicables aux installations de production d'électricité d'une puissance installée supérieure à 3 kilovoltampères<a id=572></a>
+##### Sous-section 2 : Dispositions applicables aux installations de production d'électricité d'une puissance installée supérieure à 3 kilovoltampères<a id=579></a>
 
 ###### Article D342-4-1
 
@@ -61757,7 +63122,7 @@ _Cite_:
   - Code de l'énergie - art. D342-4-2
 
 
-##### Paragraphe 1 : Dispositions générales<a id=573></a>
+##### Paragraphe 1 : Dispositions générales<a id=580></a>
 
 ###### Article R342-4-7
 
@@ -61822,7 +63187,7 @@ _Cite_:
   - Code de l'énergie - art. R342-4-7 (V)
 
 
-##### Paragraphe 2 : Dispositions propres aux installations de production d'électricité à partir de sources d'énergie renouvelable en mer<a id=574></a>
+##### Paragraphe 2 : Dispositions propres aux installations de production d'électricité à partir de sources d'énergie renouvelable en mer<a id=581></a>
 
 ###### Article D342-4-9
 
@@ -62005,7 +63370,7 @@ _Cite_:
   - Code de l'énergie - art. L341-2 (V)
 
 
-##### Paragraphe 3 : Dispositions propres aux installations de production d'électricité à partir de sources d'énergie renouvelable en mer dont le coût du raccordement est supporté par le gestionnaire de réseau<a id=575></a>
+##### Paragraphe 3 : Dispositions propres aux installations de production d'électricité à partir de sources d'énergie renouvelable en mer dont le coût du raccordement est supporté par le gestionnaire de réseau<a id=582></a>
 
 ###### Article D342-4-12
 
@@ -62197,7 +63562,7 @@ _Cite_:
   - Code de l'énergie - art. L342-7-1 (V)
 
 
-##### Section 3 : Règles générales pour le raccordement aux réseaux publics d'électricité<a id=576></a>
+##### Section 3 : Règles générales pour le raccordement aux réseaux publics d'électricité<a id=583></a>
 
 ###### Article D342-5
 
@@ -62430,9 +63795,9 @@ _Cité par_:
   - Code de l'énergie - art. D342-14 (V)
 
 
-##### Section 4 : Règles complémentaires applicables pour le raccordement aux réseaux publics d'électricité du territoire métropolitain continental<a id=577></a>
+##### Section 4 : Règles complémentaires applicables pour le raccordement aux réseaux publics d'électricité du territoire métropolitain continental<a id=584></a>
 
-##### Sous-section 1 : Mise en œuvre du règlement (UE) n° 2016/631 de la Commission du 14 avril 2016 établissant un code de réseau sur les exigences applicables au raccordement au réseau des installations de production d'électricité<a id=578></a>
+##### Sous-section 1 : Mise en œuvre du règlement (UE) n° 2016/631 de la Commission du 14 avril 2016 établissant un code de réseau sur les exigences applicables au raccordement au réseau des installations de production d'électricité<a id=585></a>
 
 ###### Article R342-13-1
 
@@ -62477,7 +63842,7 @@ _Créé par_:
   - Décret n°2018-744 du 23 août 2018 - art. 6
 
 
-##### Sous-section 2 : Mise en œuvre du règlement (UE) n° 2016/1388 de la Commission du 17 août 2016 établissant un code de réseau sur le raccordement des réseaux de distribution et des installations de consommation<a id=579></a>
+##### Sous-section 2 : Mise en œuvre du règlement (UE) n° 2016/1388 de la Commission du 17 août 2016 établissant un code de réseau sur le raccordement des réseaux de distribution et des installations de consommation<a id=586></a>
 
 ###### Article R342-13-3
 
@@ -62520,7 +63885,7 @@ _Créé par_:
   - Décret n°2018-744 du 23 août 2018 - art. 6
 
 
-##### Sous-section 3 : Mise en œuvre du règlement (UE) n° 2016/1447 de la Commission du 26 août 2016 établissant un code de réseau relatif aux exigences applicables au raccordement au réseau des systèmes en courant continu à haute tension et des parcs non synchrones de générateurs raccordés en courant continu<a id=580></a>
+##### Sous-section 3 : Mise en œuvre du règlement (UE) n° 2016/1447 de la Commission du 26 août 2016 établissant un code de réseau relatif aux exigences applicables au raccordement au réseau des systèmes en courant continu à haute tension et des parcs non synchrones de générateurs raccordés en courant continu<a id=587></a>
 
 ###### Article R342-13-5
 
@@ -62562,7 +63927,7 @@ _Créé par_:
   - Décret n°2018-744 du 23 août 2018 - art. 6
 
 
-##### Sous-section 4 : Dispositions communes aux utilisateurs soumis aux règlements européens<a id=581></a>
+##### Sous-section 4 : Dispositions communes aux utilisateurs soumis aux règlements européens<a id=588></a>
 
 ###### Article R342-13-7
 
@@ -62609,7 +63974,7 @@ _Créé par_:
   - Décret n°2018-744 du 23 août 2018 - art. 6
 
 
-##### Section 5 : Règles complémentaires applicables aux utilisateurs du réseau non soumis aux règlements européens et aux utilisateurs du réseau dans les zones non interconnectées au réseau public métropolitain continental<a id=582></a>
+##### Section 5 : Règles complémentaires applicables aux utilisateurs du réseau non soumis aux règlements européens et aux utilisateurs du réseau dans les zones non interconnectées au réseau public métropolitain continental<a id=589></a>
 
 ###### Article D342-13-9
 
@@ -62717,9 +64082,9 @@ _Codifié par_:
   - DEPLACE: Décret n°2018-744 du 23 août 2018 - art. 7
 
 
-##### Section 6 :  Autres raccordements aux réseaux électriques<a id=583></a>
+##### Section 6 :  Autres raccordements aux réseaux électriques<a id=590></a>
 
-##### Sous-section 1 : Raccordement entre réseaux<a id=584></a>
+##### Sous-section 1 : Raccordement entre réseaux<a id=591></a>
 
 ###### Article D342-15
 
@@ -62744,7 +64109,7 @@ _Cité par_:
   - Code de l'énergie - art. R343-2 (V)
 
 
-##### Sous-section 2 :  Raccordement de plusieurs installations de production en un point unique du réseau public<a id=585></a>
+##### Sous-section 2 :  Raccordement de plusieurs installations de production en un point unique du réseau public<a id=592></a>
 
 ###### Article D342-15-2
 
@@ -62813,7 +64178,7 @@ _Créé par_:
   - Décret n°2018-544 du 28 juin 2018 - art. 12
 
 
-##### Sous-section 3 :  Raccordement d'une ou plusieurs installations de production au sein d'un site de consommation<a id=586></a>
+##### Sous-section 3 :  Raccordement d'une ou plusieurs installations de production au sein d'un site de consommation<a id=593></a>
 
 ###### Article D342-15-6
 
@@ -62833,7 +64198,7 @@ _Créé par_:
   - Décret n°2018-544 du 28 juin 2018 - art. 12
 
 
-##### Sous-section 4 :  Comptage pour les installations de production non directement raccordées aux réseaux publics<a id=587></a>
+##### Sous-section 4 :  Comptage pour les installations de production non directement raccordées aux réseaux publics<a id=594></a>
 
 ###### Article D342-15-7
 
@@ -62849,9 +64214,9 @@ _Créé par_:
   - Décret n°2018-544 du 28 juin 2018 - art. 12
 
 
-##### Section 7 : Contrôles<a id=588></a>
+##### Section 7 : Contrôles<a id=595></a>
 
-##### Sous-section 1 : Contrôles des installations de production raccordées aux réseaux publics d'électricité<a id=589></a>
+##### Sous-section 1 : Contrôles des installations de production raccordées aux réseaux publics d'électricité<a id=596></a>
 
 ###### Article D342-16
 
@@ -62912,7 +64277,7 @@ _Créé par_:
   - Décret n°2015-1823 du 30 décembre 2015 - art.
 
 
-##### Sous-section 2 : Contrôles des installations raccordées aux réseaux publics d'électricité<a id=590></a>
+##### Sous-section 2 : Contrôles des installations raccordées aux réseaux publics d'électricité<a id=597></a>
 
 ###### Article D342-18
 
@@ -63034,7 +64399,7 @@ _Créé par_:
   - Décret n°2015-1823 du 30 décembre 2015 - art.
 
 
-##### Section 8 : Schéma régional de raccordement au réseau des énergies renouvelables et établissement de la quote-part<a id=591></a>
+##### Section 8 : Schéma régional de raccordement au réseau des énergies renouvelables et établissement de la quote-part<a id=598></a>
 
 ###### Article D342-22
 
@@ -63193,7 +64558,7 @@ _Cite_:
   - Code de l'énergie - art. L342-6 (V)
 
 
-#### Chapitre III : Les lignes directes<a id=592></a>
+#### Chapitre III : Les lignes directes<a id=599></a>
 
 ###### Article R343-1
 
@@ -63506,7 +64871,7 @@ _Cite_:
   - Code de l'énergie - art. R323-29 (V)
 
 
-#### Chapitre V : Les réseaux intérieurs des bâtiments<a id=593></a>
+#### Chapitre V : Les réseaux intérieurs des bâtiments<a id=600></a>
 
 ###### Article D345-1
 
@@ -63592,9 +64957,9 @@ _Cite_:
   - Code de l'énergie - art. L345-7 (V)
 
 
-### TITRE V : LES DISPOSITIONS RELATIVES À L'UTILISATION DE L'ÉLECTRICITÉ<a id=594></a>
+### TITRE V : LES DISPOSITIONS RELATIVES À L'UTILISATION DE L'ÉLECTRICITÉ<a id=601></a>
 
-#### Chapitre unique : Consommateurs électro-intensifs<a id=595></a>
+#### Chapitre unique : Consommateurs électro-intensifs<a id=602></a>
 
 ###### Article D351-1
 
@@ -63860,11 +65225,11 @@ _Cite_:
   - Code de l'énergie - art. L351-1
 
 
-### TITRE VI : LES DISPOSITIONS RELATIVES À L'OUTRE-MER<a id=596></a>
+### TITRE VI : LES DISPOSITIONS RELATIVES À L'OUTRE-MER<a id=603></a>
 
-#### Chapitre Ier : Dispositions relatives à l'outre-mer<a id=597></a>
+#### Chapitre Ier : Dispositions relatives à l'outre-mer<a id=604></a>
 
-##### Section 1 : Dispositions relatives à l'obligation d'achat<a id=598></a>
+##### Section 1 : Dispositions relatives à l'obligation d'achat<a id=605></a>
 
 ###### Article R361-1
 
@@ -64055,7 +65420,7 @@ _Cité par_:
   - Code de l'énergie - art. R361-4 (V)
 
 
-##### Section 2 : Schémas de raccordement<a id=599></a>
+##### Section 2 : Schémas de raccordement<a id=606></a>
 
 ###### Article D361-7-1
 
@@ -64097,7 +65462,7 @@ _Cite_:
   - Code de l'énergie - art. L361-1
 
 
-##### Section 3 : Dispositions spécifiques aux procédures de mise en concurrence dans les collectivités de Guadeloupe, de Guyane, de Martinique et de La Réunion<a id=600></a>
+##### Section 3 : Dispositions spécifiques aux procédures de mise en concurrence dans les collectivités de Guadeloupe, de Guyane, de Martinique et de La Réunion<a id=607></a>
 
 ###### Article D361-7-3
 
@@ -64153,7 +65518,7 @@ _Modifié par_:
   - Décret n°2016-1129 du 17 août 2016 - art. 3
 
 
-#### Chapitre II : Dispositions relatives à Mayotte<a id=601></a>
+#### Chapitre II : Dispositions relatives à Mayotte<a id=608></a>
 
 ###### Article D361-9
 
@@ -64222,15 +65587,15 @@ _Créé par_:
   - Décret n°2015-1823 du 30 décembre 2015 - art.
 
 
-## LIVRE IV : LES DISPOSITIONS RELATIVES AU GAZ<a id=602></a>
+## LIVRE IV : LES DISPOSITIONS RELATIVES AU GAZ<a id=609></a>
 
-### TITRE II : LE STOCKAGE<a id=603></a>
+### TITRE II : LE STOCKAGE<a id=610></a>
 
-#### Chapitre unique<a id=604></a>
+#### Chapitre unique<a id=611></a>
 
-##### Section 1 : L'accès aux stockages souterrains de gaz naturel<a id=605></a>
+##### Section 1 : L'accès aux stockages souterrains de gaz naturel<a id=612></a>
 
-##### Sous-section 1 : Principes généraux d'utilisation des stockages<a id=606></a>
+##### Sous-section 1 : Principes généraux d'utilisation des stockages<a id=613></a>
 
 ###### Article R421-1
 
@@ -64374,7 +65739,7 @@ _Cite_:
   - Code de l'énergie - art. L421-9
 
 
-##### Sous-section 2 : Constitution des stocks complémentaires mentionnés à l'article L. 421-6<a id=607></a>
+##### Sous-section 2 : Constitution des stocks complémentaires mentionnés à l'article L. 421-6<a id=614></a>
 
 ###### Article D421-7
 
@@ -64612,7 +65977,7 @@ _Cite_:
   - Code de l'énergie - art. L421-5-1 (V)
 
 
-##### Sous-section 3 : Dispositions applicables aux infrastructures de stockage non mentionnées à l’article L. 421-3-1<a id=608></a>
+##### Sous-section 3 : Dispositions applicables aux infrastructures de stockage non mentionnées à l’article L. 421-3-1<a id=615></a>
 
 ###### Article R421-14
 
@@ -64640,7 +66005,7 @@ _Cite_:
   - Code de l'énergie - art. L421-3-1
 
 
-##### Sous-section 4 : Agents chargés du contrôle de l’accès aux stockages souterrains de gaz naturel<a id=609></a>
+##### Sous-section 4 : Agents chargés du contrôle de l’accès aux stockages souterrains de gaz naturel<a id=616></a>
 
 ###### Article R421-15
 
@@ -64698,15 +66063,15 @@ _Anciens textes_:
   - Code de l'énergie - art. R421-22 (T)
 
 
-### TITRE III : LE TRANSPORT ET LA DISTRIBUTION<a id=610></a>
+### TITRE III : LE TRANSPORT ET LA DISTRIBUTION<a id=617></a>
 
-#### Section 1 : Régime de l'autorisation de transport<a id=611></a>
+#### Section 1 : Régime de l'autorisation de transport<a id=618></a>
 
-##### Chapitre Ier : Le transport<a id=612></a>
+##### Chapitre Ier : Le transport<a id=619></a>
 
-##### Section 1 : Régime de l'autorisation de transport<a id=613></a>
+##### Section 1 : Régime de l'autorisation de transport<a id=620></a>
 
-##### Sous-section 1 : Droits et obligations du titulaire de l'autorisation<a id=614></a>
+##### Sous-section 1 : Droits et obligations du titulaire de l'autorisation<a id=621></a>
 
 ###### Article R431-1
 
@@ -64807,7 +66172,7 @@ _Cité par_:
   - Code de l'énergie - art. R121-9 (V)
 
 
-##### Sous-section 2 : Sanctions<a id=615></a>
+##### Sous-section 2 : Sanctions<a id=622></a>
 
 ###### Article R431-3
 
@@ -64828,11 +66193,11 @@ _Cite_:
   - Code de l'énergie - art. L431-2 (V)
 
 
-##### Chapitre II : La distribution<a id=616></a>
+##### Chapitre II : La distribution<a id=623></a>
 
-##### Section 1 : L'organisation de la distribution gazière<a id=617></a>
+##### Section 1 : L'organisation de la distribution gazière<a id=624></a>
 
-##### Sous-section 1 : Agrément des distributeurs de gaz par réseaux publics<a id=618></a>
+##### Sous-section 1 : Agrément des distributeurs de gaz par réseaux publics<a id=625></a>
 
 ###### Article R432-1
 
@@ -65055,7 +66420,7 @@ _Créé par_:
   - Décret n°2015-1823 du 30 décembre 2015 - art.
 
 
-##### Sous-section 2 : Développement de la desserte gazière<a id=619></a>
+##### Sous-section 2 : Développement de la desserte gazière<a id=626></a>
 
 ###### Article R432-8
 
@@ -65193,7 +66558,7 @@ _Cite_:
   - Code de l'énergie - art. L432-12 (V)
 
 
-##### Section 2 : Les missions des gestionnaires de réseau de distribution<a id=620></a>
+##### Section 2 : Les missions des gestionnaires de réseau de distribution<a id=627></a>
 
 ###### Article R432-13
 
@@ -65210,11 +66575,11 @@ _Créé par_:
   - Décret n°2018-276 du 18 avril 2018 - art. 6
 
 
-##### Chapitre III : Les ouvrages de transport et de distribution<a id=621></a>
+##### Chapitre III : Les ouvrages de transport et de distribution<a id=628></a>
 
-##### Section 1 : L'occupation du domaine public ou la traversée des propriétés privées par les ouvrages de transport et de distribution<a id=622></a>
+##### Section 1 : L'occupation du domaine public ou la traversée des propriétés privées par les ouvrages de transport et de distribution<a id=629></a>
 
-##### Sous-section 1 : Déclaration d'utilité publique des ouvrages de gaz en vue de l'établissement de servitudes<a id=623></a>
+##### Sous-section 1 : Déclaration d'utilité publique des ouvrages de gaz en vue de l'établissement de servitudes<a id=630></a>
 
 ###### Article R433-1
 
@@ -65310,7 +66675,7 @@ _Créé par_:
   - Décret n°2015-1823 du 30 décembre 2015 - art.
 
 
-##### Sous-section 2 : Etablissement des servitudes<a id=624></a>
+##### Sous-section 2 : Etablissement des servitudes<a id=631></a>
 
 ###### Article D433-11
 
@@ -65475,7 +66840,7 @@ _Créé par_:
   - Décret n°2017-1557 du 10 novembre 2017 - art. 6
 
 
-##### Sous-section 3 : Indemnités et frais<a id=625></a>
+##### Sous-section 3 : Indemnités et frais<a id=632></a>
 
 ###### Article R433-12
 
@@ -65515,9 +66880,9 @@ _Cité par_:
   - Code de l'énergie - art. R433-10 (V)
 
 
-##### Section 2 : Le contrôle de la construction et de l'exploitation des ouvrages de transport et de distribution<a id=626></a>
+##### Section 2 : Le contrôle de la construction et de l'exploitation des ouvrages de transport et de distribution<a id=633></a>
 
-##### Sous-section 1 : Les prescriptions techniques applicables<a id=627></a>
+##### Sous-section 1 : Les prescriptions techniques applicables<a id=634></a>
 
 ###### Article R433-1
 
@@ -65706,7 +67071,7 @@ _Cite_:
   - Code de l'énergie - art. R433-14 (V)
 
 
-##### Sous-section 2 : Les organismes de contrôle<a id=628></a>
+##### Sous-section 2 : Les organismes de contrôle<a id=635></a>
 
 ###### Article D433-23
 
@@ -65798,7 +67163,7 @@ _Créé par_:
   - Décret n°2015-1823 du 30 décembre 2015 - art.
 
 
-##### Sous-section 3 : Mesures de police administrative<a id=629></a>
+##### Sous-section 3 : Mesures de police administrative<a id=636></a>
 
 ###### Article D433-24
 
@@ -65860,9 +67225,9 @@ _Cite_:
   - Code de l'énergie - art. L433-19 (V)
 
 
-### TITRE IV : LA COMMERCIALISATION<a id=630></a>
+### TITRE IV : LA COMMERCIALISATION<a id=637></a>
 
-#### Chapitre Ier : Le choix du fournisseur<a id=631></a>
+#### Chapitre Ier : Le choix du fournisseur<a id=638></a>
 
 ###### Article R441-1
 
@@ -65889,9 +67254,9 @@ _Cite_:
   - Code de l'énergie - art. L441-1 (V)
 
 
-#### Chapitre III : Le régime de la fourniture<a id=632></a>
+#### Chapitre III : Le régime de la fourniture<a id=639></a>
 
-##### Section 1 : L'obligation d'une autorisation<a id=633></a>
+##### Section 1 : L'obligation d'une autorisation<a id=640></a>
 
 ###### Article R443-1
 
@@ -66198,7 +67563,7 @@ _Créé par_:
   - Décret n°2015-1823 du 30 décembre 2015 - art.
 
 
-##### Section 2 : Contrôles et sanctions administratives<a id=634></a>
+##### Section 2 : Contrôles et sanctions administratives<a id=641></a>
 
 ###### Article R443-10
 
@@ -66297,9 +67662,9 @@ _Cite_:
   - Code de l'énergie - art. L142-31 (V)
 
 
-#### Chapitre V : Les tarifs<a id=635></a>
+#### Chapitre V : Les tarifs<a id=642></a>
 
-##### Section 1 : Tarifs réglementés de vente<a id=636></a>
+##### Section 1 : Tarifs réglementés de vente<a id=643></a>
 
 ###### Article R445-1
 
@@ -66540,9 +67905,9 @@ _Cite_:
   - Code de l'énergie - art. R445-1 (V)
 
 
-#### Chapitre VI : Les dispositions particulières relatives à la vente de biogaz<a id=637></a>
+#### Chapitre VI : Les dispositions particulières relatives à la vente de biogaz<a id=644></a>
 
-##### Section 1 : Conditions de vente du biométhane aux fournisseurs de gaz naturel<a id=638></a>
+##### Section 1 : Conditions de vente du biométhane aux fournisseurs de gaz naturel<a id=645></a>
 
 ###### Article R446-1
 
@@ -66619,7 +67984,7 @@ _Cite_:
   - Code de l'énergie - art. R446-1 (V)
 
 
-##### Section 2 : Les conditions de contractualisation entre producteurs de biométhane et fournisseurs de gaz naturel<a id=639></a>
+##### Section 2 : Les conditions de contractualisation entre producteurs de biométhane et fournisseurs de gaz naturel<a id=646></a>
 
 ###### Article D446-3
 
@@ -67125,7 +68490,7 @@ _Cite_:
   - Code de l'énergie - art. L142-21 (V)
 
 
-##### Section 3 : Les garanties d'origine du biométhane injecté dans les réseaux de gaz naturel<a id=640></a>
+##### Section 3 : Les garanties d'origine du biométhane injecté dans les réseaux de gaz naturel<a id=647></a>
 
 ###### Article D446-17
 
@@ -67449,9 +68814,9 @@ _Cité par_:
   - Code de l'énergie - art. D446-23 (V)
 
 
-### TITRE V : L'ACCÈS ET LE RACCORDEMENT AUX RÉSEAUX ET INSTALLATIONS<a id=641></a>
+### TITRE V : L'ACCÈS ET LE RACCORDEMENT AUX RÉSEAUX ET INSTALLATIONS<a id=648></a>
 
-#### Chapitre II : Les tarifs d'utilisation des réseaux de transport, de distribution de gaz naturel et les tarifs d'utilisation des installations de gaz naturel liquéfié<a id=642></a>
+#### Chapitre II : Les tarifs d'utilisation des réseaux de transport, de distribution de gaz naturel et les tarifs d'utilisation des installations de gaz naturel liquéfié<a id=649></a>
 
 ###### Article D452-1-1
 
@@ -67511,9 +68876,9 @@ _Cite_:
   - Code de l'énergie - art. R111-43 (V)
 
 
-#### Chapitre III : Le raccordement aux réseaux et installations<a id=643></a>
+#### Chapitre III : Le raccordement aux réseaux et installations<a id=650></a>
 
-##### Section 1 : Extensions des réseaux de distribution de gaz naturel<a id=644></a>
+##### Section 1 : Extensions des réseaux de distribution de gaz naturel<a id=651></a>
 
 ###### Article R453-1
 
@@ -67690,7 +69055,7 @@ _Cite_:
   - Code de l'énergie - art. R453-4 (V)
 
 
-##### Section 2 : Contenu du cahier des charges des concessions de distribution publique de gaz et du règlement de service des régies<a id=645></a>
+##### Section 2 : Contenu du cahier des charges des concessions de distribution publique de gaz et du règlement de service des régies<a id=652></a>
 
 ###### Article R453-7
 
@@ -67736,7 +69101,7 @@ _Cite_:
   - Code de l'énergie - art. R453-4 (V)
 
 
-##### Section 3 : Prescriptions techniques fixant les exigences techniques de conception et de fonctionnement<a id=646></a>
+##### Section 3 : Prescriptions techniques fixant les exigences techniques de conception et de fonctionnement<a id=653></a>
 
 ###### Article R453-8
 
@@ -67760,7 +69125,7 @@ _Cite_:
   - Code de l'énergie - art. R433-15 (V)
 
 
-##### Section 4 : Mise à disposition des données de comptage de consommation aux propriétaires ou gestionnaires d'immeubles<a id=647></a>
+##### Section 4 : Mise à disposition des données de comptage de consommation aux propriétaires ou gestionnaires d'immeubles<a id=654></a>
 
 ###### Article D453-9
 
@@ -67859,7 +69224,7 @@ _Créé par_:
   - Décret n°2016-447 du 12 avril 2016 - art. 2
 
 
-##### Section 5 : Mise à disposition des données de comptage aux consommateurs raccordés aux réseaux publics de distribution de gaz naturel<a id=648></a>
+##### Section 5 : Mise à disposition des données de comptage aux consommateurs raccordés aux réseaux publics de distribution de gaz naturel<a id=655></a>
 
 ###### Article D453-14
 
@@ -67962,9 +69327,9 @@ _Créé par_:
   - Décret n°2017-948 du 10 mai 2017 - art. 3
 
 
-### TITRE VI : LES CONSOMMATEURS GAZO-INTENSIFS<a id=649></a>
+### TITRE VI : LES CONSOMMATEURS GAZO-INTENSIFS<a id=656></a>
 
-#### Chapitre unique<a id=650></a>
+#### Chapitre unique<a id=657></a>
 
 ###### Article D461-1
 
@@ -68400,11 +69765,11 @@ _Cite_:
   - Code de l'énergie - art. L461-3
 
 
-## LIVRE V : LES DISPOSITIONS RELATIVES À L'UTILISATION DE L'ÉNERGIE HYDRAULIQUE<a id=651></a>
+## LIVRE V : LES DISPOSITIONS RELATIVES À L'UTILISATION DE L'ÉNERGIE HYDRAULIQUE<a id=658></a>
 
-### TITRE Ier : LES DISPOSITIONS COMMUNES AUX INSTALLATIONS HYDRAULIQUES AUTORISÉES OU CONCÉDÉES<a id=652></a>
+### TITRE Ier : LES DISPOSITIONS COMMUNES AUX INSTALLATIONS HYDRAULIQUES AUTORISÉES OU CONCÉDÉES<a id=659></a>
 
-#### Chapitre Ier : Les caractéristiques générales des régimes d'exploitation de l'énergie hydraulique<a id=653></a>
+#### Chapitre Ier : Les caractéristiques générales des régimes d'exploitation de l'énergie hydraulique<a id=660></a>
 
 ###### Article D511-1
 
@@ -68435,9 +69800,9 @@ _Cité par_:
   - Code de l'environnement - art. R212-37 (VD)
 
 
-### TITRE II : LES DISPOSITIONS RELATIVES AUX INSTALLATIONS HYDRAULIQUES CONCÉDÉES<a id=654></a>
+### TITRE II : LES DISPOSITIONS RELATIVES AUX INSTALLATIONS HYDRAULIQUES CONCÉDÉES<a id=661></a>
 
-#### Chapitre Ier : La procédure applicable aux concessions<a id=655></a>
+#### Chapitre Ier : La procédure applicable aux concessions<a id=662></a>
 
 ###### Article R521-1
 
@@ -68484,9 +69849,9 @@ _Cite_:
   - Code de l'énergie - art. R521-49 (V)
 
 
-##### Section 1 : L'octroi de la concession<a id=656></a>
+##### Section 1 : L'octroi de la concession<a id=663></a>
 
-##### Sous-section 1 : Lancement de la procédure<a id=657></a>
+##### Sous-section 1 : Lancement de la procédure<a id=664></a>
 
 ###### Article R521-2
 
@@ -68629,7 +69994,7 @@ _Cite_:
   - Code de l'énergie - art. R521-4
 
 
-##### Sous-section 2 : Sélection du candidat pressenti<a id=658></a>
+##### Sous-section 2 : Sélection du candidat pressenti<a id=665></a>
 
 ###### Article R521-6
 
@@ -68880,7 +70245,7 @@ _Cité par_:
   - Code de l'énergie - art. R521-24 (V)
 
 
-##### Sous-section 3 : Instruction de la demande du concessionnaire pressenti<a id=659></a>
+##### Sous-section 3 : Instruction de la demande du concessionnaire pressenti<a id=666></a>
 
 ###### Article R521-12
 
@@ -69291,7 +70656,7 @@ _Cite_:
   - Code de l'énergie - art. R521-11 (V)
 
 
-##### Sous-section 4 : Octroi de la concession et déclaration d'utilité publique<a id=660></a>
+##### Sous-section 4 : Octroi de la concession et déclaration d'utilité publique<a id=667></a>
 
 ###### Article R521-25
 
@@ -69407,7 +70772,7 @@ _Cité par_:
   - Code de l'énergie - art. R524-4 (V)
 
 
-##### Sous-section 5 : Règlement d'eau<a id=661></a>
+##### Sous-section 5 : Règlement d'eau<a id=668></a>
 
 ###### Article R521-28
 
@@ -69525,7 +70890,7 @@ _Cité par_:
   - Code de l'énergie - art. R521-31 (M)
 
 
-##### Sous-section 6 : Approbation des projets d'exécution, autorisation et récolement des travaux d'établissement de la concession<a id=662></a>
+##### Sous-section 6 : Approbation des projets d'exécution, autorisation et récolement des travaux d'établissement de la concession<a id=669></a>
 
 ###### Article R521-31
 
@@ -69730,7 +71095,7 @@ _Cite_:
   - Code de l'énergie - art. R521-25
 
 
-##### Sous-section 7 : Approbation des autres travaux<a id=663></a>
+##### Sous-section 7 : Approbation des autres travaux<a id=670></a>
 
 ###### Article R521-40
 
@@ -69845,7 +71210,7 @@ _Cite_:
   - Code de l'environnement - art. L211-1
 
 
-##### Sous-section 8 : Dispositions relatives à la sécurité et à la sûreté des ouvrages hydrauliques concédés<a id=664></a>
+##### Sous-section 8 : Dispositions relatives à la sécurité et à la sûreté des ouvrages hydrauliques concédés<a id=671></a>
 
 ###### Article R521-43
 
@@ -69971,7 +71336,7 @@ _Cite_:
   - Code de l'énergie - art. R521-44 (V)
 
 
-##### Sous-section 9 : Dispositions diverses<a id=665></a>
+##### Sous-section 9 : Dispositions diverses<a id=672></a>
 
 ###### Article R521-47
 
@@ -70011,7 +71376,7 @@ _Cité par_:
   - Code de l'énergie - art. R524-4 (V)
 
 
-##### Section 2 : Le cahier des charges de la concession<a id=666></a>
+##### Section 2 : Le cahier des charges de la concession<a id=673></a>
 
 ###### Article R521-49
 
@@ -70044,7 +71409,7 @@ _Cité par_:
   - Code de l'énergie - art. R521-1 (V)
 
 
-##### Section 3 : L'occupation ou la traversée des propriétés privées<a id=667></a>
+##### Section 3 : L'occupation ou la traversée des propriétés privées<a id=674></a>
 
 ###### Article R521-50
 
@@ -70087,9 +71452,9 @@ _Cite_:
   - Code de l'énergie - art. L521-11
 
 
-##### Section 4 :  Les dispositions particulières à la fin de la concession et à son renouvellement<a id=668></a>
+##### Section 4 :  Les dispositions particulières à la fin de la concession et à son renouvellement<a id=675></a>
 
-##### Sous-section 1 : Décision d'arrêt ou de poursuite de l'exploitation<a id=669></a>
+##### Sous-section 1 : Décision d'arrêt ou de poursuite de l'exploitation<a id=676></a>
 
 ###### Article R521-52
 
@@ -70175,7 +71540,7 @@ _Cite_:
   - Code de l'énergie - art. L521-16
 
 
-##### Sous-section 2 : Fin de la concession<a id=670></a>
+##### Sous-section 2 : Fin de la concession<a id=677></a>
 
 ###### Article R521-54
 
@@ -70341,7 +71706,7 @@ _Cite_:
   - Code de l'énergie - art. L521-16
 
 
-##### Sous-section 3 : Dispositions spécifiques au renouvellement de concession<a id=671></a>
+##### Sous-section 3 : Dispositions spécifiques au renouvellement de concession<a id=678></a>
 
 ###### Article R521-58
 
@@ -70422,7 +71787,7 @@ _Cité par_:
   - Code de l'énergie - art. R521-8 (VD)
 
 
-##### Sous-section 4 : Regroupement de concessions<a id=672></a>
+##### Sous-section 4 : Regroupement de concessions<a id=679></a>
 
 ###### Article R521-60
 
@@ -70686,7 +72051,7 @@ _Cité par_:
   - Code de l'énergie - art. R521-8 (M)
 
 
-##### Sous-section 5 : Prorogation des concessions<a id=673></a>
+##### Sous-section 5 : Prorogation des concessions<a id=680></a>
 
 ###### Article R521-66
 
@@ -70715,7 +72080,7 @@ _Modifié par_:
   - Décret n°2016-530 du 27 avril 2016 - art. 1
 
 
-##### Section 5 : Les sociétés d'économie mixte hydroélectriques<a id=674></a>
+##### Section 5 : Les sociétés d'économie mixte hydroélectriques<a id=681></a>
 
 ###### Article R521-67
 
@@ -70895,7 +72260,7 @@ _Cite_:
   - Code de l'énergie - art. R521-25
 
 
-#### Chapitre II : Les reserves en énergie<a id=675></a>
+#### Chapitre II : Les reserves en énergie<a id=682></a>
 
 ###### Article D522-5
 
@@ -71041,7 +72406,7 @@ _Créé par_:
   - Décret n°2015-1823 du 30 décembre 2015 - art.
 
 
-#### Chapitre III : Les redevances proportionnelles<a id=676></a>
+#### Chapitre III : Les redevances proportionnelles<a id=683></a>
 
 ###### Article R523-1
 
@@ -71161,7 +72526,7 @@ _Cite_:
   - Code de l'énergie - art. L523-2
 
 
-#### Chapitre IV :  L'information des collectivités territoriales et des habitants riverains sur l'exécution de la concession et leur participation à la gestion des usages de l'eau<a id=677></a>
+#### Chapitre IV :  L'information des collectivités territoriales et des habitants riverains sur l'exécution de la concession et leur participation à la gestion des usages de l'eau<a id=684></a>
 
 ###### Article R524-1
 
@@ -71333,11 +72698,11 @@ _Cite_:
   - Code de l'énergie - art. R524-4
 
 
-## LIVRE VI : LES DISPOSITIONS RELATIVES AU PÉTROLE, AUX BIOCARBURANTS ET BIOLIQUIDES<a id=678></a>
+## LIVRE VI : LES DISPOSITIONS RELATIVES AU PÉTROLE, AUX BIOCARBURANTS ET BIOLIQUIDES<a id=685></a>
 
-### TITRE III : LE TRANSPORT<a id=679></a>
+### TITRE III : LE TRANSPORT<a id=686></a>
 
-#### Chapitre Ier : Le transport par navire<a id=680></a>
+#### Chapitre Ier : Le transport par navire<a id=687></a>
 
 ###### Article D631-1
 
@@ -71634,7 +72999,7 @@ _Cite_:
   - Code de l'énergie - art. L631-1
 
 
-#### Chapitre II : Le transport par canalisation<a id=681></a>
+#### Chapitre II : Le transport par canalisation<a id=688></a>
 
 ###### Article R632-1
 
@@ -71720,11 +73085,11 @@ _Créé par_:
   - Décret n°2015-1823 du 30 décembre 2015 - art.
 
 
-### TITRE IV : LE RAFFINAGE ET LE STOCKAGE<a id=682></a>
+### TITRE IV : LE RAFFINAGE ET LE STOCKAGE<a id=689></a>
 
-#### Chapitre Ier : Le raffinage et les produits pétroliers<a id=683></a>
+#### Chapitre Ier : Le raffinage et les produits pétroliers<a id=690></a>
 
-##### Section 1 : Dispositions applicables au raffinage<a id=684></a>
+##### Section 1 : Dispositions applicables au raffinage<a id=691></a>
 
 ###### Article R641-1
 
@@ -71797,7 +73162,7 @@ _Cite_:
   - Code de l'énergie - art. L641-3 (V)
 
 
-##### Section 2 : Dispositions applicables aux produits pétroliers et aux carburants renouvelables<a id=685></a>
+##### Section 2 : Dispositions applicables aux produits pétroliers et aux carburants renouvelables<a id=692></a>
 
 ###### Article D641-4
 
@@ -72236,9 +73601,9 @@ _Cite_:
   - Code de l'énergie - art. D641-11 (V)
 
 
-#### Chapitre II : Le stockage<a id=686></a>
+#### Chapitre II : Le stockage<a id=693></a>
 
-##### Section 1 : Le Comité professionnel des stocks stratégiques pétroliers<a id=687></a>
+##### Section 1 : Le Comité professionnel des stocks stratégiques pétroliers<a id=694></a>
 
 ###### Article R642-1
 
@@ -72521,7 +73886,7 @@ _Cite_:
   - Code de l'énergie - art. R642-9 (V)
 
 
-##### Section 2 : Dispositions diverses<a id=688></a>
+##### Section 2 : Dispositions diverses<a id=695></a>
 
 ###### Article D642-11
 
@@ -72543,9 +73908,9 @@ _Cite_:
   - Code de l'énergie - art. L642-10 (V)
 
 
-### TITRE VI : LES BIOCARBURANTS ET BIOLIQUIDES<a id=689></a>
+### TITRE VI : LES BIOCARBURANTS ET BIOLIQUIDES<a id=696></a>
 
-#### Chapitre Ier : Obligations relatives aux biocarburants et aux bioliquides<a id=690></a>
+#### Chapitre Ier : Obligations relatives aux biocarburants et aux bioliquides<a id=697></a>
 
 ###### Article D661-2
 
@@ -72922,7 +74287,7 @@ _Créé par_:
   - Décret n°2015-1823 du 30 décembre 2015 - art.
 
 
-#### Chapitre II : Contrôles et sanctions administratives<a id=691></a>
+#### Chapitre II : Contrôles et sanctions administratives<a id=698></a>
 
 ###### Article R662-1
 
@@ -73013,13 +74378,13 @@ _Cite_:
   - Code de l'énergie - art. R662-1
 
 
-### TITRE VII : LES DISPOSITIONS PARTICULIÈRES À L'OUTRE-MER<a id=692></a>
+### TITRE VII : LES DISPOSITIONS PARTICULIÈRES À L'OUTRE-MER<a id=699></a>
 
-#### Chapitre unique<a id=693></a>
+#### Chapitre unique<a id=700></a>
 
-##### Section 1 : Dispositions relatives au département de la Guadeloupe et aux collectivités territoriales de la Guyane et de la Martinique<a id=694></a>
+##### Section 1 : Dispositions relatives au département de la Guadeloupe et aux collectivités territoriales de la Guyane et de la Martinique<a id=701></a>
 
-##### Sous-section 1 : Dispositions générales<a id=695></a>
+##### Sous-section 1 : Dispositions générales<a id=702></a>
 
 ###### Article R671-1
 
@@ -73039,7 +74404,7 @@ _Créé par_:
   - Décret n°2015-1823 du 30 décembre 2015 - art.
 
 
-##### Sous-section 2 : Dispositions relatives aux prix des produits pétroliers autres que le gaz de pétrole liquéfié<a id=696></a>
+##### Sous-section 2 : Dispositions relatives aux prix des produits pétroliers autres que le gaz de pétrole liquéfié<a id=703></a>
 
 ###### Article R671-2
 
@@ -73227,7 +74592,7 @@ _Cite_:
   - Code de l'énergie - art. R671-2 (V)
 
 
-##### Sous-section 3 : Dispositions relatives aux prix du gaz de pétrole liquéfié<a id=697></a>
+##### Sous-section 3 : Dispositions relatives aux prix du gaz de pétrole liquéfié<a id=704></a>
 
 ###### Article R671-6
 
@@ -73366,7 +74731,7 @@ _Cite_:
   - Code de l'énergie - art. R671-7 (V)
 
 
-##### Sous-section 4 : Dispositions relatives aux activités de stockage de produits pétroliers<a id=698></a>
+##### Sous-section 4 : Dispositions relatives aux activités de stockage de produits pétroliers<a id=705></a>
 
 ###### Article R671-11
 
@@ -73415,7 +74780,7 @@ _Cite_:
   - Code de l'énergie - art. R671-6 (V)
 
 
-##### Sous-section 5 : Dispositions relatives à l'information du public<a id=699></a>
+##### Sous-section 5 : Dispositions relatives à l'information du public<a id=706></a>
 
 ###### Article R671-13
 
@@ -73455,9 +74820,9 @@ _Cité par_:
   - Code de l'énergie - art. R671-31 (V)
 
 
-##### Section 2 : Dispositions relatives au département de La Réunion<a id=700></a>
+##### Section 2 : Dispositions relatives au département de La Réunion<a id=707></a>
 
-##### Sous-section 1 : Dispositions générales<a id=701></a>
+##### Sous-section 1 : Dispositions générales<a id=708></a>
 
 ###### Article R671-14
 
@@ -73476,7 +74841,7 @@ _Créé par_:
   - Décret n°2015-1823 du 30 décembre 2015 - art.
 
 
-##### Sous-section 2 : Dispositions relatives aux prix des produits pétroliers<a id=702></a>
+##### Sous-section 2 : Dispositions relatives aux prix des produits pétroliers<a id=709></a>
 
 ###### Article R671-15
 
@@ -73588,7 +74953,7 @@ _Cite_:
   - Code de l'énergie - art. R671-15 (V)
 
 
-##### Sous-section 3 : Dispositions relatives à la distribution des produits pétroliers<a id=703></a>
+##### Sous-section 3 : Dispositions relatives à la distribution des produits pétroliers<a id=710></a>
 
 ###### Article R671-18
 
@@ -73652,7 +75017,7 @@ _Cite_:
   - Code de l'énergie - art. R671-18 (V)
 
 
-##### Sous-section 4 : Dispositions relatives aux activités de stockage de produits pétroliers<a id=704></a>
+##### Sous-section 4 : Dispositions relatives aux activités de stockage de produits pétroliers<a id=711></a>
 
 ###### Article R671-20
 
@@ -73699,7 +75064,7 @@ _Cite_:
   - Code de l'énergie - art. R671-15 (V)
 
 
-##### Sous-section 5 : Dispositions relatives à l'information du public<a id=705></a>
+##### Sous-section 5 : Dispositions relatives à l'information du public<a id=712></a>
 
 ###### Article R671-22
 
@@ -73735,9 +75100,9 @@ _Cite_:
   - Code de l'énergie - art. R671-13 (V)
 
 
-##### Section 3 : Dispositions relatives au Département de Mayotte<a id=706></a>
+##### Section 3 : Dispositions relatives au Département de Mayotte<a id=713></a>
 
-##### Sous-section 1 : Dispositions générales<a id=707></a>
+##### Sous-section 1 : Dispositions générales<a id=714></a>
 
 ###### Article R671-23
 
@@ -73760,7 +75125,7 @@ _Cité par_:
   - Code de l'énergie - art. R671-27 (V)
 
 
-##### Sous-section 2 : Dispositions relatives aux prix des produits pétroliers<a id=708></a>
+##### Sous-section 2 : Dispositions relatives aux prix des produits pétroliers<a id=715></a>
 
 ###### Article R671-24
 
@@ -73869,7 +75234,7 @@ _Cite_:
   - Code de l'énergie - art. R671-24 (V)
 
 
-##### Sous-section 3 : Dispositions relatives à la distribution des produits pétroliers<a id=709></a>
+##### Sous-section 3 : Dispositions relatives à la distribution des produits pétroliers<a id=716></a>
 
 ###### Article R671-27
 
@@ -73934,7 +75299,7 @@ _Cite_:
   - Code de l'énergie - art. R671-27 (V)
 
 
-##### Sous-section 4 : Dispositions relatives aux activités de stockage de produits pétroliers<a id=710></a>
+##### Sous-section 4 : Dispositions relatives aux activités de stockage de produits pétroliers<a id=717></a>
 
 ###### Article R671-29
 
@@ -73981,7 +75346,7 @@ _Cite_:
   - Code de l'énergie - art. R671-24 (V)
 
 
-##### Sous-section 5 : Dispositions relatives à l'information du public<a id=711></a>
+##### Sous-section 5 : Dispositions relatives à l'information du public<a id=718></a>
 
 ###### Article R671-31
 
@@ -74016,11 +75381,11 @@ _Cite_:
   - Code de l'énergie - art. R671-13 (V)
 
 
-## LIVRE VII : LES DISPOSITIONS RELATIVES AUX RÉSEAUX DE CHALEUR ET DE FROID<a id=712></a>
+## LIVRE VII : LES DISPOSITIONS RELATIVES AUX RÉSEAUX DE CHALEUR ET DE FROID<a id=719></a>
 
-### TITRE Ier : LA PRODUCTION DE CHALEUR ET LE CLASSEMENT DES RÉSEAUX DE CHALEUR ET DE FROID<a id=713></a>
+### TITRE Ier : LA PRODUCTION DE CHALEUR ET LE CLASSEMENT DES RÉSEAUX DE CHALEUR ET DE FROID<a id=720></a>
 
-#### Chapitre Ier : La production de chaleur<a id=714></a>
+#### Chapitre Ier : La production de chaleur<a id=721></a>
 
 ###### Article R711-1
 
@@ -74132,9 +75497,9 @@ _Cite_:
   - Code de l'énergie - art. L711-3 (V)
 
 
-#### Chapitre II : Le classement des reseaux de chaleur et de froid<a id=715></a>
+#### Chapitre II : Le classement des reseaux de chaleur et de froid<a id=722></a>
 
-##### Section 1 : Principes et modalités de classement des réseaux de chaleur et de froid<a id=716></a>
+##### Section 1 : Principes et modalités de classement des réseaux de chaleur et de froid<a id=723></a>
 
 ###### Article R712-1
 
@@ -74313,7 +75678,7 @@ _Cité par_:
   - Code de l'énergie - art. R712-10 (V)
 
 
-##### Section 2 : Effets du classement d'un réseau de chaleur ou de froid<a id=717></a>
+##### Section 2 : Effets du classement d'un réseau de chaleur ou de froid<a id=724></a>
 
 ###### Article R712-6
 
@@ -74428,7 +75793,7 @@ _Cite_:
   - Code de l'énergie - art. L712-3 (V)
 
 
-##### Section 3 : Abrogation de la décision de classement<a id=718></a>
+##### Section 3 : Abrogation de la décision de classement<a id=725></a>
 
 ###### Article R712-10
 
@@ -74456,7 +75821,7 @@ _Cite_:
   - Code de l'énergie - art. R712-5 (V)
 
 
-##### Section 4 : Information du public<a id=719></a>
+##### Section 4 : Information du public<a id=726></a>
 
 ###### Article L712-11
 
@@ -74486,7 +75851,7 @@ _Cite_:
   - Code général des collectivités territoriales - art. L1413-1 (M)
 
 
-##### Section 5 : Constatation des infractions<a id=720></a>
+##### Section 5 : Constatation des infractions<a id=727></a>
 
 ###### Article R712-12
 
@@ -74508,11 +75873,11 @@ _Cite_:
   - Code de l'énergie - art. L712-4 (V)
 
 
-### TITRE II : LE PASSAGE DES CANALISATIONS DE TRANSPORT ET DE DISTRIBUTION DE CHALEUR ET DE FROID<a id=721></a>
+### TITRE II : LE PASSAGE DES CANALISATIONS DE TRANSPORT ET DE DISTRIBUTION DE CHALEUR ET DE FROID<a id=728></a>
 
-#### Chapitre unique<a id=722></a>
+#### Chapitre unique<a id=729></a>
 
-##### Section 1 : Procédure régissant la déclaration d'intérêt général des canalisations de transport de distribution de chaleur<a id=723></a>
+##### Section 1 : Procédure régissant la déclaration d'intérêt général des canalisations de transport de distribution de chaleur<a id=730></a>
 
 ###### Article R721-1
 
@@ -74655,7 +76020,7 @@ _Créé par_:
   - Décret n°2015-1823 du 30 décembre 2015 - art.
 
 
-##### Section 2 : Les servitudes<a id=724></a>
+##### Section 2 : Les servitudes<a id=731></a>
 
 ###### Article D721-13
 
@@ -74805,7 +76170,7 @@ _Créé par_:
   - Décret n°2015-1823 du 30 décembre 2015 - art.
 
 
-##### Section 3 : Construction, mise en service, exploitation et contrôle<a id=725></a>
+##### Section 3 : Construction, mise en service, exploitation et contrôle<a id=732></a>
 
 ###### Article R721-14
 
