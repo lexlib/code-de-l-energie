@@ -1,5 +1,5 @@
 # Code de l'énergie  
-Version Consolidée au 2018-11-25
+Version Consolidée au 2018-12-14
 ## Contenu: 
   - [Partie législative (art. L100-1 à L731-1)](#1)
     - [LIVRE IER : L'ORGANISATION GENERALE  DU SECTEUR DE L'ENERGIE (art. L100-1 à L161-6)](#2)
@@ -33738,120 +33738,120 @@ _Cité par_:
 I. - Chaque gestionnaire de réseau de transport ou de distribution de gaz et chaque gestionnaire de réseau public de
 transport ou de distribution d'électricité transmet au service statistique du ministère chargé de l'énergie, au plus tard le
 30 juin de chaque année, les données annuelles définies à l'article D. 111-53 pour les installations raccordées aux réseaux
-qu'il exploite, y compris les données dont la diffusion est susceptible de porter atteinte au secret des affaires, industriel
-et commercial ou statistique, à l'exception de celles mentionnées au 3° du I et au 6° du II. 
+qu'il exploite, y compris les données dont la diffusion est susceptible de porter atteinte au secret des affaires ou
+statistique, à l'exception de celles mentionnées au 3° du I et au 6° du II.
 
 Lors de la première transmission, sont également transmises les données équivalentes qui sont disponibles pour les années
 2008 et postérieures, y compris les données antérieures au début du contrat de concession. Toutefois, les données mentionnées
 au 4° du II de l'article D. 111-53 peuvent n'être transmises au service statistique du ministère chargé de l'énergie que
 lorsqu'une personne publique les a demandées. Ces données sont issues des systèmes de comptage et peuvent résulter en tout ou
-partie de données reconstituées ou estimées. 
+partie de données reconstituées ou estimées.
 
 Le ministre chargé de l'énergie arrête la date limite de première transmission de chaque catégorie de données selon les
 opérateurs, les spécifications des modalités de transmission et de mise à disposition, les identifiants de référence, les
 secteurs d'activité, le format des données, la version du référentiel de l'Institut national de la statistique et des études
 économiques à utiliser pour les établissements publics de coopération intercommunale, les communes, et les îlots regroupés
-pour l'information statistique, le mode d'évaluation de la qualité des données transmises. 
+pour l'information statistique, le mode d'évaluation de la qualité des données transmises.
 
 Chaque gestionnaire de réseaux de transport et de distribution de gaz transmet chaque trimestre au service statistique du
 ministère chargé de l'énergie les nouveaux raccordements d'installation de biométhane, avec leur date de raccordement, et les
-modifications de la capacité installée d'injection de biométhane des installations existantes, avec la date de modification. 
+modifications de la capacité installée d'injection de biométhane des installations existantes, avec la date de modification.
 
 II. - En plus des données mentionnées au I, les gestionnaires de réseaux fournissent annuellement au service statistique du
-ministère chargé de l'énergie un descriptif méthodologique de l'élaboration des données, qui comprend au minimum : 
+ministère chargé de l'énergie un descriptif méthodologique de l'élaboration des données, qui comprend au minimum :
 
-1° Les méthodes d'estimation utilisées, pour les données qui ne résultent pas d'une mesure du 1er janvier au 31 décembre ; 
+1° Les méthodes d'estimation utilisées, pour les données qui ne résultent pas d'une mesure du 1er janvier au 31 décembre ;
 
 2° Le descriptif de la méthode retenue pour la thermosensibilité et la part thermosensible ainsi que des indications sur leur
-précision. 
+précision.
 
 III. - Les données mentionnées à l'article D. 111-53 et au II peuvent être diffusées au public dans leur intégralité,
 notamment par les gestionnaires de réseaux, selon le calendrier de publication de chaque catégorie de données qu'arrête le
-ministre chargé de l'énergie, en fonction des catégories d'opérateurs. 
+ministre chargé de l'énergie, en fonction des catégories d'opérateurs.
 
 Toutefois les sommes régionales et par établissement public de coopération intercommunale de consommations annuelles
 d'agrégats résidentiels secrétisés ne peuvent être diffusées que pour les sommes qui correspondent à plus de 10 points de
-livraison ou qui dépassent le seuil-résidentiel. 
+livraison ou qui dépassent le seuil-résidentiel.
 
 Lorsqu'une telle somme correspond à moins de 11 points de livraison et lorsqu'elle est inférieure ou égale au seuil-
 résidentiel, la consommation totale de la région, la consommation totale du territoire de l'établissement public de
 coopération intercommunale ainsi que la consommation de l'ensemble du secteur résidentiel de la région ou du territoire de
 l'établissement public de coopération intercommunale concerné ne peuvent être publiées, mais seulement la somme des agrégats
-correspondants non secrétisés. 
+correspondants non secrétisés.
 
 Toute diffusion au public s'accompagne d'une mention indiquant que s'agissant de données statistiques leur précision et leur
-fiabilité ne peut être garantie, en particulier pour les petits ensembles, y compris pour les meilleurs indices de qualité. 
+fiabilité ne peut être garantie, en particulier pour les petits ensembles, y compris pour les meilleurs indices de qualité.
 
 IV. - Le service statistique du ministère chargé de l'énergie publie chaque année, avant le 1er septembre, dans un standard
 ouvert aisément réutilisable, l'intégralité des informations diffusables telles que définies au III et transmises par les
 gestionnaires de réseaux, en faisant état des données non transmises par les opérateurs, des contrôles de cohérence
-effectués, de leurs résultats et des contrôles n'ayant pu être effectués à ce stade. 
+effectués, de leurs résultats et des contrôles n'ayant pu être effectués à ce stade.
 
 Le service statistique du ministère chargé de l'énergie publie chaque trimestre la liste des nouveaux raccordements aux
 réseaux d'installations de production d'électricité et d'injection de biométhane ainsi que les changements de puissance de
 raccordements et de capacité d'injection installée, en précisant, pour chaque installation, l'IRIS où se situe le point de
 raccordement ou d'injection sur le réseau public de distribution ainsi que, s'il diffère et si l'information est disponible,
-l'IRIS du site de production principal. 
+l'IRIS du site de production principal.
 
 V. - Les gestionnaires de réseau mettent les informations mentionnées à l'article D. 111-53, dont la transmission est prévue
 au I mais qui ne sont pas diffusées au public en application du calendrier de publication mentionné au III, à disposition des
-personnes publiques suivantes qui en font la demande : 
+personnes publiques suivantes qui en font la demande :
 
 1° Personnes publiques en charge de l'élaboration d'un schéma régional d'aménagement, de développement durable et d'égalité
 des territoires, telles que définies à l'article L. 4251-1 du code général des collectivités territoriales, d'un schéma
 d'aménagement régional telles que définies à l'article L. 4433-7, d'un plan d'aménagement et de développement durable telles
 que définies à l'article L. 4424-9 du code général des collectivités territoriales ou d'un schéma régional du climat, de
-l'air et de l'énergie, telles que définies à l'article L. 222-1 du code de l'environnement ; 
+l'air et de l'énergie, telles que définies à l'article L. 222-1 du code de l'environnement ;
 
 2° Personnes publiques en charge de l'élaboration d'un plan climat-air-énergie territorial, telles que définies à l'article
-L. 229-26 du code de l'environnement ; 
+L. 229-26 du code de l'environnement ;
 
 3° Personnes publiques compétentes pour la distribution publique d'électricité, de gaz, de chaleur ou de froid, telles que
-définies aux articles L. 2224-31 et L. 2224-38 du code général des collectivités territoriales ; 
+définies aux articles L. 2224-31 et L. 2224-38 du code général des collectivités territoriales ;
 
 4° Personnes publiques en charge du soutien aux actions de maîtrise de la demande en énergie, telles que définies à l'article
-L. 2224-34 du code général des collectivités territoriales ; 
+L. 2224-34 du code général des collectivités territoriales ;
 
 5° Personnes publiques en charge de l'efficacité énergétique, telles que définies à l'article L. 222-1 du code de
-l'environnement ; 
+l'environnement ;
 
 6° Personnes publiques en charge d'un service public de la performance énergétique de l'habitat, tel que définies aux
-articles L. 232-1 et L. 232-2 du code de l'énergie ; 
+articles L. 232-1 et L. 232-2 du code de l'énergie ;
 
 7° Personnes publiques en charge de la lutte contre la précarité ou d'actions sociales, telles que définies aux articles L.
 123-4 du code de l'action sociale et des familles, L. 1111-9 du code général des collectivités territoriales et à l'article 2
 de la loi n° 90-449 du 31 mai 1990 visant à la mise en œuvre du droit au logement, de l'attribution des aides au logement
-telles que définies à l'article L. 301-5-1 du code de la construction et de l'habitation ou de l'aménagement ; 
+telles que définies à l'article L. 301-5-1 du code de la construction et de l'habitation ou de l'aménagement ;
 
 8° Personnes publiques en charge de l'exploitation d'installations telles que définies à l'article L. 2224-32 du code général
-des collectivités territoriales ; 
+des collectivités territoriales ;
 
 9° Etablissements publics de coopération intercommunale à fiscalité propre de moins de 20 000 habitants compétents en matière
-d'urbanisme, tels que définis à l'article L. 5214-16 du code général des collectivités territoriales ; 
+d'urbanisme, tels que définis à l'article L. 5214-16 du code général des collectivités territoriales ;
 
 10° Personnes publiques compétentes en matière de plan local d'urbanisme, document en tenant lieu et carte communale, telles
-que définies à l'article 136 de la loi n° 2014-366 du 24 mars 2014 pour l'accès au logement et un urbanisme rénové ; 
+que définies à l'article 136 de la loi n° 2014-366 du 24 mars 2014 pour l'accès au logement et un urbanisme rénové ;
 
 11° Personnes publiques en charge de l'élaboration d'un schéma de cohérence territoriale mentionné à l'article L. 141-1 du
-code de l'urbanisme. 
+code de l'urbanisme.
 
 VI. - Ces personnes publiques justifient dans leur demande leur qualité de personne publique et précisent la compétence au
 titre de laquelle elles demandent les données en citant l'alinéa du V du présent article auquel elles se réfèrent. Ces
 données sont mises à disposition de ces personnes publiques dans un délai qui ne peut excéder deux mois à compter de la
 réception de la demande complète. Lorsque ces données n'ont pas encore été transmises au service statistique du ministère
 chargé de l'énergie, en application du deuxième alinéa du I, les gestionnaires de réseau regroupent ces données et les
-envoient chaque trimestre au service statistique du ministère chargé de l'énergie. 
+envoient chaque trimestre au service statistique du ministère chargé de l'énergie.
 
 La diffusion de ces données au public par ces personnes publiques n'est pas soumise au calendrier de la première année de
 publication mentionné au III. Toutefois ces données ne peuvent être diffusées au public qu'après, d'une part, un examen par
 la personne publique qui décide de cette diffusion de leur cohérence avec les dispositions du 4° du II de l'article D. 111-53
 et de leur vraisemblance au regard du parc immobilier concerné et, d'autre part, à la condition, pour l'électricité, que les
-bâtiments correspondent à plus de 10 points de livraison. 
+bâtiments correspondent à plus de 10 points de livraison.
 
 Ces personnes publiques peuvent, sous leur responsabilité, déléguer le recueil, le traitement, le contrôle et la diffusion de
 ces données à des tiers, notamment ceux exerçant des missions d'intérêt général sur la connaissance et l'élaboration des
 politiques publiques contribuant à la transition énergétique. Ces personnes publiques peuvent aussi demander aux
-gestionnaires de réseaux que ces informations soient directement mises à disposition de ces délégataires. 
+gestionnaires de réseaux que ces informations soient directement mises à disposition de ces délégataires.
 
 VII. - Les gestionnaires de réseaux publics de distribution mettent les informations relatives à leur réseau et utiles à la
 construction des informations mentionnées à l'article D. 111-54 à disposition des personnes publiques mentionnées aux alinéas
@@ -33859,7 +33859,7 @@ construction des informations mentionnées à l'article D. 111-54 à disposition
 gestionnaires des réseaux de transport de gaz tiennent également à leur disposition les informations relatives à la
 présentation du réseau dont ils assurent la gestion, à la maille régionale et intercommunale, sur la base d'une cartographie
 commentée. Ces données sont mises à disposition dans un délai qui ne peut excéder deux mois à compter de la réception de la
-demande complète. 
+demande complète.
 
 VIII. - Le traitement, par un tiers aux gestionnaires de réseaux visés par cet article, des données mentionnées à l'article
 D. 111-53 faisant l'objet d'une transmission ou diffusion publique en application du présent article ne peut avoir pour objet
@@ -33885,18 +33885,18 @@ _Cite_:
   - Code de la construction et de l'habitation. - art. L301-5-1
   - Code de l'environnement - art. L222-1
   - Code de l'environnement - art. L229-26
-  - Code de l'énergie - art. D111-53 (V)
-  - Code de l'énergie - art. D111-54 (V)
+  - Code de l'énergie - art. D111-53
+  - Code de l'énergie - art. D111-54
   - Code de l'énergie - art. L232-1
   - Code de l'énergie - art. L232-2
-
-_Créé par_:
-
-  - Décret n°2016-973 du 18 juillet 2016 - art. 1
 
 _Cité par_:
 
   - Arrêté du 29 décembre 2017 - art. 3 (V)
+
+_Modifié par_:
+
+  - Décret n°2018-1126 du 11 décembre 2018 - art. 3
 
 
 ###### Article D111-56
@@ -34470,103 +34470,103 @@ _Cite_:
 I. - Chaque gestionnaire de réseau de chaleur ou de froid transmet au service statistique du ministère chargé de l'énergie,
 au plus tard le 30 juin de chaque année, les données annuelles définies aux 1°, 2° et 3° de l'article D. 113-2 pour les
 installations raccordées aux réseaux qu'il exploite, y compris les données dont la diffusion est susceptible de porter
-atteinte au secret des affaires, industriel et commercial ou statistique. 
+atteinte au secret des affaires ou statistique.
 
 Lors de la première transmission, sont également transmises les données équivalentes qui sont disponibles pour les années
 2008 et postérieures, y compris les données antérieures au début du contrat de concession. Toutefois, les données mentionnées
 au 3° de l'article D. 113-2 peuvent n'être transmises au service statistique du ministère chargé de l'énergie que lorsqu'une
 personne publique les a demandées. Ces données sont issues des systèmes de comptage et peuvent résulter en tout ou partie de
-données reconstituées ou estimées. 
+données reconstituées ou estimées.
 
 Le ministre chargé de l'énergie arrête la date limite de première transmission de chaque catégorie de données selon les
 opérateurs, les spécifications des modalités de transmission et de mise à disposition, les identifiants de référence, les
 secteurs d'activité, le format des données, la version du référentiel de l'Institut national de la statistique et des études
 économiques à utiliser pour les établissements publics de coopération intercommunale, les communes, et les îlots regroupés
-pour l'information statistique, le mode d'évaluation de la qualité des données transmises. 
+pour l'information statistique, le mode d'évaluation de la qualité des données transmises.
 
 II. - En plus des données mentionnées au I, les gestionnaires de réseaux fournissent annuellement au service statistique du
-ministère chargé de l'énergie un descriptif méthodologique de l'élaboration des données, qui comprend au minimum : 
+ministère chargé de l'énergie un descriptif méthodologique de l'élaboration des données, qui comprend au minimum :
 
-1° La proportion de données résultant d'une mesure du 1er janvier au 31 décembre ; 
+1° La proportion de données résultant d'une mesure du 1er janvier au 31 décembre ;
 
-2° Les méthodes d'estimation utilisées pour les données qui ne résultent pas d'une mesure du 1er janvier au 31 décembre. 
+2° Les méthodes d'estimation utilisées pour les données qui ne résultent pas d'une mesure du 1er janvier au 31 décembre.
 
 III. - Les données mentionnées aux 1°, 2° et 3° de l'article D. 113-2 et au II peuvent être diffusées au public dans leur
 intégralité, notamment par les gestionnaires de réseau, selon le calendrier de publication de chaque catégorie de données
-qu'arrête le ministre chargé de l'énergie, en fonction des catégories d'opérateurs. 
+qu'arrête le ministre chargé de l'énergie, en fonction des catégories d'opérateurs.
 
 Toute diffusion au public s'accompagne d'une mention indiquant que s'agissant de données statistiques, leur précision et leur
-fiabilité ne peut être garantie, en particulier pour les petits ensembles, y compris pour les meilleurs indices de qualité. 
+fiabilité ne peut être garantie, en particulier pour les petits ensembles, y compris pour les meilleurs indices de qualité.
 
 IV. - Le service statistique du ministère chargé de l'énergie publie chaque année, avant le 1er septembre, dans un standard
 ouvert aisément réutilisable, l'intégralité des informations diffusables telles que définies au III et transmises par les
 gestionnaires de réseaux, en faisant état des données non transmises par les opérateurs, des contrôles de cohérence
-effectués, de leurs résultats et des contrôles n'ayant pu être effectués à ce stade. 
+effectués, de leurs résultats et des contrôles n'ayant pu être effectués à ce stade.
 
 V. - Les gestionnaires de réseau mettent les informations mentionnées au 4° de l'article D. 113-2 ainsi que les informations
 mentionnées au 3° de l'article D. 113-2, dont la transmission est prévue au I mais qui ne sont pas diffusées au public en
 application du calendrier de publication mentionné au III, à disposition des personnes publiques suivantes qui en font la
-demande : 
+demande :
 
 1° Personnes publiques en charge de l'élaboration d'un schéma régional d'aménagement, de développement durable et d'égalité
 des territoires, telles que définies à l'article L. 4251-1 du code général des collectivités territoriales, d'un schéma
 d'aménagement régional telles que définies à l'article L. 4433-7, d'un plan d'aménagement et de développement durable telles
 que définies à l'article L. 4424-9 du code général des collectivités territoriales ou d'un schéma régional du climat, de
-l'air et de l'énergie, telles que définies à l'article L. 222-1 du code de l'environnement ; 
+l'air et de l'énergie, telles que définies à l'article L. 222-1 du code de l'environnement ;
 
 2° Personnes publiques en charge de l'élaboration d'un plan climat-air-énergie territorial, telles que définies à l'article
-L. 229-26 du code de l'environnement ; 
+L. 229-26 du code de l'environnement ;
 
 3° Personnes publiques compétentes pour la distribution publique d'électricité, de gaz, de chaleur ou de froid, telles que
-définies aux articles L. 2224-31 et L. 2224-38 du code général des collectivités territoriales ; 
+définies aux articles L. 2224-31 et L. 2224-38 du code général des collectivités territoriales ;
 
 4° Personnes publiques en charge du soutien aux actions de maîtrise de la demande en énergie, telles que définies à l'article
-L. 2224-34 du code général des collectivités territoriales ; 
+L. 2224-34 du code général des collectivités territoriales ;
 
 5° Personnes publiques en charge de l'efficacité énergétique, telles que définies à l'article L. 222-1 du code de
-l'environnement ; 
+l'environnement ;
 
 6° Personnes publiques en charge d'un service public de la performance énergétique de l'habitat, tel que définies aux
-articles L. 232-1 et L. 232-2 ; 
+articles L. 232-1 et L. 232-2 ;
 
 7° Personnes publiques en charge de la lutte contre la précarité ou d'actions sociales, telles que définies aux articles L.
 123-4 du code de l'action sociale et des familles, L. 1111-9 du code général des collectivités territoriales et à l'article 2
 de la loi n° 90-449 du 31 mai 1990 visant à la mise en œuvre du droit au logement, de l'attribution des aides au logement
-telles que définies à l'article L. 301-5-1 du code de la construction et de l'habitation ou de l'aménagement ; 
+telles que définies à l'article L. 301-5-1 du code de la construction et de l'habitation ou de l'aménagement ;
 
 8° Personnes publiques en charge de l'exploitation d'installations telles que définies à l'article L. 2224-32 du code général
-des collectivités territoriales ; 
+des collectivités territoriales ;
 
 9° Etablissements publics de coopération intercommunale à fiscalité propre de moins de 20 000 habitants compétents en matière
-d'urbanisme, tels que définis à l'article L. 5214-16 du code général des collectivités territoriales ; 
+d'urbanisme, tels que définis à l'article L. 5214-16 du code général des collectivités territoriales ;
 
 10° Personnes publiques compétentes en matière de plan local d'urbanisme, document en tenant lieu et carte communale, telles
-que définies à l'article 136 de la loi n° 2014-366 du 24 mars 2014 pour l'accès au logement et un urbanisme rénové ; 
+que définies à l'article 136 de la loi n° 2014-366 du 24 mars 2014 pour l'accès au logement et un urbanisme rénové ;
 
 11° Personnes publiques en charge de l'élaboration d'un schéma de cohérence territoriale mentionné à l'article L. 141-1 du
-code de l'urbanisme. 
+code de l'urbanisme.
 
 VI. - Ces personnes publiques justifient dans leur demande leur qualité de personne publique et précisent la compétence au
 titre de laquelle elles demandent les données en citant l'alinéa du V du présent article auquel elles se réfèrent. Ces
 données sont mises à disposition de ces personnes publiques dans un délai qui ne peut excéder deux mois à compter de la
 réception de la demande complète. Lorsque ces données n'ont pas encore été transmises au service statistique du ministère
 chargé de l'énergie, en application du deuxième alinéa du I, les gestionnaires de réseau regroupent ces données et les
-envoient chaque trimestre au service statistique du ministère chargé de l'énergie. 
+envoient chaque trimestre au service statistique du ministère chargé de l'énergie.
 
 La diffusion de ces données au public par ces personnes publiques n'est pas soumise au calendrier de la première année de
 publication mentionné au III. Toutefois ces données ne peuvent être diffusées au public qu'après un examen, par la personne
 publique qui décide de cette diffusion, de leur cohérence avec les dispositions du 3° de l'article D. 113-2 et de leur
-vraisemblance au regard du parc immobilier concerné. 
+vraisemblance au regard du parc immobilier concerné.
 
 Ces personnes publiques peuvent, sous leur responsabilité, déléguer le recueil, le traitement, le contrôle et la diffusion de
 ces données à des tiers, notamment ceux exerçant des missions d'intérêt général sur la connaissance et l'élaboration des
 politiques publiques contribuant à la transition énergétique. Ces personnes publiques peuvent aussi demander aux
-gestionnaires de réseaux que ces informations soient directement mises à disposition de ces délégataires. 
+gestionnaires de réseaux que ces informations soient directement mises à disposition de ces délégataires.
 
 VII. - Les gestionnaires de réseau de distribution de chaleur et de froid mettent les informations synthétiques relatives à
 leur réseau à disposition des personnes publiques mentionnées aux alinéas 1, 2, 3, 9, 10 et 11 du V et qui en font la
 demande. Ces données sont mises à disposition dans un délai qui ne peut excéder deux mois à compter de la réception de la
-demande complète. 
+demande complète.
 
 VIII. - Le traitement, par un tiers aux gestionnaires de réseaux visés par cet article, des données mentionnées aux 1°, 2° et
 3° de l'article D. 113-2 faisant l'objet d'une transmission ou diffusion publique en application du présent article ne peut
@@ -34592,13 +34592,13 @@ _Cite_:
   - Code de la construction et de l'habitation. - art. L301-5-1
   - Code de l'environnement - art. L222-1
   - Code de l'environnement - art. L229-26
-  - Code de l'énergie - art. D113-2 (V)
+  - Code de l'énergie - art. D113-2
   - Code de l'énergie - art. L232-1
   - Code de l'énergie - art. L232-2
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2016-973 du 18 juillet 2016 - art. 3
+  - Décret n°2018-1126 du 11 décembre 2018 - art. 3
 
 
 ###### Article D113-4
@@ -35688,26 +35688,26 @@ de la réalisation d'un projet d'approvisionnement électrique identifié dans l
 pour lequel cette programmation prévoit la possibilité d'appliquer la compensation mentionnée au e du 2° de l'article L.
 121-7, et que cette personne souhaite bénéficier de la compensation mentionnée ci-dessus, elle adresse à la Commission de
 régulation de l'énergie et au ministre chargé de l'énergie un dossier présentant le cahier des charges et l'évaluation des
-coûts de son étude ainsi que les éléments attestant de sa capacité technique et financière à mener le projet considéré. 
+coûts de son étude ainsi que les éléments attestant de sa capacité technique et financière à mener le projet considéré.
 
 Le ministre chargé de l'énergie vérifie que l'étude proposée est nécessaire à la réalisation du projet mentionné dans la
 programmation pluriannuelle de l'énergie et en valide le cahier des charges. La Commission de régulation de l'énergie vérifie
 que ce projet constitue un projet d'approvisionnement électrique conduisant à un surcoût de production au titre du a du 2° de
 l'article L. 121-7. Elle procède au contrôle de l'évaluation des coûts présentée par la personne et détermine le montant des
-coûts à compenser. 
+coûts à compenser.
 
 Dans le cas où la personne renonce à poursuivre l'étude ou à engager la réalisation du projet, l'étude dont les coûts ont été
-compensés par les charges de service public de l'électricité est transmise, dans une version respectant le secret industriel
-et commercial, à la Commission de régulation de l'énergie, qui la publie. 
+compensés par les charges de service public de l'électricité est transmise, dans une version respectant le secret des
+affaires, à la Commission de régulation de l'énergie, qui la publie.
 
 Les charges imputables aux missions de service public allouées à la compensation de l'ensemble des études relatives à un même
 projet ne peuvent excéder un plafond, défini par arrêté du ministre chargé de l'énergie.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2016-158 du 18 février 2016 - art. 3
+  - Décret n°2018-1126 du 11 décembre 2018 - art. 3
 
 _Cite_:
 
@@ -65084,10 +65084,10 @@ _Cite_:
 ###### Article D351-5
 
 I. – Une entreprise ou un site sont considérés comme mettant en œuvre une politique de performance énergétique lorsqu'ils
-remplissent les conditions suivantes : 
+remplissent les conditions suivantes :
 
 a) Mettre en œuvre un système de management de l'énergie conforme au second alinéa de l'article L. 233-2 dans un délai de
-dix-huit mois suivant la transmission de la première attestation mentionnée à l'article D. 351-7 ; 
+dix-huit mois suivant la transmission de la première attestation mentionnée à l'article D. 351-7 ;
 
 b) Atteindre, dans un délai de 5 ans à compter de la transmission de la première attestation mentionnée à l'article D. 351-7,
 un objectif de performance énergétique suivi au moyen d'indicateurs définis comme le rapport entre la consommation d'énergie
@@ -65095,10 +65095,10 @@ et une unité de production déclarée dans cette attestation. Ces indicateurs f
 la mise en œuvre du système de management de l'énergie mentionné au a. L'objectif de performance énergétique ainsi que les
 moyens envisagés pour l'atteindre sont détaillés dans un plan de performance énergétique qui contient notamment un plan
 d'action et des échéances associées et porte notamment sur les usages significatifs de l'énergie des procédés industriels du
-site ou de l'entreprise. 
+site ou de l'entreprise.
 
 c) Ne pas s'écarter de manière excessive et sans motif réel et sérieux du plan d'action et de la trajectoire du plan de
-performance énergétique. 
+performance énergétique.
 
 II. – Au plus tard un an après la remise de la première attestation mentionnée à l'article D. 351-7 ayant donné lieu à une
 réduction du tarif de transport, le plan de performance énergétique est transmis pour validation au préfet de la région
@@ -65106,24 +65106,24 @@ d'implantation du site concerné, pour les sites relevant des articles D. 351-2 
 d'implantation du siège de l'entreprise pour les entreprises relevant de l'article D. 351-1, ou, si le siège social de
 l'entreprise est situé hors de France, au préfet de la région d'Île-de-France. A défaut d'opposition dans un délai de deux
 mois suivant sa transmission, le plan est réputé validé. Une copie en est transmise à l'Agence de l'environnement et de la
-maîtrise de l'énergie. Ce plan est couvert par le secret en matière commerciale et industrielle. 
+maîtrise de l'énergie. Ce plan est couvert par le secret des affaires.
 
 L'objectif de performance énergétique est apprécié au regard des meilleures pratiques disponibles en termes de performance
 énergétique, quand elles existent, et des niveaux référents pertinents selon le secteur d'activité ou le procédé de
-fabrication. Le plan doit être suffisamment détaillé pour permettre une telle appréciation. 
+fabrication. Le plan doit être suffisamment détaillé pour permettre une telle appréciation.
 
 Le ministre chargé de l'énergie peut définir par arrêté la liste des informations minimales devant figurer dans le plan de
 performance énergétique. Dans ce cas, les entreprises et sites concernés disposent d'un délai supplémentaire de trois mois à
-compter de la publication de l'arrêté pour transmettre leur plan. 
+compter de la publication de l'arrêté pour transmettre leur plan.
 
 III. – Le plan d'action peut être révisé, sur justification, dès lors que cette révision ne remet pas en cause l'atteinte de
 l'objectif du plan de performance énergétique. Les révisions sont transmises pour validation à l'autorité qui a validé le
-plan initial. 
+plan initial.
 
 L'objectif de performance énergétique ne peut être révisé que pour un motif réel et sérieux. Dans ce cas, il doit être
-atteint à la même date que l'objectif du plan initial. 
+atteint à la même date que l'objectif du plan initial.
 
-Chaque année, l'entreprise transmet un suivi du plan de performance énergétique à l'autorité qui l'a validé. 
+Chaque année, l'entreprise transmet un suivi du plan de performance énergétique à l'autorité qui l'a validé.
 
 Une fois le plan échu, un nouveau plan visant à atteindre un nouvel objectif de performance énergétique dans un délai de cinq
 ans est transmis pour validation selon les mêmes modalités.
@@ -65132,12 +65132,12 @@ ans est transmis pour validation selon les mêmes modalités.
 
 _Modifié par_:
 
-  - Décret n°2017-308 du 9 mars 2017 - art. 2
+  - Décret n°2018-1126 du 11 décembre 2018 - art. 3
 
 _Cite_:
 
-  - Code de l'énergie - art. D351-1 (V)
-  - Code de l'énergie - art. D351-2 (V)
+  - Code de l'énergie - art. D351-1
+  - Code de l'énergie - art. D351-2
   - Code de l'énergie - art. D351-7
   - Code de l'énergie - art. L233-2
 
@@ -72609,23 +72609,23 @@ modification, ainsi que sur la décision mentionnée à l'article R. 521-48 ;
 
 - sur les modifications de la concession mentionnées au troisième alinéa de l'article R. 521-27 ;
 
-- sur toute décision ayant un impact significatif sur les enjeux mentionnés aux articles L. 100-1 à L. 100-4. 
+- sur toute décision ayant un impact significatif sur les enjeux mentionnés aux articles L. 100-1 à L. 100-4.
 
 Le concessionnaire, en lien avec l'autorité administrative, tient informé le comité sur les sujets suivants :
 
 - l'élaboration du plan particulier d'intervention, pour les concessions comprenant des ouvrages qui y sont soumis ;
 
-- tout incident ou accident dont les conséquences sont susceptibles d'atteindre l'extérieur du périmètre de la concession. 
+- tout incident ou accident dont les conséquences sont susceptibles d'atteindre l'extérieur du périmètre de la concession.
 
 Le concessionnaire présente au comité un bilan annuel de l'exploitation de la concession et, le cas échéant, une synthèse des
 études relatives à l'environnement qu'il a réalisées. Les informations sont transmises au comité dans le respect du secret
-industriel et commercial.
+des affaires.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2016-530 du 27 avril 2016 - art. 2
+  - Décret n°2018-1126 du 11 décembre 2018 - art. 3
 
 _Cite_:
 
