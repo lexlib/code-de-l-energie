@@ -1,5 +1,5 @@
 # Code de l'énergie  
-Version Consolidée au 2018-12-14
+Version Consolidée au 2018-12-20
 ## Contenu: 
   - [Partie législative (art. L100-1 à L731-1)](#1)
     - [LIVRE IER : L'ORGANISATION GENERALE  DU SECTEUR DE L'ENERGIE (art. L100-1 à L161-6)](#2)
@@ -55056,27 +55056,26 @@ _Cité par_:
 
 ###### Article R323-25
 
-Sans préjudice des conditions prévues par d'autres réglementations, tout projet d'un ouvrage d'un réseau public de
-distribution d'électricité, à l'exception des postes de transformation du courant de haute ou très haute tension en moyenne
-tension, fait l'objet d'une consultation par le maître d'ouvrage au moins un mois avant le début des travaux, des maires des
-communes et des gestionnaires des domaines publics sur le territoire ou l'emprise desquels les ouvrages doivent être
-implantés ainsi que des gestionnaires de services publics concernés par le projet. A cette fin, il leur transmet un dossier
-comprenant : 
+Sans préjudice des conditions prévues par d'autres réglementations, à l'exception des lignes électriques aériennes dont le
+niveau de tension est supérieur à 50 kV, la construction des ouvrages des réseaux publics d'électricité mentionnés à
+l'article R. 323-23 fait l'objet, avant le début des travaux, d'une consultation des maires des communes et des gestionnaires
+des domaines publics sur le territoire ou l'emprise desquels les ouvrages doivent être implantés ainsi que des gestionnaires
+de services publics concernés par le projet. A cette fin, le maître d'ouvrage leur transmet un dossier comprenant :
 
-1° Une note de présentation décrivant les caractéristiques principales du projet ; 
+1° Une note de présentation décrivant les caractéristiques principales du projet ;
 
 2° Un avant-projet à une échelle appropriée sur lequel figure le tracé des canalisations électriques et l'emplacement des
-autres ouvrages électriques projetés ; 
+autres ouvrages électriques projetés ;
 
-3° Tous documents aptes à justifier la conformité du projet avec la réglementation technique en vigueur. 
+3° Tous documents aptes à justifier la conformité du projet avec la réglementation technique en vigueur.
 
-La consultation peut être valablement effectuée par des moyens électroniques, de même que la transmission des avis. 
+La consultation peut être valablement effectuée par des moyens électroniques, de même que la transmission des avis.
 
 Les avis sont rendus dans un délai d'un mois. Toutefois, pour l'exécution des travaux qui concernent des ouvrages de basse
 tension, des travaux de construction de lignes électriques dont la longueur n'excède pas trois kilomètres et des travaux
 d'implantation d'ouvrages visant à modifier les niveaux de tension et de leurs organes de coupure, dès lors que le niveau de
 tension supérieur n'excède pas 50 kilovolts, le délai est réduit à vingt et un jours. Les avis sont valablement transmis par
-des moyens électroniques. S'ils ne sont pas parvenus dans le délai prévu, les avis sont réputés favorables. 
+des moyens électroniques. S'ils ne sont pas parvenus dans le délai prévu, les avis sont réputés favorables.
 
 Le maître d'ouvrage prend en compte les avis qu'il a reçus, eu égard à la réglementation applicable et aux caractéristiques
 du projet, adapte en tant que de besoin son projet et archive ces avis ainsi que les réponses motivées qu'il a adressées à
@@ -55094,13 +55093,13 @@ _Codifié par_:
 
   - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2015-1823 du 30 décembre 2015 - art.
+  - Décret n°2018-1160 du 17 décembre 2018 - art. 1
 
 _Cite_:
 
-  - Code de l'énergie - art. L323-11 (V)
+  - Code de l'énergie - art. L323-11
 
 _Cité par_:
 
@@ -55109,14 +55108,12 @@ _Cité par_:
 
 ###### Article R323-26
 
-Sans préjudice des conditions prévues par d'autres réglementations, tout projet de création d'un poste en haute ou très haute
-tension, tout projet de travaux entraînant l'extension de la surface foncière d'un tel poste ainsi que tout projet d'ouvrage
-de plus de 50 kilovolts d'un réseau public d'électricité fait l'objet, préalablement à son exécution, d'une approbation par
-le préfet dans les conditions fixées par l'article R. 323-27. Toutefois, aucune approbation n'est requise au titre du présent
-article pour l'exécution des travaux d'entretien, de réparation, de dépose et de remplacement à fonctionnalités et
-caractéristiques similaires ainsi que pour les travaux de reconstruction ou de renforcement provisoire réalisés en cas
-d'urgence. Les ouvrages des réseaux de distribution d'électricité aux services publics dont le niveau de tension est
-inférieur à 50 kilovolts sont soumis aux dispositions de l'article R. 323-25. 
+Sans préjudice des conditions prévues par d'autres réglementations, tout projet de construction d'une ligne électrique
+aérienne d'un réseau public d'électricité mentionné à l'article R. 323-23 dont le niveau de tension est supérieur à 50 kV
+fait l'objet, préalablement à son exécution, d'une approbation par le préfet dans les conditions fixées par l'article R.
+323-27. Aucune approbation n'est requise au titre du présent article pour l'exécution des travaux d'entretien, de réparation,
+de dépose et de remplacement à fonctionnalités et caractéristiques similaires ainsi que pour les travaux de reconstruction ou
+de renforcement provisoire réalisés en cas d'urgence.
 
 L'approbation du projet de détail prévue par l'article L. 323-11 est donnée par le préfet, dans l'acte d'approbation du
 projet d'ouvrage ou par acte séparé.
@@ -55127,24 +55124,24 @@ _Codifié par_:
 
   - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-_Créé par_:
-
-  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
 _Cité par_:
 
   - Décret n°2018-1054 du 29 novembre 2018 - art. 23
   - Décret n°2018-1204 du 21 décembre 2018 - art. 5
   - Code de justice administrative - art. R311-4 (V)
+  - Code de l'énergie - art. R323-27 (V)
   - Code de l'énergie - art. R323-40 (M)
   - Code de l'énergie - art. R323-42 (V)
   - Code de l'énergie - art. R323-44 (V)
 
+_Modifié par_:
+
+  - Décret n°2018-1160 du 17 décembre 2018 - art. 2
+
 _Cite_:
 
-  - Code de l'énergie - art. L323-11 (V)
-  - Code de l'énergie - art. R323-25 (V)
-  - Code de l'énergie - art. R323-27 (V)
+  - Code de l'énergie - art. L323-11
+  - Code de l'énergie - art. R323-25
 
 
 ###### Article R323-27
@@ -55245,22 +55242,17 @@ Le gestionnaire d'un réseau public d'électricité enregistre dans un système 
 permettant d'identifier tout ouvrage de ce réseau à la suite de sa construction, de sa reconstruction, de sa modification ou
 de sa dépose ou à la suite du raccordement d'un usager à cet ouvrage. Lorsqu'un ouvrage d'un réseau public de distribution
 d'électricité est réalisé par l'autorité organisatrice mentionnée à l'article L. 2224-31 du code général des collectivités
-territoriales, cette autorité communique au gestionnaire du réseau les informations nécessaires à l'enregistrement. 
+territoriales, cette autorité communique au gestionnaire du réseau les informations nécessaires à l'enregistrement.
 
 Le système d'information géographique contient notamment l'emplacement des ouvrages, leurs dimensions, leur date de
 construction, leurs caractéristiques électriques, leur technologie, les organes particuliers et les installations annexes,
 les opérations significatives de maintenance ainsi que la date du contrôle technique prévu à l'article R. 323-30. Ces
-informations sont précisées par un arrêté du ministre chargé de l'énergie. 
+informations sont précisées par un arrêté du ministre chargé de l'énergie.
 
 L'information enregistrée en application du présent article est tenue à la disposition du préfet lorsqu'elle concerne le
 réseau de transport ou un réseau de distribution d'électricité aux services publics, et à l'autorité organisatrice
 lorsqu'elle concerne un réseau public de distribution d'électricité, au plus tard trois mois après la mise en exploitation de
-l'ouvrage. 
-
-Le gestionnaire du réseau enregistre également dans le système mentionné au premier alinéa, aux frais des personnes
-intéressées, les informations relatives aux ouvrages d'une ligne directe et aux ouvrages mentionnés aux articles R. 323-40 et
-R. 323-42 qui lui ont été communiquées par les responsables de ces ouvrages. Il n'en résulte aucune responsabilité pour le
-gestionnaire du réseau lorsque ces informations comportent des erreurs ou des inexactitudes qui ne sont pas de son fait. 
+l'ouvrage.
 
 Sauf en ce qui concerne les ouvrages de branchement de basse tension, l'opération d'enregistrement prévue au présent article
 est effectuée pour les ouvrages déjà en service, même en l'absence de travaux les concernant, au plus tard le 31 décembre
@@ -55273,10 +55265,6 @@ _Codifié par_:
 
   - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-_Créé par_:
-
-  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
 _Cité par_:
 
   - Arrêté du 11 mars 2016 (V)
@@ -55284,10 +55272,14 @@ _Cité par_:
   - Arrêté du 11 mars 2016 - art. 4 (V)
   - Code de l'énergie - art. R343-9 (V)
 
+_Modifié par_:
+
+  - Décret n°2018-1160 du 17 décembre 2018 - art. 3
+
 _Cite_:
 
-  - Code général des collectivités territoriales - art. L2224-31 (M)
-  - Code de l'énergie - art. R323-30 (V)
+  - Code général des collectivités territoriales - art. L2224-31
+  - Code de l'énergie - art. R323-30
   - Code de l'énergie - art. R323-40 (V)
 
 
@@ -55583,16 +55575,26 @@ _Créé par_:
 
 Les ouvrages situés en amont du point d'injection par les producteurs sur le réseau public d'électricité et ceux qui sont
 situés en aval du point de raccordement des consommateurs au réseau public, qui sont sous tension et qui empruntent ou
-surplombent le domaine public ou des terrains privés, sont soumis aux dispositions des articles R. 323-26 et R. 323-27, même
-si leur niveau de tension est inférieur à 50 kilovolts, et à celles des articles R. 323-28, R. 323-30 à R. 323-35, R. 323-38,
-R. 323-39 et R. 323-43 à R. 323-48.
+surplombent le domaine public ou des terrains privés, sont soumis aux dispositions suivantes.
 
-Toutefois, le préfet peut refuser d'approuver un projet d'un tel ouvrage en application de l'article R. 323-26 si ce projet
-lui apparaît incompatible ou redondant avec les missions confiées aux gestionnaires de réseaux publics d'électricité en
-application du livre III. Préalablement à sa décision, le préfet consulte, dans les conditions de l'article R. 323-27, les
-gestionnaires des réseaux publics concernés, qui disposent d'un mois pour se prononceR. Passé ce délai, leur avis est réputé
-donné. En outre, le bénéficiaire de l'approbation communique au gestionnaire de réseau public d'électricité concerné les
-informations nécessaires à l'opération d'enregistrement prévue à l'article R. 323-29. 
+La construction des lignes électriques aériennes dont le niveau de tension est supérieur à 50 kV est soumise à la procédure
+d'approbation d'ouvrage prévue aux articles R. 323-26 et R. 323-27. Le préfet peut refuser d'approuver le projet d'un tel
+ouvrage notamment si ce projet lui apparaît incompatible ou redondant avec les missions confiées aux gestionnaires de réseaux
+publics d'électricité en application du livre III. Préalablement à sa décision, le préfet consulte, sur la base du dossier
+prévu à l'article R. 323-27, les gestionnaires des réseaux publics concernés, qui disposent d'un mois pour se prononcer.
+Passé ce délai, leur avis est réputé donné.
+
+La création et la modification des ouvrages définis au premier alinéa, autres que les lignes aériennes mentionnées au
+deuxième alinéa et les lignes sous-marines, font l'objet d'un contrôle de conformité sur pièces et sur place, par un
+organisme agréé. L'exploitant des ouvrages tient les attestations délivrées par l'organisme agréé à disposition des autorités
+compétentes. Un arrêté du ministre chargé de l'énergie définit les prescriptions dont le respect fait l'objet du contrôle et
+les modalités de ce contrôle.
+
+La conception et l'exécution des ouvrages mentionnés au premier alinéa se conforment à l'arrêté mentionné à l'article R.
+323-28. Ces ouvrages sont soumis aux dispositions relatives à l'exploitation mentionnées aux articles R. 323-33 à R. 323-35.
+L'exploitant signale tout accident sur ces ouvrages dans les conditions prévues à l'article R. 323-38. Leur déplacement
+s'opère suivant les règles définies à l'article R. 323-39. Ils sont soumis au contrôle des champs magnétiques défini aux
+articles R. 323-43 à R. 323-48.
 
 Un arrêté du ministre chargé de l'énergie précise les ouvrages qui ne sont pas soumis à tout ou partie des dispositions
 mentionnées au présent article en raison de la simplicité de leurs caractéristiques, de la modicité des risques présentés ou
@@ -55601,10 +55603,6 @@ du fait qu'ils sont soumis à d'autres réglementations visant à réduire leurs
 **Liens relatifs à cet article**
 
 _Codifié par_:
-
-  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-_Créé par_:
 
   - Décret n°2015-1823 du 30 décembre 2015 - art.
 
@@ -55618,17 +55616,13 @@ _Cité par_:
   - Arrêté du 25 février 2019 - art. 1 (V)
   - Arrêté du 25 février 2019 - art. 3 (V)
   - Code de justice administrative - art. R311-4 (V)
-  - Code de l'énergie - art. R323-29 (M)
+  - Code de l'énergie - art. R323-29 (V)
   - Code de l'énergie - art. R323-41 (V)
   - Code de l'énergie - art. R323-48 (V)
 
-_Cite_:
+_Modifié par_:
 
-  - Code de l'énergie - art. R323-26 (V)
-  - Code de l'énergie - art. R323-28 (V)
-  - Code de l'énergie - art. R323-30 (V)
-  - Code de l'énergie - art. R323-38 (V)
-  - Code de l'énergie - art. R323-43 (V)
+  - Décret n°2018-1160 du 17 décembre 2018 - art. 4
 
 
 ###### Article R323-41
@@ -55656,9 +55650,8 @@ _Cite_:
 
 ###### Article R323-42
 
-Les lignes d'interconnexion mentionnées à l'article 17 du règlement (CE) n° 714/2009 du Parlement européen et du Conseil du
-13 juillet 2009 sont soumises aux dispositions des articles R. 323-26 à R. 323-28, R. 323-30 à R. 323-35 et R. 323-37 à R.
-323-39 et R. 323-43 à R. 323-48.
+Les lignes d'interconnexion sont soumises aux dispositions des articles R. 323-26 à R. 323-28, R. 323-30 à R. 323-35 et R.
+323-37 à R. 323-39 et R. 323-43 à R. 323-48.
 
 **Liens relatifs à cet article**
 
@@ -55666,16 +55659,16 @@ _Codifié par_:
 
   - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2015-1823 du 30 décembre 2015 - art.
+  - Décret n°2018-1160 du 17 décembre 2018 - art. 5
 
 _Cite_:
 
-  - Code de l'énergie - art. R323-26 (V)
-  - Code de l'énergie - art. R323-30 (V)
-  - Code de l'énergie - art. R323-37 (V)
-  - Code de l'énergie - art. R323-43 (V)
+  - Code de l'énergie - art. R323-26
+  - Code de l'énergie - art. R323-30
+  - Code de l'énergie - art. R323-37
+  - Code de l'énergie - art. R323-43
 
 _Cité par_:
 
