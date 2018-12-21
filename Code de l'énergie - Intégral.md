@@ -1,5 +1,5 @@
 # Code de l'énergie  
-Version Consolidée au 2018-12-21
+Version Consolidée au 2018-12-22
 ## Contenu: 
   - [Partie législative (art. L100-1 à L731-1)](#1)
     - [LIVRE IER : L'ORGANISATION GENERALE  DU SECTEUR DE L'ENERGIE (art. L100-1 à L161-6)](#2)
@@ -42072,12 +42072,16 @@ e) Les échanges, avec ou sans soulte, portant sur des biens, titres ou valeurs,
 
 f) Les acquisitions et cessions d'immeubles ;
 
-g) Les prêts, emprunts, crédits et avances ;
+g) Les prêts, emprunts, crédits et avances, à l'exception des emprunts auprès d'établissements de crédit dont le terme
+n'excède pas douze mois, sous réserve que le cumul d'émission de ces emprunts reste à tout moment inférieur ou égal à un
+plafond fixé dans le règlement intérieur par période de douze mois glissants ;
 
 h) La constitution de sûretés, ainsi que les cautions, avals, nantissements et garanties et, plus généralement, la conclusion
-d'engagements hors bilan ;
+d'engagements hors bilan, à l'exception des opérations de couverture de risque de change ou de taux d'intérêt ;
 
 i) Toute décision de recourir à l'arbitrage, la conclusion de toute transaction ainsi que l'octroi de toute mainlevée ;
+
+j) Les opérations de placement de trésorerie dont le terme est supérieur à douze mois ;
 
 9° Est informé, lors de la plus proche séance qui suit la décision, des opérations mentionnées au 8° ci-dessus réalisées par
 IFP Energies nouvelles et portant sur des montants compris entre deux et cinq millions d'euros, ou réalisées par une société
@@ -42086,10 +42090,8 @@ du code de commerce et portant sur des montants supérieurs ou égaux à deux mi
 
 10° Définit le mandat donné aux administrateurs représentant l'établissement dans toute société ou groupement commercial sur
 lequel il exerce un contrôle exclusif ou conjoint au sens de l'article L. 233-16 du code de commerce, pour l'examen du budget
-prévisionnel de la société ou du groupement et pour toutes les opérations mentionnées au 8° réalisées par la société ou le
-groupement portant sur des montants supérieurs ou égaux à cinq millions d'euros ou, s'agissant de la constitution de sûretés,
-de cautions, d'avals, de nantissements ou de garanties ou plus généralement de la conclusion d'engagements hors bilan, à dix
-millions d'euros ;
+prévisionnel de la société ou du groupement et, lorsqu'elles portent sur des montants supérieurs ou égaux aux seuils fixés
+dans le règlement intérieur, pour toutes les opérations mentionnées au 8° réalisées par la société ou le groupement ;
 
 11° Est informé par le président de toute action judiciaire susceptible d'avoir un effet significatif sur la situation de
 l'établissement, qu'elle concerne l'établissement ou une société ou un groupement commercial sur lequel il exerce un contrôle
@@ -42104,29 +42106,29 @@ _Codifié par_:
 
   - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-_Créé par_:
-
-  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
 _Cité par_:
 
   - Décret n°2018-1181 du 19 décembre 2018 (V)
   - Code de l'énergie - art. R144-17 (V)
 
+_Modifié par_:
+
+  - Décret n°2018-1181 du 19 décembre 2018 - art. 1
+
 _Cite_:
 
-  - Code de commerce - art. L233-16 (M)
+  - Code de commerce - art. L233-16
 
 
 ###### Article R144-9
 
-Le conseil d'administration se réunit en séance ordinaire au moins quatre fois par an sur convocation de son président qui
+Le conseil d'administration se réunit en séance ordinaire au moins trois fois par an sur convocation de son président qui
 fixe l'ordre du jour. A la demande du commissaire du Gouvernement ou du contrôleur général économique et financier, l'examen
-d'une question particulière est inscrit à l'ordre du jour.
+d'une question particulière est inscrit à l'ordre du jour. 
 
 Le conseil d'administration peut, en outre, être convoqué en séance extraordinaire, sur un ordre du jour déterminé, à
-l'initiative de son président ou à la demande du commissaire du Gouvernement, du chef de la mission de contrôle général
-économique et financier ou du tiers des membres du conseil.
+l'initiative de son président ou à la demande du commissaire du Gouvernement, du représentant de la mission de contrôle
+général économique et financier ou du tiers des membres du conseil. 
 
 Le recours à une procédure de consultation écrite peut être décidé à titre exceptionnel par le président lorsque l'urgence
 impose de consulter le conseil dans les délais les plus brefs. Dans ce cas, les membres du conseil d'administration sont
@@ -42139,9 +42141,10 @@ _Codifié par_:
 
   - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2015-1823 du 30 décembre 2015 - art.
+  - Décret n°2018-1181 du 19 décembre 2018 - art. 2
+  - Décret n°2018-1181 du 19 décembre 2018 - art. 3
 
 
 ###### Article R144-10
@@ -42159,15 +42162,15 @@ communication électronique.
 
 Tout membre du conseil d'administration peut donner mandat écrit à un autre membre du conseil d'administration de le
 représenter à une séance. Chaque membre du conseil d'administration ne peut disposer, pour une séance déterminée, que d'un
-seul mandat.
+seul mandat. 
 
 Les délibérations et décisions du conseil d'administration sont prises à la majorité des voix des membres présents ou
 représentés ou participant à la séance par des moyens de visioconférence ou de communication électronique dans les conditions
 déterminées au deuxième alinéa. En cas de partage égal des voix, la voix du président de séance est prépondérante. 
 
-Le commissaire du Gouvernement et le chef de la mission de contrôle général économique et financier assistent aux séances du
-conseil d'administration avec voix consultative. En cas d'empêchement, ils peuvent se faire représenter par une personne
-placée sous leur autorité. 
+Le commissaire du Gouvernement et le représentant de la mission de contrôle général économique et financier assistent aux
+séances du conseil d'administration avec voix consultative. En cas d'empêchement, ils peuvent se faire représenter par une
+personne placée sous leur autorité. 
 
 Le président du conseil d'administration peut appeler à participer aux séances du conseil avec voix consultative toute
 personne dont il juge la présence utile pour l'étude d'un point de l'ordre du jour.
@@ -42178,13 +42181,13 @@ _Codifié par_:
 
   - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2015-1823 du 30 décembre 2015 - art.
+  - Décret n°2018-1181 du 19 décembre 2018 - art. 3
 
 _Cite_:
 
-  - Code de l'énergie - art. R144-16 (V)
+  - Code de l'énergie - art. R144-16
 
 
 ###### Article R144-11
@@ -42226,26 +42229,27 @@ _Créé par_:
 ###### Article R144-13
 
 IFP Energies nouvelles est soumis au contrôle économique et financier de l'Etat prévu par le décret n° 55-733 du 26 mai 1955
-relatif au contrôle économique et financier de l'Etat.
+relatif au contrôle économique et financier de l'Etat. 
 
-Le chef de la mission de contrôle général économique et financier peut s'opposer à toute délibération de nature financière
-prise par le conseil d'administration dans un délai de cinq jours suivant la réunion du conseil d'administration s'il a
-assisté à celle-ci ou s'y est fait représenter, ou suivant la réception de la délibération. Le conseil d'administration est
-informé de l'opposition du chef de la mission de contrôle général économique et financier qui doit être motivée.
+Le représentant de la mission de contrôle général économique et financier peut s'opposer à toute délibération de nature
+financière prise par le conseil d'administration dans un délai de cinq jours suivant la réunion du conseil d'administration
+s'il a assisté à celle-ci ou s'y est fait représenter, ou suivant la réception de la délibération. Le conseil
+d'administration est informé de l'opposition du représentant de la mission de contrôle général économique et financier qui
+doit être motivée.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Décret n°55-733 du 26 mai 1955 (M)
+  - Décret n°55-733 du 26 mai 1955
 
 _Codifié par_:
 
   - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2015-1823 du 30 décembre 2015 - art.
+  - Décret n°2018-1181 du 19 décembre 2018 - art. 3
 
 
 ###### Article R144-14
