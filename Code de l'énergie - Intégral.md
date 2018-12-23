@@ -1,5 +1,5 @@
 # Code de l'énergie  
-Version Consolidée au 2018-12-22
+Version Consolidée au 2018-12-24
 ## Contenu: 
   - [Partie législative (art. L100-1 à L731-1)](#1)
     - [LIVRE IER : L'ORGANISATION GENERALE  DU SECTEUR DE L'ENERGIE (art. L100-1 à L161-6)](#2)
@@ -47437,7 +47437,13 @@ maritime : 50 mégawatts ;
 8° Installations utilisant, à titre principal, du gaz naturel : 20 mégawatts ; 
 
 9° Installations utilisant, à titre principal, d'autres combustibles fossiles que le gaz naturel et le charbon : 10
-mégawatts.
+mégawatts ; 
+
+10° Les installations de production d'électricité en mer utilisant l'énergie mécanique du vent ayant fait l'objet d'une
+procédure de mise en concurrence prévue à l'article L. 311-10 : 1 gigawatt ; 
+
+11° Les autres installations de production d'électricité utilisant des énergies renouvelables ayant fait l'objet d'une
+procédure de mise en concurrence prévue à l'article L. 311-10 : 300 mégawatts.
 
 **Liens relatifs à cet article**
 
@@ -47447,7 +47453,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2016-687 du 27 mai 2016 - art. 1
+  - Décret n°2018-1204 du 21 décembre 2018 - art. 4
 
 _Cité par_:
 
@@ -47460,7 +47466,8 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de l'énergie - art. L311-6 (V)
+  - Code de l'énergie - art. L311-10
+  - Code de l'énergie - art. L311-6
 
 
 ###### Article R311-4
