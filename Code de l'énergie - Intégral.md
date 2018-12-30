@@ -1,5 +1,5 @@
 # Code de l'énergie  
-Version Consolidée au 2018-12-27
+Version Consolidée au 2018-12-31
 ## Contenu: 
   - [Partie législative (art. L100-1 à L731-1)](#1)
     - [LIVRE IER : L'ORGANISATION GENERALE  DU SECTEUR DE L'ENERGIE (art. L100-1 à L161-6)](#2)
@@ -275,7 +275,7 @@ relatives à la vente de biogaz (art. L446-1 à L446-5)](#246)
           - [Section 4 : Les dispositions particulières à la fin de la concession et à son renouvellement (art. L521-15 à L521-17)](#266)
           - [Section 5 : Les sociétés d'économie mixte hydroélectriques (art. L521-18 à L521-20)](#267)
         - [Chapitre II : Les réserves en énergie (art. L522-1 à L522-4)](#268)
-        - [Chapitre III : Les redevances proportionnelles (art. L523-1 à L523-2)](#269)
+        - [Chapitre III : Les redevances proportionnelles (art. L523-1 à L523-3)](#269)
         - [Chapitre IV : L'information des collectivités territoriales et des habitants riverains sur l'exécution de la concession et leur participation à la gestion des usages de l'eau (art. L524-1)](#270)
       - [TITRE III : LES DISPOSITIONS RELATIVES  AUX INSTALLATIONS HYDRAULIQUES AUTORISEES (art. L531-1 à L531-6)](#271)
         - [Chapitre unique (art. L531-1 à L531-6)](#272)
@@ -5232,7 +5232,7 @@ _Cité par_:
 
 ###### Article L121-7
 
-En matière de production d'électricité, les charges imputables aux missions de service public comprennent : 
+En matière de production d'électricité, les charges imputables aux missions de service public comprennent :
 
 1° Les surcoûts qui résultent, le cas échéant, de la mise en œuvre des articles L. 311-10 à L. 311-13-5 dans le cadre des
 contrats conclus en application du 1° de l'article L. 311-12, des articles L. 314-1 à L. 314-13 et de l'article L. 314-26 par
@@ -5246,38 +5246,38 @@ de coûts évités servent de références pour déterminer les surcoûts compen
 exploitées par Electricité de France ou par une entreprise locale de distribution. Lorsque l'objet des contrats est l'achat
 de l'électricité produite par une installation de production implantée dans une zone non interconnectée au réseau
 métropolitain continental, les surcoûts sont calculés par rapport à la part relative à la production dans les tarifs
-réglementés de vente d'électricité ; 
+réglementés de vente d'électricité ;
 
-2° Dans les zones non interconnectées au réseau métropolitain continental : 
+2° Dans les zones non interconnectées au réseau métropolitain continental :
 
 a) Les surcoûts de production qui, en raison des particularités du parc de production inhérentes à la nature de ces zones, ne
 sont pas couverts par la part relative à la production dans les tarifs réglementés de vente d'électricité ou par les
-éventuels plafonds de prix prévus à l'article L. 337-1 ; 
+éventuels plafonds de prix prévus à l'article L. 337-1 ;
 
 b) Les coûts des ouvrages de stockage d'électricité gérés par le gestionnaire du système électrique. Ces coûts sont pris en
-compte dans la limite des surcoûts de production qu'ils contribuent à éviter ; 
+compte dans la limite des surcoûts de production qu'ils contribuent à éviter ;
 
 c) Les surcoûts d'achats d'électricité, hors ceux mentionnés au a, qui, en raison des particularités des sources
 d'approvisionnement considérées, ne sont pas couverts par la part relative à la production dans les tarifs réglementés de
-vente d'électricité. Ces surcoûts sont pris en compte dans la limite des surcoûts de production qu'ils contribuent à
-éviter ; 
+vente d'électricité. Ces surcoûts sont pris en compte dans la limite des surcoûts de production qu'ils contribuent à éviter ;
 
 d) Les coûts supportés par les fournisseurs d'électricité en raison de la mise en œuvre d'actions de maîtrise de la demande
 portant sur les consommations d'électricité et diminués des recettes éventuellement perçues à travers ces actions. Ces coûts
-sont pris en compte dans la limite des surcoûts de production qu'ils contribuent à éviter ; 
+sont pris en compte dans la limite des surcoûts de production qu'ils contribuent à éviter ;
 
-e) Les coûts d'études supportés par un producteur ou un fournisseur en vue de la réalisation de projets d'approvisionnement
-électrique identifiés dans le décret relatif à la programmation pluriannuelle de l'énergie mentionné au premier alinéa du III
-de l'article L. 141-5 et conduisant à un surcoût de production au titre du a du présent 2°, même si le projet n'est pas mené
-à son terme. Les modalités de la prise en compte de ces coûts sont soumises à l'évaluation préalable de la Commission de
-régulation de l'énergie. 
+e) Les coûts d'études en vue de la réalisation de projets d'approvisionnement électrique identifiés dans le décret relatif à
+la programmation pluriannuelle de l'énergie mentionné au premier alinéa du III de l'article L. 141-5,  supportés par un
+producteur ou un fournisseur ou à l'initiative du représentant de l'Etat dans le département ou du gestionnaire de réseau, et
+conduisant à un surcoût de production au titre du a du présent 2° ou à un surcoût d'achat d'électricité au titre du c, même
+si le projet n'est pas mené à son terme. Les modalités de la prise en compte de ces coûts sont soumises à l'évaluation
+préalable de la Commission de régulation de l'énergie.
 
 Les conditions de rémunération du capital immobilisé dans les moyens de production, de stockage d'électricité ou nécessaires
 aux actions de maîtrise de la demande définis aux a, b et d du présent 2° utilisées pour calculer la compensation des charges
 à ce titre sont définies par arrêté du ministre chargé de l'énergie afin de garantir la sécurité de l'approvisionnement en
-électricité des zones non interconnectées au réseau métropolitain continental. 
+électricité des zones non interconnectées au réseau métropolitain continental.
 
-Un décret en Conseil d'Etat précise les modalités d'application des a à e. 
+Un décret en Conseil d'Etat précise les modalités d'application des a à e.
 
 3° La rémunération versée par Electricité de France aux installations de cogénération dans le cadre des contrats
 transitoires, en application de l'article L. 314-1-1.
@@ -5285,11 +5285,11 @@ transitoires, en application de l'article L. 314-1-1.
 4° Les coûts résultant de la mise en œuvre des articles L. 314-18 à L. 314-27 et des articles L. 311-10 à L. 311-13-5 dans le
 cadre des contrats conclus en application du 2° de l'article L. 311-12.
 
-5° Les coûts directement induits par la conclusion et la gestion des  contrats mentionnés à l'article L. 121-27 et des
-contrats conclus en  application des 1° et 2° de l'article L. 311-12 et des articles L.  314-1, L. 314-18 et L. 314-26
-supportés par Electricité de France ou, le  cas échéant, les entreprises locales de distribution, les organismes  agréés
-mentionnés à l'article L. 314-6-1 ou l'acheteur en dernier  recours mentionné à l'article L. 314-26, dans la limite des coûts
-qu'une  entreprise moyenne, bien gérée et adéquatement équipée des moyens  nécessaires, aurait encourus.
+5° Les coûts directement induits par la conclusion et la gestion des contrats mentionnés à l'article L. 121-27 et des
+contrats conclus en application des 1° et 2° de l'article L. 311-12 et des articles L. 314-1, L. 314-18 et L. 314-26
+supportés par Electricité de France ou, le cas échéant, les entreprises locales de distribution, les organismes agréés
+mentionnés à l'article L. 314-6-1 ou l'acheteur en dernier recours mentionné à l'article L. 314-26, dans la limite des coûts
+qu'une entreprise moyenne, bien gérée et adéquatement équipée des moyens nécessaires, aurait encourus.
 
 **Liens relatifs à cet article**
 
@@ -5308,7 +5308,7 @@ _Cité par_:
   - Arrêté du 27 mars 2015 - art. 1 (V)
   - Loi n°2015-992 du 17 août 2015 - art. 205 (V)
   - Décret n°2015-1697 du 18 décembre 2015 - art. 9 (V)
-  - Loi n°2015-1786 du 29 décembre 2015 - art. 5 (M)
+  - Loi n°2015-1786 du 29 décembre 2015 - art. 5 (V)
   - Arrêté du 6 avril 2016 - art. 4 (V)
   - Décret n°2017-457 du 30 mars 2017 - art. 10 (V)
   - Décret n°2017-530 du 12 avril 2017 - art. 10 (V)
@@ -5339,7 +5339,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2016-1918 du 29 décembre 2016 - art. 137 (V)
+  - Loi n°2018-1317 du 28 décembre 2018 - art. 235
 
 _Cite_:
 
@@ -24981,19 +24981,27 @@ en œuvre les dispositions nécessaires pour assurer le bon fonctionnement et l'
 service d'acheminement et de livraison du gaz et la sécurité des biens et des personnes. Les dispositions des cahiers des
 charges des concessions de distribution de gaz naturel font, le cas échéant, l'objet d'une adaptation.
 
-Les gestionnaires des réseaux de distribution de gaz naturel dirigent et  coordonnent les opérations de modification de leurs
-réseaux respectifs  et veillent à la compatibilité des installations des consommateurs  finals durant toute la durée des
-opérations ainsi qu'à l'issue de  celles-ci. A cette fin, ils peuvent sélectionner et missionner des  entreprises disposant
-des qualifications nécessaires pour réaliser les  opérations de contrôle, d'adaptation et de réglage de tous les appareils
-et équipements gaziers des installations intérieures ou autres des  consommateurs raccordés aux réseaux de distribution
-concernés. 
+Les gestionnaires des réseaux de distribution de gaz naturel dirigent et coordonnent les opérations de modification de leurs
+réseaux respectifs et veillent à la compatibilité des installations des consommateurs finals durant toute la durée des
+opérations ainsi qu'à l'issue de celles-ci. A cette fin, ils peuvent sélectionner et missionner des entreprises disposant des
+qualifications nécessaires pour réaliser les opérations de contrôle, d'adaptation et de réglage de tous les appareils et
+équipements gaziers des installations intérieures ou autres des consommateurs raccordés aux réseaux de distribution
+concernés. Les gestionnaires de ces réseaux facilitent le remplacement des appareils et équipements gaziers ne pouvant être
+réglés ou adaptés et orientent les consommateurs concernés vers le service public de la performance énergétique de l'habitat
+mentionné à l'article L. 232-1. 
 
-Les modalités d'application du présent article sont définies par  décret, après avis de la Commission de régulation de
-l'énergie. Cet avis  comprend une évaluation économique et technique qui permet de garantir  l'adéquation des mesures
-envisagées au bon fonctionnement du marché du  gaz naturel et à l'intérêt des consommateurs finals. 
+Les modalités d'application du présent article sont définies par décret, après avis de la Commission de régulation de
+l'énergie. Cet avis comprend une évaluation économique et technique qui permet de garantir l'adéquation des mesures
+envisagées au bon fonctionnement du marché du gaz naturel et à l'intérêt des consommateurs finals.
 
-II. - Le I est applicable aux réseaux de distribution de gaz combustibles  autres que le gaz naturel en cas de modification
-de la nature du gaz  concerné.
+II. - Le I est applicable aux réseaux de distribution de gaz combustibles autres que le gaz naturel en cas de modification de
+la nature du gaz concerné.
+
+**Nota:**
+
+Conformément au IV de l’article 183 de la loi n° 2018-1317 du 28 décembre 2018, les modalités d'application des dispositions
+de l'article L. 432-13 du code de l'énergie telles qu'elles résultent des dispositions du III dudit article 183 sont
+précisées par voie réglementaire.
 
 **Liens relatifs à cet article**
 
@@ -25008,7 +25016,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2017-227 du 24 février 2017 - art. 16 (V)
+  - Loi n°2018-1317 du 28 décembre 2018 - art. 183 (V)
 
 
 #### Chapitre III : Les ouvrages de transport et de distribution<a id=227></a>
@@ -29107,6 +29115,45 @@ _Cite_:
 _Anciens textes_:
 
   - Code de l'énergie - art. L521-23 (T)
+
+
+###### Article L523-3
+
+Pour toute concession prorogée en application du troisième alinéa de l'article L. 521-16, il est institué à compter du 1er
+janvier 2019, nonobstant les dispositions du même troisième alinéa et celles du cahier des charges de cette concession, à la
+charge du concessionnaire, au profit de l'Etat, une redevance proportionnelle aux recettes ou aux bénéfices de la
+concession. 
+
+Le taux de cette redevance est déterminé par décret en Conseil d'Etat en tenant compte des caractéristiques de la
+concession. 
+
+Un tiers de la redevance est affecté aux départements sur le territoire desquels coulent les cours d'eau utilisés,
+l'éventuelle répartition entre plusieurs départements étant proportionnelle à la puissance moyenne hydraulique devenue
+indisponible dans les limites de chaque département du fait de l'usine. 
+
+Un douzième de la redevance est affecté aux communes sur le territoire desquelles coulent les cours d'eau utilisés. La
+répartition entre les communes est proportionnelle à la puissance hydraulique devenue indisponible dans les limites de chaque
+commune du fait de l'ouvrage hydroélectrique. 
+
+Un douzième de la redevance est affecté aux groupements de communes sur le territoire desquels coulent les cours d'eau
+utilisés. La répartition entre les groupements est proportionnelle à la puissance hydraulique devenue indisponible dans les
+limites de chaque communauté du fait de l'ouvrage hydroélectrique. La redevance affectée aux communes peut être transférée à
+un groupement, sous réserve de l'accord explicite de chacune des communes de ce groupement. 
+
+Chaque année, le concessionnaire transmet au comptable public chargé de percevoir les recettes domaniales le calcul détaillé
+du montant de la redevance due au titre de l'année précédente, certifié exact par les commissaires aux comptes. La redevance
+afférente à un exercice est payée au plus tard le 1er juillet de l'année suivant cet exercice. Le concessionnaire transmet au
+service chargé du contrôle de la concession une copie du calcul détaillé du montant de la redevance.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2018-1317 du 28 décembre 2018 - art. 27
+
+_Cite_:
+
+  - Code de l'énergie - art. L521-16
 
 
 #### Chapitre IV : L'information des collectivités territoriales et des habitants riverains sur l'exécution de la concession et leur participation à la gestion des usages de l'eau<a id=270></a>
