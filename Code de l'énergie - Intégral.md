@@ -1,5 +1,5 @@
 # Code de l'énergie  
-Version Consolidée au 2018-05-31
+Version Consolidée au 2019-01-01
 ## Contenu: 
   - [Partie législative (art. L100-1 à L731-1)](#1)
     - [LIVRE IER : L'ORGANISATION GENERALE  DU SECTEUR DE L'ENERGIE (art. L100-1 à L161-6)](#2)
@@ -682,44 +682,43 @@ relatives à la vente de biogaz (art. L446-1 à L446-5)](#243)
         - [Chapitre II : Le stockage (art. R642-1 à D642-11)](#673)
           - [Section 1 : Le Comité professionnel des stocks stratégiques pétroliers (art. R642-1 à R642-10)](#674)
           - [Section 2 : Dispositions diverses (art. D642-11)](#675)
-      - [TITRE VI : LES BIOCARBURANTS ET BIOLIQUIDES (art.  à R662-4)](#676)
-        - [Chapitre unique (art.  à D642-11)](#677)
-        - [Chapitre Ier : Obligations relatives aux biocarburants et aux bioliquides (art. D661-2 à R661-11)](#678)
-        - [Chapitre II : Contrôles et sanctions administratives (art. R662-1 à R662-4)](#679)
-      - [TITRE VII : LES DISPOSITIONS PARTICULIÈRES À L'OUTRE-MER (art. R671-1 à R671-31)](#680)
-        - [Chapitre unique (art. R671-1 à R671-31)](#681)
-          - [Section 1 : Dispositions relatives au département de la Guadeloupe et aux collectivités territoriales de la Guyane et de la Martinique (art. R671-1 à R671-13)](#682)
-            - [Sous-section 1 : Dispositions générales (art. R671-1)](#683)
-            - [Sous-section 2 : Dispositions relatives aux prix des produits pétroliers autres que le gaz de pétrole liquéfié (art. R671-2 à R671-5)](#684)
-            - [Sous-section 3 : Dispositions relatives aux prix du gaz de pétrole liquéfié (art. R671-6 à R671-10)](#685)
-            - [Sous-section 4 : Dispositions relatives aux activités de stockage de produits pétroliers (art. R671-11 à R671-12)](#686)
-            - [Sous-section 5 : Dispositions relatives à l'information du public (art. R671-13)](#687)
-          - [Section 2 : Dispositions relatives au département de La Réunion (art. R671-14 à R671-22)](#688)
-            - [Sous-section 1 : Dispositions générales (art. R671-14)](#689)
-            - [Sous-section 2 : Dispositions relatives aux prix des produits pétroliers (art. R671-15 à R671-17)](#690)
-            - [Sous-section 3 : Dispositions relatives à la distribution des produits pétroliers (art. R671-18 à R671-19)](#691)
-            - [Sous-section 4 : Dispositions relatives aux activités de stockage de produits pétroliers (art. R671-20 à R671-21)](#692)
-            - [Sous-section 5 : Dispositions relatives à l'information du public (art. R671-22)](#693)
-          - [Section 3 : Dispositions relatives au Département de Mayotte (art. R671-23 à R671-31)](#694)
-            - [Sous-section 1 : Dispositions générales (art. R671-23)](#695)
-            - [Sous-section 2 : Dispositions relatives aux prix des produits pétroliers (art. R671-24 à R671-26)](#696)
-            - [Sous-section 3 : Dispositions relatives à la distribution des produits pétroliers (art. R671-27 à R671-28)](#697)
-            - [Sous-section 4 : Dispositions relatives aux activités de stockage de produits pétroliers (art. R671-29 à R671-30)](#698)
-            - [Sous-section 5 : Dispositions relatives à l'information du public (art. R671-31)](#699)
-    - [LIVRE VII : LES DISPOSITIONS RELATIVES AUX RÉSEAUX DE CHALEUR ET DE FROID (art. R711-1 à R721-20)](#700)
-      - [TITRE Ier : LA PRODUCTION DE CHALEUR ET LE CLASSEMENT DES RÉSEAUX DE CHALEUR ET DE FROID (art. R711-1 à R712-12)](#701)
-        - [Chapitre Ier : La production de chaleur (art. R711-1 à R711-4)](#702)
-        - [Chapitre II : Le classement des reseaux de chaleur et de froid (art. R712-1 à R712-12)](#703)
-          - [Section 1 : Principes et modalités de classement des réseaux de chaleur et de froid (art. R712-1 à R712-5)](#704)
-          - [Section 2 : Effets du classement d'un réseau de chaleur ou de froid (art. R712-6 à R712-9)](#705)
-          - [Section 3 : Abrogation de la décision de classement (art. R712-10)](#706)
-          - [Section 4 : Information du public (art. L712-11)](#707)
-          - [Section 5 : Constatation des infractions (art. R712-12)](#708)
-      - [TITRE II : LE PASSAGE DES CANALISATIONS DE TRANSPORT ET DE DISTRIBUTION DE CHALEUR ET DE FROID (art. R721-1 à R721-20)](#709)
-        - [Chapitre unique (art. R721-1 à R721-20)](#710)
-          - [Section 1 : Procédure régissant la déclaration d'intérêt général des canalisations de transport de distribution de chaleur (art. R721-1 à R721-6)](#711)
-          - [Section 2 : Les servitudes (art. D721-13 à R721-12)](#712)
-          - [Section 3 : Construction, mise en service, exploitation et contrôle (art. R721-14 à R721-20)](#713)
+      - [TITRE VI : LES BIOCARBURANTS ET BIOLIQUIDES (art. D661-2 à R662-4)](#676)
+        - [Chapitre Ier : Obligations relatives aux biocarburants et aux bioliquides (art. D661-2 à R661-11)](#677)
+        - [Chapitre II : Contrôles et sanctions administratives (art. R662-1 à R662-4)](#678)
+      - [TITRE VII : LES DISPOSITIONS PARTICULIÈRES À L'OUTRE-MER (art. R671-1 à R671-31)](#679)
+        - [Chapitre unique (art. R671-1 à R671-31)](#680)
+          - [Section 1 : Dispositions relatives au département de la Guadeloupe et aux collectivités territoriales de la Guyane et de la Martinique (art. R671-1 à R671-13)](#681)
+            - [Sous-section 1 : Dispositions générales (art. R671-1)](#682)
+            - [Sous-section 2 : Dispositions relatives aux prix des produits pétroliers autres que le gaz de pétrole liquéfié (art. R671-2 à R671-5)](#683)
+            - [Sous-section 3 : Dispositions relatives aux prix du gaz de pétrole liquéfié (art. R671-6 à R671-10)](#684)
+            - [Sous-section 4 : Dispositions relatives aux activités de stockage de produits pétroliers (art. R671-11 à R671-12)](#685)
+            - [Sous-section 5 : Dispositions relatives à l'information du public (art. R671-13)](#686)
+          - [Section 2 : Dispositions relatives au département de La Réunion (art. R671-14 à R671-22)](#687)
+            - [Sous-section 1 : Dispositions générales (art. R671-14)](#688)
+            - [Sous-section 2 : Dispositions relatives aux prix des produits pétroliers (art. R671-15 à R671-17)](#689)
+            - [Sous-section 3 : Dispositions relatives à la distribution des produits pétroliers (art. R671-18 à R671-19)](#690)
+            - [Sous-section 4 : Dispositions relatives aux activités de stockage de produits pétroliers (art. R671-20 à R671-21)](#691)
+            - [Sous-section 5 : Dispositions relatives à l'information du public (art. R671-22)](#692)
+          - [Section 3 : Dispositions relatives au Département de Mayotte (art. R671-23 à R671-31)](#693)
+            - [Sous-section 1 : Dispositions générales (art. R671-23)](#694)
+            - [Sous-section 2 : Dispositions relatives aux prix des produits pétroliers (art. R671-24 à R671-26)](#695)
+            - [Sous-section 3 : Dispositions relatives à la distribution des produits pétroliers (art. R671-27 à R671-28)](#696)
+            - [Sous-section 4 : Dispositions relatives aux activités de stockage de produits pétroliers (art. R671-29 à R671-30)](#697)
+            - [Sous-section 5 : Dispositions relatives à l'information du public (art. R671-31)](#698)
+    - [LIVRE VII : LES DISPOSITIONS RELATIVES AUX RÉSEAUX DE CHALEUR ET DE FROID (art. R711-1 à R721-20)](#699)
+      - [TITRE Ier : LA PRODUCTION DE CHALEUR ET LE CLASSEMENT DES RÉSEAUX DE CHALEUR ET DE FROID (art. R711-1 à R712-12)](#700)
+        - [Chapitre Ier : La production de chaleur (art. R711-1 à R711-4)](#701)
+        - [Chapitre II : Le classement des reseaux de chaleur et de froid (art. R712-1 à R712-12)](#702)
+          - [Section 1 : Principes et modalités de classement des réseaux de chaleur et de froid (art. R712-1 à R712-5)](#703)
+          - [Section 2 : Effets du classement d'un réseau de chaleur ou de froid (art. R712-6 à R712-9)](#704)
+          - [Section 3 : Abrogation de la décision de classement (art. R712-10)](#705)
+          - [Section 4 : Information du public (art. L712-11)](#706)
+          - [Section 5 : Constatation des infractions (art. R712-12)](#707)
+      - [TITRE II : LE PASSAGE DES CANALISATIONS DE TRANSPORT ET DE DISTRIBUTION DE CHALEUR ET DE FROID (art. R721-1 à R721-20)](#708)
+        - [Chapitre unique (art. R721-1 à R721-20)](#709)
+          - [Section 1 : Procédure régissant la déclaration d'intérêt général des canalisations de transport de distribution de chaleur (art. R721-1 à R721-6)](#710)
+          - [Section 2 : Les servitudes (art. D721-13 à R721-12)](#711)
+          - [Section 3 : Construction, mise en service, exploitation et contrôle (art. R721-14 à R721-20)](#712)
 # Partie législative<a id=1></a>
 
 ## LIVRE IER : L'ORGANISATION GENERALE  DU SECTEUR DE L'ENERGIE<a id=2></a>
@@ -12768,17 +12767,13 @@ _Cité par_:
 
 ###### Article L221-1
 
-Sont soumises à des obligations d'économies d'énergie : 
+Sont soumises à des obligations d'économies d'énergie :
 
-1° Les personnes morales qui mettent à la consommation des carburants automobiles et dont les ventes annuelles sont
-supérieures à un seuil défini par décret en Conseil d'Etat. 
+1° Les personnes morales qui mettent à la consommation des carburants automobiles ou du fioul domestique et dont les ventes
+annuelles sont supérieures à un seuil défini par décret en Conseil d'Etat.
 
-2° Les personnes qui vendent de l'électricité, du gaz, du fioul domestique, de la chaleur ou du froid aux consommateurs
-finals et dont les ventes annuelles sont supérieures à un seuil défini par décret en Conseil d'Etat. 
-
-Les ventes annuelles de fioul domestique des personnes morales exclues par le seuil fixé en application du 2° doivent
-représenter moins de 5 % du marché. Les obligations des personnes morales dont les ventes annuelles de fioul domestique
-dépassent le seuil fixé en application du 2° ne portent que sur les ventes supérieures à ce seuil. 
+2° Les personnes qui vendent de l'électricité, du gaz, de la chaleur ou du froid aux consommateurs finals et dont les ventes
+annuelles sont supérieures à un seuil défini par décret en Conseil d'Etat.
 
 Les personnes mentionnées aux 1° et 2° peuvent se libérer de ces obligations soit en réalisant, directement ou indirectement,
 des économies d'énergie, soit en acquérant des certificats d'économies d'énergie.
@@ -12806,14 +12801,14 @@ _Cité par_:
   - Code de l'énergie - art. L221-6 (Ab)
   - Code de l'énergie - art. L221-7 (V)
   - Code de l'énergie - art. L221-8 (M)
-  - Code de l'énergie - art. L222-1 (V)
+  - Code de l'énergie - art. L222-1 (M)
   - Code de l'énergie - art. R142-21 (V)
   - Code de l'énergie - art. R221-1 (VD)
   - Code de la construction et de l'habitation. - art. R*312-7-10 (V)
 
 _Modifié par_:
 
-  - Loi n°2015-992 du 17 août 2015 - art. 30 (V)
+  - Loi n°2017-1839 du 30 décembre 2017 - art. 28 (V)
 
 
 ###### Article L221-1-1
@@ -70798,9 +70793,7 @@ _Cite_:
 
 ### TITRE VI : LES BIOCARBURANTS ET BIOLIQUIDES<a id=676></a>
 
-#### Chapitre unique<a id=677></a>
-
-#### Chapitre Ier : Obligations relatives aux biocarburants et aux bioliquides<a id=678></a>
+#### Chapitre Ier : Obligations relatives aux biocarburants et aux bioliquides<a id=677></a>
 
 ###### Article D661-2
 
@@ -71150,7 +71143,7 @@ _Créé par_:
   - Décret n°2015-1823 du 30 décembre 2015 - art.
 
 
-#### Chapitre II : Contrôles et sanctions administratives<a id=679></a>
+#### Chapitre II : Contrôles et sanctions administratives<a id=678></a>
 
 ###### Article R662-1
 
@@ -71241,13 +71234,13 @@ _Cite_:
   - Code de l'énergie - art. R662-1
 
 
-### TITRE VII : LES DISPOSITIONS PARTICULIÈRES À L'OUTRE-MER<a id=680></a>
+### TITRE VII : LES DISPOSITIONS PARTICULIÈRES À L'OUTRE-MER<a id=679></a>
 
-#### Chapitre unique<a id=681></a>
+#### Chapitre unique<a id=680></a>
 
-##### Section 1 : Dispositions relatives au département de la Guadeloupe et aux collectivités territoriales de la Guyane et de la Martinique<a id=682></a>
+##### Section 1 : Dispositions relatives au département de la Guadeloupe et aux collectivités territoriales de la Guyane et de la Martinique<a id=681></a>
 
-##### Sous-section 1 : Dispositions générales<a id=683></a>
+##### Sous-section 1 : Dispositions générales<a id=682></a>
 
 ###### Article R671-1
 
@@ -71267,7 +71260,7 @@ _Créé par_:
   - Décret n°2015-1823 du 30 décembre 2015 - art.
 
 
-##### Sous-section 2 : Dispositions relatives aux prix des produits pétroliers autres que le gaz de pétrole liquéfié<a id=684></a>
+##### Sous-section 2 : Dispositions relatives aux prix des produits pétroliers autres que le gaz de pétrole liquéfié<a id=683></a>
 
 ###### Article R671-2
 
@@ -71455,7 +71448,7 @@ _Cite_:
   - Code de l'énergie - art. R671-2 (V)
 
 
-##### Sous-section 3 : Dispositions relatives aux prix du gaz de pétrole liquéfié<a id=685></a>
+##### Sous-section 3 : Dispositions relatives aux prix du gaz de pétrole liquéfié<a id=684></a>
 
 ###### Article R671-6
 
@@ -71594,7 +71587,7 @@ _Cite_:
   - Code de l'énergie - art. R671-7 (V)
 
 
-##### Sous-section 4 : Dispositions relatives aux activités de stockage de produits pétroliers<a id=686></a>
+##### Sous-section 4 : Dispositions relatives aux activités de stockage de produits pétroliers<a id=685></a>
 
 ###### Article R671-11
 
@@ -71643,7 +71636,7 @@ _Cite_:
   - Code de l'énergie - art. R671-6 (V)
 
 
-##### Sous-section 5 : Dispositions relatives à l'information du public<a id=687></a>
+##### Sous-section 5 : Dispositions relatives à l'information du public<a id=686></a>
 
 ###### Article R671-13
 
@@ -71683,9 +71676,9 @@ _Cité par_:
   - Code de l'énergie - art. R671-31 (V)
 
 
-##### Section 2 : Dispositions relatives au département de La Réunion<a id=688></a>
+##### Section 2 : Dispositions relatives au département de La Réunion<a id=687></a>
 
-##### Sous-section 1 : Dispositions générales<a id=689></a>
+##### Sous-section 1 : Dispositions générales<a id=688></a>
 
 ###### Article R671-14
 
@@ -71704,7 +71697,7 @@ _Créé par_:
   - Décret n°2015-1823 du 30 décembre 2015 - art.
 
 
-##### Sous-section 2 : Dispositions relatives aux prix des produits pétroliers<a id=690></a>
+##### Sous-section 2 : Dispositions relatives aux prix des produits pétroliers<a id=689></a>
 
 ###### Article R671-15
 
@@ -71816,7 +71809,7 @@ _Cite_:
   - Code de l'énergie - art. R671-15 (V)
 
 
-##### Sous-section 3 : Dispositions relatives à la distribution des produits pétroliers<a id=691></a>
+##### Sous-section 3 : Dispositions relatives à la distribution des produits pétroliers<a id=690></a>
 
 ###### Article R671-18
 
@@ -71880,7 +71873,7 @@ _Cite_:
   - Code de l'énergie - art. R671-18 (V)
 
 
-##### Sous-section 4 : Dispositions relatives aux activités de stockage de produits pétroliers<a id=692></a>
+##### Sous-section 4 : Dispositions relatives aux activités de stockage de produits pétroliers<a id=691></a>
 
 ###### Article R671-20
 
@@ -71927,7 +71920,7 @@ _Cite_:
   - Code de l'énergie - art. R671-15 (V)
 
 
-##### Sous-section 5 : Dispositions relatives à l'information du public<a id=693></a>
+##### Sous-section 5 : Dispositions relatives à l'information du public<a id=692></a>
 
 ###### Article R671-22
 
@@ -71963,9 +71956,9 @@ _Cite_:
   - Code de l'énergie - art. R671-13 (V)
 
 
-##### Section 3 : Dispositions relatives au Département de Mayotte<a id=694></a>
+##### Section 3 : Dispositions relatives au Département de Mayotte<a id=693></a>
 
-##### Sous-section 1 : Dispositions générales<a id=695></a>
+##### Sous-section 1 : Dispositions générales<a id=694></a>
 
 ###### Article R671-23
 
@@ -71988,7 +71981,7 @@ _Cité par_:
   - Code de l'énergie - art. R671-27 (V)
 
 
-##### Sous-section 2 : Dispositions relatives aux prix des produits pétroliers<a id=696></a>
+##### Sous-section 2 : Dispositions relatives aux prix des produits pétroliers<a id=695></a>
 
 ###### Article R671-24
 
@@ -72097,7 +72090,7 @@ _Cite_:
   - Code de l'énergie - art. R671-24 (V)
 
 
-##### Sous-section 3 : Dispositions relatives à la distribution des produits pétroliers<a id=697></a>
+##### Sous-section 3 : Dispositions relatives à la distribution des produits pétroliers<a id=696></a>
 
 ###### Article R671-27
 
@@ -72162,7 +72155,7 @@ _Cite_:
   - Code de l'énergie - art. R671-27 (V)
 
 
-##### Sous-section 4 : Dispositions relatives aux activités de stockage de produits pétroliers<a id=698></a>
+##### Sous-section 4 : Dispositions relatives aux activités de stockage de produits pétroliers<a id=697></a>
 
 ###### Article R671-29
 
@@ -72209,7 +72202,7 @@ _Cite_:
   - Code de l'énergie - art. R671-24 (V)
 
 
-##### Sous-section 5 : Dispositions relatives à l'information du public<a id=699></a>
+##### Sous-section 5 : Dispositions relatives à l'information du public<a id=698></a>
 
 ###### Article R671-31
 
@@ -72244,11 +72237,11 @@ _Cite_:
   - Code de l'énergie - art. R671-13 (V)
 
 
-## LIVRE VII : LES DISPOSITIONS RELATIVES AUX RÉSEAUX DE CHALEUR ET DE FROID<a id=700></a>
+## LIVRE VII : LES DISPOSITIONS RELATIVES AUX RÉSEAUX DE CHALEUR ET DE FROID<a id=699></a>
 
-### TITRE Ier : LA PRODUCTION DE CHALEUR ET LE CLASSEMENT DES RÉSEAUX DE CHALEUR ET DE FROID<a id=701></a>
+### TITRE Ier : LA PRODUCTION DE CHALEUR ET LE CLASSEMENT DES RÉSEAUX DE CHALEUR ET DE FROID<a id=700></a>
 
-#### Chapitre Ier : La production de chaleur<a id=702></a>
+#### Chapitre Ier : La production de chaleur<a id=701></a>
 
 ###### Article R711-1
 
@@ -72360,9 +72353,9 @@ _Cite_:
   - Code de l'énergie - art. L711-3 (V)
 
 
-#### Chapitre II : Le classement des reseaux de chaleur et de froid<a id=703></a>
+#### Chapitre II : Le classement des reseaux de chaleur et de froid<a id=702></a>
 
-##### Section 1 : Principes et modalités de classement des réseaux de chaleur et de froid<a id=704></a>
+##### Section 1 : Principes et modalités de classement des réseaux de chaleur et de froid<a id=703></a>
 
 ###### Article R712-1
 
@@ -72541,7 +72534,7 @@ _Cité par_:
   - Code de l'énergie - art. R712-10 (V)
 
 
-##### Section 2 : Effets du classement d'un réseau de chaleur ou de froid<a id=705></a>
+##### Section 2 : Effets du classement d'un réseau de chaleur ou de froid<a id=704></a>
 
 ###### Article R712-6
 
@@ -72656,7 +72649,7 @@ _Cite_:
   - Code de l'énergie - art. L712-3 (V)
 
 
-##### Section 3 : Abrogation de la décision de classement<a id=706></a>
+##### Section 3 : Abrogation de la décision de classement<a id=705></a>
 
 ###### Article R712-10
 
@@ -72684,7 +72677,7 @@ _Cite_:
   - Code de l'énergie - art. R712-5 (V)
 
 
-##### Section 4 : Information du public<a id=707></a>
+##### Section 4 : Information du public<a id=706></a>
 
 ###### Article L712-11
 
@@ -72714,7 +72707,7 @@ _Cite_:
   - Code général des collectivités territoriales - art. L1413-1 (M)
 
 
-##### Section 5 : Constatation des infractions<a id=708></a>
+##### Section 5 : Constatation des infractions<a id=707></a>
 
 ###### Article R712-12
 
@@ -72736,11 +72729,11 @@ _Cite_:
   - Code de l'énergie - art. L712-4 (V)
 
 
-### TITRE II : LE PASSAGE DES CANALISATIONS DE TRANSPORT ET DE DISTRIBUTION DE CHALEUR ET DE FROID<a id=709></a>
+### TITRE II : LE PASSAGE DES CANALISATIONS DE TRANSPORT ET DE DISTRIBUTION DE CHALEUR ET DE FROID<a id=708></a>
 
-#### Chapitre unique<a id=710></a>
+#### Chapitre unique<a id=709></a>
 
-##### Section 1 : Procédure régissant la déclaration d'intérêt général des canalisations de transport de distribution de chaleur<a id=711></a>
+##### Section 1 : Procédure régissant la déclaration d'intérêt général des canalisations de transport de distribution de chaleur<a id=710></a>
 
 ###### Article R721-1
 
@@ -72883,7 +72876,7 @@ _Créé par_:
   - Décret n°2015-1823 du 30 décembre 2015 - art.
 
 
-##### Section 2 : Les servitudes<a id=712></a>
+##### Section 2 : Les servitudes<a id=711></a>
 
 ###### Article D721-13
 
@@ -73033,7 +73026,7 @@ _Créé par_:
   - Décret n°2015-1823 du 30 décembre 2015 - art.
 
 
-##### Section 3 : Construction, mise en service, exploitation et contrôle<a id=713></a>
+##### Section 3 : Construction, mise en service, exploitation et contrôle<a id=712></a>
 
 ###### Article R721-14
 
