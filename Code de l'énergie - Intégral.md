@@ -1,5 +1,5 @@
 # Code de l'énergie  
-Version Consolidée au 2018-12-31
+Version Consolidée au 2019-01-01
 ## Contenu: 
   - [Partie législative (art. L100-1 à L731-1)](#1)
     - [LIVRE IER : L'ORGANISATION GENERALE  DU SECTEUR DE L'ENERGIE (art. L100-1 à L161-6)](#2)
@@ -13108,17 +13108,13 @@ _Cité par_:
 
 ###### Article L221-1
 
-Sont soumises à des obligations d'économies d'énergie : 
+Sont soumises à des obligations d'économies d'énergie :
 
-1° Les personnes morales qui mettent à la consommation des carburants automobiles et dont les ventes annuelles sont
-supérieures à un seuil défini par décret en Conseil d'Etat. 
+1° Les personnes morales qui mettent à la consommation des carburants automobiles ou du fioul domestique et dont les ventes
+annuelles sont supérieures à un seuil défini par décret en Conseil d'Etat.
 
-2° Les personnes qui vendent de l'électricité, du gaz, du fioul domestique, de la chaleur ou du froid aux consommateurs
-finals et dont les ventes annuelles sont supérieures à un seuil défini par décret en Conseil d'Etat. 
-
-Les ventes annuelles de fioul domestique des personnes morales exclues par le seuil fixé en application du 2° doivent
-représenter moins de 5 % du marché. Les obligations des personnes morales dont les ventes annuelles de fioul domestique
-dépassent le seuil fixé en application du 2° ne portent que sur les ventes supérieures à ce seuil. 
+2° Les personnes qui vendent de l'électricité, du gaz, de la chaleur ou du froid aux consommateurs finals et dont les ventes
+annuelles sont supérieures à un seuil défini par décret en Conseil d'Etat.
 
 Les personnes mentionnées aux 1° et 2° peuvent se libérer de ces obligations soit en réalisant, directement ou indirectement,
 des économies d'énergie, soit en acquérant des certificats d'économies d'énergie.
@@ -13148,14 +13144,14 @@ _Cité par_:
   - Code de l'énergie - art. L221-6 (Ab)
   - Code de l'énergie - art. L221-7 (V)
   - Code de l'énergie - art. L221-8 (M)
-  - Code de l'énergie - art. L222-1 (V)
+  - Code de l'énergie - art. L222-1 (M)
   - Code de l'énergie - art. R142-21 (V)
   - Code de l'énergie - art. R221-1 (V)
   - Code de la construction et de l'habitation. - art. R312-7-10 (V)
 
 _Modifié par_:
 
-  - Loi n°2015-992 du 17 août 2015 - art. 30 (M)
+  - Loi n°2017-1839 du 30 décembre 2017 - art. 28 (V)
 
 
 ###### Article L221-1-1
@@ -46972,6 +46968,10 @@ n° 715/2007 du Parlement européen et du Conseil du 20 juin 2007 ;
 b) Soit à la catégorie des véhicules à moteur à deux ou trois roues et quadricycles à moteur au sens de l'article R. 311-1 du
 code de la route ;
 
+c) Soit aux catégories M2 ou N2 au sens de l'article R. 311-1 du code de la route bénéficiant de la dérogation de poids
+prévue au IV de l'article R. 312-4 du code de la route et d'un poids total autorisé en charge inférieur ou égal à 3,5
+tonnes ;
+
 2° N'a pas fait l'objet précédemment d'une première immatriculation en France ou à l'étranger ;
 
 3° Est immatriculé en France dans une série définitive ;
@@ -46987,14 +46987,10 @@ véhicule mentionné au b du 1° ;
 5° S'il s'agit d'un véhicule mentionné au a du 1°, émet une quantité de dioxyde de carbone inférieure ou égale à 20 grammes
 par kilomètre ;
 
-6° S'il s'agit d'un véhicule mentionné au b du 1°, utilise l'électricité (EL) comme source d'énergie.
+6° S'il s'agit d'un véhicule mentionné au b du 1°, utilise l'électricité (EL) comme source d'énergie ;
 
-**Nota:**
-
-Conformément à l'article 2 du décret n° 2017-1851 du 29 décembre 2017 : Lorsqu'elles sont plus avantageuses, les dispositions
-des articles D. 251-1 , D. 251-3 , D. 251-7  et D. 251-8  du code de l'énergie dans leur rédaction antérieure à l'entrée en
-vigueur du présent décret restent applicables aux véhicules commandés ou dont le contrat de location a été signé avant cette
-date, à condition que leur facturation ou le versement du premier loyer intervienne au plus tard le 31 mars 2018.
+7° S'il s'agit d'un véhicule mentionné au c du 1°, émet une quantité de dioxyde de carbone inférieure ou égale à 20 grammes
+par kilomètre.
 
 **Liens relatifs à cet article**
 
@@ -47016,28 +47012,29 @@ _Cité par_:
   - Code de l'énergie - art. D251-2 (Ab)
   - Code de l'énergie - art. D251-3 (M)
   - Code de l'énergie - art. D251-5 (V)
-  - Code de l'énergie - art. D251-6 (V)
+  - Code de l'énergie - art. D251-6 (M)
   - Code de l'énergie - art. D251-7 (M)
   - Code de l'énergie - art. D251-8 (V)
   - Code de l'énergie - art. D251-9 (V)
 
 _Modifié par_:
 
-  - Décret n°2017-1851 du 29 décembre 2017 - art. 1
+  - Décret n°2018-1318 du 28 décembre 2018 - art. 1
 
 _Cite_:
 
   - Code de la route. - art. R311-1
+  - Code de la route. - art. R312-4
 
 
 ###### Article D251-2
 
 Une aide, dite bonus vélo à assistance électrique, est attribuée à toute personne physique majeure justifiant d'un domicile
-en France, dont la cotisation d'impôt sur le revenu de l'année précédant l'acquisition du cycle est nulle, qui acquiert un
-cycle à pédalage assisté, au sens de l'article R. 311-1 du code de la route, neuf, qui n'utilise pas de batterie au plomb et
-n'est pas cédé par l'acquéreur dans l'année suivant son acquisition.
+en France, dont la      cotisation d'impôt sur le revenu du foyer fiscal de l'année précédant l'acquisition du cycle est
+nulle, qui acquiert un cycle à pédalage assisté, au sens de l'article R. 311-1 du code de la route, neuf, qui n'utilise pas
+de batterie au plomb et n'est pas cédé par l'acquéreur dans l'année suivant son acquisition. 
 
-Cette aide ne peut être attribuée que si une aide ayant le même objet a été attribuée par une collectivité locale.
+Cette aide ne peut être attribuée que si une aide ayant le même objet a été attribuée par une collectivité locale. 
 
 Une personne physique ne peut en bénéficier qu'une fois.
 
@@ -47057,7 +47054,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2017-1851 du 29 décembre 2017 - art. 1
+  - Décret n°2018-1318 du 28 décembre 2018 - art. 1
 
 _Cite_:
 
@@ -47066,65 +47063,70 @@ _Cite_:
 
 ###### Article D251-3
 
-I.-Une aide dite prime à la conversion est attribuée à toute personne physique majeure justifiant d'un domicile en France ou
-à toute personne morale justifiant d'un établissement en France et à toute administration de l'Etat qui acquiert ou prend en
-location, dans le cadre d'un contrat d'une durée supérieure ou égale à deux ans, un véhicule automobile terrestre à moteur
-qui : 
+I.-Une aide dite prime à la conversion est attribuée, dans la limite d'une par personne jusqu'au 1er janvier 2023, à toute
+personne physique majeure justifiant d'un domicile en France ou à toute personne morale justifiant d'un établissement en
+France et à toute administration de l'Etat qui acquiert ou prend en location, dans le cadre d'un contrat d'une durée
+supérieure ou égale à deux ans, un véhicule automobile terrestre à moteur qui :
 
-1° Est mentionné au 1° de l'article D. 251-1 ; 
+1° Est mentionné au 1° de l'article D. 251-1 ;
 
-2° Est immatriculé en France avec un numéro définitif ; 
+2° Est immatriculé en France avec un numéro définitif ;
 
-3° N'est pas cédé par l'acquéreur ou le titulaire d'un contrat de location : 
+3° N'est pas cédé par l'acquéreur ou le titulaire d'un contrat de location :
 
 a) Dans les six mois suivant son acquisition ni avant d'avoir parcouru au moins 6 000 kilomètres, dans le cas d'un véhicule
-mentionné au a du 1° de l'article D. 251-1 ; 
+mentionné au a du 1° de l'article D. 251-1 ;
 
 b) Dans l'année suivant sa première immatriculation ni avant d'avoir parcouru au moins 2 000 kilomètres dans le cas d'un
-véhicule mentionné au b du 1° de l'article D. 251-1 ; 
+véhicule mentionné au b du 1° de l'article D. 251-1 ;
+
+4° N'est pas considéré comme un véhicule endommagé au sens des dispositions des articles L. 327-1 à L. 327-6 du code de la
+route ;
 
 II.-Cette aide est attribuée lorsque cette acquisition ou cette location s'accompagne du retrait de la circulation, à des
-fins de destruction, d'un véhicule qui, à la date de facturation du véhicule acquis ou de versement du premier loyer : 
+fins de destruction, d'un véhicule qui, à la date de facturation du véhicule acquis ou de versement du premier loyer :
 
 1° Appartient à la catégorie des voitures particulières ou des camionnettes au sens de l'article R. 311-1 du code de la
-route ; 
+route ;
 
-2° A fait l'objet d'une première immatriculation : 
+2° A fait l'objet d'une première immatriculation :
 
 a) Pour un véhicule utilisant le gazole comme carburant principal :
 
 - avant le 1er janvier 2006 si le bénéficiaire de la prime à la conversion définie par le présent article a une cotisation
-d'impôt sur le revenu de l'année précédant l'acquisition ou la location du véhicule nulle ;
+d'impôt sur le revenu de son foyer fiscal de l'année précédant l'acquisition ou la location du véhicule nulle ;
 
-- avant le 1er janvier 2001 dans les autres cas ; 
+- avant le 1er janvier 2001 dans les autres cas ;
 
-b) Pour un véhicule n'utilisant pas le gazole comme carburant principal, avant le 1er janvier 1997 ; ; 
+b) Pour un véhicule n'utilisant pas le gazole comme carburant principal, avant le 1er janvier 1997 ; ;
 
-3° Appartient au bénéficiaire de la prime à la conversion définie par le présent article ; 
+3° Appartient au bénéficiaire de la prime à la conversion définie par le présent article ;
 
-4° A été acquis depuis au moins un an par ce même bénéficiaire ; 
+4° A été acquis depuis au moins un an par ce même bénéficiaire ;
 
-5° Est immatriculé en France dans une série normale ou avec un numéro d'immatriculation définitif ; 
+5° Est immatriculé en France dans une série normale ou avec un numéro d'immatriculation définitif ;
 
-6° N'est pas gagé ; 
+6° N'est pas gagé ;
 
 7° N'est pas considéré comme un véhicule endommagé au sens des dispositions des articles L. 327-1 à L. 327-6 du code de la
-route ; 
+route ;
 
-8° Est remis pour destruction, dans les six mois suivant la date de facturation du véhicule acquis ou loué, à un centre de
-traitement des véhicules hors d'usage agréé mentionné au 3° de l'article R. 543-155 du code de l'environnement ou par des
-installations autorisées conformément aux dispositions de l'article R. 543-161 du même code, qui délivre à son propriétaire
-un certificat de destruction du véhicule conformément aux dispositions de l'article R. 322-9 du code de la route ; 
+8° Est remis pour destruction, dans les trois mois précédant ou les six mois suivant la date de facturation du véhicule
+acquis ou loué, à un centre de traitement des véhicules hors d'usage agréé mentionné au 3° de l'article R. 543-155 du code de
+l'environnement ou par des installations autorisées conformément aux dispositions de l'article R. 543-161 du même code, qui
+délivre à son propriétaire un certificat de destruction du véhicule conformément aux dispositions de l'article R. 322-9 du
+code de la route ;
 
 9° Fait l'objet d'un contrat d'assurance en cours de validité à la date de sa remise pour destruction ou à la date de
 facturation du véhicule acquis ou loué.
 
 **Nota:**
 
-Conformément à l'article 2 du décret n° 2017-1851 du 29 décembre 2017 : Lorsqu'elles sont plus avantageuses, les dispositions
-des articles D. 251-1, D. 251-3, D. 251-7 et D. 251-8 du code de l'énergie dans leur rédaction antérieure à l'entrée en
-vigueur du présent décret restent applicables aux véhicules commandés ou dont le contrat de location a été signé avant cette
-date, à condition que leur facturation ou le versement du premier loyer intervienne au plus tard le 31 mars 2018.
+Conformément à l'article 2 du décret n° 2018-1318 du 28 décembre 2018, lorsqu'elles sont plus avantageuses, les dispositions
+des articles D. 251-3 et D. 251-8 du code de l'énergie dans leur rédaction antérieure à l'entrée en vigueur du présent décret
+restent applicables aux véhicules, qui n'ont pas fait l'objet précédemment d'une première immatriculation en France et à
+l'étranger, commandés ou dont le contrat de location a été signé avant cette date, à condition que leur facturation ou le
+versement du premier loyer intervienne au plus tard trois mois après la publication du présent décret.
 
 **Liens relatifs à cet article**
 
@@ -47153,16 +47155,16 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2017-1851 du 29 décembre 2017 - art. 1
+  - Décret n°2018-1318 du 28 décembre 2018 - art. 1
 
 _Cite_:
 
-  - Code de l'environnement - art. R543-155 (M)
-  - Code de l'environnement - art. R543-161 (V)
-  - Code de la route. - art. L327-1 (V)
-  - Code de la route. - art. R311-1 (M)
-  - Code de la route. - art. R322-9 (M)
-  - Code de l'énergie - art. D251-1 (V)
+  - Code de l'environnement - art. R543-155
+  - Code de l'environnement - art. R543-161
+  - Code de la route. - art. L327-1
+  - Code de la route. - art. R311-1
+  - Code de la route. - art. R322-9
+  - Code de l'énergie - art. D251-1
 
 
 ###### Article D251-4
@@ -47250,8 +47252,10 @@ toutes taxes comprises, augmenté le cas échéant du coût de la batterie si ce
 000 euros ;
 
 2° Pour les véhicules mentionnés au 6° du même article, qui n'utilisent pas de batterie au plomb et dont la puissance
-maximale nette du moteur est supérieure ou égale à 3 kilowatts, le montant de l'aide est fixé à 250 euros par kilowattheures
-d'énergie de la batterie, sans être supérieur au plus faible des deux montants suivants :
+maximale nette du moteur est supérieure ou égale à 2 kilowatts en application du règlement (UE) 168/2013 du Parlement
+européen et du Conseil du 15 janvier 2013 ou à 3 kilowatts en application de la directive 2002/24/CE du Parlement européen et
+du Conseil du 18 mars 2002, le montant de l'aide est fixé à 250 euros par kilowattheures d'énergie de la batterie, sans être
+supérieur au plus faible des deux montants suivants :
 
 a) 27 % du coût d'acquisition toutes taxes comprises, augmenté le cas échéant du coût de la batterie si celle-ci est prise en
 location ;
@@ -47259,15 +47263,13 @@ location ;
 b) 900 euros.
 
 3° Pour les véhicules mentionnés au 6° du même article qui n'utilisent pas de batterie au plomb et dont la puissance maximale
-nette du moteur est inférieure à 3 kilowatts, le montant de l'aide est fixé à 20 % du coût d'acquisition toutes taxes
-comprises, sans être supérieur à 100 euros.
+nette du moteur est inférieure à 2 kilowatts en application du règlement (UE) 168/2013 du Parlement européen et du Conseil du
+15 janvier 2013 ou à 3 kilowatts en application de la directive 2002/24/CE du Parlement européen et du Conseil du 18 mars
+2002, le montant de l'aide est fixé à 20 % du coût d'acquisition toutes taxes comprises, sans être supérieur à 100 euros ;
 
-**Nota:**
-
-Conformément à l'article 2 du décret n° 2017-1851 du 29 décembre 2017 : Lorsqu'elles sont plus avantageuses, les dispositions
-des articles D. 251-1 , D. 251-3 , D. 251-7  et D. 251-8  du code de l'énergie dans leur rédaction antérieure à l'entrée en
-vigueur du présent décret restent applicables aux véhicules commandés ou dont le contrat de location a été signé avant cette
-date, à condition que leur facturation ou le versement du premier loyer intervienne au plus tard le 31 mars 2018.
+4° Pour les véhicules mentionnés au 7° de l'article D. 251-1, le montant de l'aide est fixé à 27 % du coût d'acquisition
+toutes taxes comprises, augmenté le cas échéant du coût de la batterie si celle-ci est prise en location, dans la limite de 4
+000 euros.
 
 **Liens relatifs à cet article**
 
@@ -47285,7 +47287,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2017-1851 du 29 décembre 2017 - art. 1
+  - Décret n°2018-1318 du 28 décembre 2018 - art. 1
 
 _Cite_:
 
@@ -47320,39 +47322,80 @@ _Cite_:
 
 ###### Article D251-8
 
-Le montant de l'aide prévue à l'article D. 251-3 est déterminé par l'un ou l'autre des cas suivants :
+Le montant de l'aide prévue à l'article D. 251-3 est déterminé par l'un ou l'autre des cas suivants : 
 
-1° Pour les véhicules mentionnés au premier alinéa de l'article D. 251-3 et correspondant au 5° du D. 251-1, qui n'ont pas
-fait l'objet précédemment d'une première immatriculation en France ou à l'étranger, le montant de l'aide est fixé à 2 500
-euros ;
+1° Pour les véhicules mentionnés au premier alinéa de l'article D. 251-3 et correspondant au 5° du D. 251-1 : 
+
+a) Le montant de l'aide est fixé à 2 500 euros si le véhicule n'a pas fait l'objet précédemment d'une première
+immatriculation en France et à l'étranger ou s'il est acquis ou loué par une personne physique dont la cotisation d'impôt sur
+le revenu de son foyer fiscal de l'année précédant l'acquisition ou la location du véhicule est nulle ; 
+
+b) Le montant de l'aide est fixé à 80 % du prix d'acquisition, dans la limite de 5 000 euros, si le véhicule est acquis ou
+loué soit par une personne physique dont la cotisation d'impôt sur le revenu du foyer fiscal de l'année précédant
+l'acquisition ou la location du véhicule est nulle et dont la distance entre son domicile et son lieu de travail est
+supérieure à 30 kilomètres ou effectuant plus de 12 000 kilomètres par an dans le cadre de son activité professionnelle avec
+son véhicule personnel, soit par une personne physique dont le revenu fiscal de référence par part est inférieur ou égal à 6
+300 euros ; 
+
+c) Le montant de l'aide est fixé à 1 000 euros, dans les autres cas ; 
 
 2° Pour les véhicules mentionnés au premier alinéa de l'article D. 251-3 et correspondant au 6° du D. 251-1, qui n'ont pas
 fait l'objet précédemment d'une première immatriculation en France ou à l'étranger, qui n'utilisent pas de batterie au plomb
-et dont la puissance maximale nette du moteur est supérieure ou égale à 3 kilowatts :
+et dont la puissance maximale nette du moteur est supérieure ou égale à 2 kilowatts en application du règlement (UE) 168/2013
+du Parlement européen et du Conseil du 15 janvier 2013 ou à 3 kilowatts en application de la directive 2002/24/ CE du
+Parlement européen et du Conseil du 18 mars 2002 : 
 
 a) Le montant de l'aide est fixé à 1 100 euros, dans la limite du coût d'acquisition du véhicule toutes taxes comprises et
 bonus écologique déduit, si le véhicule est acquis ou loué par une personne physique dont la cotisation d'impôt sur le revenu
-de l'année précédant l'acquisition ou la location du véhicule est nulle ;
+de son foyer fiscal de l'année précédant l'acquisition ou la location du véhicule est nulle ; 
 
-b) Le montant de l'aide est fixé à 100 euros, dans les autres cas ;
+b) Le montant de l'aide est fixé à 100 euros, dans les autres cas ; 
 
 3° Pour les véhicules mentionnés au premier alinéa de l'article D. 251-3 et correspondant au a du 1° du D. 251-1, dont le
-taux d'émission de dioxyde de carbone est inférieur ou égal à 130 grammes par kilomètre et classés “ électrique ”, “ 1 ” ou “
-2 ” en application de l'arrêté mentionné à l'article R. 318-2 du code de la route :
+taux d'émission de dioxyde de carbone est inférieur ou égal à 122 grammes par kilomètre et classés “ électrique ”, “ 1 ” ou “
+2 ” en application de l'arrêté mentionné à l' article R. 318-2 du code de la route  : 
 
 a) Le montant de l'aide est fixé à 2 000 euros dans la limite du coût d'acquisition du véhicule toutes taxes comprises, si le
-véhicule est acquis ou loué par une personne physique dont la cotisation d'impôt sur le revenu de l'année précédant
-l'acquisition ou la location du véhicule est nulle ;
+véhicule est acquis ou loué par une personne physique dont la cotisation d'impôt sur le revenu de son foyer fiscal de l'année
+précédant l'acquisition ou la location du véhicule est nulle ; 
 
-b) Le montant de l'aide est fixé à 1 000 euros dans la limite du coût d'acquisition du véhicule toutes taxes comprises, dans
-les autres cas.
+b) Le montant de l'aide est fixé à 80 % du prix d'acquisition, dans la limite de 4 000 euros, si le véhicule est acquis ou
+loué soit par une personne physique dont la cotisation d'impôt sur le revenu du foyer fiscal de l'année précédant
+l'acquisition ou la location du véhicule est nulle et dont la distance entre son domicile et son lieu de travail est
+supérieure à 30 kilomètres ou effectuant plus de 12 000 kilomètres par an dans le cadre de son activité professionnelle avec
+son véhicule personnel, soit par une personne physique dont le revenu fiscal de référence par part est inférieur ou égal à 6
+300 euros ; 
+
+4° Pour les véhicules mentionnés au premier alinéa de l'article D. 251-3 et correspondant au a du 1° du D. 251-1, dont le
+taux d'émission de dioxyde de carbone est inférieur ou égal à 122 grammes par kilomètre et classés électrique ou 1 en
+application de l'arrêté mentionné à l'article R. 318-2 du code de la route, le montant de l'aide est fixé à 1 000 euros ; 
+
+5° Pour les véhicules mentionnés au premier alinéa de l'article D. 251-3 et correspondant au a du 1° du D. 251-1, dont le
+taux d'émission de dioxyde de carbone est compris entre 21 et 50 grammes par kilomètre, classés 1 en application de l'arrêté
+mentionné à l'article R. 318-2 du code de la route, dont l'autonomie équivalente en mode tout électrique en ville déterminée
+en application du règlement (UE) 2017/1151 de la Commission du 1er juin 2017 est supérieure à 40 kilomètres ou l'autonomie
+déterminée en application du règlement (CE) n° 692/2008 de la Commission du 18 juillet 2008 est supérieure à 50 kilomètres : 
+
+a) Le montant de l'aide est fixé à 2 500 euros, si le véhicule acquis ou loué n'a pas fait l'objet précédemment d'une
+première immatriculation en France et à l'étranger ou s'il est acquis ou loué par une personne physique dont la cotisation
+d'impôt sur le revenu du foyer fiscal de l'année précédant l'acquisition ou la location du véhicule est nulle ; 
+
+b) Le montant de l'aide est fixé à 80 % du prix d'acquisition, dans la limite de 5 000 euros, si le véhicule est acquis ou
+loué soit par une personne physique dont la cotisation d'impôt sur le revenu de son foyer fiscal de l'année précédant
+l'acquisition ou la location du véhicule est nulle et dont la distance entre son domicile et son lieu de travail est
+supérieure à 30 kilomètres ou effectuant plus de 12 000 kilomètres par an dans le cadre de son activité professionnelle avec
+son véhicule personnel, soit par une personne physique dont le revenu fiscal de référence par part est inférieur ou égal à 6
+300 euros ; 
+
+c) Le montant de l'aide est fixé à 1 000 euros dans les autres cas ;
 
 **Nota:**
 
-Conformément à l'article 2 du décret n° 2017-1851 du 29 décembre 2017 : Lorsqu'elles sont plus avantageuses, les dispositions
-des articles D. 251-1, D. 251-3 , D. 251-7  et D. 251-8  du code de l'énergie dans leur rédaction antérieure à l'entrée en
-vigueur du présent décret restent applicables aux véhicules commandés ou dont le contrat de location a été signé avant cette
-date, à condition que leur facturation ou le versement du premier loyer intervienne au plus tard le 31 mars 2018.
+Conformément à l'article 2 du décret n° 2018-1318 du 28 décembre 2018, lorsqu'elles sont plus avantageuses, les dispositions
+des articles D. 251-3 et D. 251-8 du code de l'énergie dans leur rédaction antérieure à l'entrée en vigueur du présent décret
+restent applicables aux véhicules, qui n'ont pas fait l'objet précédemment d'une première immatriculation en France et à
+l'étranger, commandés ou dont le contrat de location a été signé avant cette date, à condition que leur facturation ou le
+versement du premier loyer intervienne au plus tard trois mois après la publication du présent décret.
 
 **Liens relatifs à cet article**
 
@@ -47372,11 +47415,13 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2017-1851 du 29 décembre 2017 - art. 1
+  - Décret n°2018-1318 du 28 décembre 2018 - art. 1
 
 _Cite_:
 
-  - Code de l'énergie - art. D251-3 (M)
+  - Code de la route. - art. R318-2
+  - Code de l'énergie - art. D251-1
+  - Code de l'énergie - art. D251-3 (V)
 
 
 ###### Article D251-9
@@ -47484,6 +47529,21 @@ _Cite_:
 
   - Code de l'énergie - art. D251-1
   - Code de l'énergie - art. D251-3
+
+
+###### Article D251-11-1
+
+En dehors de la procédure de paiement de droit commun consistant à verser les aides directement à leur bénéficiaire, les
+collectivités locales et les établissements publics de coopération intercommunale franciliens peuvent conclure avec l'Agence
+de services et de paiement une convention concernant les modalités d'instruction et de versement des aides allouées par la
+collectivité ou l'intercommunalité. Cette convention est signée entre le président-directeur général de l'Agence de services
+et de paiement et la collectivité locale ou l'établissement public de coopération intercommunale.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2018-1318 du 28 décembre 2018 - art. 1
 
 
 ###### Article D251-12
