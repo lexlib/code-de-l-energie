@@ -1,5 +1,5 @@
 # Code de l'énergie  
-Version Consolidée au 2018-02-01
+Version Consolidée au 2019-01-01
 ## Contenu: 
   - [Partie législative (art. L100-1 à L731-1)](#1)
     - [LIVRE IER : L'ORGANISATION GENERALE  DU SECTEUR DE L'ENERGIE (art. L100-1 à L161-6)](#2)
@@ -12689,17 +12689,13 @@ _Cité par_:
 
 ###### Article L221-1
 
-Sont soumises à des obligations d'économies d'énergie : 
+Sont soumises à des obligations d'économies d'énergie :
 
-1° Les personnes morales qui mettent à la consommation des carburants automobiles et dont les ventes annuelles sont
-supérieures à un seuil défini par décret en Conseil d'Etat. 
+1° Les personnes morales qui mettent à la consommation des carburants automobiles ou du fioul domestique et dont les ventes
+annuelles sont supérieures à un seuil défini par décret en Conseil d'Etat.
 
-2° Les personnes qui vendent de l'électricité, du gaz, du fioul domestique, de la chaleur ou du froid aux consommateurs
-finals et dont les ventes annuelles sont supérieures à un seuil défini par décret en Conseil d'Etat. 
-
-Les ventes annuelles de fioul domestique des personnes morales exclues par le seuil fixé en application du 2° doivent
-représenter moins de 5 % du marché. Les obligations des personnes morales dont les ventes annuelles de fioul domestique
-dépassent le seuil fixé en application du 2° ne portent que sur les ventes supérieures à ce seuil. 
+2° Les personnes qui vendent de l'électricité, du gaz, de la chaleur ou du froid aux consommateurs finals et dont les ventes
+annuelles sont supérieures à un seuil défini par décret en Conseil d'Etat.
 
 Les personnes mentionnées aux 1° et 2° peuvent se libérer de ces obligations soit en réalisant, directement ou indirectement,
 des économies d'énergie, soit en acquérant des certificats d'économies d'énergie.
@@ -12722,14 +12718,14 @@ _Cité par_:
   - Code de l'énergie - art. L221-6 (Ab)
   - Code de l'énergie - art. L221-7 (V)
   - Code de l'énergie - art. L221-8 (M)
-  - Code de l'énergie - art. L222-1 (V)
+  - Code de l'énergie - art. L222-1 (M)
   - Code de l'énergie - art. R142-21 (V)
   - Code de l'énergie - art. R221-1 (VD)
   - Code de la construction et de l'habitation. - art. R*312-7-10 (V)
 
 _Modifié par_:
 
-  - Loi n°2015-992 du 17 août 2015 - art. 30 (V)
+  - Loi n°2017-1839 du 30 décembre 2017 - art. 28 (V)
 
 
 ###### Article L221-1-1
