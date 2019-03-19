@@ -1,5 +1,5 @@
 # Code de l'énergie  
-Version Consolidée au 2019-03-06
+Version Consolidée au 2019-03-20
 ## Contenu: 
   - [Partie législative (art. L100-1 à L731-1)](#1)
     - [LIVRE IER : L'ORGANISATION GENERALE  DU SECTEUR DE L'ENERGIE (art. L100-1 à L161-6)](#2)
@@ -379,7 +379,7 @@ relatives à la vente de biogaz (art. L446-1 à L446-5)](#246)
           - [Section 1 : Le chèque énergie (art. D124-5-1 à R124-16)](#370)
           - [Section 2 : L'offre de transmission des données de consommation au moyen d'un dispositif déporté (art. D124-18 à D124-23)](#371)
       - [TITRE III : LA COMMISSION DE RÉGULATION DE L'ÉNERGIE (art. R132-1 à R135-5)](#372)
-        - [Chapitre II : Organisation (art. R132-1)](#373)
+        - [Chapitre II : Organisation (art. R132-1 à R132-2)](#373)
         - [Chapitre III : Fonctionnement (art. D133-11 à R133-12)](#374)
         - [Chapitre IV : Attributions (art. R134-1 à R134-37)](#375)
           - [Section 1 : Consultations obligatoires sur les projets de décisions (art. R134-1 à R134-2)](#376)
@@ -39052,6 +39052,24 @@ _Codifié par_:
 _Créé par_:
 
   - Décret n°2015-1823 du 30 décembre 2015 - art.
+
+
+###### Article R132-2
+
+Pour chaque renouvellement par moitié des membres de la commission, le mandat des membres appartenant à la moitié concernée
+prend fin six ans après la date à laquelle le mandat de leurs prédécesseurs a pris fin.
+
+**Nota:**
+
+Conformément au II de l’article 2 du décret n° 2019-202 du 18 mars 2019, les dispositions du présent article s'appliquent
+sous réserve des dates d'échéance des mandats fixées conformément à l'article 1er du décret pour organiser le premier
+renouvellement par moitié du collège de la Commission de régulation de l'énergie.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2019-202 du 18 mars 2019 - art. 2 (V)
 
 
 #### Chapitre III : Fonctionnement<a id=374></a>
