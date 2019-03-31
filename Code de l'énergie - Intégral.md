@@ -1,5 +1,5 @@
 # Code de l'énergie  
-Version Consolidée au 2019-03-20
+Version Consolidée au 2019-04-01
 ## Contenu: 
   - [Partie législative (art. L100-1 à L731-1)](#1)
     - [LIVRE IER : L'ORGANISATION GENERALE  DU SECTEUR DE L'ENERGIE (art. L100-1 à L161-6)](#2)
@@ -19400,10 +19400,10 @@ _Cite_:
 
 ###### Article L331-4
 
-Les dispositions du code des marchés publics n'imposent pas à l'Etat, à ses établissements publics, aux collectivités
+Les dispositions du code de la commande publique n'imposent pas à l'Etat, à ses établissements publics, aux collectivités
 territoriales et à leurs établissements publics d'exercer le droit prévu à l'article L. 331-1. Lorsqu'elles l'exercent pour
-l'un des sites de consommation, ces personnes publiques appliquent les procédures du code des marchés publics déterminées en
-fonction de la consommation de ce site et peuvent conserver le ou les contrats de fourniture de leurs autres sites de
+l'un des sites de consommation, ces personnes publiques appliquent les procédures du code de la commande publique déterminées
+en fonction de la consommation de ce site et peuvent conserver le ou les contrats de fourniture de leurs autres sites de
 consommation. Les contrats d'achat d'électricité passés en application de ces procédures peuvent être conclus à prix fermes
 ou à prix révisables pour la partie relative à la fourniture.
 
@@ -19419,7 +19419,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2015-992 du 17 août 2015 - art. 170
+  - Ordonnance n°2018-1074 du 26 novembre 2018 - art. 5
 
 _Cite_:
 
@@ -25803,8 +25803,8 @@ _Cite_:
 
 ###### Article L441-5
 
-Les dispositions du code des marchés publics n'imposent pas à l'Etat, à ses établissement publics, aux collectivités
-territoriales et à leurs établissements publics d'exercer le droit prévu à l'article L. 441-1. 
+Les dispositions du code de la commande publique n'imposent pas à l'Etat, à ses établissement publics, aux collectivités
+territoriales et à leurs établissements publics d'exercer le droit prévu à l'article L. 441-1.
 
 Lorsqu'elles l'exercent pour l'un des sites de consommation, ces personnes appliquent les procédures de ce code déterminées
 en fonction de la consommation de ce site et peuvent conserver le ou les contrats de fourniture de leurs autres sites de
@@ -25823,7 +25823,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2015-992 du 17 août 2015 - art. 170
+  - Ordonnance n°2018-1074 du 26 novembre 2018 - art. 5
 
 _Cite_:
 
@@ -27710,11 +27710,11 @@ _Cite_:
 
 ###### Article L511-6
 
-Les installations hydrauliques autorisées peuvent, à toute époque, dans les conditions fixées par l'ordonnance n° 2016-65 du
-29 janvier 2016 relative aux contrats de concession, être placées par l'Etat  sous le régime de la concession. 
+Les installations hydrauliques autorisées peuvent, à toute époque, dans les conditions fixées par la troisième partie du code
+de la commande publique, être placées par l'Etat sous le régime de la concession.
 
 Elles le sont obligatoirement lorsque, à raison d'une augmentation de puissance, elles viennent à entrer dans la catégorie de
-celles relevant du régime de la concession par l'article L. 511-5. 
+celles relevant du régime de la concession par l'article L. 511-5.
 
 La puissance d'une installation autorisée peut être augmentée selon les dispositions applicables aux modifications
 d'installations existantes soumises aux articles L. 214-1 à L. 214-11 du code de l'environnement. Cette augmentation ne
@@ -27739,7 +27739,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2016-65 du 29 janvier 2016 - art. 70
+  - Ordonnance n°2018-1074 du 26 novembre 2018 - art. 5
 
 _Cite_:
 
@@ -28166,13 +28166,13 @@ _Cite_:
 
 Les installations placées sous le régime de la concession en application de l'article L. 511-5, les autorisations de travaux
 et les règlements d'eau pris pour son application sont instruits en application du présent titre selon des modalités définies
-par décret en Conseil d'Etat. 
+par décret en Conseil d'Etat.
 
 Ces actes doivent respecter les règles de fond prévues au titre Ier du livre II du code de l'environnement et valent
-autorisation au titre de l'article L. 214-1 du même code. 
+autorisation au titre de l'article L. 214-1 du même code.
 
-La passation et l'exécution des contrats de concession d'énergie hydraulique sont soumises aux dispositions prévues par
-l'ordonnance n° 2016-65 du 29 janvier 2016 relative aux contrats de concession et par le présent titre.
+La passation et l'exécution des contrats de concession d'énergie hydraulique sont soumises aux dispositions prévues par la
+troisième partie du code de la commande publique et par le présent titre.
 
 **Nota:**
 
@@ -28189,15 +28189,14 @@ _Codifié par_:
 
   - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
 
-_Cite_:
-
-  - Ordonnance n°2016-65 du 29 janvier 2016
-  - Code de l'environnement - art. L214-1 (V)
-  - Code de l'énergie - art. L511-5
-
 _Modifié par_:
 
-  - Ordonnance n°2017-80 du 26 janvier 2017 - art. 8
+  - Ordonnance n°2018-1074 du 26 novembre 2018 - art. 5
+
+_Cite_:
+
+  - Code de l'environnement - art. L214-1
+  - Code de l'énergie - art. L511-5
 
 
 ###### Article L521-2
@@ -28851,10 +28850,9 @@ _Cité par_:
 ###### Article L521-16-3
 
 Lorsque la réalisation de travaux nécessaires à l'atteinte des objectifs mentionnés aux articles L. 100-1, L. 100-2 et L.
-100-4 et non prévus au contrat initial l'exige, la concession peut être prorogée, dans les limites énoncées à l'article 55 de
-l'ordonnance n° 2016-65 du 29 janvier 2016 relative aux contrats de concession, au besoin en dérogeant au 2° de l'article L.
-521-4 du présent code et à l'article 2 de la loi du 27 mai 1921 précitée. A la demande de l'Etat, le concessionnaire transmet
-un programme de travaux. 
+100-4 et non prévus au contrat initial l'exige, la concession peut être prorogée, dans les limites énoncées aux articles L.
+3135-1 et L. 3136-6 du code de la commande publique, au besoin en dérogeant au 2° de l'article L. 521-4 du présent code et à
+l'article 2 de la loi du 27 mai 1921 précitée. A la demande de l'Etat, le concessionnaire transmet un programme de travaux.
 
 Lorsque les travaux mentionnés au premier alinéa du présent article sont prévus sur une concession comprise dans une chaîne
 d'aménagements hydrauliquement liés concernée par l'application des articles L. 521-16-1 ou L. 521-16-2, le montant de ces
@@ -28866,7 +28864,6 @@ travaux peut être pris en compte pour la fixation de la nouvelle date d'échéa
 _Cite_:
 
   - Loi du 27 mai 1921 - art. 2
-  - Ordonnance n°2016-65 du 29 janvier 2016 - art. 55
   - Code de l'énergie - art. L100-1
   - Code de l'énergie - art. L100-2
   - Code de l'énergie - art. L100-4
@@ -28876,7 +28873,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Ordonnance n°2016-65 du 29 janvier 2016 - art. 70
+  - Ordonnance n°2018-1074 du 26 novembre 2018 - art. 5
 
 _Cité par_:
 
@@ -43879,8 +43876,7 @@ _Cite_:
 
 I. - Un délégataire justifie :
 
-1° Ne pas faire partie des personnes mentionnées au 2° de l'article 45 de l'ordonnance n° 2015-899 du 23 juillet 2015
-relative aux marchés publics ;
+1° Ne pas faire partie des personnes mentionnées à l'article L. 2141-2 du code de la commande publique ;
 
 2° Pour la période d'obligation concernée, d'un volume d'au moins 150 millions de kWh cumac d'obligations reçues de personnes
 soumises à une obligation d'économies d'énergie. A défaut, le délégataire justifie d'au moins une délégation reçue d'une
@@ -43916,8 +43912,8 @@ d'une délégation partielle, que l'obligation du délégant est supérieure à 
 4° Les éléments justifiant que le délégataire ne se trouve pas en état de redressement ou liquidation judiciaire, ou de
 faillite personnelle ;
 
-5° Pour le délégataire, les certificats datant de moins de trois mois mentionnés au II de l'article 51 du décret n° 2016-360
-du 25 mars 2016 relatif aux marchés publics ;
+5° Pour le délégataire, les certificats datant de moins de trois mois mentionnés à l'article R. 2143-7 du code de la commande
+publique ;
 
 6° Les éléments permettant d'apprécier la capacité technique et financière du délégataire de mener à bien sa délégation et
 d'assumer l'ensemble des exigences susceptibles de découler de son fonctionnement. Le délégataire joint à sa demande les
@@ -43976,7 +43972,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2018-401 du 29 mai 2018 - art. 5
+  - Décret n°2018-1075 du 3 décembre 2018 - art. 5
 
 _Cite_:
 
@@ -45513,42 +45509,42 @@ _Cite_:
 ###### Article R234-3
 
 Les obligations prévues aux 1° et 2° de l'article R. 234-1 s'appliquent aux marchés publics et contrats dont le montant
-estimé est égal ou supérieur aux seuils européens publiés au Journal officiel de la République française. Les dispositions du
-3° du même article s'appliquent aux achats de bâtiments et aux prises à bail quel qu'en soit le montant. 
+estimé est égal ou supérieur aux seuils européens qui figurent en annexe au code de la commande publique. Les dispositions du
+3° du même article s'appliquent aux achats de bâtiments et aux prises à bail quel qu'en soit le montant.
 
 L'obligation d'achat de produits et de recours à des services à haute performance énergétique s'applique aux marchés publics
-de défense ou de sécurité définis à l'article 6 de l'ordonnance n° 2015-899 du 23 juillet 2015 relative aux marchés publics,
-dans la mesure où cette obligation n'est pas incompatible avec la nature et l'objectif premier des activités des forces
-armées. Elle ne s'applique pas aux marchés publics ayant pour objet la fourniture d'équipements, y compris leurs pièces
-détachées, composants ou sous-assemblages, destinés à être utilisés comme armes, munitions ou matériels de guerre. 
+de défense ou de sécurité définis à l'article L. 1113-1 du code de la commande publique, dans la mesure où cette obligation
+n'est pas incompatible avec la nature et l'objectif premier des activités des forces armées. Elle ne s'applique pas aux
+marchés publics ayant pour objet la fourniture d'équipements, y compris leurs pièces détachées, composants ou sous-
+assemblages, destinés à être utilisés comme armes, munitions ou matériels de guerre.
 
 L'exigence d'achat ou de prise à bail de bâtiments répondant à la définition donnée à l'article R. 234-5 ne s'applique pas
-aux : 
+aux :
 
 1° Bâtiments et parties de bâtiments ayant fait l'objet d'une demande de permis de construire déposée à compter du 1er
-janvier 2013 ; 
+janvier 2013 ;
 
 2° Bâtiments et parties de bâtiments destinés à être revendus, sans qu'ils soient utilisés, dans l'intervalle, aux propres
-fins de leurs propriétaires ; 
+fins de leurs propriétaires ;
 
 3° Bâtiments et parties de bâtiments destinés à être démolis, sans qu'ils soient utilisés, dans l'intervalle, aux propres
-fins de leurs propriétaires ; 
+fins de leurs propriétaires ;
 
 4° Bâtiments et parties de bâtiments destinés à être rénovés pour répondre aux exigences de l'article R. 234-5, sans qu'ils
-soient utilisés, avant l'achèvement de la rénovation, aux propres fins de leurs propriétaires ; 
+soient utilisés, avant l'achèvement de la rénovation, aux propres fins de leurs propriétaires ;
 
-5° Bâtiments et parties de bâtiments dans lesquels il n'est pas utilisé d'énergie pour réguler la température intérieure ; 
+5° Bâtiments et parties de bâtiments dans lesquels il n'est pas utilisé d'énergie pour réguler la température intérieure ;
 
-6° Constructions provisoires prévues pour une durée d'utilisation égale ou inférieure à deux ans ; 
+6° Constructions provisoires prévues pour une durée d'utilisation égale ou inférieure à deux ans ;
 
 7° Bâtiments et parties de bâtiments à usage agricole, artisanal ou industriel, autres que les locaux servant à l'habitation,
 dans lesquels le système de chauffage, de refroidissement ou de production d'eau chaude pour l'occupation humaine produit une
-faible quantité d'énergie au regard de celle nécessaire aux activités économiques ; 
+faible quantité d'énergie au regard de celle nécessaire aux activités économiques ;
 
-8° Bâtiments servant de lieux de culte et utilisés pour des activités religieuses ; 
+8° Bâtiments servant de lieux de culte et utilisés pour des activités religieuses ;
 
 9° Immeubles classés ou inscrits au titre des monuments historiques définis par les articles L. 621-1, L. 621-3, L. 621-5 et
-L. 621-6 du code du patrimoine ; 
+L. 621-6 du code du patrimoine ;
 
 10° Bâtiments et parties de bâtiments qui, pour des raisons de protection du secret de la défense nationale, ne peuvent
 respecter les exigences de performance énergétique mentionnées à l'article R. 234-5.
@@ -45563,11 +45559,11 @@ _Cite_:
   - Code du patrimoine - art. L621-5
   - Code du patrimoine - art. L621-6
   - Code de l'énergie - art. R234-1
-  - Code de l'énergie - art. R234-5 (V)
+  - Code de l'énergie - art. R234-5
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2016-412 du 7 avril 2016 - art. 1
+  - Décret n°2018-1075 du 3 décembre 2018 - art. 5
 
 
 ###### Article R234-4
@@ -56650,58 +56646,59 @@ _Cite_:
 La demande de délivrance de l'autorisation d'exercer l'activité d'achat d'électricité pour revente aux clients finals ou aux
 gestionnaires de réseaux pour leurs pertes prévue à l'article L. 333-1 est adressée, datée et signée, par lettre recommandée
 avec avis de réception, au ministre chargé de l'énergie, accompagnée d'un dossier comportant, dans des conditions de
-confidentialité permettant la protection du secret des affaires : 
+confidentialité permettant la protection du secret des affaires :
 
-1° Les informations relatives au demandeur et relatives à ses capacités financières : 
+1° Les informations relatives au demandeur et relatives à ses capacités financières :
 
 a) Sa dénomination, son immatriculation au registre du commerce et des sociétés, ses statuts, le cas échéant la composition
 de son actionnariat, l'extrait du registre K bis le concernant ou les documents équivalents pour les opérateurs situés hors
 de France ; le cas échéant, son numéro de TVA intracommunautaire, ainsi que la qualité du signataire de la demande et
 l'extrait du bulletin n° 3 du casier judiciaire de son dirigeant ou, pour cette dernière pièce, un document équivalent si
-l'opérateur est situé hors de France ; 
+l'opérateur est situé hors de France ;
 
 b) Les comptes de résultat et bilans annuels des trois derniers exercices, ou tout document comptable équivalent pour les
 entreprises situées sur le territoire d'un Etat membre de l'Union européenne ou d'un autre Etat partie à l'accord sur
 l'Espace économique européen ; les entreprises créées depuis moins de trois ans fournissent l'ensemble des comptes de
 résultat et bilans annuels ou document comptable équivalent dont elles disposent, ainsi que tout document justifiant de leurs
-capacités ou garanties financières complémentaires ; 
+capacités ou garanties financières complémentaires ;
 
 c) La description de ses activités industrielles et commerciales dans le domaine de l'énergie, et, le cas échéant, dans
-d'autres domaines ; 
+d'autres domaines ;
 
 d) Les certificats attestant que le demandeur satisfait aux obligations fiscales et sociales, délivrés dans les conditions
-prévues à l'article 46 du code des marchés publics, ou tout document équivalent pour les opérateurs situés hors de France ; 
+prévues à l'article R. 2143-7 du code de la commande publique, ou tout document équivalent pour les opérateurs situés hors de
+France ;
 
 e) Le contrat mentionné à l'article L. 321-15, établi avec le gestionnaire du réseau public de transport conformément à
 l'article R. 333-4, ou le contrat établi avec un responsable d'équilibre prenant en charge les écarts générés par les
 activités du demandeur et par les sites de consommation ayant conclu un contrat de fourniture avec lui, ou une copie ou un
-extrait des contrats d'approvisionnement mentionnés au f du 2° comportant le rattachement à un responsable d'équilibre. 
+extrait des contrats d'approvisionnement mentionnés au f du 2° comportant le rattachement à un responsable d'équilibre.
 
 2° Les informations relatives à l'activité de fourniture envisagée par le demandeur et justifiant de ses capacités techniques
-et économiques : 
+et économiques :
 
-a) Les caractéristiques commerciales de son projet et sa place sur le marché français et européen à échéance de cinq ans ; 
+a) Les caractéristiques commerciales de son projet et sa place sur le marché français et européen à échéance de cinq ans ;
 
 b) Les catégories de clients auxquelles il souhaite s'adresser, en distinguant entre les consommateurs finals et les
 gestionnaires de réseaux pour leurs pertes et, pour les premiers, entre les clients domestiques et les clients non
-domestiques ; 
+domestiques ;
 
-c) La taille du marché visé selon les catégories de clients et la répartition géographique de ces clients ; 
+c) La taille du marché visé selon les catégories de clients et la répartition géographique de ces clients ;
 
 d) Les moyens humains et matériels dont dispose le demandeur ou qu'il prévoit de mettre en œuvre pour assurer son activité
-d'achat d'électricité pour revente sur le marché français, ainsi que l'organisation de ces moyens ; 
+d'achat d'électricité pour revente sur le marché français, ainsi que l'organisation de ces moyens ;
 
 e) Le cas échéant, la liste des conventions passées avec les conseils départementaux de résidence de leurs clients en
 application du deuxième alinéa de l'article 6-3 de la loi n° 90-449 du 31 mai 1990 visant à la mise en œuvre du droit au
-logement ; 
+logement ;
 
 f) Le plan prévisionnel d'approvisionnement en électricité à cinq ans, précisant les sources d'approvisionnement en
 électricité du demandeur, existantes ou envisagées, telles que la conclusion de contrats à long terme, la détention ou la
 réservation de capacités de production, l'approvisionnement sur les marchés à terme et au comptant ainsi que la demande
-d'accès régulé à l'électricité nucléaire historique mentionnée à l'article L. 336-1 ; 
+d'accès régulé à l'électricité nucléaire historique mentionnée à l'article L. 336-1 ;
 
 g) La description de la manière dont le demandeur entend satisfaire à l'obligation de capacité prévue par l'article L. 335-2,
-lorsqu'elle aura été mise en application ; 
+lorsqu'elle aura été mise en application ;
 
 h) Les clauses générales des contrats de vente établis par le demandeur selon les catégories de clients qu'il souhaite
 approvisionner.
@@ -56712,11 +56709,11 @@ _Cite_:
 
   - Loi n°90-449 du 31 mai 1990 - art. 6-3
   - Code des marchés publics - art. 46
-  - Code de l'énergie - art. L321-15 (V)
+  - Code de l'énergie - art. L321-15
   - Code de l'énergie - art. L333-1
   - Code de l'énergie - art. L335-2
   - Code de l'énergie - art. L336-1
-  - Code de l'énergie - art. R333-4 (V)
+  - Code de l'énergie - art. R333-4
 
 _Codifié par_:
 
@@ -56724,7 +56721,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2016-1570 du 22 novembre 2016 - art. 2
+  - Décret n°2018-1075 du 3 décembre 2018 - art. 5
 
 _Cité par_:
 
@@ -70822,8 +70819,8 @@ _Cite_:
 ###### Article R521-6
 
 L'octroi d'une concession d'énergie hydraulique est précédé d'une publicité et d'une mise en concurrence selon les modalités
-prévues par l'ordonnance n° 2016-65 du 29 janvier 2016 relative aux contrats de concession et le décret n° 2016-86 du 1er
-février 2016 relatif aux contrats de concession, sous réserve des dispositions prévues par la présente sous-section.
+prévues par  la troisième partie du code de la commande publique, sous réserve des dispositions prévues par la présente sous-
+section.
 
 **Liens relatifs à cet article**
 
@@ -70838,15 +70835,15 @@ _Cite_:
 
 _Modifié par_:
 
-  - Décret n°2016-530 du 27 avril 2016 - art. 1
+  - Décret n°2018-1075 du 3 décembre 2018 - art. 5
 
 
 ###### Article R521-7
 
-Les documents de la consultation mentionnés au I de l'article 4 du décret n° 2016-86 du 1er février 2016 relatif aux contrats
-de concession comportent notamment : 
+Les documents de la consultation mentionnés aux articles R. 3122-7 et R. 3122-8 du code de la commande publique comportent
+notamment :
 
-1° Le règlement de la consultation, dont le contenu est précisé à l'article R. 521-8 ; 
+1° Le règlement de la consultation, dont le contenu est précisé à l'article R. 521-8  du présent code ;
 
 2° Un programme fonctionnel définissant les spécifications techniques et fonctionnelles de la concession, et comportant
 notamment :
@@ -70862,18 +70859,18 @@ s'agit d'un renouvellement, les conditions dans lesquelles les équipements exis
 déconstruction, la modification, la reconstruction des ouvrages existants ;
 
 - le cas échéant en complément du dossier de fin de concession mentionné au 6°, et sous réserve d'information légalement
-protégée, les caractéristiques de la concession venant à expiration, comprenant la description des équipements existants ; 
+protégée, les caractéristiques de la concession venant à expiration, comprenant la description des équipements existants ;
 
 3° Un projet de cahier des charges, établi sur la base du modèle de cahier des charges des entreprises hydrauliques
-concédées, complété et adapté à la concession envisagée en fonction de ses caractéristiques ; 
+concédées, complété et adapté à la concession envisagée en fonction de ses caractéristiques ;
 
-4° Un projet de règlement d'eau adapté aux caractéristiques de la concession envisagée ; 
+4° Un projet de règlement d'eau adapté aux caractéristiques de la concession envisagée ;
 
 5° Le document de synthèse relatif à la gestion équilibrée et durable de la ressource en eau, lorsque l'autorité
-administrative en a demandé l'élaboration en application de l'article R. 521-4 ; 
+administrative en a demandé l'élaboration en application de l'article R. 521-4 ;
 
 6° En cas de renouvellement, sous réserve de l'occultation des informations légalement protégées, le dossier de fin de
-concession, prévu à l'article R. 521-52, de la concession venant à expiration ; 
+concession, prévu à l'article R. 521-52, de la concession venant à expiration ;
 
 7° Tout autre document que l'autorité administrative estime utile au soutien de leur offre par les candidats.
 
@@ -70885,14 +70882,14 @@ _Codifié par_:
 
 _Cite_:
 
-  - Décret n°2016-86 du 1er février 2016 - art. 4
-  - Code de l'énergie - art. R521-4 (V)
-  - Code de l'énergie - art. R521-52 (V)
+  - Décret n°2016-86 du 1er février 2016 - art. 4 (VT)
+  - Code de l'énergie - art. R521-4
+  - Code de l'énergie - art. R521-52
   - Code de l'énergie - art. R521-8
 
 _Modifié par_:
 
-  - Décret n°2016-530 du 27 avril 2016 - art. 1
+  - Décret n°2018-1075 du 3 décembre 2018 - art. 5
 
 _Cité par_:
 
@@ -70902,45 +70899,44 @@ _Cité par_:
 ###### Article R521-8
 
 I. - Le règlement de la consultation prévoit que la langue de la procédure d'octroi de la concession est la langue française
-et que tous les projets de contrat préparés par les candidats sont rédigés dans cette langue et soumis au droit français. 
+et que tous les projets de contrat préparés par les candidats sont rédigés dans cette langue et soumis au droit français.
 
 II. - Le règlement de la consultation mentionne les conditions dans lesquelles l'autorité administrative fixe la durée de la
 concession avant la remise des offres ou apprécie les offres au regard de la durée de contrat qu'elles proposent. Dans tous
-les cas, la durée fixée ou proposée l'est conformément aux dispositions de l'article 6 du décret n° 2016-86 du 1er février
-2016 relatif aux contrats de concession. 
+les cas, la durée fixée ou proposée l'est conformément aux    articles R. 3114-1 à R. 3114-2 du code de la commande publique.
 
 III. - Le règlement de la consultation renseigne sur les paramètres financiers de la concession, comporte une estimation du
 montant du droit d'entrée et précise ses modalités de versement par le nouveau concessionnaire. Il mentionne, s'il y a lieu,
-les principales clauses envisagées pour le contrat conclu en application de l'article L. 311-12. 
+les principales clauses envisagées pour le contrat conclu en application de l'article L. 311-12.
 
 IV. - Le règlement de la consultation précise les modalités selon lesquelles les candidats peuvent accéder aux installations
-existantes, conformément aux dispositions de l'article R. 521-59. 
+existantes, conformément aux dispositions de l'article R. 521-59.
 
 V. - Le règlement de la consultation précise les modalités selon lesquelles l'autorité administrative peut, si elle l'estime
 nécessaire, inviter les candidats admis à présenter une offre à participer à une phase d'échanges préliminaires. Au cours de
 cette phase, les candidats sont entendus dans des conditions garantissant le respect d'une stricte égalité entre eux. Sans
 préjudice des dispositions des articles L. 124-1 et suivants du code de l'environnement, l'autorité administrative ne peut
 révéler des informations confidentielles communiquées par un candidat dans le cadre de ces échanges sans l'accord de celui-
-ci. 
+ci.
 
-Il prévoit que l'autorité administrative informe les candidats de la clôture de la phase d'échanges préliminaires. 
+Il prévoit que l'autorité administrative informe les candidats de la clôture de la phase d'échanges préliminaires.
 
 VI. - Le règlement de la consultation peut prévoir la possibilité pour les candidats de proposer des variantes. Il précise,
 le cas échéant dans sa version relative à chaque phase de la procédure, si ces variantes peuvent porter, pour la phase ou le
 tour d'offres concerné, indifféremment sur tout aspect du projet ou de l'offre ou exclusivement sur certains aspects,
-notamment techniques ou financiers. 
+notamment techniques ou financiers.
 
-VII. - Le règlement de la consultation, conformément à l'article 27 du décret n° 2016-86 du 1er février 2016 relatif aux
-contrats de concession, indique par ordre décroissant d'importance les critères de sélection des offres. Parmi ces critères
-figurent au minimum l'optimisation énergétique de l'exploitation de la chute au regard des objectifs fixés par l'article L.
-100-1, le respect d'une gestion équilibrée et durable de la ressource en eau permettant la conciliation de ses différents
-usages tels qu'ils résultent des dispositions de l'article L. 211-1 du code de l'environnement ainsi que les conditions
-économiques et financières pour l'Etat et les collectivités territoriales conformément aux articles R. 523-1 à R. 523-4. Ce
-règlement précise les éléments d'appréciation essentiels qui sont pris en compte pour l'application des critères de sélection
-des offres. 
+VII. - Le règlement de la consultation, conformément aux articles R. 3124-4 et R. 3124-5 du code de la commande publique,
+indique par ordre décroissant d'importance les critères de sélection des offres. Parmi ces critères figurent au minimum
+l'optimisation énergétique de l'exploitation de la chute au regard des objectifs fixés par l'article L. 100-1, le respect
+d'une gestion équilibrée et durable de la ressource en eau permettant la conciliation de ses différents usages tels qu'ils
+résultent des dispositions de l'article L. 211-1 du code de l'environnement ainsi que les conditions économiques et
+financières pour l'Etat et les collectivités territoriales conformément aux articles R. 523-1 à R. 523-4. Ce règlement
+précise les éléments d'appréciation essentiels qui sont pris en compte pour l'application des critères de sélection des
+offres.
 
 Lorsque la procédure d'octroi de la concession d'énergie hydraulique prévue à la présente section tient lieu de procédure
-prévue à l'article L. 311-10, les critères de sélection des offres en tiennent compte. 
+prévue à l'article L. 311-10, les critères de sélection des offres en tiennent compte.
 
 VIII. - Le règlement de la consultation prévoit les conditions dans lesquelles le concessionnaire pressenti peut confirmer ou
 actualiser ses engagements, en particulier ceux relatifs à la redevance et à la protection des principes énoncés à l'article
@@ -70956,24 +70952,24 @@ _Codifié par_:
 
 _Cite_:
 
-  - Décret n°2016-86 du 1er février 2016 - art. 27
-  - Décret n°2016-86 du 1er février 2016 - art. 6
+  - Décret n°2016-86 du 1er février 2016 - art. 27 (VT)
+  - Décret n°2016-86 du 1er février 2016 - art. 6 (VT)
   - Code de l'environnement - art. L124-1
   - Code de l'environnement - art. L211-1
   - Code de l'énergie - art. L100-1
-  - Code de l'énergie - art. L311-10 (V)
+  - Code de l'énergie - art. L311-10
   - Code de l'énergie - art. L311-12
-  - Code de l'énergie - art. R521-59 (V)
-  - Code de l'énergie - art. R523-1 (V)
+  - Code de l'énergie - art. R521-59
+  - Code de l'énergie - art. R523-1
 
 _Modifié par_:
 
-  - Décret n°2016-530 du 27 avril 2016 - art. 1
+  - Décret n°2018-1075 du 3 décembre 2018 - art. 5
 
 _Cité par_:
 
   - Code de l'énergie - art. R521-10 (M)
-  - Code de l'énergie - art. R521-11 (V)
+  - Code de l'énergie - art. R521-11 (VD)
   - Code de l'énergie - art. R521-65 (M)
   - Code de l'énergie - art. R521-7 (VD)
 
@@ -71041,7 +71037,7 @@ _Cité par_:
 
 ###### Article R521-11
 
-Par dérogation aux articles 29 et 31 du décret n° 2016-86 du 1er février 2016 relatif aux contrats de concession, l'autorité
+Par dérogation aux  articles R. 3125-1 à R. 3125-3, R. 3126-12 et R. 3126-13 du code de la commande publique, l'autorité
 administrative peut décider que l'offre classée deuxième en application des critères mentionnés au VII de l'article R. 521-8
 n'est pas définitivement rejetée et que son auteur pourra être substitué au concessionnaire pressenti si une décision de
 rejet était notifiée à ce dernier ou si ce dernier ne donnait pas suite à sa demande de concession. Elle notifie cette
@@ -71055,17 +71051,13 @@ _Codifié par_:
 
 _Cite_:
 
-  - Décret n°2016-86 du 1er février 2016 - art. 29
-  - Décret n°2016-86 du 1er février 2016 - art. 31
-  - Code de l'énergie - art. R521-8 (V)
+  - Décret n°2016-86 du 1er février 2016 - art. 29 (VT)
+  - Décret n°2016-86 du 1er février 2016 - art. 31 (VT)
+  - Code de l'énergie - art. R521-8 (VD)
 
 _Modifié par_:
 
-  - Décret n°2016-530 du 27 avril 2016 - art. 1
-
-_Cité par_:
-
-  - Code de l'énergie - art. R521-24 (V)
+  - Décret n°2018-1075 du 3 décembre 2018 - art. 5
 
 
 ##### Sous-section 3 : Instruction de la demande du concessionnaire pressenti<a id=667></a>
@@ -72879,9 +72871,9 @@ _Cité par_:
 ###### Article R521-66
 
 Lorsque l'Etat lui fait part de son intention de proroger la concession en application de l'article L. 521-16-3 et des
-articles 36 et 37 du décret n° 2016-86 du 1er février 2016 relatif aux contrats de concession, le concessionnaire transmet,
-outre un programme de travaux, une note présentant les conditions économiques et les modifications du cahier des charges
-qu'il envisage pour donner son accord à cette prorogation. 
+articles R. 3135-1 à R. 3135-10 du code de la commande publique, le concessionnaire transmet, outre un programme de travaux,
+une note présentant les conditions économiques et les modifications du cahier des charges qu'il envisage pour donner son
+accord à cette prorogation.
 
 L'autorité administrative peut demander au concessionnaire des pièces, informations et expertises complémentaires et faire
 procéder par un organisme tiers, aux frais du concessionnaire, à une expertise de tout ou partie des éléments transmis.
@@ -72894,13 +72886,13 @@ _Codifié par_:
 
 _Cite_:
 
-  - Décret n°2016-86 du 1er février 2016 - art. 36
-  - Décret n°2016-86 du 1er février 2016 - art. 37
+  - Décret n°2016-86 du 1er février 2016 - art. 36 (VT)
+  - Décret n°2016-86 du 1er février 2016 - art. 37 (VT)
   - Code de l'énergie - art. L521-16-3
 
 _Modifié par_:
 
-  - Décret n°2016-530 du 27 avril 2016 - art. 1
+  - Décret n°2018-1075 du 3 décembre 2018 - art. 5
 
 
 ##### Section 5 : Les sociétés d'économie mixte hydroélectriques<a id=682></a>
