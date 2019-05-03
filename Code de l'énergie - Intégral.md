@@ -1,5 +1,5 @@
 # Code de l'énergie  
-Version Consolidée au 2019-04-01
+Version Consolidée au 2019-05-04
 ## Contenu: 
   - [Partie législative (art. L100-1 à L731-1)](#1)
     - [LIVRE IER : L'ORGANISATION GENERALE  DU SECTEUR DE L'ENERGIE (art. L100-1 à L161-6)](#2)
@@ -68984,48 +68984,63 @@ _Cite_:
 
 Toute personne demandant à bénéficier des conditions d'achat du biométhane prévues à l'article R. 446-2 doit adresser par
 lettre recommandée, avec accusé de réception, au préfet du département dans lequel est situé le site de production, une
-demande datée et signée comportant : 
+demande datée et signée comportant :
 
 1° S'il s'agit d'une personne physique, ses nom, prénom et domicile ou, s'il s'agit d'une personne morale, sa dénomination ou
 sa raison sociale, l'adresse de son siège social, son immatriculation au registre du commerce et des sociétés ou équivalent,
-le cas échéant, l'extrait du registre K bis et ses statuts ainsi que la qualité du signataire du dossier ; 
+le cas échéant, l'extrait du registre K bis et ses statuts ainsi que la qualité du signataire du dossier ;
 
-2° L'adresse du site de production de biométhane objet de la demande ; 
+2° L'adresse du site de production de biométhane objet de la demande ;
 
-3° La technique de production, de stockage et d'épuration utilisée ; 
+3° La technique de production, de stockage et d'épuration utilisée ;
 
-4° La nature des intrants utilisés ; 
+4° La nature des intrants utilisés ;
 
 5° La capacité maximale de production de biométhane de l'installation (exprimée en m3 par heure dans les conditions normales
 de température et de pression ou " m ³ (n)/ h) " et la productibilité moyenne annuelle estimée (en kilowattheure exprimé en
-pouvoir calorifique supérieur ou " kWh PCS ") en fonctionnement normal ; 
+pouvoir calorifique supérieur ou " kWh PCS ") en fonctionnement normal ;
 
-6° La dénomination et le siège social de l'acheteur envisagé ; 
+6° La dénomination et le siège social de l'acheteur envisagé ;
 
-7° Un document de l'opérateur de réseau précisant les conditions de faisabilité technique du raccordement et de
-l'injection ; 
+7° Un document de l'opérateur de réseau précisant les conditions de faisabilité technique du raccordement et de l'injection ;
 
 8° Une attestation sur l'honneur que le biométhane produit sera propre à être injecté dans le réseau conformément aux
-prescriptions techniques du gestionnaire de réseau applicables mentionnées à l'article D. 446-13. 
+prescriptions techniques du gestionnaire de réseau applicables mentionnées à l'article D. 446-13.
+
+9° L'adresse du site d'injection si celui-ci est distinct du site de production.
+
+Pour bénéficier des conditions d'achat du biométhane prévues à l'article R. 446-2, un site de production ne peut être associé
+qu'à un seul site d'injection.
+
+Pour bénéficier des conditions d'achat du biométhane prévues à l'article R. 446-2, une installation de production de
+biométhane doit respecter une distance minimale de 500 mètres avec toute autre installation de production mise en service
+dans les deux ans qui précèdent la date de dépôt de la demande complète mentionnée au premier alinéa et avec tout projet
+d'installation de production disposant d'une attestation valable et non encore mis en service. Par dérogation, la règle de
+distance minimale ne s'applique pas lorsque les sociétés qui portent les projets d'installation de production sont totalement
+indépendantes l'une de l'autre. La distance entre deux installations de production est la plus petite distance séparant les
+éléments principaux nécessaires à la production, l'épuration et le stockage du biogaz des deux installations de production.
 
 Le préfet se prononce, dans un délai de deux mois à compter de la réception du dossier complet de la demande, en délivrant au
 demandeur une attestation lui ouvrant droit à l'achat, dans les conditions prévues à l'article R. 446-2, du biométhane
 produit par son installation. Il peut refuser de délivrer cette attestation, notamment s'il estime que le dossier du
-demandeur n'est pas complet ou que la nature des intrants déclarés n'est pas conforme à l'arrêté susvisé. 
+demandeur n'est pas complet ou que la nature des intrants déclarés n'est pas conforme à l'arrêté susvisé.
 
-L'attestation mentionne les éléments énumérés aux 1°, 2°, 3°, 4° et 5° du présent article. L'attestation est notifiée au
-demandeur. Elle est valable jusqu'au terme du document mentionné au 7° du présent article. 
+L'attestation mentionne les éléments énumérés aux 1°, 2°, 3°, 4°, 5° et 9° du présent article. L'attestation est notifiée au
+demandeur. Pour une demande portant sur une installation de production de biométhane raccordée par canalisation à un réseau
+de gaz naturel, l'attestation est valable jusqu'au terme du document mentionné au 7° du présent article. Pour une demande
+portant sur une installation de production de biométhane non raccordée par canalisation à un réseau de gaz naturel,
+l'attestation est valable 3 ans à compter de sa délivrance.
 
-L'attestation est nominative et incessible. 
+L'attestation est nominative et incessible.
 
 Elle peut être transférée par décision préfectorale. Le titulaire de l'attestation et le nouveau pétitionnaire adressent au
 préfet une demande de transfert de l'attestation. Cette demande comporte, s'agissant du nouveau pétitionnaire, une mise à
 jour des éléments mentionnés aux 1° et 8° du présent article. Après avoir obtenu le transfert d'une attestation, s'il en fait
 la demande auprès de l'acheteur, le nouveau producteur bénéficie des clauses et conditions du contrat existant pour la durée
-restant à courir ; un avenant au contrat est établi. 
+restant à courir ; un avenant au contrat est établi.
 
-Toute modification portant sur les éléments mentionnés aux 3°, 4°, 5° ou 7° du présent article doit faire l'objet, avant sa
-réalisation, d'une demande de modification d'attestation. 
+Toute modification portant sur les éléments mentionnés aux 3°, 4°, 5°, 7° ou 9° du présent article doit faire l'objet, avant
+sa réalisation, d'une demande de modification d'attestation.
 
 Le préfet statue sur ces dernières demandes dans les conditions prévues pour l'instruction de la demande initiale.
 
@@ -69035,31 +69050,32 @@ _Codifié par_:
 
   - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2015-1823 du 30 décembre 2015 - art.
+  - Décret n°2019-398 du 30 avril 2019 - art. 1
 
 _Cité par_:
 
   - Code de l'énergie - art. D446-10 (V)
   - Code de l'énergie - art. D446-16 (V)
-  - Code de l'énergie - art. D446-19 (M)
+  - Code de l'énergie - art. D446-19 (V)
   - Code de l'énergie - art. D446-7 (V)
   - Code de l'énergie - art. D446-8 (V)
 
 _Cite_:
 
-  - Code de l'énergie - art. D446-13 (V)
-  - Code de l'énergie - art. R446-2 (V)
+  - Code de l'énergie - art. D446-13
+  - Code de l'énergie - art. R446-2
 
 
 ###### Article D446-4
 
-Peut bénéficier du contrat d'achat mentionné à l'article D. 446-8 une installation mise en service, au sens de l'article D.
-446-10, pour la première fois après le 22 novembre 2011 et dont les éléments principaux (chaudière, moteurs, turbines,
-alternateur, éléments nécessaires à la production, l'épuration et le stockage du biogaz) n'ont jamais servi à une production
-volontaire de biogaz ou permis la valorisation énergétique d'une production de biogaz, exception faite des éléments de
-récupération du biogaz dans le cadre d'une production fatale issue d'une installation de stockage de déchets non dangereux.
+Peut bénéficier du contrat d'achat mentionné à l'article D. 446-8 une installation de production mise en service, au sens de
+l'article D. 446-10, pour la première fois après le 22 novembre 2011 et dont les éléments principaux (chaudière, moteurs,
+turbines, alternateur, éléments nécessaires à la production, l'épuration et le stockage du biogaz) n'ont jamais servi à une
+production volontaire de biogaz ou permis la valorisation énergétique d'une production de biogaz, exception faite des
+éléments de récupération du biogaz dans le cadre d'une production fatale issue d'une installation de stockage de déchets non
+dangereux.
 
 **Liens relatifs à cet article**
 
@@ -69067,29 +69083,29 @@ _Codifié par_:
 
   - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2015-1823 du 30 décembre 2015 - art.
+  - Décret n°2019-398 du 30 avril 2019 - art. 1
 
 _Cite_:
 
-  - Code de l'énergie - art. D446-10 (V)
-  - Code de l'énergie - art. D446-8 (V)
+  - Code de l'énergie - art. D446-10
+  - Code de l'énergie - art. D446-8
 
 _Cité par_:
 
-  - Code de l'énergie - art. D446-6 (M)
+  - Code de l'énergie - art. D446-6 (V)
 
 
 ###### Article D446-5
 
-Peut aussi bénéficier du contrat d'achat mentionné à l'article D. 446-8 une installation mise en service, au sens de
-l'article D. 446-10, avant le 22 novembre 2011 et dont tout ou partie des éléments principaux nécessaires à la production,
-l'épuration et le stockage de biogaz ou de biométhane n'ont jamais servi à produire du biogaz à des fins d'auto-consommation
-ou dans le cadre d'un contrat d'obligation d'achat en application de l'article L. 314-1. 
+Peut aussi bénéficier du contrat d'achat mentionné à l'article D. 446-8 une installation de production mise en service, au
+sens de l'article D. 446-10, avant le 22 novembre 2011 et dont tout ou partie des éléments principaux nécessaires à la
+production, l'épuration et le stockage de biogaz ou de biométhane n'ont jamais servi à produire du biogaz à des fins d'auto-
+consommation ou dans le cadre d'un contrat d'obligation d'achat en application de l'article L. 314-1.
 
 Dans ce cas, la durée du contrat mentionné à l'alinéa précédent est réduite du nombre d'années, entières ou partielles,
-comprises entre la date de mise en service de l'installation et la date de signature du contrat d'achat.
+comprises entre la date de mise en service de l'installation de production et la date de signature du contrat d'achat.
 
 **Liens relatifs à cet article**
 
@@ -69097,51 +69113,51 @@ _Codifié par_:
 
   - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2015-1823 du 30 décembre 2015 - art.
+  - Décret n°2019-398 du 30 avril 2019 - art. 1
 
 _Cite_:
 
-  - Code de l'énergie - art. D446-10 (V)
-  - Code de l'énergie - art. D446-8 (V)
-  - Code de l'énergie - art. L314-1 (V)
+  - Code de l'énergie - art. D446-10
+  - Code de l'énergie - art. D446-8
+  - Code de l'énergie - art. L314-1
 
 
 ###### Article D446-6
 
-Une installation mise en service, au sens de l'article D. 446-10, pour la première fois après le 22 novembre 2011, dont un
-des éléments principaux, tels que définis à l'article D. 446-4, a déjà servi à une production de biogaz ou permis une
-valorisation de biogaz, et qui n'a jamais bénéficié d'un contrat d'achat mentionné à l'article D. 446-8, peut bénéficier d'un
-tel contrat aux tarifs définis à l'article D. 446-12.
+Une installation de production mise en service, au sens de l'article D. 446-10, pour la première fois après le 22 novembre
+2011, dont un des éléments principaux, tels que définis à l'article D. 446-4, a déjà servi à une production de biogaz ou
+permis une valorisation de biogaz, et qui n'a jamais bénéficié d'un contrat d'achat mentionné à l'article D. 446-8, peut
+bénéficier d'un tel contrat aux tarifs définis à l'article D. 446-12.
 
 **Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2015-1823 du 30 décembre 2015 - art.
 
 _Cité par_:
 
   - Arrêté du 23 novembre 2011 - art. (V)
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-_Créé par_:
-
-  - Décret n°2015-1823 du 30 décembre 2015 - art.
+  - Décret n°2019-398 du 30 avril 2019 - art. 1
 
 _Cite_:
 
-  - Code de l'énergie - art. D446-10 (V)
-  - Code de l'énergie - art. D446-12 (V)
+  - Code de l'énergie - art. D446-10
+  - Code de l'énergie - art. D446-12
   - Code de l'énergie - art. D446-4 (V)
-  - Code de l'énergie - art. D446-8 (V)
+  - Code de l'énergie - art. D446-8
 
 
 ###### Article D446-7
 
 Préalablement à la signature du contrat d'achat mentionné à l'article D. 446-8, le producteur identifie son installation
 auprès de l'Agence de l'environnement et de la maîtrise de l'énergie (l'ADEME) par la production d'un dossier
-d'identification comportant les éléments mentionnés aux 1°, 2°, 3°, 4° et 5° de l'article D. 446-3. 
+d'identification comportant les éléments mentionnés aux 1°, 2°, 3°, 4°, 5° et 9° de l'article D. 446-3.
 
 L'agence délivre un récépissé attestant de la réception du dossier complet d'identification dans un délai de trois mois à
 compter de sa réception. Le contrat d'achat est signé dans un délai de trois mois à compter de la délivrance du récépissé. Si
@@ -69153,32 +69169,35 @@ _Codifié par_:
 
   - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2015-1823 du 30 décembre 2015 - art.
+  - Décret n°2019-398 du 30 avril 2019 - art. 1
 
 _Cité par_:
 
-  - Code de l'énergie - art. D446-10 (M)
+  - Code de l'énergie - art. D446-10 (V)
   - Code de l'énergie - art. D446-8 (V)
 
 _Cite_:
 
-  - Code de l'énergie - art. D446-3 (V)
+  - Code de l'énergie - art. D446-3
 
 
 ###### Article D446-8
 
 Les relations entre le producteur et l'acheteur de biométhane font l'objet d'un contrat d'achat reprenant les conditions
-définies par l'arrêté mentionné à l'article D. 446-12 en vigueur à la date de signature du contrat. 
+définies par l'arrêté mentionné à l'article D. 446-12 en vigueur à la date de signature du contrat.
 
-L'attestation mentionnée à l'article D. 446-3 et le récépissé mentionné à l'article D. 446-7 sont annexés au contrat
-d'achat. 
+L'attestation mentionnée à l'article D. 446-3 et le récépissé mentionné à l'article D. 446-7 sont annexés au contrat d'achat.
 
-Le contrat d'achat précise les caractéristiques principales du site, notamment celles mentionnés aux 2°, 3°, 4° et 5° de
-l'article D. 446-3.
+Le contrat d'achat précise les caractéristiques principales du site de production, notamment celles mentionnés aux 2°, 3°,
+4°, 5° et 9° de l'article D. 446-3.
 
 **Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2015-1823 du 30 décembre 2015 - art.
 
 _Cité par_:
 
@@ -69196,27 +69215,24 @@ _Cité par_:
   - Code de l'énergie - art. D446-6 (V)
   - Code de l'énergie - art. D446-7 (V)
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-_Créé par_:
-
-  - Décret n°2015-1823 du 30 décembre 2015 - art.
+  - Décret n°2019-398 du 30 avril 2019 - art. 1
 
 _Cite_:
 
-  - Code de l'énergie - art. D446-12 (V)
-  - Code de l'énergie - art. D446-3 (V)
+  - Code de l'énergie - art. D446-12
+  - Code de l'énergie - art. D446-3
 
 
 ###### Article D446-9
 
-L'entrée en vigueur du contrat d'achat est subordonnée au raccordement de l'installation au réseau de gaz naturel dans les
-conditions définies par le contrat de raccordement et le contrat d'injection mentionnés à l'article D. 446-13. 
+L'entrée en vigueur du contrat d'achat est subordonnée au raccordement du site de production, ou du site d'injection si
+celui-ci est distinct du site de production, au réseau de gaz naturel dans les conditions définies par le contrat de
+raccordement et le contrat d'injection mentionnés à l'article D. 446-13.
 
-Le gestionnaire de réseau délivre au producteur, à sa demande, une attestation précisant la date de mise en service de son
-raccordement au réseau de gaz natureL. A compter de la date de sa réception, le producteur dispose d'un délai de deux mois
+Le gestionnaire de réseau délivre au producteur, à sa demande, une attestation précisant la date de mise en service du
+raccordement mentionné au premier alinéa. A compter de la date de sa réception, le producteur dispose d'un délai de deux mois
 pour transmettre cette attestation à l'acheteur.
 
 **Liens relatifs à cet article**
@@ -69225,26 +69241,27 @@ _Codifié par_:
 
   - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2015-1823 du 30 décembre 2015 - art.
+  - Décret n°2019-398 du 30 avril 2019 - art. 1
 
 _Cite_:
 
-  - Code de l'énergie - art. D446-13 (V)
+  - Code de l'énergie - art. D446-13
 
 
 ###### Article D446-10
 
 Le contrat d'achat est conclu à la demande du producteur, à la suite de l'obtention de l'attestation et du récépissé
 mentionnés, respectivement, aux articles D. 446-3 et D. 446-7, pour une durée de quinze ans à compter de la mise en service
-de l'installation. 
-
-La date de mise en service de l'installation correspond à la date de mise en service de son raccordement au réseau de gaz
-naturel. 
+de l'installation.
 
 Cette mise en service doit avoir lieu dans un délai de trois ans à compter de la date de signature du contrat d'achat. En cas
 de dépassement de ce délai, la durée du contrat d'achat est réduite de la durée de ce dépassement.
+
+L'énergie éventuellement livrée au cocontractant, avant la prise d'effet du contrat d'achat, notamment dans le cadre d'essais
+d'injection préalables à la mise en service, peut être rémunérée sans ouvrir droit ni à la rémunération, ni à la compensation
+propres à ce contrat.
 
 **Liens relatifs à cet article**
 
@@ -69252,13 +69269,13 @@ _Codifié par_:
 
   - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2015-1823 du 30 décembre 2015 - art.
+  - Décret n°2019-398 du 30 avril 2019 - art. 1
 
 _Cite_:
 
-  - Code de l'énergie - art. D446-3 (V)
+  - Code de l'énergie - art. D446-3
   - Code de l'énergie - art. D446-7 (V)
 
 _Cité par_:
@@ -69323,29 +69340,40 @@ _Cité par_:
 
 ###### Article D446-13
 
-Le biométhane est injecté conformément aux conditions fixées aux articles R. 121-50, aux articles R. 433-15 à R. 433-20 et
-aux dispositions du titre V du livre V du code de l'environnement, ainsi qu'aux prescriptions techniques des gestionnaires de
-réseau et des cahiers des charges, pris en application de ces presciptions. 
+Le biométhane est injecté conformément aux conditions fixées aux articles R. 121-7, aux articles R. 433-15 à R. 433-20 et aux
+dispositions du titre V du livre V du code de l'environnement, ainsi qu'aux prescriptions techniques des gestionnaires de
+réseau et des cahiers des charges, pris en application de ces prescriptions.
 
-Toute installation de production de biométhane est équipée d'un dispositif de comptage du biométhane injecté dans le réseau. 
+Toute installation de production de biométhane raccordée par canalisation à un réseau de gaz naturel est équipée d'un
+dispositif de comptage du biométhane injecté dans le réseau.
 
-Sont conclus entre le producteur de biométhane et le gestionnaire du réseau : 
+Toute installation de production de biométhane non raccordée par canalisation à un réseau de gaz naturel est équipée d'un
+dispositif de comptage du biométhane produit. Un arrêté du ministre chargé de l'énergie précise les caractéristiques de ce
+dispositif de comptage. Le site d'injection associé à l'installation de production de biométhane est équipé d'un dispositif
+de comptage du biométhane injecté dans le réseau.
+
+Sont conclus entre le gestionnaire du réseau et le producteur de biométhane, si le site de production est raccordé par
+canalisation à un réseau de gaz naturel, ou le gestionnaire du site d'injection dans le cas contraire :
 
 1° Un contrat de raccordement décrivant les conditions du raccordement, notamment les conditions financières relatives à
-l'investissement nécessaire pour raccorder le producteur au réseau de gaz naturel ; cet investissement est à la seule charge
-du producteur et ne peut faire l'objet d'aucun remboursement ; 
+l'investissement nécessaire pour raccorder le site de production ou le site d'injection au réseau de gaz naturel ; cet
+investissement ne peut faire l'objet d'aucun remboursement ;
 
 2° Un contrat d'injection décrivant les conditions de l'injection notamment en matière de sécurité, de contrôle et de suivi
 de la qualité du biométhane ; il précise, par ailleurs, les conditions financières relatives aux prestations du gestionnaire
 de réseau concernant, d'une part, l'exploitation et la maintenance de l'installation d'injection, incluant le contrôle de la
 qualité du gaz et la détermination des quantités injectées et, d'autre part, l'exploitation du réseau induite par l'injection
-du biométhane. 
+du biométhane.
 
-Le débit injecté doit être en permanence adapté à la capacité d'absorption du réseau. Le producteur prévoit un système de
-délestage en cas d'inadaptation du débit injecté ou de non-conformité de la qualité du gaz. L'émission directe de biométhane
-dans l'atmosphère par ce système de délestage est interdite.
+Le débit injecté doit être en permanence adapté à la capacité d'absorption du réseau. Le producteur ou le gestionnaire du
+site d'injection prévoit un système de délestage en cas d'inadaptation du débit injecté ou de non-conformité de la qualité du
+gaz. L'émission directe de biométhane dans l'atmosphère par ce système de délestage est interdite.
 
 **Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2015-1823 du 30 décembre 2015 - art.
 
 _Cité par_:
 
@@ -69357,17 +69385,13 @@ _Cité par_:
   - Code de l'énergie - art. D446-3 (V)
   - Code de l'énergie - art. D446-9 (V)
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-_Créé par_:
-
-  - Décret n°2015-1823 du 30 décembre 2015 - art.
+  - Décret n°2019-398 du 30 avril 2019 - art. 1
 
 _Cite_:
 
-  - Code de l'énergie - art. R433-15 (V)
+  - Code de l'énergie - art. R433-15
 
 
 ###### Article D446-14
@@ -69517,7 +69541,7 @@ _Cite_:
 
 Les dates de début et de fin de la période d'injection de biométhane pour laquelle une garantie d'origine peut être demandée
 doivent correspondre à des dates de relevés des données de comptage stipulées par le contrat d'injection liant le producteur
-de biométhane au gestionnaire du réseau.
+de biométhane ou le gestionnaire du site d'injection au gestionnaire du réseau.
 
 La date de début de la période d'injection pour laquelle une garantie d'origine est demandée ne peut être antérieure au 1er
 janvier de l'année civile précédant la demande. La demande doit être adressée quatre-vingt-dix jours au plus tard après le
@@ -69529,35 +69553,35 @@ _Codifié par_:
 
   - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2015-1823 du 30 décembre 2015 - art.
+  - Décret n°2019-398 du 30 avril 2019 - art. 1
 
 
 ###### Article D446-19
 
-La demande d'attestation de garantie d'origine comporte : 
+La demande d'attestation de garantie d'origine comporte :
 
-1° La dénomination ou raison sociale et l'adresse du siège social du demandeur ; 
+1° La dénomination ou raison sociale et l'adresse du siège social du demandeur ;
 
-2° L'adresse du site de production de biométhane objet de la demande ; 
+2° L'adresse du site de production de biométhane objet de la demande ;
 
-3° La capacité de production du site ; 
+3° La capacité de production du site ;
 
-4° La date de mise en service du site ; 
+4° La date de mise en service du site de production ;
 
-5° Une copie du récépissé délivré en application de l'article D. 446-3 ; 
+5° Une copie du récépissé délivré en application de l'article D. 446-3 ;
 
-6° Une copie du contrat d'injection ; 
+6° Une copie du contrat d'injection ;
 
-7° Une copie du contrat d'achat prévu à l'article R. 446-2 ; 
+7° Une copie du contrat d'achat prévu à l'article R. 446-2 ;
 
-8° Les dates de début et de fin de la période d'injection de biométhane pour laquelle la garantie d'origine est demandée ; 
+8° Les dates de début et de fin de la période d'injection de biométhane pour laquelle la garantie d'origine est demandée ;
 
 9° La quantité de biométhane injecté, exprimée en MWh, pendant la période pour laquelle la demande d'attestations de garantie
-d'origine est sollicitée ; 
+d'origine est sollicitée ;
 
-10° La technique de production et le type d'intrants utilisés pour la production du biométhane. 
+10° La technique de production et le type d'intrants utilisés pour la production du biométhane.
 
 Le demandeur d'une attestation de garantie d'origine doit conserver toutes informations et documents utiles pendant trois ans
 à compter de la date de sa demande.
@@ -69568,51 +69592,51 @@ _Codifié par_:
 
   - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2015-1823 du 30 décembre 2015 - art.
+  - Décret n°2019-398 du 30 avril 2019 - art. 1
 
 _Cité par_:
 
-  - Code de l'énergie - art. D446-20 (M)
+  - Code de l'énergie - art. D446-20 (V)
 
 _Cite_:
 
   - Code de l'énergie - art. D446-3 (V)
-  - Code de l'énergie - art. R446-2 (V)
+  - Code de l'énergie - art. R446-2
 
 
 ###### Article D446-20
 
 Le délégataire mentionné à l'article D. 446-21 dispose d'un délai de trente jours à compter de la date de réception d'une
 demande complète pour délivrer l'attestation de garantie d'origine, lorsqu'une garantie d'origine a déjà été délivrée pour
-l'installation. Ce délai est porté à soixante jours s'il s'agit d'une première demande. L'attestation comporte les mentions
-ou les références correspondant aux éléments figurant aux 1° à 10° de l'article D. 446-19. 
+l'installation de production. Ce délai est porté à soixante jours s'il s'agit d'une première demande. L'attestation comporte
+les mentions ou les références correspondant aux éléments figurant aux 1° à 10° de l'article D. 446-19.
 
 Le délégataire délivre un nombre d'attestations égal au nombre d'unités d'énergie injectée, mentionné dans la demande
-adressée au délégataire, conformément aux dispositions de l'article D. 446-19. 
+adressée au délégataire, conformément aux dispositions de l'article D. 446-19.
 
 Le délégataire procède, sur le registre national des garanties d'origine décrit à l'article D. 446-21, à l'inscription des
-attestations de garanties d'origine qu'il délivre. 
+attestations de garanties d'origine qu'il délivre.
 
 Le registre est publié sur le site internet du délégataire. Pour chaque garantie d'origine, les éléments du registre
-accessibles au public sont : 
+accessibles au public sont :
 
-1° Le numéro identifiant l'attestation de la garantie d'origine ; 
+1° Le numéro identifiant l'attestation de la garantie d'origine ;
 
-2° La date de sa délivrance ; 
+2° La date de sa délivrance ;
 
-3° Le nom et la qualité du demandeur ; 
+3° Le nom et la qualité du demandeur ;
 
-4° Le lieu de l'installation de production de biométhane ; 
+4° Le lieu de l'installation de production de biométhane ;
 
-5° Les intrants à partir desquels le biométhane a été produit ; 
+5° Les intrants à partir desquels le biométhane a été produit ;
 
-6° Les dates de début et de fin de la période pendant laquelle le biométhane a été produit ; 
+6° Les dates de début et de fin de la période pendant laquelle le biométhane a été produit ;
 
-7° Le cas échéant, la mention des opérations définies au 2° de l'article D. 446-21. 
+7° Le cas échéant, la mention des opérations définies au 2° de l'article D. 446-21.
 
-Le délégataire procède, au moins tous les mois, à la mise à jour du registre. 
+Le délégataire procède, au moins tous les mois, à la mise à jour du registre.
 
 Le délégataire adresse au ministre chargé de l'énergie, avant le 31 mars d'une année donnée, un rapport d'activité de l'année
 civile précédente.
@@ -69623,14 +69647,14 @@ _Codifié par_:
 
   - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2015-1823 du 30 décembre 2015 - art.
+  - Décret n°2019-398 du 30 avril 2019 - art. 1
 
 _Cite_:
 
   - Code de l'énergie - art. D446-19 (V)
-  - Code de l'énergie - art. D446-21 (V)
+  - Code de l'énergie - art. D446-21
 
 
 ###### Article D446-21
