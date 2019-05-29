@@ -1,5 +1,5 @@
 # Code de l'énergie  
-Version Consolidée au 2019-05-25
+Version Consolidée au 2019-05-30
 ## Contenu: 
   - [Partie législative (art. L100-1 à L731-1)](#1)
     - [LIVRE IER : L'ORGANISATION GENERALE  DU SECTEUR DE L'ENERGIE (art. L100-1 à L161-6)](#2)
@@ -487,7 +487,7 @@ relatives à la vente de biogaz (art. L446-1 à L446-5)](#246)
               - [Paragraphe 1 : Catégories d'installations éligibles à l'obligation d'achat (art. D314-15 à D314-16)](#478)
               - [Paragraphe 2 : Conditions de l'obligation d'achat (art. R314-17 à R314-22)](#479)
             - [Sous-section 3 : Dispositions propres au complément de rémunération (art. D314-23 à R314-52)](#480)
-              - [Paragraphe 1 : Catégories d'installations éligibles au complément de rémunération (art. D314-23 à D314-25)](#481)
+              - [Paragraphe 1 : Catégories d'installations éligibles au complément de rémunération (art. D314-23 à D314-24)](#481)
               - [Paragraphe 2 : Conditions propres au complément de rémunération (art. R314-26 à R314-32)](#482)
               - [Paragraphe 3 : Calcul du complément de rémunération (art. R314-33 à R314-42)](#483)
               - [Paragraphe 4 : Modalités de transmission des données (art. R314-43 à R314-46)](#484)
@@ -51126,8 +51126,7 @@ l'environnement réalisées par le titulaire d'une autorisation ou d'une concess
 complément de rémunération indépendamment de l'ouvrage principal à la condition que leur puissance installée respecte les
 limites prévues à l'alinéa précédent ;
 
-2° Les installations utilisant à titre principal l'énergie dégagée par traitement thermique de déchets ménagers ou assimilés
-mentionnés aux articles L. 2224-13 et L. 2224-14 du code général des collectivités territoriales ;
+2° (Supprimé) ;
 
 3° Les installations utilisant à titre principal le biogaz produit par méthanisation de matières résultant du traitement des
 eaux usées urbaines ou industrielles d'une puissance installée comprise entre 500 kilowatts et 12 mégawatts ;
@@ -51162,7 +51161,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2017-676 du 28 avril 2017 - art. 1
+  - Décret n°2019-527 du 27 mai 2019 - art. 1
 
 _Cite_:
 
@@ -51226,29 +51225,6 @@ _Cite_:
 
   - Code de l'énergie - art. L314-19
   - Code de l'énergie - art. R314-28
-
-
-###### Article D314-25
-
-En application du 2° de l'article L. 314-21 du code de l'énergie et dans les conditions prévues à l'article R. 314-31, les
-producteurs qui en font la demande, ayant déjà bénéficié d'un contrat de complément de rémunération, peuvent bénéficier d'un
-nouveau contrat du complément de rémunération pour les installations utilisant à titre principal le biogaz issu
-d'installations de stockage de déchets non dangereux d'une puissance installée supérieure ou égale à 500 kilowatts.
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Décret n°2017-676 du 28 avril 2017 - art. 1
-
-_Abrogé par_:
-
-  - Décret n°2019-527 du 27 mai 2019 - art. 1
-
-_Cite_:
-
-  - Code de l'énergie - art. L314-21
-  - Code de l'énergie - art. R314-31
 
 
 ##### Paragraphe 2 : Conditions propres au complément de rémunération<a id=482></a>
