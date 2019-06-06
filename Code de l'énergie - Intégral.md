@@ -1,5 +1,5 @@
 # Code de l'énergie  
-Version Consolidée au 2019-05-30
+Version Consolidée au 2019-06-07
 ## Contenu: 
   - [Partie législative (art. L100-1 à L731-1)](#1)
     - [LIVRE IER : L'ORGANISATION GENERALE  DU SECTEUR DE L'ENERGIE (art. L100-1 à L161-6)](#2)
@@ -50438,16 +50438,17 @@ Lorsque les arrêtés régissant les filières mentionnés à l'article R. 314-1
 également subordonnée à l'avis favorable du préfet de région portant sur les éléments précisés par ces arrêtés. 
 
 Par dérogation au premier alinéa, les producteurs des installations mentionnées au 3° de l'article D. 314-15, des
-installations mentionnées au 4° de l'article D. 314-15 et d'une puissance inférieure à 100 kilowatts ainsi que des
-installations mentionnées au 9° de l'article D. 314-15 et d'une puissance inférieure à 50 kilowatts ne sont pas soumis à la
-transmission d'une attestation de conformité. Pour ces installations, la prise d'effet du contrat est subordonnée à la
-fourniture par le producteur d'une attestation sur l'honneur par laquelle il déclare avoir fait construire son installation
-par des personnes possédant les qualifications requises, employer des équipements conformes aux normes et réglementations en
-vigueur et respecter les dispositions de sa demande de contrat et de la réglementation applicable à son installation. Avant
-la prise d'effet du contrat, l'énergie éventuellement livrée au cocontractant n'est pas rémunérée. Lorsque les arrêtés
-mentionnés à l'article R. 314-12 régissant les filières des installations le prévoient, certains points de cette attestation
-sur l'honneur peuvent être attestés par l'entreprise ayant réalisé l'installation. Le modèle de cette attestation est défini
-par le modèle de contrat mentionné à l'article R. 314-2 pour la filière concernée. 
+installations d'une puissance inférieure à 100 kilowatts mentionnées aux 1° et 4° de l'article D. 314-15, au 1° de l'article
+D. 314-23 et au 1° de l'article D. 314-23-1 ainsi que des installations mentionnées au 9° de l'article D. 314-15 et d'une
+puissance inférieure à 50 kilowatts ne sont pas soumis à la transmission d'une attestation de conformité. Pour ces
+installations, la prise d'effet du contrat est subordonnée à la fourniture par le producteur d'une attestation sur l'honneur
+par laquelle il déclare avoir fait construire son installation par des personnes possédant les qualifications requises,
+employer des équipements conformes aux normes et réglementations en vigueur et respecter les dispositions de sa demande de
+contrat et de la réglementation applicable à son installation. Avant la prise d'effet du contrat, l'énergie éventuellement
+livrée au cocontractant n'est pas rémunérée. Lorsque les arrêtés mentionnés à l'article R. 314-12 régissant les filières des
+installations le prévoient, certains points de cette attestation sur l'honneur peuvent être attestés par l'entreprise ayant
+réalisé l'installation. Le modèle de cette attestation est défini par le modèle de contrat mentionné à l'article R. 314-2
+pour la filière concernée. 
 
 Ces attestations ne sont délivrées que lorsque l'installation est achevée, soit à la puissance installée figurant dans la
 demande de contrat mentionnée à l'article R. 314-3 soit, si le contrat a déjà été signé, à la puissance installée figurant
@@ -50530,19 +50531,21 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2016-1726 du 14 décembre 2016 - art. 2
+  - Décret n°2019-557 du 4 juin 2019 - art. 1
 
 _Cite_:
 
-  - Code de l'énergie - art. D314-15 (V)
-  - Code de l'énergie - art. L314-1 (V)
-  - Code de l'énergie - art. L314-25 (V)
-  - Code de l'énergie - art. L314-7-1 (V)
-  - Code de l'énergie - art. R311-43 (V)
-  - Code de l'énergie - art. R311-45 (V)
-  - Code de l'énergie - art. R314-12 (V)
-  - Code de l'énergie - art. R314-2 (V)
-  - Code de l'énergie - art. R314-3 (V)
+  - Code de l'énergie - art. D314-15
+  - Code de l'énergie - art. D314-23
+  - Code de l'énergie - art. D314-23-1
+  - Code de l'énergie - art. L314-1
+  - Code de l'énergie - art. L314-25
+  - Code de l'énergie - art. L314-7-1
+  - Code de l'énergie - art. R311-43
+  - Code de l'énergie - art. R311-45
+  - Code de l'énergie - art. R314-12
+  - Code de l'énergie - art. R314-2
+  - Code de l'énergie - art. R314-3
 
 
 ###### Article R314-8
