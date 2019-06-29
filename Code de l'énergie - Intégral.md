@@ -1,5 +1,5 @@
 # Code de l'énergie  
-Version Consolidée au 2019-01-01
+Version Consolidée au 2019-06-30
 ## Contenu: 
   - [Partie législative (art. L100-1 à L731-1)](#1)
     - [LIVRE IER : L'ORGANISATION GENERALE  DU SECTEUR DE L'ENERGIE (art. L100-1 à L161-6)](#2)
@@ -29948,8 +29948,7 @@ combustibles d'origine fossile pour les biocarburants et bioliquides produits da
 service avant le 5 octobre 2015.
 
 Ce potentiel de réduction est d'au moins 60 % pour les biocarburants et bioliquides produits dans des installations mises en
-service à partir de la même date sur le territoire de l'Union européenne et après le 1er janvier 2008 pour les installations
-situées sur le territoire d'un Etat tiers.
+service à partir de la même date.
 
 Pour l'application du présent article, une installation est considérée comme étant mise en service dès lors qu'une production
 physique de biocarburants ou de bioliquides y a eu lieu.
