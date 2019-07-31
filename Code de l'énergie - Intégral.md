@@ -1,5 +1,5 @@
 # Code de l'énergie  
-Version Consolidée au 2019-06-30
+Version Consolidée au 2019-08-01
 ## Contenu: 
   - [Partie législative (art. L100-1 à L731-1)](#1)
     - [LIVRE IER : L'ORGANISATION GENERALE  DU SECTEUR DE L'ENERGIE (art. L100-1 à L161-6)](#2)
@@ -37486,22 +37486,28 @@ _Codifié par_:
 ###### Article R122-12
 
 Des régies de recettes et de dépenses peuvent être créées par décision du médiateur, sur avis conforme de l'agent comptable,
-dans les conditions fixées par le décret n° 92-681 du 20 juillet 1992 relatif aux régies de recettes et aux régies d'avances
-des organismes publics.
+dans les conditions fixées par le décret n° 2019-798 du 26 juillet 2019 relatif aux régies de recettes et aux régies
+d'avances des organismes publics.
+
+**Nota:**
+
+Conformément aux dispositions de l'article 18 du décret n° 2019-798 du 26 juillet 2019, ces dispositions entrent en vigueur
+le premier jour du mois suivant celui de la publication dudit décret et, s'agissant des régies créées avant cette date, le
+premier jour du sixième mois suivant cette même date.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Décret n°92-681 du 20 juillet 1992
 
 _Codifié par_:
 
   - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-**Liens**:
+_Cite_:
 
-  - DEPLACE: Décret n°2016-1095 du 11 août 2016 - art. 1
+  - Décret n°2019-798 du 26 juillet 2019
+
+_Modifié par_:
+
+  - Décret n°2019-798 du 26 juillet 2019 - art. 20
 
 
 ##### Section 2 : Aide en faveur des entreprises exposées à un risque significatif de fuite de carbone en raison des coûts du système d'échange de quotas d'émission de gaz à effet de serre répercutés sur les prix de l'électricité<a id=365></a>
@@ -39037,39 +39043,45 @@ _Créé par_:
 ###### Article R132-1
 
 Le président du collège consulte le collège et le comité de règlement des différends et des sanctions avant de décider de
-l'organisation des services. Il nomme aux emplois de la commission.
+l'organisation des services. Il nomme aux emplois de la commission. 
 
 Il est ordonnateur principal des recettes et dépenses de la commission. Il peut décider de créer des régies d'avances ou de
-recettes dans les conditions fixées par le décret n° 92-681 du 20 juillet 1992 relatif aux régies de recettes et aux régies
-d'avances des organismes publics.
+recettes dans les conditions fixées par le décret n° 2019-798 du 26 juillet 2019 relatif aux régies de recettes et aux régies
+d'avances des organismes publics. 
 
-Il représente la commission dans tous les actes de la vie civile.
+Il représente la commission dans tous les actes de la vie civile. 
 
 Pour l'accomplissement des missions qui sont confiées à la commission, le président du collège et le président du comité ont
-qualité pour agir en justice.
+qualité pour agir en justice. 
 
 Le président du collège peut donner délégation à tout agent de la commission pour signer, dans la limite de ses attributions,
 tous actes relatifs au fonctionnement de la commission ou à l'exécution de ses décisions. Le président du comité peut donner
 délégation à tout agent de la commission placé sous son autorité pour signer, dans la limite de ses attributions, tous actes
-relatifs au fonctionnement du comité. Ces délégations sont publiées au Journal officiel de la République française.
+relatifs au fonctionnement du comité. Ces délégations sont publiées au Journal officiel de la République française. 
 
 Le président du collège et le président du comité peuvent faire appel, dans des conditions convenues avec les ministres
 concernés, aux services de l'Etat, notamment aux services déconcentrés, dont le concours est nécessaire à l'accomplissement
 des missions de la Commission de régulation de l'énergie.
 
+**Nota:**
+
+Conformément aux dispositions de l'article 18 du décret n° 2019-798 du 26 juillet 2019, ces dispositions entrent en vigueur
+le premier jour du mois suivant celui de la publication dudit décret et, s'agissant des régies créées avant cette date, le
+premier jour du sixième mois suivant cette même date.
+
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Décret n°92-681 du 20 juillet 1992 (V)
 
 _Codifié par_:
 
   - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-_Créé par_:
+_Cite_:
 
-  - Décret n°2015-1823 du 30 décembre 2015 - art.
+  - Décret n°2019-798 du 26 juillet 2019
+
+_Modifié par_:
+
+  - Décret n°2019-798 du 26 juillet 2019 - art. 20
 
 
 ###### Article R132-2
@@ -47060,67 +47072,68 @@ _Cite_:
 I.-Une aide dite prime à la conversion est attribuée, dans la limite d'une par personne jusqu'au 1er janvier 2023, à toute
 personne physique majeure justifiant d'un domicile en France ou à toute personne morale justifiant d'un établissement en
 France et à toute administration de l'Etat qui acquiert ou prend en location, dans le cadre d'un contrat d'une durée
-supérieure ou égale à deux ans, un véhicule automobile terrestre à moteur qui :
+supérieure ou égale à deux ans, un véhicule automobile terrestre à moteur qui : 
 
-1° Est mentionné au 1° de l'article D. 251-1 ;
+1° Est mentionné au 1° de l'article D. 251-1 et dont le coût d'acquisition est inférieur ou égal à 60 000 euros toutes taxes
+comprises, incluant le cas échéant le coût d'acquisition ou de location de la batterie ; 
 
-2° Est immatriculé en France avec un numéro définitif ;
+2° Est immatriculé en France avec un numéro définitif ; 
 
-3° N'est pas cédé par l'acquéreur ou le titulaire d'un contrat de location :
+3° N'est pas cédé par l'acquéreur ou le titulaire d'un contrat de location : 
 
 a) Dans les six mois suivant son acquisition ni avant d'avoir parcouru au moins 6 000 kilomètres, dans le cas d'un véhicule
-mentionné au a du 1° de l'article D. 251-1 ;
+mentionné au a du 1° de l'article D. 251-1 ; 
 
 b) Dans l'année suivant sa première immatriculation ni avant d'avoir parcouru au moins 2 000 kilomètres dans le cas d'un
-véhicule mentionné au b du 1° de l'article D. 251-1 ;
+véhicule mentionné au b du 1° de l'article D. 251-1 ; 
 
 4° N'est pas considéré comme un véhicule endommagé au sens des dispositions des articles L. 327-1 à L. 327-6 du code de la
-route ;
+route ; 
 
 II.-Cette aide est attribuée lorsque cette acquisition ou cette location s'accompagne du retrait de la circulation, à des
-fins de destruction, d'un véhicule qui, à la date de facturation du véhicule acquis ou de versement du premier loyer :
+fins de destruction, d'un véhicule qui, à la date de facturation du véhicule acquis ou de versement du premier loyer : 
 
 1° Appartient à la catégorie des voitures particulières ou des camionnettes au sens de l'article R. 311-1 du code de la
-route ;
+route ; 
 
-2° A fait l'objet d'une première immatriculation :
+2° A fait l'objet d'une première immatriculation : 
 
 a) Pour un véhicule utilisant le gazole comme carburant principal :
 
-- avant le 1er janvier 2006 si le bénéficiaire de la prime à la conversion définie par le présent article a une cotisation
-d'impôt sur le revenu de son foyer fiscal de l'année précédant l'acquisition ou la location du véhicule nulle ;
+- avant le 1er janvier 2006 si le bénéficiaire de la prime à la conversion définie par le présent article a un revenu fiscal
+de référence par part inférieur ou égal à 13 489 euros ;
 
-- avant le 1er janvier 2001 dans les autres cas ;
+- avant le 1er janvier 2001 dans les autres cas ; 
 
-b) Pour un véhicule n'utilisant pas le gazole comme carburant principal, avant le 1er janvier 1997 ; ;
+b) Pour un véhicule n'utilisant pas le gazole comme carburant principal, avant le 1er janvier 1997 ; ; 
 
-3° Appartient au bénéficiaire de la prime à la conversion définie par le présent article ;
+3° Appartient au bénéficiaire de la prime à la conversion définie par le présent article ; 
 
-4° A été acquis depuis au moins un an par ce même bénéficiaire ;
+4° A été acquis depuis au moins un an par ce même bénéficiaire ; 
 
-5° Est immatriculé en France dans une série normale ou avec un numéro d'immatriculation définitif ;
+5° Est immatriculé en France dans une série normale ou avec un numéro d'immatriculation définitif ; 
 
-6° N'est pas gagé ;
+6° N'est pas gagé ; 
 
 7° N'est pas considéré comme un véhicule endommagé au sens des dispositions des articles L. 327-1 à L. 327-6 du code de la
-route ;
+route ; 
 
 8° Est remis pour destruction, dans les trois mois précédant ou les six mois suivant la date de facturation du véhicule
 acquis ou loué, à un centre de traitement des véhicules hors d'usage agréé mentionné au 3° de l'article R. 543-155 du code de
 l'environnement ou par des installations autorisées conformément aux dispositions de l'article R. 543-161 du même code, qui
 délivre à son propriétaire un certificat de destruction du véhicule conformément aux dispositions de l'article R. 322-9 du
-code de la route ;
+code de la route ; 
 
 9° Fait l'objet d'un contrat d'assurance en cours de validité à la date de sa remise pour destruction ou à la date de
 facturation du véhicule acquis ou loué.
 
 **Nota:**
 
-Conformément à l'article 2 du décret n° 2018-1318 du 28 décembre 2018, lorsqu'elles sont plus avantageuses, les dispositions
-des articles D. 251-3 et D. 251-8 du code de l'énergie dans leur rédaction antérieure à l'entrée en vigueur du présent décret
-restent applicables aux véhicules, qui n'ont pas fait l'objet précédemment d'une première immatriculation en France et à
-l'étranger, commandés ou dont le contrat de location a été signé avant cette date, à condition que leur facturation ou le
-versement du premier loyer intervienne au plus tard trois mois après la publication du présent décret.
+Conformément à l’article 2 du décret n°2019-737 du 16 juillet 2019, lorsqu'elles sont plus avantageuses, les dispositions des
+articles D. 251-3 et D. 251-8 du code de l'énergie dans leur rédaction antérieure à l'entrée en vigueur dudit décret restent
+applicables aux véhicules, qui n'ont pas fait l'objet précédemment d'une première immatriculation en France ou à l'étranger,
+commandés ou dont le contrat de location a été signé avant cette date, à condition que leur facturation ou le versement du
+premier loyer intervienne au plus tard trois mois après la publication dudit décret.
 
 **Liens relatifs à cet article**
 
@@ -47147,7 +47160,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2018-1318 du 28 décembre 2018 - art. 1
+  - Décret n°2019-737 du 16 juillet 2019 - art. 1
 
 _Cite_:
 
@@ -47311,18 +47324,13 @@ Le montant de l'aide prévue à l'article D. 251-3 est déterminé par l'un ou l
 
 1° Pour les véhicules mentionnés au premier alinéa de l'article D. 251-3 et correspondant au 5° du D. 251-1 : 
 
-a) Le montant de l'aide est fixé à 2 500 euros si le véhicule n'a pas fait l'objet précédemment d'une première
-immatriculation en France et à l'étranger ou s'il est acquis ou loué par une personne physique dont la cotisation d'impôt sur
-le revenu de son foyer fiscal de l'année précédant l'acquisition ou la location du véhicule est nulle ; 
+a) Le montant de l'aide est fixé à 80 % du prix d'acquisition, dans la limite de 5 000 euros, si le véhicule est acquis ou
+loué soit par une personne physique dont le revenu fiscal de référence par part est inférieur ou égal à 13 489 euros et dont
+la distance entre son domicile et son lieu de travail est supérieure à 30 kilomètres ou effectuant plus de 12 000 kilomètres
+par an dans le cadre de son activité professionnelle avec son véhicule personnel, soit par une personne physique dont le
+revenu fiscal de référence par part est inférieur ou égal à 6 300 euros ; 
 
-b) Le montant de l'aide est fixé à 80 % du prix d'acquisition, dans la limite de 5 000 euros, si le véhicule est acquis ou
-loué soit par une personne physique dont la cotisation d'impôt sur le revenu du foyer fiscal de l'année précédant
-l'acquisition ou la location du véhicule est nulle et dont la distance entre son domicile et son lieu de travail est
-supérieure à 30 kilomètres ou effectuant plus de 12 000 kilomètres par an dans le cadre de son activité professionnelle avec
-son véhicule personnel, soit par une personne physique dont le revenu fiscal de référence par part est inférieur ou égal à 6
-300 euros ; 
-
-c) Le montant de l'aide est fixé à 1 000 euros, dans les autres cas ; 
+b) Le montant de l'aide est fixé à 2 500 euros, dans les autres cas ; 
 
 2° Pour les véhicules mentionnés au premier alinéa de l'article D. 251-3 et correspondant au 6° du D. 251-1, qui n'ont pas
 fait l'objet précédemment d'une première immatriculation en France ou à l'étranger, qui n'utilisent pas de batterie au plomb
@@ -47331,29 +47339,29 @@ du Parlement européen et du Conseil du 15 janvier 2013 ou à 3 kilowatts en app
 Parlement européen et du Conseil du 18 mars 2002 : 
 
 a) Le montant de l'aide est fixé à 1 100 euros, dans la limite du coût d'acquisition du véhicule toutes taxes comprises et
-bonus écologique déduit, si le véhicule est acquis ou loué par une personne physique dont la cotisation d'impôt sur le revenu
-de son foyer fiscal de l'année précédant l'acquisition ou la location du véhicule est nulle ; 
+bonus écologique déduit, si le véhicule est acquis ou loué par une personne physique dont le revenu fiscal de référence par
+part est inférieur ou égal à 13 489 euros ; 
 
 b) Le montant de l'aide est fixé à 100 euros, dans les autres cas ; 
 
 3° Pour les véhicules mentionnés au premier alinéa de l'article D. 251-3 et correspondant au a du 1° du D. 251-1, dont le
-taux d'émission de dioxyde de carbone est inférieur ou égal à 122 grammes par kilomètre et classés “ électrique ”, “ 1 ” ou “
-2 ” en application de l'arrêté mentionné à l' article R. 318-2 du code de la route  : 
+taux d'émission de dioxyde de carbone est inférieur ou égal à 116 grammes par kilomètre, classés “ électrique ” ou “ 1 ”, ou
+“ 2 ” immatriculés après le 1er septembre 2019 n'ayant pas fait l'objet précédemment d'une première immatriculation en France
+ou à l'étranger, en application de l'arrêté mentionné à l'article R. 318-2 du code de la route : 
 
-a) Le montant de l'aide est fixé à 2 000 euros dans la limite du coût d'acquisition du véhicule toutes taxes comprises, si le
-véhicule est acquis ou loué par une personne physique dont la cotisation d'impôt sur le revenu de son foyer fiscal de l'année
-précédant l'acquisition ou la location du véhicule est nulle ; 
+a) Le montant de l'aide est fixé à 1 500 euros dans la limite du coût d'acquisition du véhicule toutes taxes comprises, si le
+véhicule est acquis ou loué par une personne physique dont le revenu fiscal de référence par part est inférieur ou égal à 13
+489 euros ; 
 
-b) Le montant de l'aide est fixé à 80 % du prix d'acquisition, dans la limite de 4 000 euros, si le véhicule est acquis ou
-loué soit par une personne physique dont la cotisation d'impôt sur le revenu du foyer fiscal de l'année précédant
-l'acquisition ou la location du véhicule est nulle et dont la distance entre son domicile et son lieu de travail est
-supérieure à 30 kilomètres ou effectuant plus de 12 000 kilomètres par an dans le cadre de son activité professionnelle avec
-son véhicule personnel, soit par une personne physique dont le revenu fiscal de référence par part est inférieur ou égal à 6
-300 euros ; 
+b) Le montant de l'aide est fixé à 80 % du prix d'acquisition, dans la limite de 3 000 euros, si le véhicule est acquis ou
+loué soit par une personne physique dont le revenu fiscal de référence par part est inférieur ou égal à 13 489 euros et dont
+la distance entre son domicile et son lieu de travail est supérieure à 30 kilomètres ou effectuant plus de 12 000 kilomètres
+par an dans le cadre de son activité professionnelle avec son véhicule personnel, soit par une personne physique dont le
+revenu fiscal de référence par part est inférieur ou égal à 6 300 euros ; 
 
 4° Pour les véhicules mentionnés au premier alinéa de l'article D. 251-3 et correspondant au a du 1° du D. 251-1, dont le
-taux d'émission de dioxyde de carbone est inférieur ou égal à 122 grammes par kilomètre et classés électrique ou 1 en
-application de l'arrêté mentionné à l'article R. 318-2 du code de la route, le montant de l'aide est fixé à 1 000 euros ; 
+taux d'émission de dioxyde de carbone est compris entre 21 et 50 grammes par kilomètre et classés électrique ou 1 en
+application de l'arrêté mentionné à l'article R. 318-2 du code de la route, le montant de l'aide est fixé à 1 500 euros ; 
 
 5° Pour les véhicules mentionnés au premier alinéa de l'article D. 251-3 et correspondant au a du 1° du D. 251-1, dont le
 taux d'émission de dioxyde de carbone est compris entre 21 et 50 grammes par kilomètre, classés 1 en application de l'arrêté
@@ -47361,26 +47369,25 @@ mentionné à l'article R. 318-2 du code de la route, dont l'autonomie équivale
 en application du règlement (UE) 2017/1151 de la Commission du 1er juin 2017 est supérieure à 40 kilomètres ou l'autonomie
 déterminée en application du règlement (CE) n° 692/2008 de la Commission du 18 juillet 2008 est supérieure à 50 kilomètres : 
 
-a) Le montant de l'aide est fixé à 2 500 euros, si le véhicule acquis ou loué n'a pas fait l'objet précédemment d'une
-première immatriculation en France et à l'étranger ou s'il est acquis ou loué par une personne physique dont la cotisation
-d'impôt sur le revenu du foyer fiscal de l'année précédant l'acquisition ou la location du véhicule est nulle ; 
+a) Le montant de l'aide est fixé à 80 % du prix d'acquisition, dans la limite de 5 000 euros, si le véhicule est acquis ou
+loué soit par une personne physique dont le revenu fiscal de référence par part est inférieur ou égal à 13 489 euros et dont
+la distance entre son domicile et son lieu de travail est supérieure à 30 kilomètres ou effectuant plus de 12 000 kilomètres
+par an dans le cadre de son activité professionnelle avec son véhicule personnel, soit par une personne physique dont le
+revenu fiscal de référence par part est inférieur ou égal à 6 300 euros ; 
 
-b) Le montant de l'aide est fixé à 80 % du prix d'acquisition, dans la limite de 5 000 euros, si le véhicule est acquis ou
-loué soit par une personne physique dont la cotisation d'impôt sur le revenu de son foyer fiscal de l'année précédant
-l'acquisition ou la location du véhicule est nulle et dont la distance entre son domicile et son lieu de travail est
-supérieure à 30 kilomètres ou effectuant plus de 12 000 kilomètres par an dans le cadre de son activité professionnelle avec
-son véhicule personnel, soit par une personne physique dont le revenu fiscal de référence par part est inférieur ou égal à 6
-300 euros ; 
+b) Le montant de l'aide est fixé à 2 500 euros dans les autres cas ; 
 
-c) Le montant de l'aide est fixé à 1 000 euros dans les autres cas ;
+6° Pour les véhicules mentionnés au b du III de l'article 1011 bis du code général des impôts, bénéficiant d'un abattement de
+40 % des émissions de dioxyde de carbone, au sens de la directive 2007/46/ CE, du 5 septembre 2007, le taux d'émission de
+dioxyde de carbone mentionné aux 3°, 4° et 5° est le taux renseigné à la rubrique (Z) du certificat d'immatriculation.
 
 **Nota:**
 
-Conformément à l'article 2 du décret n° 2018-1318 du 28 décembre 2018, lorsqu'elles sont plus avantageuses, les dispositions
-des articles D. 251-3 et D. 251-8 du code de l'énergie dans leur rédaction antérieure à l'entrée en vigueur du présent décret
-restent applicables aux véhicules, qui n'ont pas fait l'objet précédemment d'une première immatriculation en France et à
-l'étranger, commandés ou dont le contrat de location a été signé avant cette date, à condition que leur facturation ou le
-versement du premier loyer intervienne au plus tard trois mois après la publication du présent décret.
+Conformément à l’article 2 du décret n°2019-737 du 16 juillet 2019, lorsqu'elles sont plus avantageuses, les dispositions des
+articles D. 251-3 et D. 251-8 du code de l'énergie dans leur rédaction antérieure à l'entrée en vigueur dudit décret restent
+applicables aux véhicules, qui n'ont pas fait l'objet précédemment d'une première immatriculation en France ou à l'étranger,
+commandés ou dont le contrat de location a été signé avant cette date, à condition que leur facturation ou le versement du
+premier loyer intervienne au plus tard trois mois après la publication dudit décret.
 
 **Liens relatifs à cet article**
 
@@ -47397,13 +47404,15 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2018-1318 du 28 décembre 2018 - art. 1
+  - Décret n°2019-737 du 16 juillet 2019 - art. 1
 
 _Cite_:
 
+  - Code général des impôts, CGI. - art. 1011 bis
   - Code de la route. - art. R318-2
   - Code de l'énergie - art. D251-1
-  - Code de l'énergie - art. D251-3 (V)
+  - Code de l'énergie - art. D251-3
+  - règlement (CE) n°692/2008
 
 
 ###### Article D251-9
