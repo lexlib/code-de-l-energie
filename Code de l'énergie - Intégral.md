@@ -1,5 +1,5 @@
 # Code de l'énergie  
-Version Consolidée au 2019-08-01
+Version Consolidée au 2019-09-01
 ## Contenu: 
   - [Partie législative (art. L100-1 à L731-1)](#1)
     - [LIVRE IER : L'ORGANISATION GENERALE  DU SECTEUR DE L'ENERGIE (art. L100-1 à L161-6)](#2)
@@ -38166,7 +38166,7 @@ I.-Le chèque énergie permet d'acquitter à hauteur de sa valeur faciale, en to
 
 - sous réserve des dispositions propres à certaines résidences sociales prévues à l'article R. 124-5, le montant acquitté
 pour l'occupation d'un logement dans un logement-foyer mentionné à l'article L. 633-1 du code de la construction et de
-l'habitation qui fait l'objet de la convention prévue à l'article L. 351-2 du même code ;
+l'habitation qui fait l'objet de la convention prévue à l'article    L. 831-1 du même code ;
 
 - une dépense liée à l'acquisition ou à l'installation dans le logement des équipements, matériaux et appareils qui ouvrent
 droit au crédit d'impôt mentionné à l'article 200 quater du code général des impôts. 
@@ -38185,7 +38185,7 @@ d'équipements de production d'eau chaude ;
 - les gestionnaires de réseaux de chaleur ;
 
 - les gestionnaires des logements-foyers mentionnés à l'article L. 633-1 du code de la construction et de l'habitation ayant
-conclu la convention prévue à l'article L. 351-2 du même code ;
+conclu la convention prévue à l'article    L. 831-1 du même code ;
 
 - les professionnels titulaires d'un signe de qualité mentionné à l'article 46 AX de l'annexe III au code général des impôts.
 
@@ -38196,16 +38196,16 @@ _Cité par_:
   - Arrêté du 7 juin 2016 - art. 1 (V)
   - Arrêté du 7 juin 2016 - art. 2 (V)
   - Arrêté du 7 mai 2018 (V)
-  - Code de l'énergie - art. R124-12 (VD)
+  - Code de l'énergie - art. R124-12 (V)
   - Code de l'énergie - art. R124-14 (VD)
   - Code de l'énergie - art. R124-6 (VD)
   - Code de l'énergie - art. R124-7 (V)
   - Code de l'énergie - art. R124-8 (V)
   - Code de l'énergie - art. R124-9 (V)
 
-**Liens**:
+_Modifié par_:
 
-  - DEPLACE: Décret n°2016-1618 du 29 novembre 2016 - art. 5
+  - Décret n°2019-772 du 24 juillet 2019 - art. 8
 
 _Cite_:
 
@@ -38228,26 +38228,26 @@ avec avis de réception Elle comprend les éléments suivants :
 - le nombre total de logements de la ou des résidences sociales et le nombre de logements mentionnés au  cinquième alinéa de
 l'article L. 124-1 du code de l'énergie  servant au calcul du montant de l'aide spécifique ;
 
-- la date d'expiration de la convention prévue à l' article L. 351-2 du code de la construction et de l'habitation  ;
+- la date d'expiration de la convention prévue à l' article L. 831-1 du code de la construction et de l'habitation  ;
 
 - une attestation sur l'honneur du gestionnaire de la résidence sociale précisant que la convention prévue à l' article L.
-351-2 du code de la construction et de l'habitation  est en cours de validité et n'a pas été dénoncée ;
+831-1 du code de la construction et de l'habitation  est en cours de validité et n'a pas été dénoncée ;
 
 - un engagement du gestionnaire de la résidence sociale de signaler dans un délai d'un mois toute interruption ou
-modification de la convention prévue à l' article L. 351-2 du code de la construction et de l'habitation  pour des motifs
+modification de la convention prévue à l' article L. 831-1 du code de la construction et de l'habitation  pour des motifs
 liés à la date d'expiration de la convention ou au gestionnaire ;
 
 - un engagement du gestionnaire de la résidence sociale d'effectuer le bilan annuel d'utilisation de l'aide mentionné au II
 du présent article et à retranscrire sur les avis d'échéance le montant de l'aide spécifique mentionnée à l' article L. 124-1
-du code de l'énergie . 
+du code de l'énergie .
 
 II.-Le montant de l'aide spécifique versée par l'agence aux gestionnaires de résidences sociales est établi en fonction du
 nombre de logements occupés de la résidence sociale et sur la base d'un montant unitaire égal à 144 € (TTC) par logement et
 par an. Ce montant unitaire peut être modifié par arrêté conjoint des ministres chargés de l'économie, du budget, de
-l'énergie et du logement. 
+l'énergie et du logement.
 
 Les frais de gestion du gestionnaire s'élèvent à 5 % de l'aide distribuée pour chaque logement éligible à l'aide et occupé.
-Ce taux peut être modifié par arrêté conjoint des ministres chargés de l'économie, du budget, de l'énergie et du logement. 
+Ce taux peut être modifié par arrêté conjoint des ministres chargés de l'économie, du budget, de l'énergie et du logement.
 
 Avant le 1er mars de chaque année, un bilan de l'utilisation de l'aide au cours de l'année écoulée est adressé avec avis de
 réception par le gestionnaire de la résidence sociale à l'Agence de services et de paiement. Il comprend les informations
@@ -38269,24 +38269,24 @@ suivantes :
 
 - le cas échéant, le montant perçu par le gestionnaire qui n'a pas été déduit des redevances quittancées aux résidents, qui
 devra être déduit du versement suivant de l'agence, le solde éventuel devant être reversé par le gestionnaire à l'agence dans
-un délai de trois mois. 
+un délai de trois mois.
 
 En l'absence de transmission du bilan de l'utilisation de l'aide ou de dossier incomplet, l'agence, après une relance avec
 avis de réception restée infructueuse, suspend tout versement sous un mois suivant la réception de cet avis et réclame le
 remboursement des montants perçus par le gestionnaire dont la déduction au profit des résidents n'est pas établie. Le
 gestionnaire continue cependant de déduire le montant de l'aide des redevances quittancées aux résidents selon les modalités
-antérieures à la suspension jusqu'à régularisation de sa situation. 
+antérieures à la suspension jusqu'à régularisation de sa situation.
 
 III.-La demande d'aide prévue au I est réputée renouvelée chaque année au 15 octobre, jusqu'à la date d'expiration de la
-convention mentionnée au quatrième alinéa du I. 
+convention mentionnée au quatrième alinéa du I.
 
 Le gestionnaire de la résidence sociale signale, dans le délai d'un mois, toute interruption ou modification de cette
 convention pour des raisons autres que celles mentionnées dans le cas de la demande modificative mentionnée au deuxième
 alinéa du I de l'article D. 124-5-1. Le cas échéant, l'agence réclame les sommes indûment versées au gestionnaire de la
-résidence sociale. 
+résidence sociale.
 
 IV.-L'agence contrôle a posteriori et par échantillonnage l'exactitude des éléments déclaratifs renseignés par les
-gestionnaires des résidences sociales. 
+gestionnaires des résidences sociales.
 
 A cet effet, le gestionnaire de la résidence sociale fournit à l'agence, sur sa demande, tout document permettant de
 contrôler les éléments déclarés par le gestionnaire, notamment :
@@ -38299,7 +38299,7 @@ code de la construction et de l'habitation  n'a pas été dénoncée et indiquan
 - tout document permettant d'attester du nombre des logements mentionnés au troisième alinéa du I de l'article R. 124-5,
 notamment les documents comptables de la résidence sociale et les redevances quittancées aux résidents ;
 
-- tout document justifiant que l'aide spécifique versée par l'agence a été déduite des redevances quittancées aux résidents. 
+- tout document justifiant que l'aide spécifique versée par l'agence a été déduite des redevances quittancées aux résidents.
 
 En cas de constatation par l'agence du caractère inexact des déclarations des gestionnaires des résidences sociales ou à
 défaut de fourniture des pièces justificatives demandées par l'agence aux fins de contrôle dans un délai d'un mois à compter
@@ -38308,16 +38308,16 @@ ou non justifiées dans un délai de trois mois.
 
 **Liens relatifs à cet article**
 
-_Modifié par_:
-
-  - Décret n°2018-1216 du 24 décembre 2018 - art. 5
-
 _Cité par_:
 
   - Arrêté du 26 décembre 2018 - art. 3 (V)
   - Code de l'énergie - art. D124-5-1 (V)
   - Code de l'énergie - art. R124-4 (VD)
-  - Code de l'énergie - art. R124-5 (V)
+  - Code de l'énergie - art. R124-5 (VD)
+
+_Modifié par_:
+
+  - Décret n°2019-772 du 24 juillet 2019 - art. 8
 
 _Cite_:
 
