@@ -1,5 +1,5 @@
 # Code de l'énergie  
-Version Consolidée au 2019-09-01
+Version Consolidée au 2019-09-23
 ## Contenu: 
   - [Partie législative (art. L100-1 à L731-1)](#1)
     - [LIVRE IER : L'ORGANISATION GENERALE  DU SECTEUR DE L'ENERGIE (art. L100-1 à L161-6)](#2)
@@ -434,7 +434,7 @@ relatives à la vente de biogaz (art. L446-1 à L446-5)](#246)
       - [TITRE II : LES CERTIFICATS D'ÉCONOMIES D'ÉNERGIE (art. R221-1 à R222-12)](#425)
         - [Chapitre Ier : Le dispositif des certificats d'économies d'énergie (art. R221-1 à R221-31)](#426)
           - [Section 1 : Obligations individuelles d'économies d'énergie (art. R221-1 à R221-13)](#427)
-          - [Section 2 : Délivrance des certificats d'économies d'énergie (art. R221-14 à R221-25)](#428)
+          - [Section 2 : Délivrance des certificats d'économies d'énergie (art. D221-20 à R221-25)](#428)
           - [Section 3 : Registre national des certificats d'économies d'énergie (art. R221-26 à R221-30)](#429)
           - [Section 4 : Dispositions diverses (art. R221-31)](#430)
         - [Chapitre II : Les sanctions administratives et pénales (art. R222-1 à R222-12)](#431)
@@ -44163,6 +44163,55 @@ _Cité par_:
 
 
 ##### Section 2 : Délivrance des certificats d'économies d'énergie<a id=428></a>
+
+###### Article D221-20
+
+I.-Peut donner lieu à la délivrance de certificats d'économies d'énergie une opération spécifique, au sens de l'article R.
+221-14, réalisée dans une installation classée pour la protection de l'environnement mentionnée à l' article L. 229-5 du code
+de l'environnement  lorsque les deux conditions suivantes sont remplies : 
+
+1° L'opération donne lieu à des économies d'énergie pour des activités éligibles à la délivrance de quotas d'émission de gaz
+à effet de serre gratuits ou pour la production de chaleur livrée pour de telles activités ; 
+
+2° L'installation classée est couverte par un système de management de l'énergie conforme à la norme internationale
+applicable, certifié par un organisme de certification accrédité. Le système de management est certifié à la date
+d'engagement de l'opération ou au plus tard à la date de début du mesurage prévu au II pour les opérations engagées jusqu'au
+31 décembre 2020. 
+
+Lorsque l'installation produit de l'électricité et de la chaleur, ou lorsque l'installation produit de la chaleur utilisée
+par d'autres installations pour produire de l'électricité et pour exercer des activités éligibles à la délivrance de quotas
+d'émission de gaz à effet de serre gratuits, l'installation ou l'ensemble des installations satisfait, en outre, après
+travaux, aux critères de cogénération à haut rendement fixés à l'annexe II de la directive 2012/27/ UE du 25 octobre 2012
+relative à l'efficacité énergétique. 
+
+II.-Le volume de certificats d'économies d'énergie demandé est confirmé par un mesurage effectué sur une durée représentative
+après réalisation de l'opération, au moyen d'un plan de mesure et de vérification, dans des conditions comparables au calcul
+théorique. Un arrêté du ministre chargé de l'énergie fixe la durée de ce mesurage. 
+
+III.-Le ministre chargé de l'énergie peut, par décision publiée au Bulletin officiel du ministère chargé de l'énergie,
+préciser pour certaines actions d'économies d'énergie les modalités de mesurage et de calcul du volume des certificats
+d'économies d'énergie, notamment en fixant tout ou partie de la situation de référence ou la durée de vie de ces opérations.
+Ces décisions peuvent modifier la durée du mesurage et préciser les conditions de sa réalisation. 
+
+IV.-Le calcul du temps de retour sur investissement prévu à l'article R. 221-17 tient compte de la valorisation des quotas
+d'émission de gaz à effet de serre dans des conditions fixées par arrêté du ministre chargé de l'énergie.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Arrêté du 29 décembre 2014 - art. 8-4 (V)
+
+_Créé par_:
+
+  - Décret n°2019-975 du 20 septembre 2019 - art. 1
+
+_Cite_:
+
+  - Code de l'environnement - art. L229-5
+  - Code de l'énergie - art. R221-14
+  - Code de l'énergie - art. R221-17
+
 
 ###### Article R221-14
 
