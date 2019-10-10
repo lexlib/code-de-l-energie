@@ -1,5 +1,5 @@
 # Code de l'énergie  
-Version Consolidée au 2019-09-23
+Version Consolidée au 2019-10-11
 ## Contenu: 
   - [Partie législative (art. L100-1 à L731-1)](#1)
     - [LIVRE IER : L'ORGANISATION GENERALE  DU SECTEUR DE L'ENERGIE (art. L100-1 à L161-6)](#2)
@@ -7016,7 +7016,7 @@ _Cite_:
 
 Dans le cadre de l'exercice de ses missions, la Commission de régulation de l'énergie surveille les transactions effectuées
 par les fournisseurs, négociants et producteurs d'électricité et de gaz naturel sur des quotas d'émission de gaz à effet de
-serre, tels que définis à l'article L. 229-15 du code de l'environnement, et sur les autres unités mentionnées au chapitre IX
+serre, tels que définis à l'article L. 229-5 du code de l'environnement, et sur les autres unités mentionnées au chapitre IX
 du titre II du livre II du même code, ainsi que sur les contrats et instruments financiers à terme dont ils constituent le
 sous-jacent, afin d'analyser la cohérence de ces transactions avec les contraintes économiques, techniques et réglementaires
 de l'activité de ces fournisseurs, négociants et producteurs d'électricité et de gaz naturel.
@@ -7031,13 +7031,13 @@ _Codifié par_:
 
   - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
+  - Ordonnance n°2019-1034 du 9 octobre 2019 - art. 31
 
 _Cite_:
 
-  - Code de l'environnement - art. L229-15 (V)
+  - Code de l'environnement - art. L229-15
 
 
 #### Chapitre II : Organisation<a id=53></a>
@@ -7825,8 +7825,8 @@ La Commission de régulation de l'énergie saisit l'Autorité des marchés finan
 résultant des dispositions législatives ou réglementaires ou des règles professionnelles relatives aux opérations d'initiés,
 manipulations de cours et diffusions de fausses informations, ou tout autre manquement de nature à porter atteinte au bon
 fonctionnement du marché des transactions portant sur des quotas d'émission de gaz à effet de serre définis à l'article L.
-229-15 du code de l'environnement ou sur d'autres unités mentionnées au chapitre IX du titre II du livre II du même code,
-dont elle prend connaissance dans l'exercice de ses missions. 
+229-5 du code de l'environnement ou sur d'autres unités mentionnées au chapitre IX du titre II du livre II du même code, dont
+elle prend connaissance dans l'exercice de ses missions.
 
 Lorsqu'elle est consultée en application de l'article L. 621-21 du code monétaire et financier par l'Autorité des marchés
 financiers sur une question relevant de sa compétence, la Commission de régulation de l'énergie joint à son avis tous les
@@ -7842,14 +7842,14 @@ _Codifié par_:
 
   - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
+  - Ordonnance n°2019-1034 du 9 octobre 2019 - art. 31
 
 _Cite_:
 
-  - Code monétaire et financier - art. L621-21 (V)
-  - Code de l'environnement - art. L229-15 (V)
+  - Code monétaire et financier - art. L621-21
+  - Code de l'environnement - art. L229-15
 
 
 ###### Article L134-18
