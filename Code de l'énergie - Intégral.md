@@ -1,5 +1,5 @@
 # Code de l'énergie  
-Version Consolidée au 2019-10-11
+Version Consolidée au 2019-10-23
 ## Contenu: 
   - [Partie législative (art. L100-1 à L731-1)](#1)
     - [LIVRE IER : L'ORGANISATION GENERALE  DU SECTEUR DE L'ENERGIE (art. L100-1 à L161-6)](#2)
@@ -17326,31 +17326,28 @@ du code général des collectivités territoriales constituées pour porter un p
 peuvent, lors de la constitution ou de l'évolution de leur capital, en proposer une part aux personnes physiques, notamment
 aux habitants dont la résidence est à proximité du lieu d'implantation du projet, ainsi qu'aux collectivités territoriales et
 à leurs groupements sur le territoire ou à proximité du territoire desquels il se situe. Elles peuvent également proposer à
-ces mêmes personnes de participer au financement du projet de production d'énergie renouvelable. 
+ces mêmes personnes de participer au financement du projet de production d'énergie renouvelable.
 
-II. - Les sociétés coopératives régies par la loi n° 47-1775 du 10 septembre 1947 portant statut de la coopération
-constituées pour porter un projet de production d'énergie renouvelable peuvent, lors de la constitution ou de l'évolution de
-leur capital, en proposer une part aux personnes physiques, notamment aux habitants dont la résidence est à proximité du lieu
-d'implantation du projet, ainsi qu'aux collectivités territoriales et à leurs groupements sur le territoire ou à proximité du
-territoire desquels il se situe. Elles peuvent également proposer à ces mêmes personnes de participer au financement du
-projet de production d'énergie renouvelable. 
+II. - Les sociétés coopératives constituées sous la forme d'une société par actions ou d'une société à responsabilité
+limitée, régies par la loi n° 47-1775 du 10 septembre 1947 portant statut de la coopération constituées pour porter un projet
+de production d'énergie renouvelable peuvent, lors de la constitution ou de l'évolution de leur capital, en proposer une part
+aux personnes physiques, notamment aux habitants dont la résidence est à proximité du lieu d'implantation du projet, ainsi
+qu'aux collectivités territoriales et à leurs groupements sur le territoire ou à proximité du territoire desquels il se
+situe. Elles peuvent également proposer à ces mêmes personnes de participer au financement du projet de production d'énergie
+renouvelable.
 
 III. - Les offres de participation au capital ou au financement mentionnées aux I et II du présent article peuvent être
 faites par les porteurs des projets directement auprès des personnes mentionnées au même I ou en recourant à un fonds qui a
 reçu l'autorisation d'utiliser la dénomination de fonds d'entrepreunariat social éligible en application de l'article L.
 214-153-1 du code monétaire et financier, spécialisé dans l'investissement en capital dans les énergies renouvelables ou à
 une société ayant pour objet le développement des énergies renouvelables et bénéficiant de l'agrément " entreprise solidaire
-d'utilité sociale ". 
+d'utilité sociale ".
 
 Les offres de participation au capital ou au financement peuvent être faites par les porteurs des projets directement auprès
 des personnes mentionnées au I du présent article ou en recourant à des conseillers en investissements participatifs
 mentionnés au I de l'article L. 547-1 du code monétaire et financier, à des intermédiaires en financement participatif
 mentionnés au I de l'article L. 548-2 du même code ou à des prestataires de services d'investissement mentionnés à l'article
-L. 531-1 dudit code. 
-
-Un décret en Conseil d'Etat fixe les montants des offres, les valeurs nominales de titres, les catégories de titres et les
-catégories d'investisseurs pour lesquels les offres mentionnées au présent III ne constituent pas une offre au public, au
-sens de l'article L. 411-1 du code monétaire et financier. 
+L. 531-1 dudit code.
 
 IV. - Les collectivités territoriales peuvent souscrire la participation en capital prévue au I du présent article par
 décision prise par leur organe délibérant. Cette décision peut faire l'objet d'une délégation à l'exécutif.
@@ -17379,7 +17376,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2017-227 du 24 février 2017 - art. 17
+  - Ordonnance n°2019-1067 du 21 octobre 2019 - art. 19
 
 _Anciens textes_:
 
