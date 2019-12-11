@@ -1,5 +1,5 @@
 # Code de l'énergie  
-Version Consolidée au 2019-11-17
+Version Consolidée au 2019-12-12
 ## Contenu: 
   - [Partie législative (art. L100-1 à L731-1)](#1)
     - [LIVRE IER : L'ORGANISATION GENERALE  DU SECTEUR DE L'ENERGIE (art. L100-1 à L161-6)](#2)
@@ -44391,7 +44391,7 @@ mentionnées aux articles L. 221-1, L. 221-1-1 et L. 221-12.
 
 La troisième période d'obligation d'économies d'énergie s'étend du 1er janvier 2015 au 31 décembre 2017.
 
-La quatrième période d'obligation d'économies d'énergie s'étend du 1er janvier 2018 au 31 décembre 2020.
+La quatrième période d'obligation d'économies d'énergie s'étend du 1er janvier 2018 au 31 décembre 2021.
 
 **Nota:**
 
@@ -44403,10 +44403,6 @@ Conformément à l'article 16 du décret n° 2017-690 du 2 mai 2017, les disposi
 _Codifié par_:
 
   - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-_Modifié par_:
-
-  - Décret n°2017-690 du 2 mai 2017 - art. 2
 
 _Cité par_:
 
@@ -44421,6 +44417,10 @@ _Cité par_:
   - Code de l'énergie - art. R221-4-1 (VD)
   - Code de l'énergie - art. R221-8 (VD)
   - Code de l'énergie - art. R221-9 (VD)
+
+_Modifié par_:
+
+  - Décret n°2019-1320 du 9 décembre 2019 - art. 2
 
 _Cite_:
 
@@ -44501,13 +44501,13 @@ seuils suivants :
 
 a) 500 mètres cubes pour les années civiles 2015 à 2018 ;
 
-b) 1 000 mètres cubes pour les années suivantes ;      ;
+b) 1 000 mètres cubes pour les années suivantes ;
 
 2° Pour la quantité de carburants autres que le gaz de pétrole liquéfié :
 
-a) 7 000 mètres cubes pour les années civiles 2015 à 2018 ;
+a) 7 000 mètres cubes ;
 
-b) 1 000 mètres cubes pour les années suivantes ;
+b) (abrogé)
 
 3° Pour la quantité de gaz de pétrole liquéfié carburant mentionnée au 3° de l'article R. 221-2 : 7 000 tonnes ;
 
@@ -44531,7 +44531,7 @@ _Cité par_:
   - Décret n°2018-401 du 29 mai 2018 - art. 11 (V)
   - Décret n°2018-401 du 29 mai 2018 - art. 6 (V)
   - Code de l'énergie - art. R221-10 (VD)
-  - Code de l'énergie - art. R221-4 (M)
+  - Code de l'énergie - art. R221-4 (V)
   - Code de l'énergie - art. R221-4-1 (VD)
   - Code de l'énergie - art. R221-5 (V)
   - Code de l'énergie - art. R221-6 (VD)
@@ -44539,7 +44539,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2018-401 du 29 mai 2018 - art. 3
+  - Décret n°2019-1320 du 9 décembre 2019 - art. 3
 
 _Cite_:
 
@@ -44561,13 +44561,13 @@ excédant le seuil mentionné à l'article R. 221-3, multipliée par :
 
 a) 3 380 kWh cumac par mètre cube pour l'année civile 2018 ;
 
-b) 2 961 kWh cumac par mètre cube pour les années civiles suivantes ;      ;
+b) 2 961 kWh cumac par mètre cube pour les années civiles suivantes ;
 
 2° Pour les carburants autres que le gaz de pétrole liquéfié :
 
-a) 4 032 kWh cumac par mètre cube pour l'année civile 2018 ;
+a) 4 032 kWh cumac par mètre cube ;
 
-b) 4 009 kWh cumac par mètre cube pour les années civiles suivantes ;
+b) (abrogé)
 
 3° Pour le gaz de pétrole liquéfié carburant : 7 125 kWh cumac par tonne ;
 
@@ -44600,13 +44600,13 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2018-401 du 29 mai 2018 - art. 4
+  - Décret n°2019-1320 du 9 décembre 2019 - art. 3
 
 _Cite_:
 
   - Code de l'énergie - art. R221-1
   - Code de l'énergie - art. R221-2
-  - Code de l'énergie - art. R221-3
+  - Code de l'énergie - art. R221-3 (V)
 
 
 ###### Article R221-4-1
@@ -45171,8 +45171,8 @@ _Cite_:
 Les opérations correspondant au seul respect de la réglementation en vigueur au 1er janvier 2018 ne donnent pas lieu à
 délivrance de certificats d'économies d'énergie.
 
-Une demande de certificats d'économies d'énergie ne peut porter que sur des actions achevées moins d'un an avant la date de
-cette demande.
+Une demande de certificats d'économies d'énergie est présentée après l'achèvement d'une opération d'économies d'énergie dans
+un délai maximum, qui ne peut être inférieur à six mois, fixé par arrêté du ministre chargé de l'énergie.
 
 Une même opération d'économies d'énergie ne peut donner lieu à plusieurs délivrances de certificats d'économies d'énergie.
 
@@ -45190,7 +45190,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2017-1848 du 29 décembre 2017 - art. 6
+  - Décret n°2019-1320 du 9 décembre 2019 - art. 4
 
 
 ###### Article R221-16
@@ -45272,9 +45272,14 @@ _Modifié par_:
 ###### Article R221-19
 
 Les actions prévues à l'avant-dernier alinéa de l'article L. 221-7 peuvent donner lieu à la délivrance de certificats
-d'économies d'énergie dans des conditions fixées par arrêté du ministre chargé de l'énergie si elles n'ont pas bénéficié
-d'une aide à l'investissement de la part de l'Agence de l'environnement et de la maîtrise de l'énergie, notamment dans le
-cadre du Fonds de soutien au développement de la production et de la distribution de chaleur.
+d'économies d'énergie :
+
+1° Soit lorsqu'elles n'ont pas bénéficié d'une aide à l'investissement de la part de l'Agence de l'environnement et de la
+maîtrise de l'énergie ;
+
+2° Soit lorsque, engagées à compter du 1er août 2019, elles ont bénéficié de la part de l'Agence de l'environnement et de la
+maîtrise de l'énergie d'une aide à l'investissement dont le calcul et la décision d'attribution ont pris en compte la
+délivrance de certificats d'économies d'énergie.
 
 **Liens relatifs à cet article**
 
@@ -45282,17 +45287,17 @@ _Codifié par_:
 
   - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-_Créé par_:
-
-  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
 _Cité par_:
 
   - Arrêté du 9 décembre 2019 - art. 4
 
+_Modifié par_:
+
+  - Décret n°2019-1320 du 9 décembre 2019 - art. 5
+
 _Cite_:
 
-  - Code de l'énergie - art. L221-7 (V)
+  - Code de l'énergie - art. L221-7
 
 
 ###### Article R221-22
