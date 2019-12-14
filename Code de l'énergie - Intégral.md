@@ -1,5 +1,5 @@
 # Code de l'énergie  
-Version Consolidée au 2019-12-12
+Version Consolidée au 2019-12-15
 ## Contenu: 
   - [Partie législative (art. L100-1 à L731-1)](#1)
     - [LIVRE IER : L'ORGANISATION GENERALE  DU SECTEUR DE L'ENERGIE (art. L100-1 à L161-6)](#2)
@@ -1818,8 +1818,14 @@ _Créé par_:
 
 La société gestionnaire d'un réseau de transport et l'entreprise verticalement intégrée dont elle fait partie s'abstiennent
 de toute confusion entre leur identité sociale, leurs pratiques de communication, leur stratégie de marque et leurs locaux. A
-cet effet, la société gestionnaire d'un réseau de transport est propriétaire de la ou des marques qui l'identifient comme
+cet effet, la société gestionnaire d'un réseau de transport est titulaire de la ou des marques qui l'identifient comme
 gestionnaire de réseau de transport. Elle seule en gère l'utilisation.
+
+**Nota:**
+
+Aux termes du I de l'article 15 de l'ordonnance n° 2019-1169 du 13 novembre 2019, les dispositions issues de la présente
+ordonnance entrent en vigueur à la date d'entrée en vigueur du décret pris pour son application et au plus tard le 15
+décembre 2019.
 
 **Liens relatifs à cet article**
 
@@ -1827,9 +1833,9 @@ _Codifié par_:
 
   - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
+  - Ordonnance n°2019-1169 du 13 novembre 2019 - art. 13
 
 
 ###### Article L111-22
@@ -3397,8 +3403,14 @@ _Cite_:
 La société gestionnaire d'un réseau de distribution desservant plus de 100 000 clients et les sociétés de production ou de
 fourniture qui la contrôlent au sens de l'article L. 233-3 et du III de l'article L. 430-1 du code de commerce s'abstiennent
 de toute confusion entre leur identité sociale, leurs pratiques de communication et leur stratégie de marque. A cet effet, la
-société gestionnaire du réseau de distribution est propriétaire de la ou des marques qui l'identifient en tant que
-gestionnaire de réseau de distribution. Elle seule en gère l'utilisation.
+société gestionnaire du réseau de distribution est titulaire de la ou des marques qui l'identifient en tant que gestionnaire
+de réseau de distribution. Elle seule en gère l'utilisation.
+
+**Nota:**
+
+Aux termes du I de l'article 15 de l'ordonnance n° 2019-1169 du 13 novembre 2019, les dispositions issues de la présente
+ordonnance entrent en vigueur à la date d'entrée en vigueur du décret pris pour son application et au plus tard le 15
+décembre 2019.
 
 **Liens relatifs à cet article**
 
@@ -3406,9 +3418,9 @@ _Codifié par_:
 
   - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
+  - Ordonnance n°2019-1169 du 13 novembre 2019 - art. 13
 
 _Cite_:
 
