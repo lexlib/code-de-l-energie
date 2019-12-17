@@ -1,5 +1,5 @@
 # Code de l'énergie  
-Version Consolidée au 2019-12-15
+Version Consolidée au 2019-12-18
 ## Contenu: 
   - [Partie législative (art. L100-1 à L731-1)](#1)
     - [LIVRE IER : L'ORGANISATION GENERALE  DU SECTEUR DE L'ENERGIE (art. L100-1 à L161-6)](#2)
@@ -75370,38 +75370,11 @@ _Cité par_:
   - Arrêté du 4 juin 2018 (V)
 
 
-###### Article D641-5
-
-Un comité technique de l'utilisation des produits pétroliers donne son avis sur les questions techniques de caractère général
-intéressant, notamment, l'utilisation des produits pétroliers qui lui sont soumises par le ministre chargé de l'énergie.
-
-Ce comité comprend des représentants des ministres concernés ainsi que des membres choisis en raison de leur compétence et de
-leur activité, nommés par arrêté du ministre chargé de l'énergie.
-
-Sa composition ainsi que ses règles d'organisation et de fonctionnement sont fixées par arrêté du ministre chargé de
-l'énergie.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-_Créé par_:
-
-  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-_Abrogé par_:
-
-  - Décret n°2019-1362 du 16 décembre 2019 - art. 1
-
-
 ###### Article D641-6
 
-Après avis du comité technique de l'utilisation des produits pétroliers, des arrêtés du ministre chargé de l'environnement
-ou, en tant que de besoin, des arrêtés interministériels, pris sur son initiative, déterminent les règles de sécurité,
-peuvent rendre obligatoire l'application de normes homologuées et fixent les modalités de contrôle ainsi que, le cas échéant,
-les mesures transitoires concernant :
+Des arrêtés du ministre chargé de l'environnement ou, en tant que de besoin, des arrêtés interministériels, pris sur son
+initiative, déterminent les règles de sécurité, peuvent rendre obligatoire l'application de normes homologuées et fixent les
+modalités de contrôle ainsi que, le cas échéant, les mesures transitoires concernant :
 
 1° Les installations industrielles, chaudières, fours ou tous appareils mettant en œuvre des produits pétroliers ;
 
@@ -75419,9 +75392,9 @@ _Codifié par_:
 
   - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2015-1823 du 30 décembre 2015 - art.
+  - Décret n°2019-1362 du 16 décembre 2019 - art. 1
 
 _Cité par_:
 
@@ -75498,9 +75471,8 @@ _Cité par_:
 ###### Article D641-8
 
 Les mesures d'application de la présente section, notamment en ce qui concerne les dispositions particulières à prendre pour
-chacun des produits énumérés à l'article R. 641-7 (1) en vue de préciser ses caractéristiques, sont fixées, après avis du
-comité technique de l'utilisation des produits pétroliers, par des arrêtés du ministre chargé de l'énergie ou, en tant que de
-besoin, par des arrêtés interministériels pris sur son initiative. 
+chacun des produits énumérés à l'article R. 641-7 (1) en vue de préciser ses caractéristiques, sont fixées par des arrêtés du
+ministre chargé de l'énergie ou, en tant que de besoin, par des arrêtés interministériels pris sur son initiative.
 
 Ces arrêtés peuvent également fixer les conditions d'inscription de la dénomination et des mentions susceptibles de
 l'accompagner, notamment la nature, le prix, la masse ou le volume sur les récipients, appareils distributeurs, panonceaux,
@@ -75516,13 +75488,13 @@ _Codifié par_:
 
   - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2015-1823 du 30 décembre 2015 - art.
+  - Décret n°2019-1362 du 16 décembre 2019 - art. 1
 
 _Cite_:
 
-  - Code de l'énergie - art. D641-7 (V)
+  - Code de l'énergie - art. D641-7
 
 _Cité par_:
 
