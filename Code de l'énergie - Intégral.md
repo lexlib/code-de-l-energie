@@ -1,5 +1,5 @@
 # Code de l'énergie  
-Version Consolidée au 2019-09-01
+Version Consolidée au 2020-01-01
 ## Contenu: 
   - [Partie législative (art. L100-1 à L731-1)](#1)
     - [LIVRE IER : L'ORGANISATION GENERALE  DU SECTEUR DE L'ENERGIE (art. L100-1 à L161-6)](#2)
@@ -22966,6 +22966,28 @@ _Cite_:
   - Code de l'énergie - art. L321-7 (V)
   - Code de l'énergie - art. L341-2 (V)
   - Code de l'énergie - art. L342-1 (V)
+
+
+###### Article L363-4
+
+Le niveau des tarifs réglementés de vente en vigueur en métropole s'applique dans les îles Wallis et Futuna. La structure des
+tarifs réglementés de vente peut toutefois être adaptée pour tenir compte des caractéristiques locales de consommation et des
+enjeux propres au système électrique des îles Wallis et Futuna.
+
+Le montant des taxes sur les produits énergétiques collectées par le territoire des îles Wallis et Futuna ayant un impact sur
+les coûts de production de l'électricité est répercuté sur le prix de vente de l'électricité.
+
+**Nota:**
+
+Conformément à l'article 4 de l'ordonnance n° 2016-572 du 12 mai 2016, ces dispositions entrent en vigueur au plus tard le
+1er janvier 2020, un arrêté conjoint des ministres chargés de l'économie, de l'énergie et de l'outre-mer fixe la procédure et
+les conditions de cet alignement.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2016-572 du 12 mai 2016 - art. 3
 
 
 ###### Article L363-5
@@ -75348,23 +75370,29 @@ _Cité par_:
 
 ###### Article R662-2
 
-Les agents désignés conformément aux dispositions de l'article R. 662-1 prêtent serment devant le tribunal de grande instance
-ou le tribunal d'instance de leur résidence administrative. Un procès-verbal en est dressé et une copie remise à
-l'intéressé. 
+Les agents désignés conformément aux dispositions de l'article R. 662-1 prêtent serment devant le tribunal judiciaire de leur
+résidence administrative, au siège de ce tribunal ou, le cas échéant, de l'une de ses chambres de proximité. Un procès-verbal
+en est dressé et une copie remise à l'intéressé.
 
-La formule du serment est la suivante : 
+La formule du serment est la suivante :
 
 “ Je jure de bien et loyalement remplir mes fonctions et d'observer en tout les devoirs qu'elles m'imposent. Je jure
 également de ne rien révéler ou utiliser de ce qui sera porté à ma connaissance à l'occasion de l'exercice de mes fonctions.
-” 
+”
 
 Ce serment peut être reçu par écrit.
 
+**Nota:**
+
+<font color="black">Conformément à l’article 36 du décret n° 2019-913 du 30 août 2019, ces dispositions entrent en vigueur le
+1
+    <sup>er</sup> janvier 2020.</font>
+
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2018-400 du 29 mai 2018 - art. 2
+  - Décret n°2019-913 du 30 août 2019 - art. 11
 
 _Cite_:
 
