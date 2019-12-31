@@ -1,5 +1,5 @@
 # Code de l'énergie  
-Version Consolidée au 2019-06-30
+Version Consolidée au 2020-01-01
 ## Contenu: 
   - [Partie législative (art. L100-1 à L731-1)](#1)
     - [LIVRE IER : L'ORGANISATION GENERALE  DU SECTEUR DE L'ENERGIE (art. L100-1 à L161-6)](#2)
@@ -22876,6 +22876,28 @@ _Cite_:
   - Code de l'énergie - art. L321-7 (V)
   - Code de l'énergie - art. L341-2 (V)
   - Code de l'énergie - art. L342-1 (V)
+
+
+###### Article L363-4
+
+Le niveau des tarifs réglementés de vente en vigueur en métropole s'applique dans les îles Wallis et Futuna. La structure des
+tarifs réglementés de vente peut toutefois être adaptée pour tenir compte des caractéristiques locales de consommation et des
+enjeux propres au système électrique des îles Wallis et Futuna.
+
+Le montant des taxes sur les produits énergétiques collectées par le territoire des îles Wallis et Futuna ayant un impact sur
+les coûts de production de l'électricité est répercuté sur le prix de vente de l'électricité.
+
+**Nota:**
+
+Conformément à l'article 4 de l'ordonnance n° 2016-572 du 12 mai 2016, ces dispositions entrent en vigueur au plus tard le
+1er janvier 2020, un arrêté conjoint des ministres chargés de l'économie, de l'énergie et de l'outre-mer fixe la procédure et
+les conditions de cet alignement.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2016-572 du 12 mai 2016 - art. 3
 
 
 ###### Article L363-5
