@@ -1,5 +1,5 @@
 # Code de l'énergie  
-Version Consolidée au 2019-12-15
+Version Consolidée au 2020-01-01
 ## Contenu: 
   - [Partie législative (art. L100-1 à L731-1)](#1)
     - [LIVRE IER : L'ORGANISATION GENERALE  DU SECTEUR DE L'ENERGIE (art. L100-1 à L161-6)](#2)
@@ -8800,13 +8800,18 @@ peuvent procéder aux visites en tous lieux, ainsi qu'à la saisie de pièces et
 demandées par la Commission de la régulation de l'énergie, que sur autorisation judiciaire dans les conditions définies ci-
 après. 
 
-La visite est autorisée par ordonnance du juge des libertés et de la détention du tribunal de grande instance dans le ressort
+La visite est autorisée par ordonnance du juge des libertés et de la détention du   tribunal judiciaire dans le ressort
 duquel sont situés les lieux à visiter. 
 
 L'ordonnance comporte l'adresse des lieux à visiter, le nom et la qualité du ou des fonctionnaires ou agents habilités à
 procéder aux opérations de visite et de saisie ainsi que les heures auxquelles ils sont autorisés à se présenter. 
 
 L'ordonnance est exécutoire au seul vu de la minute.
+
+**Nota:**
+
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -8816,7 +8821,7 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de l'énergie - art. L135-4 (V)
+  - Code de l'énergie - art. L135-4
 
 _Anciens textes_:
 
@@ -8826,9 +8831,9 @@ _Codifié par_:
 
   - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
+  - Ordonnance n°2019-964 du 18 septembre 2019 - art. 35 (VD)
 
 
 ###### Article L135-6
@@ -8925,16 +8930,21 @@ _Créé par_:
 ###### Article L135-9
 
 L'ordonnance autorisant la visite peut faire l'objet d'un appel devant le premier président de la cour d'appel suivant les
-règles prévues par le code de procédure civile. Cet appel n'est pas soumis au ministère d'avocat.
+règles prévues par le code de procédure civile. Cet appel n'est pas soumis au ministère d'avocat. 
 
 Cet appel est formé par déclaration remise ou adressée par pli recommandé au greffe de la cour dans un délai de quinze jours.
-Ce délai court à compter de la notification de l'ordonnance. Cet appel n'est pas suspensif.
+Ce délai court à compter de la notification de l'ordonnance. Cet appel n'est pas suspensif. 
 
-Le greffe du tribunal de grande instance transmet sans délai le dossier de l'affaire au greffe de la cour d'appel où les
-parties peuvent le consulter.
+Le greffe du   tribunal judiciaire transmet sans délai le dossier de l'affaire au greffe de la cour d'appel où les parties
+peuvent le consulter. 
 
 L'ordonnance du premier président de la cour d'appel est susceptible d'un pourvoi en cassation, selon les règles prévues par
 le code de procédure civile. Le délai du pourvoi en cassation est de quinze jours.
+
+**Nota:**
+
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -8946,9 +8956,9 @@ _Codifié par_:
 
   - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
+  - Ordonnance n°2019-964 du 18 septembre 2019 - art. 35 (VD)
 
 
 ###### Article L135-10
@@ -10551,12 +10561,17 @@ En dehors des cas mentionnés à l'article L. 142-22 ou lorsque l'accès à des 
 ceux-ci comprennent des parties à usage d'habitation, les fonctionnaires et agents habilités en vertu du même article ne
 peuvent procéder aux visites en tous lieux, ainsi qu'à la saisie de pièces et de documents, dans le cadre d'enquêtes
 demandées par le ministre de l'énergie ou le ministre chargé de l'économie, que sur autorisation judiciaire dans les
-conditions définies par le présent article et par les articles L. 142-24 à L. 142-29.
+conditions définies par le présent article et par les articles L. 142-24 à L. 142-29. 
 
-La visite est autorisée par ordonnance du juge des libertés et de la détention du tribunal de grande instance dans le ressort
+La visite est autorisée par ordonnance du juge des libertés et de la détention du   tribunal judiciaire dans le ressort
 duquel sont situés les lieux à visiter. 
 
 L'ordonnance est exécutoire au seul vu de la minute.
+
+**Nota:**
+
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -10564,9 +10579,9 @@ _Codifié par_:
 
   - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
+  - Ordonnance n°2019-964 du 18 septembre 2019 - art. 35 (VD)
 
 _Cité par_:
 
@@ -10575,8 +10590,8 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de l'énergie - art. L142-22 (V)
-  - Code de l'énergie - art. L142-24 (V)
+  - Code de l'énergie - art. L142-22
+  - Code de l'énergie - art. L142-24
 
 _Anciens textes_:
 
@@ -10683,16 +10698,21 @@ _Créé par_:
 ###### Article L142-27
 
 L'ordonnance autorisant la visite peut faire l'objet d'un appel devant le premier président de la cour d'appel suivant les
-règles prévues par le code de procédure civile. Cet appel n'est pas soumis au ministère d'avocat.
+règles prévues par le code de procédure civile. Cet appel n'est pas soumis au ministère d'avocat. 
 
 Cet appel est formé par déclaration remise ou adressée par pli recommandé au greffe de la cour dans un délai de quinze jours.
-Ce délai court à compter de la notification de l'ordonnance. Cet appel n'est pas suspensif.
+Ce délai court à compter de la notification de l'ordonnance. Cet appel n'est pas suspensif. 
 
-Le greffe du tribunal de grande instance transmet sans délai le dossier de l'affaire au greffe de la cour d'appel où les
-parties peuvent le consulter.
+Le greffe du   tribunal judiciaire transmet sans délai le dossier de l'affaire au greffe de la cour d'appel où les parties
+peuvent le consulter. 
 
 L'ordonnance du premier président de la cour d'appel est susceptible d'un pourvoi en cassation, selon les règles prévues par
 le code de procédure civile. Le délai du pourvoi en cassation est de quinze jours.
+
+**Nota:**
+
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -10704,9 +10724,9 @@ _Codifié par_:
 
   - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
+  - Ordonnance n°2019-964 du 18 septembre 2019 - art. 35 (VD)
 
 
 ###### Article L142-28
@@ -11725,8 +11745,13 @@ _Cité par_:
 
 ###### Article L151-6
 
-Pour l'application du présent livre à Mayotte et à Saint-Pierre-et-Miquelon, les références au " tribunal de grande instance
-" sont remplacées par des références au " tribunal de première instance ".
+Pour l'application du présent livre à Saint-Pierre-et-Miquelon, les références au " tribunal de grande instance " sont
+remplacées par des références au " tribunal de première instance ".
+
+**Nota:**
+
+Conformément à l'article 36 de l’ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -11734,9 +11759,9 @@ _Codifié par_:
 
   - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
+  - Ordonnance n°2019-964 du 18 septembre 2019 - art. 8
 
 
 #### Chapitre II : Dispositions applicables aux îles Wallis et Futuna<a id=100></a>
@@ -21380,9 +21405,28 @@ _Cite_:
 
 ###### Article L337-7
 
-Les tarifs réglementés de vente de l'électricité mentionnés à l'article L. 337-1 bénéficient, à leur demande, aux
-consommateurs finals domestiques et non domestiques pour leurs sites souscrivant une puissance inférieure ou égale à 36
-kilovoltampères.
+I.-Les tarifs réglementés de vente d'électricité mentionnés à l'article L. 337-1 bénéficient, à leur demande, pour leurs
+sites souscrivant une puissance inférieure ou égale à 36 kilovoltampères : 
+
+1° Aux consommateurs finals domestiques, y compris les propriétaires uniques et les syndicats de copropriétaires d'un
+immeuble unique à usage d'habitation ; 
+
+2° Aux consommateurs finals non domestiques qui emploient moins de dix personnes et dont le chiffre d'affaires, les recettes
+ou le total de bilan annuels n'excèdent pas 2 millions d'euros. 
+
+II.-Pour la souscription d'un nouveau contrat aux tarifs réglementés, les clients non domestiques attestent préalablement
+qu'ils remplissent les critères d'éligibilité mentionnés au 2° du I et portent la responsabilité du respect de ces critères
+d'éligibilité pour leur contrat d'alimentation. 
+
+III.-Les clients finals non domestiques qui disposent d'un contrat aux tarifs réglementés de vente d'électricité sont tenus
+de le résilier dès lors qu'ils ne respectent plus les critères mentionnés au 2° du I et portent la responsabilité du respect
+de ces critères d'éligibilité pour leur contrat d'alimentation.
+
+**Nota:**
+
+Aux termes du XIII de l'article 64 de la loi n° 2019-1147 du 8 novembre 2019, les I et II de l'article L. 337-7 du code de
+l'énergie, dans leur rédaction résultant de la présente loi, entrent en vigueur le 1er janvier 2020 et le III du même article
+L. 337-7 entre en vigueur le 1er janvier 2021.
 
 **Liens relatifs à cet article**
 
@@ -21394,13 +21438,13 @@ _Codifié par_:
 
   - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
+  - Loi n°2019-1147 du 8 novembre 2019 - art. 64 (V)
 
 _Cite_:
 
-  - Code de l'énergie - art. L337-1 (V)
+  - Code de l'énergie - art. L337-1
 
 _Cité par_:
 
@@ -23659,6 +23703,28 @@ _Cite_:
   - Code de l'énergie - art. L321-7 (V)
   - Code de l'énergie - art. L341-2 (V)
   - Code de l'énergie - art. L342-1 (V)
+
+
+###### Article L363-4
+
+Le niveau des tarifs réglementés de vente en vigueur en métropole s'applique dans les îles Wallis et Futuna. La structure des
+tarifs réglementés de vente peut toutefois être adaptée pour tenir compte des caractéristiques locales de consommation et des
+enjeux propres au système électrique des îles Wallis et Futuna.
+
+Le montant des taxes sur les produits énergétiques collectées par le territoire des îles Wallis et Futuna ayant un impact sur
+les coûts de production de l'électricité est répercuté sur le prix de vente de l'électricité.
+
+**Nota:**
+
+Conformément à l'article 4 de l'ordonnance n° 2016-572 du 12 mai 2016, ces dispositions entrent en vigueur au plus tard le
+1er janvier 2020, un arrêté conjoint des ministres chargés de l'économie, de l'énergie et de l'outre-mer fixe la procédure et
+les conditions de cet alignement.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2016-572 du 12 mai 2016 - art. 3
 
 
 ###### Article L363-5
@@ -40921,13 +40987,13 @@ _Cité par_:
 
 Une décision du président de la Commission de régulation de l'énergie habilite, parmi les agents placés sous son autorité ou
 sous l'autorité du président du comité de règlement des différends et des sanctions ayant les connaissances techniques et
-juridiques nécessaires, après avis du procureur de la République auprès du tribunal de grande instance de leur résidence
+juridiques nécessaires, après avis du procureur de la République auprès du   tribunal judiciaire de leur résidence
 administrative, les enquêteurs chargés, pour l'accomplissement des missions confiées à la commission, de rechercher ou de
 constater par procès-verbal les infractions aux dispositions du présent code. 
 
 Les agents placés sous l'autorité du président de la Commission de régulation de l'énergie ou sous l'autorité du président du
-comité de règlement des différends et des sanctions mentionnés au présent article prêtent serment devant le tribunal de
-grande instance de leur résidence administrative. 
+comité de règlement des différends et des sanctions mentionnés au présent article prêtent serment devant le   tribunal
+judiciaire de leur résidence administrative. 
 
 La formule du serment est la suivante : 
 
@@ -40935,15 +41001,20 @@ La formule du serment est la suivante :
 jure également de ne rien révéler ou utiliser de ce qui sera porté à ma connaissance à l'occasion de l'exercice de mes
 fonctions ".
 
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2015-1823 du 30 décembre 2015 - art.
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 
 ###### Article R135-3
@@ -40955,10 +41026,15 @@ en cas de retrait de cette dernière.
 
 Le modèle du titre d'habilitation est établi par la Commission de régulation de l'énergie. 
 
-Mention de la prestation de serment est portée, le cas échéant, sur ce titre par les soins du greffier du tribunal de grande
-instance.
+Mention de la prestation de serment est portée, le cas échéant, sur ce titre par les soins du greffier du   tribunal
+judiciaire. 
 
 L'enquêteur est muni de son titre lorsqu'il exerce ses missions.
+
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -40966,13 +41042,13 @@ _Codifié par_:
 
   - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2015-1823 du 30 décembre 2015 - art.
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 _Cite_:
 
-  - Code de l'énergie - art. R135-1 (V)
+  - Code de l'énergie - art. R135-1
 
 
 ###### Article R135-4
@@ -40981,8 +41057,13 @@ L'habilitation est retirée à l'enquêteur par l'autorité qui la lui a délivr
 nécessités du service ou compte tenu du comportement de l'enquêteur dans l'exercice de ses fonctions, après, dans ce dernier
 cas, que l'intéressé a été mis à même de présenter ses observations.
 
-- Le procureur de la République du tribunal de grande instance de la résidence administrative de l'inspecteur de
-l'environnement est informé de la décision de retrait.
+- Le procureur de la République du   tribunal judiciaire de la résidence administrative de l'inspecteur de l'environnement
+est informé de la décision de retrait.
+
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -40990,9 +41071,9 @@ _Codifié par_:
 
   - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2015-1823 du 30 décembre 2015 - art.
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 
 ###### Article R135-5
@@ -42360,8 +42441,8 @@ _Cité par_:
 
 Les fonctionnaires et agents publics habilités par le ministre chargé de l'énergie ou par le ministre chargé de l'économie en
 application de l'article R. 142-15 sont qualifiés pour procéder, dans l'exercice de leurs fonctions, à la recherche et à la
-constatation des infractions mentionnées à l'article L. 142-37, après leur assermentation devant le tribunal de grande
-instance de leur résidence administrative. 
+constatation des infractions mentionnées à l'article L. 142-37, après leur assermentation devant le   tribunal judiciaire de
+leur résidence administrative. 
 
 La formule du serment est la suivante : 
 
@@ -42369,6 +42450,11 @@ La formule du serment est la suivante :
 jure également de ne rien révéler ou utiliser de ce qui sera porté à ma connaissance à l'occasion de l'exercice de mes
 fonctions ".
 
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
@@ -42377,12 +42463,12 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2016-1726 du 14 décembre 2016 - art. 1
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 _Cite_:
 
-  - Code de l'énergie - art. L142-37 (V)
-  - Code de l'énergie - art. R142-15 (V)
+  - Code de l'énergie - art. L142-37
+  - Code de l'énergie - art. R142-15
 
 
 ###### Article R142-17
@@ -42390,14 +42476,19 @@ _Cite_:
 Un titre portant mention de l'habilitation prévue à l'article R. 142-15, ainsi que de la durée et du champ géographique de sa
 validité, est délivré par le ministre compétent aux agents et fonctionnaires mentionnés à l'article R. 142-16. Il peut être
 renouvelé. Il est immédiatement restitué par l'intéressé à la cessation des fonctions ayant justifié l'habilitation ou en cas
-de retrait de celle-ci.
+de retrait de celle-ci. 
 
-Des modèles de titres d'habilitation sont établis par le ministre chargé de l'énergie. 
+Des modèles de titres d'habilitation sont établis par le ministre chargé de l'énergie.
 
-- Mention de la prestation de serment est portée, le cas échéant, sur ce titre par les soins du greffier du tribunal de
-grande instance. 
+- Mention de la prestation de serment est portée, le cas échéant, sur ce titre par les soins du greffier du   tribunal
+judiciaire. 
 
 L'enquêteur est muni de son titre lorsqu'il exerce ses missions.
+
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -42407,21 +42498,26 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2016-1726 du 14 décembre 2016 - art. 1
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 _Cite_:
 
-  - Code de l'énergie - art. R142-15 (V)
+  - Code de l'énergie - art. R142-15
 
 
 ###### Article R142-18
 
 L'habilitation est retirée à l'enquêteur par l'autorité qui la lui a délivrée lorsque cette mesure est justifiée par les
 nécessités du service ou en considération du comportement de l'enquêteur dans l'exercice de ses fonctions, après, dans ce
-dernier cas, que l'intéressé a été mis à même de présenter ses observations.
+dernier cas, que l'intéressé a été mis à même de présenter ses observations. 
 
-Le procureur de la République du tribunal de grande instance de la résidence administrative de l'inspecteur de
-l'environnement est informé de la décision de retrait.
+Le procureur de la République du   tribunal judiciaire de la résidence administrative de l'inspecteur de l'environnement est
+informé de la décision de retrait.
+
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -42429,9 +42525,9 @@ _Codifié par_:
 
   - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2015-1823 du 30 décembre 2015 - art.
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 
 ###### Article R142-19
@@ -42871,32 +42967,37 @@ _Cite_:
 ###### Article R144-5
 
 Les représentants des salariés sont élus par les salariés de l'établissement qui remplissent les conditions requises pour
-être électeur au comité d'entreprise d'IFP Energies nouvelles.
+être électeur au comité d'entreprise d'IFP Energies nouvelles. 
 
 Sont éligibles au conseil d'administration les électeurs âgés de dix-huit ans accomplis, en fonctions au sein de
 l'établissement à la date du scrutin et y ayant été en fonctions pendant au moins deux ans au cours des cinq années précédant
-la date du scrutin.
+la date du scrutin. 
 
 L'élection a lieu au plus tard quinze jours avant la date de renouvellement du conseil d'administration. Les candidatures
-sont déposées au siège de l'établissement au plus tard un mois avant la date de l'élection.
+sont déposées au siège de l'établissement au plus tard un mois avant la date de l'élection. 
 
 Les électeurs sont répartis en deux collèges. Le premier collège est constitué des ouvriers, employés, techniciens et agents
 de maîtrise, le second des ingénieurs et cadres. Chacun des collèges désigne le représentant de la catégorie correspondante
-de salariés au conseil d'administration, à laquelle doivent appartenir les candidats, ainsi qu'un suppléant.
+de salariés au conseil d'administration, à laquelle doivent appartenir les candidats, ainsi qu'un suppléant. 
 
-L'élection a lieu au scrutin secret, uninominal, à un tour.
+L'élection a lieu au scrutin secret, uninominal, à un tour. 
 
 Chaque candidature doit être présentée par une organisation syndicale et être accompagnée de propositions relatives aux
-orientations stratégiques et à la politique générale de l'établissement.
+orientations stratégiques et à la politique générale de l'établissement. 
 
 Si le taux de participation est inférieur à 50 %, les résultats ne sont pas validés et un nouveau tour de scrutin, auquel
-peuvent se présenter des candidats qui ne sont pas présentés par une organisation syndicale, est organisé.
+peuvent se présenter des candidats qui ne sont pas présentés par une organisation syndicale, est organisé. 
 
 Les contestations relatives à la qualité d'électeur, à l'éligibilité et à la régularité des opérations électorales sont de la
-compétence du tribunal d'instance.
+compétence du   tribunal judiciaire. 
 
 En cas d'annulation des élections, une nouvelle élection a lieu au cours de la quatrième semaine qui suit l'annulation. Les
 candidatures doivent être déposées quinze jours au moins avant la date du scrutin.
+
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -42904,14 +43005,14 @@ _Codifié par_:
 
   - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-_Créé par_:
-
-  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
 _Cité par_:
 
   - Décret n°2019-912 du 30 août 2019 - art. 10
   - Code de l'énergie - art. R144-4 (V)
+
+_Modifié par_:
+
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 
 ###### Article R144-6
@@ -76291,23 +76392,29 @@ _Cité par_:
 
 ###### Article R662-2
 
-Les agents désignés conformément aux dispositions de l'article R. 662-1 prêtent serment devant le tribunal de grande instance
-ou le tribunal d'instance de leur résidence administrative. Un procès-verbal en est dressé et une copie remise à
-l'intéressé. 
+Les agents désignés conformément aux dispositions de l'article R. 662-1 prêtent serment devant le tribunal judiciaire de leur
+résidence administrative, au siège de ce tribunal ou, le cas échéant, de l'une de ses chambres de proximité. Un procès-verbal
+en est dressé et une copie remise à l'intéressé.
 
-La formule du serment est la suivante : 
+La formule du serment est la suivante :
 
 “ Je jure de bien et loyalement remplir mes fonctions et d'observer en tout les devoirs qu'elles m'imposent. Je jure
 également de ne rien révéler ou utiliser de ce qui sera porté à ma connaissance à l'occasion de l'exercice de mes fonctions.
-” 
+”
 
 Ce serment peut être reçu par écrit.
 
+**Nota:**
+
+<font color="black">Conformément à l’article 36 du décret n° 2019-913 du 30 août 2019, ces dispositions entrent en vigueur le
+1
+    <sup>er</sup> janvier 2020.</font>
+
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2018-400 du 29 mai 2018 - art. 2
+  - Décret n°2019-913 du 30 août 2019 - art. 11
 
 _Cite_:
 
@@ -76336,14 +76443,19 @@ avec le bon exercice de ses missions, le commissionnement peut être retiré ou 
 renouvelable une fois, sur proposition du directeur général de l'énergie et du climat et après avoir invité l'intéressé à
 faire connaître ses observations dans un délai déterminé. 
 
-Le procureur de la République du tribunal de grande instance de la résidence administrative de l'agent est informé de la
-décision de suspension ou de retrait.
+Le procureur de la République du   tribunal judiciaire de la résidence administrative de l'agent est informé de la décision
+de suspension ou de retrait.
+
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2018-400 du 29 mai 2018 - art. 2
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 _Cite_:
 
