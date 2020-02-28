@@ -1,5 +1,5 @@
 # Code de l'énergie  
-Version Consolidée au 2020-01-01
+Version Consolidée au 2020-02-29
 ## Contenu: 
   - [Partie législative (art. L100-1 à L731-1)](#1)
     - [LIVRE IER : L'ORGANISATION GENERALE  DU SECTEUR DE L'ENERGIE (art. L100-1 à L161-6)](#2)
@@ -392,7 +392,7 @@ relatives à la vente de biogaz (art. L446-1 A à L446-26)](#252)
           - [Section 2 : L'offre de transmission des données de consommation au moyen d'un dispositif déporté (art. D124-18 à D124-23)](#383)
       - [TITRE III : LA COMMISSION DE RÉGULATION DE L'ÉNERGIE (art. R132-1 à R135-5)](#384)
         - [Chapitre II : Organisation (art. R132-1 à R132-2)](#385)
-        - [Chapitre III : Fonctionnement (art. D133-11 à R133-12)](#386)
+        - [Chapitre III : Fonctionnement (art. D133-13 à R133-12)](#386)
         - [Chapitre IV : Attributions (art. R134-1 à R134-37)](#387)
           - [Section 1 : Consultations obligatoires sur les projets de décisions (art. R134-1 à R134-2)](#388)
           - [Section 2 : Rapports, avis, consultations et propositions (art. R134-3 à R134-6)](#389)
@@ -35158,8 +35158,9 @@ fourniture du gaz et à l'amélioration de la sécurité d'approvisionnement en 
 
 b) Le risque économique lié à l'investissement est tel que celui-ci ne serait pas réalisé en l'absence de dérogation ;
 
-c) La dérogation ne portera pas atteinte au bon fonctionnement du marché du gaz ni à celui du réseau de transport auquel
-l'installation ou l'ouvrage est ou sera raccordé.
+c) La dérogation ne portera pas atteinte à la concurrence sur les marchés susceptibles d'être affectés par l'investissement
+ouau bon fonctionnement du marché du gaz ni à celui du réseau de transport auquel l'installation ou l'ouvrage est ou sera
+raccordé ni à la sécurité de l'approvisionnement en gaz naturel dans l'Union européenne.
 
 **Liens relatifs à cet article**
 
@@ -35167,9 +35168,9 @@ _Codifié par_:
 
   - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2015-1823 du 30 décembre 2015 - art.
+  - Décret n°2020-168 du 27 février 2020 - art. 1
 
 _Cité par_:
 
@@ -38528,26 +38529,6 @@ _Codifié par_:
   - DEPLACE: Décret n°2016-1095 du 11 août 2016 - art. 1
 
 
-###### Article R122-6
-
-Le régime indemnitaire du médiateur de l'énergie est fixé par arrêté des ministres chargés de l'économie, de l'énergie et du
-budget publié au Journal officiel de la République française.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-**Liens**:
-
-  - DEPLACE: Décret n°2016-1095 du 11 août 2016 - art. 1
-
-_Abrogé par_:
-
-  - Décret n°2020-173 du 27 février 2020 - art. 22
-
-
 ###### Article R122-7
 
 Les frais occasionnés par les déplacements et les séjours des agents des services du médiateur sont remboursés dans les
@@ -40304,33 +40285,6 @@ _Créé par_:
 
 #### Chapitre III : Fonctionnement<a id=386></a>
 
-###### Article D133-11
-
-En complément de leur rémunération principale, une indemnité de sujétion spéciale est versée au président et aux vice-
-présidents du collège de la Commission de régulation de l'énergie.
-
-Le montant de cette indemnité est fixé par arrêté conjoint des ministres chargés du budget, de l'industrie et de la fonction
-publique. Il est indexé sur la valeur du point d'indice de la fonction publique.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-_Créé par_:
-
-  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-_Cité par_:
-
-  - Arrêté du 19 janvier 2017 (V)
-
-_Abrogé par_:
-
-  - Décret n°2020-173 du 27 février 2020 - art. 22
-
-
 ###### Article D133-13
 
 Les produits perçus au titre de la rémunération des services rendus instituée par l'article R. 133-12 sont attribués au
@@ -40462,163 +40416,6 @@ _Créé par_:
 _Cite_:
 
   - Code de l'énergie - art. L132-5 (V)
-
-
-###### Article R133-5
-
-Le président du collège reçoit un traitement égal à celui afférent à la première des deux catégories supérieures des emplois
-de l'Etat classés hors échelle. Les autres membres du collège reçoivent un traitement égal à celui afférent à la seconde de
-ces deux catégories.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-_Créé par_:
-
-  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-_Abrogé par_:
-
-  - Décret n°2020-173 du 27 février 2020 - art. 22
-
-
-###### Article R133-6
-
-Les membres du comité de règlement des différends et des sanctions, bénéficient de vacations attribuées en fonction de la
-présence effective des intéressés aux séances du comité.
-
-Donnent lieu également au versement de vacations au profit des membres du collège, dès lors qu'elles sont effectuées pour le
-compte de la commission, les activités suivantes :
-
-1° La production de rapports ;
-
-2° La représentation à des réunions ;
-
-3° Les missions effectuées en France ou à l'étranger ;
-
-4° Lorsqu'il ne fait pas l'objet d'une autre rémunération, le fait de donner une ou plusieurs conférences ou de participer à
-un ou plusieurs colloques.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-_Créé par_:
-
-  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-_Abrogé par_:
-
-  - Décret n°2020-173 du 27 février 2020 - art. 22
-
-_Cité par_:
-
-  - Code de l'énergie - art. R133-10 (Ab)
-  - Code de l'énergie - art. R133-8 (Ab)
-  - Code de l'énergie - art. R133-9 (Ab)
-
-
-###### Article R133-7
-
-L'unité de référence de la vacation est la demi-journée. Pour la production d'un rapport, le nombre de vacations est fixé par
-le président du collège ou du comité en fonction du temps nécessaire à sa préparation.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-_Créé par_:
-
-  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-_Abrogé par_:
-
-  - Décret n°2020-173 du 27 février 2020 - art. 22
-
-
-###### Article R133-8
-
-Le montant unitaire de la vacation est fixé, pour chacune des activités mentionnées à l'article R. 133-6, par arrêté conjoint
-des ministres chargés de l'économie, du budget et de la fonction publique. 
-
-Le même arrêté peut fixer, pour les vacations accomplies par le président du comité de règlement des différends et des
-sanctions, un montant autre que celui mentionné à l'alinéa précédent, dans la limite du double de ce même montant.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-_Créé par_:
-
-  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-_Abrogé par_:
-
-  - Décret n°2020-173 du 27 février 2020 - art. 22
-
-_Cite_:
-
-  - Code de l'énergie - art. R133-6
-
-
-###### Article R133-9
-
-Le montant annuel total des vacations allouées pour l'ensemble des activités mentionnées à l'article R. 133-6 ne peut excéder
-un montant égal à la moitié du traitement annuel brut du chevron II du groupe hors échelle B de rémunération.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-_Créé par_:
-
-  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-_Abrogé par_:
-
-  - Décret n°2020-173 du 27 février 2020 - art. 22
-
-_Cite_:
-
-  - Code de l'énergie - art. R133-6
-
-
-###### Article R133-10
-
-Outre le versement des vacations mentionnées à l'article R. 133-6, les membres du collège et du comité peuvent, dans les
-conditions fixées par le décret n° 2006-781 du 3 juillet 2006 fixant les conditions et les modalités de règlement des frais
-occasionnés par les déplacements temporaires des personnels civils de l'Etat, être indemnisés des frais occasionnés par leurs
-déplacements en France et à l'étranger.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Décret n°2006-781 du 3 juillet 2006
-  - Code de l'énergie - art. R133-6 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-_Créé par_:
-
-  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-_Abrogé par_:
-
-  - Décret n°2020-173 du 27 février 2020 - art. 22
 
 
 ###### Article R133-12
