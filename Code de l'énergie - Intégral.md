@@ -1,5 +1,5 @@
 # Code de l'énergie  
-Version Consolidée au 2020-01-01
+Version Consolidée au 2020-03-01
 ## Contenu: 
   - [Partie législative (art. L100-1 à L731-1)](#1)
     - [LIVRE IER : L'ORGANISATION GENERALE  DU SECTEUR DE L'ENERGIE (art. L100-1 à L161-6)](#2)
@@ -9420,10 +9420,12 @@ distribution électrique et à ne pas augmenter les émissions de gaz à effet d
 Sauf mention contraire, cette programmation contient les volets mentionnés à l'article L. 141-2 du présent code, est établie
 et peut être révisée selon les modalités mentionnées aux articles L. 141-3 et L. 141-4.
 
-II. - Dans les collectivités mentionnées au I du présent article, à l'exception de la Corse et des îles Wallis et Futuna, la
-programmation pluriannuelle de l'énergie constitue le volet énergie du schéma régional du climat, de l'air et de l'énergie,
-mentionné au 3° du I de l'article L. 222-1 du code de l'environnement. Dans les collectivités mentionnées au I du présent
-article, elle contient, outre les informations mentionnées au même I, des volets relatifs :
+II. - Dans les collectivités mentionnées au I du présent article, à l'exception de la Corse, de Saint-Pierre-et-Miquelon et
+des îles Wallis et Futuna, la programmation pluriannuelle de l'énergie constitue le volet énergie du schéma d'aménagement
+régional mentionné à l'article L. 4433-7 du code général des collectivités territoriales en tant qu'il vaut schéma régional
+du climat, de l'air et de l'énergie. L'élaboration, la révision ou la modification de la programmation pluriannuelle de
+l'énergie vaut actualisation du volet énergie de ce schéma. Dans les collectivités mentionnées au I du présent article, cette
+programmation pluriannuelle contient, outre les informations mentionnées au même I, des volets relatifs :
 
 1° A la sécurité d'approvisionnement en carburants et à la baisse de la consommation d'énergie primaire fossile dans le
 secteur des transports ;
@@ -9473,6 +9475,12 @@ IV. - Les zones non interconnectées au réseau métropolitain continental, à l
 et des zones mentionnées au I du présent article, font l'objet d'un volet annexé à la programmation pluriannuelle de
 l'énergie mentionnée à l'article L. 141-1, selon des modalités fixées par le décret mentionné à l'article L. 141-6.
 
+**Nota:**
+
+<font color="black">Conformément à l’article 7 de l’ordonnance n° 2019-1170 du 13 novembre 2019, les présentes dispositions
+entrent en vigueur le 1er mars 2020. Toutefois, elle ne s'applique pas aux procédures d'élaboration ou de révision de schémas
+d'aménagement régional en cours au 1er mars 2020.</font>
+
 **Liens relatifs à cet article**
 
 _Cité par_:
@@ -9486,7 +9494,7 @@ _Cité par_:
   - Code de l'énergie - art. D141-1 (V)
   - Code de l'énergie - art. D141-2 (V)
   - Code de l'énergie - art. D141-2-1 (V)
-  - Code de l'énergie - art. L121-7 (V)
+  - Code de l'énergie - art. L121-7 (M)
   - Code de l'énergie - art. L152-12 (V)
   - Code de l'énergie - art. L311-11-1 (V)
   - Code de l'énergie - art. L311-5-8 (V)
@@ -9494,7 +9502,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2019-1147 du 8 novembre 2019 - art. 59
+  - Ordonnance n°2019-1170 du 13 novembre 2019 - art. 3
 
 _Cite_:
 
