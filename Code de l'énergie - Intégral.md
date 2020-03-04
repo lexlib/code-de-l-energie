@@ -1,5 +1,5 @@
 # Code de l'énergie  
-Version Consolidée au 2020-03-01
+Version Consolidée au 2020-03-05
 ## Contenu: 
   - [Partie législative (art. L100-1 à L731-1)](#1)
     - [LIVRE IER : L'ORGANISATION GENERALE  DU SECTEUR DE L'ENERGIE (art. L100-1 à L161-6)](#2)
@@ -48268,7 +48268,7 @@ tonnes ;
 4° N'est pas cédé par l'acquéreur ou le titulaire d'un contrat de location :
 
 a) Dans les six mois suivant sa première immatriculation ni avant d'avoir parcouru au moins 6 000 kilomètres dans le cas d'un
-véhicule mentionné au a du 1° ;
+véhicule mentionné au a ou au c du 1° ;
 
 b) Dans l'année suivant sa première immatriculation ni avant d'avoir parcouru au moins 2 000 kilomètres dans le cas d'un
 véhicule mentionné au b du 1° ;
@@ -48282,10 +48282,6 @@ par kilomètre ;
 par kilomètre.
 
 **Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2015-1823 du 30 décembre 2015 - art.
 
 _Cité par_:
 
@@ -48308,7 +48304,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2018-1318 du 28 décembre 2018 - art. 1
+  - Décret n°2020-188 du 3 mars 2020 - art. 1
 
 _Cite_:
 
@@ -48366,7 +48362,7 @@ comprises, incluant le cas échéant le coût d'acquisition ou de location de la
 3° N'est pas cédé par l'acquéreur ou le titulaire d'un contrat de location :
 
 a) Dans les six mois suivant son acquisition ni avant d'avoir parcouru au moins 6 000 kilomètres, dans le cas d'un véhicule
-mentionné au a du 1° de l'article D. 251-1 ;
+mentionné au a ou au c du 1° de l'article D. 251-1 ;
 
 b) Dans l'année suivant sa première immatriculation ni avant d'avoir parcouru au moins 2 000 kilomètres dans le cas d'un
 véhicule mentionné au b du 1° de l'article D. 251-1 ;
@@ -48408,7 +48404,7 @@ destruction ou à la date de facturation du véhicule acquis ou loué ;
 acquis ou loué, à un centre de traitement des véhicules hors d'usage agréé mentionné au 3° de l'article R. 543-155 du code de
 l'environnement ou par des installations autorisées conformément aux dispositions de l'article R. 543-161 du même code, qui
 délivre à son propriétaire un certificat de destruction du véhicule conformément aux dispositions de l'article R. 322-9 du
-code de la route ;
+code de la route.
 
 **Nota:**
 
@@ -48419,10 +48415,6 @@ commandés ou dont le contrat de location a été signé avant cette date, à co
 premier loyer intervienne au plus tard trois mois après la publication dudit décret.
 
 **Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2015-1823 du 30 décembre 2015 - art.
 
 _Cité par_:
 
@@ -48445,7 +48437,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2019-1526 du 30 décembre 2019 - art. 1
+  - Décret n°2020-188 du 3 mars 2020 - art. 1
 
 _Cite_:
 
@@ -48643,9 +48635,9 @@ part est inférieur ou égal à 13 489 euros ;
 
 b) Le montant de l'aide est fixé à 100 euros, dans les autres cas ;
 
-3° Pour les véhicules mentionnés au premier alinéa de l'article D. 251-3 et correspondant au a du 1° du D. 251-1, dont le
-taux d'émission de dioxyde de carbone est inférieur ou égal à 116 grammes par kilomètre, classés “ électrique ” ou “ 1 ”, ou
-“ 2 ” dont la date de première immatriculation en France ou à l'étranger est postérieure au 1er septembre 2019 en application
+3° Pour les véhicules mentionnés au premier alinéa de l'article D. 251-3 et correspondant au a du 1° du D. 251-1, dont le les
+émissions de dioxyde de carbone sont inférieures ou égales à 144 grammes par kilomètre, classés “ électrique ” ou “ 1 ”, ou “
+2 ” dont la date de première immatriculation en France ou à l'étranger est postérieure au 1er septembre 2019 en application
 de l'arrêté mentionné à l'article R. 318-2 du code de la route :
 
 a) Le montant de l'aide est fixé à 1 500 euros dans la limite du coût d'acquisition du véhicule toutes taxes comprises, si le
@@ -48658,12 +48650,12 @@ la distance entre son domicile et son lieu de travail est supérieure à 30 kilo
 par an dans le cadre de son activité professionnelle avec son véhicule personnel, soit par une personne physique dont le
 revenu fiscal de référence par part est inférieur ou égal à 6 300 euros ;
 
-4° Pour les véhicules mentionnés au premier alinéa de l'article D. 251-3 et correspondant au a du 1° du D. 251-1, dont le
-taux d'émission de dioxyde de carbone est compris entre 21 et 50 grammes par kilomètre et classés électrique ou 1 en
-application de l'arrêté mentionné à l'article R. 318-2 du code de la route, le montant de l'aide est fixé à 1 500 euros ;
+4° Pour les véhicules mentionnés au premier alinéa de l'article D. 251-3 et correspondant au a du 1° du D. 251-1, dont les
+émissions de dioxyde de carbone sont comprises entre 21 et 50 grammes par kilomètre et classés électrique ou 1 en application
+de l'arrêté mentionné à l'article R. 318-2 du code de la route, le montant de l'aide est fixé à 1 500 euros ;
 
-5° Pour les véhicules mentionnés au premier alinéa de l'article D. 251-3 et correspondant au a du 1° du D. 251-1, dont le
-taux d'émission de dioxyde de carbone est compris entre 21 et 50 grammes par kilomètre, classés 1 en application de l'arrêté
+5° Pour les véhicules mentionnés au premier alinéa de l'article D. 251-3 et correspondant au a du 1° du D. 251-1, dont les
+émissions de dioxyde de carbone sont comprises entre 21 et 50 grammes par kilomètre, classés 1 en application de l'arrêté
 mentionné à l'article R. 318-2 du code de la route, dont l'autonomie équivalente en mode tout électrique en ville déterminée
 en application du règlement (UE) 2017/1151 de la Commission du 1er juin 2017 est supérieure à 40 kilomètres ou l'autonomie
 déterminée en application du règlement (CE) n° 692/2008 de la Commission du 18 juillet 2008 est supérieure à 50 kilomètres :
@@ -48676,23 +48668,21 @@ revenu fiscal de référence par part est inférieur ou égal à 6 300 euros ;
 
 b) Le montant de l'aide est fixé à 2 500 euros dans les autres cas ;
 
-6° Pour les véhicules mentionnés au b du III de l'article 1011 bis du code général des impôts, bénéficiant d'un abattement de
-40 % des émissions de dioxyde de carbone, au sens de la directive 2007/46/ CE, du 5 septembre 2007, le taux d'émission de
-dioxyde de carbone mentionné aux 3°, 4° et 5° est le taux renseigné à la rubrique (Z) du certificat d'immatriculation.
+Les émissions de dioxyde de carbone mentionnées par le présent article sont celles qui sont réputées répondre aux conditions
+de l'article 1007 bis du code général des impôts conformément au second alinéa de son III, après application, le cas échéant,
+de l'abattement prévu au dernier alinéa du III de l'article 1011 bis du même code. Pour l'application du premier alinéa du
+3°, le seuil de 144 grammes est remplacé par le seuil de 116 grammes pour les véhicules suivants :
 
-**Nota:**
+- ceux qui ne relèvent pas du nouveau dispositif d'immatriculation, au sens du 4° de l'article 1007 du code général des
+impôts ;
 
-Conformément à l’article 2 du décret n°2019-737 du 16 juillet 2019, lorsqu'elles sont plus avantageuses, les dispositions des
-articles D. 251-3 et D. 251-8 du code de l'énergie dans leur rédaction antérieure à l'entrée en vigueur dudit décret restent
-applicables aux véhicules, qui n'ont pas fait l'objet précédemment d'une première immatriculation en France ou à l'étranger,
-commandés ou dont le contrat de location a été signé avant cette date, à condition que leur facturation ou le versement du
-premier loyer intervienne au plus tard trois mois après la publication dudit décret.
+- ceux qui ont fait l'objet d'une immatriculation avant leur première immatriculation en France ;
+
+- ceux qui ne relèvent ni de la catégorie des voitures particulières, ni de celle des voitures accessibles en fauteuil
+roulant, ni de celle des camionnettes, et pour lesquels la première immatriculation en France intervient avant le 1er juillet
+2020.
 
 **Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2015-1823 du 30 décembre 2015 - art.
 
 _Cité par_:
 
@@ -48706,7 +48696,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2019-1526 du 30 décembre 2019 - art. 1
+  - Décret n°2020-188 du 3 mars 2020 - art. 1
 
 _Cite_:
 
@@ -48714,7 +48704,6 @@ _Cite_:
   - Code de la route. - art. R318-2
   - Code de l'énergie - art. D251-1
   - Code de l'énergie - art. D251-3
-  - règlement (CE) n°692/2008
 
 
 ###### Article D251-9
