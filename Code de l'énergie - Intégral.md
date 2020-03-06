@@ -1,5 +1,5 @@
 # Code de l'énergie  
-Version Consolidée au 2020-03-05
+Version Consolidée au 2020-03-07
 ## Contenu: 
   - [Partie législative (art. L100-1 à L731-1)](#1)
     - [LIVRE IER : L'ORGANISATION GENERALE  DU SECTEUR DE L'ENERGIE (art. L100-1 à L161-6)](#2)
@@ -331,7 +331,7 @@ relatives à la vente de biogaz (art. L446-1 A à L446-26)](#252)
         - [Chapitre unique (art. L731-1)](#322)
   - [Partie réglementaire (art. R111-1 à R721-20)](#323)
     - [LIVRE IER : L'ORGANISATION GÉNÉRALE DU SECTEUR DE L'ÉNERGIE (art. R111-1 à R161-10)](#324)
-      - [TITRE IER : LES PRINCIPES RÉGISSANT LE SECTEUR DE L'ÉNERGIE (art. R111-1 à D113-5)](#325)
+      - [TITRE IER : LES PRINCIPES RÉGISSANT LE SECTEUR DE L'ÉNERGIE (art. R111-1 à D113-6)](#325)
         - [Chapitre Ier : Les secteurs de l'électricité et du gaz (art. R111-1 à D111-66)](#326)
           - [Section 1 : Organisation des entreprises de transport (art. R111-1 à D111-17)](#327)
             - [Sous-section 1 : Règles communes aux entreprises de transport d'électricité et aux entreprises de transport de gaz (art. R111-1 à R111-13)](#328)
@@ -356,8 +356,8 @@ relatives à la vente de biogaz (art. L446-1 A à L446-26)](#252)
           - [Section 8 : Mise à disposition du public de courbes de mesure relatives au transport et à la distribution d'électricité et de gaz naturel (art. D111-59 à D111-66)](#347)
         - [Chapitre II : Le marché pétrolier (art. D112-1 à D112-3)](#348)
           - [Section 1 : Mise à disposition des personnes publiques de données relatives à la distribution de produits pétroliers (art. D112-1 à D112-3)](#349)
-        - [Chapitre III : Les réseaux de chaleur (art. D113-1 à D113-5)](#350)
-          - [Section 1 : Mise à disposition des personnes publiques de données relatives à la production et la distribution de chaleur ou de froid (art. D113-1 à D113-5)](#351)
+        - [Chapitre III : Les réseaux de chaleur (art. D113-1 à D113-6)](#350)
+          - [Section 1 : Mise à disposition des personnes publiques de données relatives à la production et la distribution de chaleur ou de froid (art. D113-1 à D113-6)](#351)
       - [TITRE II : LES OBLIGATIONS DE SERVICE PUBLIC ET LA PROTECTION DES CONSOMMATEURS (art. R121-1 à D124-23)](#352)
         - [Chapitre Ier : Les obligations de service public assignées aux entreprises du secteur de l'électricité et du gaz (art. R121-1 à R121-65)](#353)
           - [Section 1 : Définition des obligations assignées aux entreprises (art. R121-1 à R121-21)](#354)
@@ -35490,39 +35490,46 @@ _Cite_:
 
 ###### Article D111-52
 
-Pour l'application de la présente section : 
+Pour l'application de la présente section :
 
 1° Ne sont considérés que les points de livraison actifs, c'est-à-dire ceux dont la consommation de l'année concernée est non
-nulle ; 
+nulle ;
 
-2° Les consommations exprimées en MWh s'entendent en MWh PCS pour le gaz ; 
+2° Les consommations exprimées en MWh s'entendent en MWh PCS pour le gaz ;
 
-3° Les points de livraison de gaz correspondant à un tarif d'acheminement T1 ou T2 sont considérés comme relevant du secteur
-résidentiel ; 
+3° Pour le gaz, les points de livraison correspondant à un tarif d'acheminement T1 ou T2 et auxquels ne sont associés ni de
+code NAF ni de SIRET relèvent du secteur résidentiel ; les points de livraison correspondant à un tarif d'acheminement T1 ou
+T2 et auxquels sont associés un code NAF ou un SIRET relèvent de la catégorie des petits professionnels ; les points de
+livraison correspondant à un tarif d'acheminement T3 ou T4 relèvent de la catégorie des entreprises ;
 
-4° Les points de livraison d'électricité correspondant à des dispositifs de comptage d'une puissance inférieure ou égale à 36
-kVA sont considérés comme relevant du secteur résidentiel ; 
+4° Pour l'électricité, les points de livraison correspondant à des dispositifs de comptage d'une puissance inférieure ou
+égale à 36 kVA auxquels ne sont associés ni de code NAF ni de SIRET et pour lesquels les clients ne se sont pas déclarés
+auprès du fournisseur comme " professionnels " ou " éclairage public et assimilés " relèvent du secteur résidentiel ; les
+points de livraison correspondant à des dispositifs de comptage d'une puissance inférieure ou égale à 36 kVA auxquels sont
+associés un code NAF ou un SIRET ou pour lesquels les clients se sont déclarés auprès du fournisseur comme " professionnels "
+ou " éclairage public et assimilés " relèvent de la catégorie des petits professionnels ; les points de livraison
+correspondant à un dispositif de comptage d'une puissance supérieure à 36 kVA relèvent de la catégorie des entreprises ;
 
 5° Les regroupements par " IRIS " s'entendent par commune quand la commune n'est pas découpée en îlots regroupés pour
-l'information statistique, par îlots regroupés pour l'information statistique sinon ; 
+l'information statistique, par îlots regroupés pour l'information statistique sinon ;
 
 6° Le terme " agrégat " désigne l'ensemble des points de livraison d'un réseau, pour un IRIS et un secteur d'activité
-particuliers ; 
+particuliers ;
 
 7° Le terme " bâtiment " s'entend au sens d'un ensemble de points de livraison regroupés sur la base de leur adresse au sein
 du système de comptage d'énergie du gestionnaire de réseau concerné, ou bien d'un bâtiment au sens usuel du terme et désigné
-par la personne publique qui demande à en connaître la consommation énergétique ; 
+par la personne publique qui demande à en connaître la consommation énergétique ;
 
-8° Le terme " seuil-résidentiel " désigne un seuil en MWh, arrêté par le ministre chargé de l'énergie, en dessous duquel la
-publication de la consommation énergétique d'un agrégat ou d'un bâtiment appelle des dispositions particulières ; 
+8° Le terme " seuil-secret " désigne un seuil en MWh, arrêté par le ministre chargé de l'énergie, en dessous duquel la
+publication de la consommation énergétique d'un agrégat ou d'un bâtiment appelle des dispositions particulières ;
 
 9° Les termes " point de livraison " sont à entendre au sens de " point de mesure " pour le gaz.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2016-973 du 18 juillet 2016 - art. 1
+  - Décret n°2020-196 du 4 mars 2020 - art. 1
 
 _Cité par_:
 
@@ -35532,46 +35539,59 @@ _Cité par_:
 ###### Article D111-53
 
 Les données mentionnées au quatrième alinéa de l'article L. 111-72, au quatrième alinéa de l'article L. 111-73 et aux
-troisième et quatrième alinéas de l'article L. 111-77 sont ainsi définies : 
+troisième et quatrième alinéas de l'article L. 111-77 sont ainsi définies :
 
 I.-1° Pour les gestionnaires du réseau public de transport d'électricité et de réseaux de transport de gaz naturel, livraison
 totale annuelle de gaz et d'électricité, pour les installations directement raccordées au réseau concerné, par secteur
-d'activité et par IRIS ; à chaque livraison est associé le nombre de points de livraison correspondants ; 
+d'activité et par IRIS ; à chaque livraison est associé le nombre de points de livraison correspondants ;
 
 2° Pour les gestionnaires de réseaux de transport de gaz naturel, capacité installée d'injection de biométhane et quantité
 annuelle injectée de chaque installation selon sa typologie ; pour chaque installation est mentionné l'IRIS de raccordement
-ainsi que, s'il diffère et si l'information est disponible, l'IRIS du site de production principal ; 
+ainsi que, s'il diffère et si l'information est disponible, l'IRIS du site de production principal ;
 
 3° Pour le gestionnaire du réseau public de transport d'électricité, informations sur les installations de production rendues
 publiques dans le cadre du registre national des installations de production d'électricité et de stockage mentionné à
-l'article L. 142-9-1. 
+l'article L. 142-9-1.
 
-II.-Pour les gestionnaires de réseaux publics de distribution d'électricité et de gaz pour les réseaux qu'ils exploitent : 
+4° Pour les gestionnaires du réseau public de transport d'électricité et de réseaux de transport de gaz naturel, livraison
+totale annuelle de gaz et d'électricité, pour les installations directement raccordées au réseau concerné, par secteur
+d'activité et par point de livraison.
 
-1° Consommation totale annuelle de gaz et d'électricité par IRIS et par secteur d'activité ; en se limitant pour le secteur
-résidentiel aux agrégats dont le nombre de points de livraison est supérieur à 10 ou dont la consommation dépasse le seuil-
-résidentiel ; à chaque consommation est associé le nombre de points de livraison correspondants ; un agrégat résidentiel est
-dit secrétisé quand le nombre de points de livraison de l'agrégat est inférieur à 11 et quand sa consommation résidentielle
-est inférieure ou égale au seuil-résidentiel ; 
+II.-Pour les gestionnaires de réseaux publics de distribution d'électricité et de gaz pour les réseaux qu'ils exploitent :
 
-2° Somme régionale et par établissement public de coopération intercommunale des consommations annuelles des agrégats
-résidentiels secrétisés et nombre de points de livraison correspondants ; 
+1° Consommation totale annuelle de gaz et d'électricité par IRIS et par secteur d'activité ; en se limitant pour les
+consommations d'électricité du secteur résidentiel aux agrégats dont le nombre de points de livraison est supérieur à neuf,
+en se limitant pour les consommations de gaz du secteur résidentiel aux agrégats dont le nombre de points de livraison est
+supérieur à neuf ou dont la consommation dépasse le seuil-secret défini pour le secteur résidentiel, en se limitant pour les
+petits professionnels aux agrégats dont le nombre de points de livraison est supérieur à neuf ou dont la consommation dépasse
+le seuil-secret défini pour les petits professionnels ; à chaque consommation est associé le nombre de points de livraison
+correspondants. Pour les consommations d'électricité du secteur résidentiel, un agrégat est dit secrétisé lorsque le nombre
+de points de livraison de l'agrégat est inférieur à dix. Pour les consommations de gaz du secteur résidentiel et les
+consommations des petits professionnels, un agrégat est dit secrétisé lorsque le nombre de point de livraison de l'agrégat
+est inférieur à dix et quand sa consommation est inférieure ou égale au seuil-secret ;
+
+2° Somme régionale et par établissement public de coopération intercommunale des consommations annuelles par secteur
+d'activité et nombre de points de livraison correspondants ;
 
 3° Estimation de la part thermosensible et de la thermosensibilité des consommations ; des profils de consommation moyens
 établis à l'échelle nationale peuvent être utilisés pour estimer la part thermosensible et la thermosensibilité des
-consommations ; 
+consommations ;
 
-4° Consommation totale annuelle de gaz et d'électricité par bâtiment non résidentiel, ou comprenant plus de dix points de
-livraison résidentiels, ou dont la consommation résidentielle est supérieure au seuil-résidentiel ; à chaque consommation est
-associée le nombre de points de livraison correspondants ; un arrêté du ministre chargé de l'énergie précise les modalités
-d'application de cette disposition, y compris comment la notion de bâtiment peut être élargie à des regroupements de
-bâtiments, à l'initiative du gestionnaire de réseau ou à la demande d'une personne publique, ces regroupements de bâtiments
-étant traités comme des bâtiments dans le cadre de la présente section ; 
+4° Consommation totale annuelle de gaz et d'électricité par bâtiment par catégorie et par secteur d'activité. Pour
+l'électricité, les données du secteur résidentiel se limitent aux bâtiments comprenant plus de neuf points de livraison
+résidentiels. Pour le gaz, les données du secteur résidentiel se limitent aux bâtiments comprenant plus de neuf points de
+livraison résidentiels ou dont la consommation résidentielle est supérieure au seuil-secret défini pour le secteur
+résidentiel ; pour les petits professionnels, les données se limitent aux bâtiments comprenant plus de neuf points de
+livraison ou dont la consommation de chaque secteur d'activité est supérieure au seuil-secret défini pour cette catégorie ; à
+chaque consommation est associé le nombre de points de livraison correspondants ; un arrêté du ministre chargé de l'énergie
+précise les modalités d'application de cette disposition, y compris comment la notion de bâtiment peut être élargie à des
+regroupements de bâtiments, à l'initiative du gestionnaire de réseau ou à la demande d'une personne publique, ces
+regroupements de bâtiments étant traités comme des bâtiments dans le cadre de la présente section ;
 
 5° Pour les gestionnaires de réseaux publics de distribution de gaz, capacité d'injection de biométhane et quantité annuelle
 de biométhane injecté de chaque installation de production selon sa typologie ; pour chaque installation sont mentionnés
 l'IRIS où se situe le point d'injection sur le réseau de distribution ainsi que, s'il diffère, et si l'information est
-disponible, l'IRIS du site de production principal ; 
+disponible, l'IRIS du site de production principal ;
 
 6° Pour les gestionnaires de réseaux publics de distribution d'électricité, données sur les installations de production
 rendues publiques dans le cadre du registre national des installations de production d'électricité et de stockage mentionné à
@@ -35579,13 +35599,13 @@ l'article L. 142-9-1.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2016-973 du 18 juillet 2016 - art. 1
+  - Décret n°2020-196 du 4 mars 2020 - art. 1
 
 _Cité par_:
 
-  - Code de l'énergie - art. D111-55 (M)
+  - Code de l'énergie - art. D111-55 (V)
   - Code de l'énergie - art. D111-58 (V)
 
 _Cite_:
@@ -35638,7 +35658,7 @@ secteurs d'activité, le format des données, la version du référentiel de l'I
 économiques à utiliser pour les établissements publics de coopération intercommunale, les communes, et les îlots regroupés
 pour l'information statistique, le mode d'évaluation de la qualité des données transmises.
 
-Chaque gestionnaire de réseaux de transport et de distribution de gaz transmet chaque trimestre au service statistique du
+Chaque gestionnaire de réseaux de transport et de distribution de gaz transmet chaque année au service statistique du
 ministère chargé de l'énergie les nouveaux raccordements d'installation de biométhane, avec leur date de raccordement, et les
 modifications de la capacité installée d'injection de biométhane des installations existantes, avec la date de modification.
 
@@ -35655,25 +35675,34 @@ notamment par les gestionnaires de réseaux, selon le calendrier de publication 
 ministre chargé de l'énergie, en fonction des catégories d'opérateurs.
 
 Toutefois les sommes régionales et par établissement public de coopération intercommunale de consommations annuelles
-d'agrégats résidentiels secrétisés ne peuvent être diffusées que pour les sommes qui correspondent à plus de 10 points de
-livraison ou qui dépassent le seuil-résidentiel.
+d'agrégats ne peuvent être diffusées :
 
-Lorsqu'une telle somme correspond à moins de 11 points de livraison et lorsqu'elle est inférieure ou égale au seuil-
-résidentiel, la consommation totale de la région, la consommation totale du territoire de l'établissement public de
-coopération intercommunale ainsi que la consommation de l'ensemble du secteur résidentiel de la région ou du territoire de
-l'établissement public de coopération intercommunale concerné ne peuvent être publiées, mais seulement la somme des agrégats
-correspondants non secrétisés.
+- pour les consommations résidentielles d'électricité, lorsque les sommes des agrégats secrétisés correspondent à moins de
+dix points de livraison à la maille géographique concernée ; n'est alors publiée que la somme des agrégats correspondants non
+secrétisés ;
+
+- pour les consommations résidentielles de gaz, lorsque les sommes des agrégats secrétisés correspondent à moins de dix
+points de livraison et sont inférieures au seuil-secret défini pour le secteur résidentiel à la maille géographique
+concernée ; n'est alors publiée que la somme des agrégats correspondants non secrétisés ;
+
+- pour les consommations des petits professionnels, lorsque les sommes des agrégats secrétisés correspondent à moins de dix
+points de livraison et sont inférieures au seuil-secret défini pour les petits professionnels à la maille géographique
+concernée ; n'est alors publiée que la somme des agrégats correspondants non secrétisés.
+
+Dans ces cas, il est indiqué qu'il s'agit de totaux partiels. Lorsqu'un total partiel est diffusé à une maille géographique,
+la consommation totale de la maille géographique concernée ne peut être publiée ; seule peut être publiée la somme des
+consommations prenant en compte ces totaux partiels.
 
 Toute diffusion au public s'accompagne d'une mention indiquant que s'agissant de données statistiques leur précision et leur
 fiabilité ne peut être garantie, en particulier pour les petits ensembles, y compris pour les meilleurs indices de qualité.
 
-IV. - Le service statistique du ministère chargé de l'énergie publie chaque année, avant le 1er septembre, dans un standard
+IV. - Le service statistique du ministère chargé de l'énergie publie chaque année, avant le 1er octobre, dans un standard
 ouvert aisément réutilisable, l'intégralité des informations diffusables telles que définies au III et transmises par les
 gestionnaires de réseaux, en faisant état des données non transmises par les opérateurs, des contrôles de cohérence
 effectués, de leurs résultats et des contrôles n'ayant pu être effectués à ce stade.
 
-Le service statistique du ministère chargé de l'énergie publie chaque trimestre la liste des nouveaux raccordements aux
-réseaux d'installations de production d'électricité et d'injection de biométhane ainsi que les changements de puissance de
+Le service statistique du ministère chargé de l'énergie publie chaque année la liste des nouveaux raccordements aux réseaux
+d'installations de production d'électricité et d'injection de biométhane ainsi que les changements de puissance de
 raccordements et de capacité d'injection installée, en précisant, pour chaque installation, l'IRIS où se situe le point de
 raccordement ou d'injection sur le réseau public de distribution ainsi que, s'il diffère et si l'information est disponible,
 l'IRIS du site de production principal.
@@ -35725,13 +35754,15 @@ titre de laquelle elles demandent les données en citant l'alinéa du V du prés
 données sont mises à disposition de ces personnes publiques dans un délai qui ne peut excéder deux mois à compter de la
 réception de la demande complète. Lorsque ces données n'ont pas encore été transmises au service statistique du ministère
 chargé de l'énergie, en application du deuxième alinéa du I, les gestionnaires de réseau regroupent ces données et les
-envoient chaque trimestre au service statistique du ministère chargé de l'énergie.
+envoient chaque année au service statistique du ministère chargé de l'énergie. Les formalités de demande des données auprès
+de chacun des gestionnaires de réseau sont publiées sur le site internet du service statistique du ministère en charge de
+l'énergie.
 
 La diffusion de ces données au public par ces personnes publiques n'est pas soumise au calendrier de la première année de
 publication mentionné au III. Toutefois ces données ne peuvent être diffusées au public qu'après, d'une part, un examen par
 la personne publique qui décide de cette diffusion de leur cohérence avec les dispositions du 4° du II de l'article D. 111-53
 et de leur vraisemblance au regard du parc immobilier concerné et, d'autre part, à la condition, pour l'électricité, que les
-bâtiments correspondent à plus de 10 points de livraison.
+bâtiments correspondent à plus de neuf points de livraison.
 
 Ces personnes publiques peuvent, sous leur responsabilité, déléguer le recueil, le traitement, le contrôle et la diffusion de
 ces données à des tiers, notamment ceux exerçant des missions d'intérêt général sur la connaissance et l'élaboration des
@@ -35749,6 +35780,12 @@ demande complète.
 VIII. - Le traitement, par un tiers aux gestionnaires de réseaux visés par cet article, des données mentionnées à l'article
 D. 111-53 faisant l'objet d'une transmission ou diffusion publique en application du présent article ne peut avoir pour objet
 ou pour effet de reconstituer les données individuelles des personnes concernées.
+
+**Nota:**
+
+Conformément à l'article 3 de l'arrêté du 6 mars 2020 (NOR : TRER1924916A), les informations mentionnées au V de l'article D.
+111-55 sont mises à disposition dans un format électronique ouvert, facilement réutilisable. La justification mentionnée au
+VI de cet article se fait par simple courrier du représentant légal de la personne publique.
 
 **Liens relatifs à cet article**
 
@@ -35770,7 +35807,7 @@ _Cite_:
   - Code de la construction et de l'habitation. - art. L301-5-1
   - Code de l'environnement - art. L222-1
   - Code de l'environnement - art. L229-26
-  - Code de l'énergie - art. D111-53
+  - Code de l'énergie - art. D111-53 (V)
   - Code de l'énergie - art. D111-54
   - Code de l'énergie - art. L232-1
   - Code de l'énergie - art. L232-2
@@ -35782,34 +35819,43 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2018-1126 du 11 décembre 2018 - art. 3
+  - Décret n°2020-196 du 4 mars 2020 - art. 1
 
 
 ###### Article D111-56
 
-Les fournisseurs doivent, au plus tard cinq mois avant l'échéance de transmission des données par code NAF, transmettre aux
-gestionnaires de réseaux d'électricité ou de gaz concernés le code NAF sur deux positions (88 modalités) de leurs clients.
+Les fournisseurs doivent, au plus tard le 30 novembre de l'année précédant la collecte, transmettre aux gestionnaires de
+réseaux d'électricité ou de gaz concernés le SIRET et le code NAF sur deux positions (88 modalités) de leurs clients à une
+date comprise entre le 1er et le 31 août de l'année en cours. Ils transmettent également le code NAF du site lorsqu'il est
+différent de celui du client.
+
+Les gestionnaires de réseau réalisent tous les ans un bilan sur la transmission des SIRET et des NAF par les fournisseurs.
+Tous les trois ans, ce bilan analyse la qualité des données transmises et propose des pistes d'amélioration proportionnées en
+coût aux bénéfices évalués de la mise à disposition des données.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2016-973 du 18 juillet 2016 - art. 1
+  - Décret n°2020-196 du 4 mars 2020 - art. 1
 
 
 ###### Article D111-57
 
 Pour les gestionnaires de réseaux publics de distribution de gaz ou d'électricité, sont définies les données suivantes, par
-réseau : 
+réseau :
 
-1° Consommation totale annuelle par point de livraison résidentiel lorsque cette consommation est inférieure ou égale au
-seuil-résidentiel ; 
+1° Consommation totale annuelle par point de livraison résidentiel de gaz lorsque cette consommation est inférieure ou égale
+au seuil-secret défini pour les consommations résidentielles de gaz ;
 
-2° Consommation totale annuelle par bâtiment comportant un seul point de livraison résidentiel, la consommation de ce point
-étant inférieure ou égale au seuil-résidentiel ; 
+2° Consommation totale annuelle par bâtiment comportant un seul point de livraison résidentiel de gaz, la consommation de ce
+point étant inférieure ou égale au seuil-secret défini pour les consommations résidentielles de gaz ;
 
-3° Consommation totale annuelle de gaz ou d'électricité par bâtiment, dont la part résidentielle, respectivement de gaz ou
-d'électricité, est inférieure ou égale au seuil-résidentiel et qui comporte entre 2 et 10 points de livraison résidentiels. 
+3° Part résidentielle de la consommation annuelle d'électricité par bâtiment comportant entre 2 et 9 points de livraison
+résidentiels ;
+
+4° Part résidentielle de la consommation annuelle de gaz par bâtiment inférieure ou égale au seuil-secret défini pour les
+consommations résidentielles de gaz, et qui comporte entre 2 et 9 points de livraison résidentiel.
 
 Après avis de la Commission nationale de l'informatique et des libertés et de la Commission de régulation de l'énergie, le
 ministre chargé de l'énergie arrête les modalités de recueil et de gestion du consentement nécessaire à la transmission aux
@@ -35817,9 +35863,9 @@ personnes publiques des données visées au présent article pour l'exercice de 
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2016-973 du 18 juillet 2016 - art. 1
+  - Décret n°2020-196 du 4 mars 2020 - art. 1
 
 _Cité par_:
 
@@ -36290,32 +36336,29 @@ _Cite_:
 
 ###### Article D113-1
 
-Pour l'application de la présente section : 
+Pour l'application de la présente section :
 
-1° Ne sont considérés que les points de livraisons actifs, c'est-à-dire ceux dont la consommation de l'année concernée est
-non nulle ; 
+1° Ne sont considérés que les points de livraisons actifs, c'est-à-dire les points de comptage dont la consommation de
+l'année concernée est non nulle ;
 
-2° Les points de livraison de chaleur ou de froid correspondant à une consommation annuelle inférieure à 20 MWh sont
-considérés comme relevant du secteur résidentiel ; 
+2° Les regroupements par " IRIS " s'entendent par commune quand la commune n'est pas découpée en îlots regroupés pour
+l'information statistique, par îlots regroupés pour l'information statistique sinon ;
 
-3° Les regroupements par " IRIS " s'entendent par commune quand la commune n'est pas découpée en îlots regroupés pour
-l'information statistique, par îlots regroupés pour l'information statistique sinon ; 
+3° Le terme " agrégat " désigne l'ensemble des points de livraison d'un réseau, pour un IRIS et un secteur d'activité
+particuliers ;
 
-4° Le terme " agrégat " désigne l'ensemble des points de livraison d'un réseau, pour un IRIS et un secteur d'activité
-particuliers ; 
-
-5° Le terme " bâtiment " s'entend au sens d'un ensemble de points de livraison regroupés sur la base de leur adresse au sein
+4° Le terme " bâtiment " s'entend au sens d'un ensemble de points de livraison regroupés sur la base de leur adresse au sein
 du système de comptage d'énergie du gestionnaire de réseau concerné, ou bien d'un bâtiment au sens usuel du terme et désigné
-par la personne publique qui demande à en connaître la consommation énergétique ; 
+par la personne publique qui demande à en connaître la consommation énergétique ;
 
-6° Le terme " seuil-résidentiel " désigne un seuil en MWh, arrêté par le ministre chargé de l'énergie, en dessous duquel la
+5° Le terme " seuil-secret " désigne un seuil en MWh, arrêté par le ministre chargé de l'énergie, en dessous duquel la
 publication de la consommation énergétique d'un agrégat ou d'un bâtiment appelle des dispositions particulières.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2016-973 du 18 juillet 2016 - art. 3
+  - Décret n°2020-196 du 4 mars 2020 - art. 2
 
 _Cité par_:
 
@@ -36324,36 +36367,37 @@ _Cité par_:
 
 ###### Article D113-2
 
-Pour les gestionnaires de réseaux de chaleur ou de froid, les données mentionnées à l'article L. 113-1 sont ainsi définies : 
+Pour les gestionnaires de réseaux de chaleur ou de froid, les données mentionnées à l'article L. 113-1 sont ainsi définies :
 
-1° Pour chaque réseau, puissance installée et production annuelle de chaleur ou de froid, en précisant son contenu CO 
+1° Pour chaque réseau, puissance installée et production annuelle de chaleur ou de froid, livraison annuelle de chaleur ou de
+froid, en précisant son contenu CO 
   <sub>2 </sub>ainsi que, le cas échéant, la part issue d'installations de cogénération ; ces données, y compris la part
 issue d'installations de cogénération, sont détaillées pour chaque filière définie par arrêté du ministre chargé de
-l'énergie ; 
+l'énergie ;
 
-2° Livraisons totales annuelles de chaleur ou de froid par secteur d'activité et par IRIS ; en se limitant pour le secteur
-résidentiel aux agrégats dont le nombre de points de livraison est supérieur à 10 ou dont la consommation dépasse le seuil-
-résidentiel ; à chaque livraison est associé le nombre de points de livraison correspondants ; 
+2° Livraisons totales annuelles de chaleur ou de froid par secteur d'activité et par IRIS ; en se limitant aux agrégats dont
+le nombre de points de livraison est supérieur à neuf ou dont la consommation dépasse le seuil-secret défini pour le secteur
+résidentiel ; à chaque agrégat est associé le nombre de points de livraison correspondants ;
 
-3° Consommation totale annuelle par point de livraison, et seulement si cette consommation est supérieure au seuil-
-résidentiel lorsque des consommations résidentielles sont concernées ; 
+3° Consommation totale annuelle par point de livraison et par secteur, et seulement si cette consommation est supérieure au
+seuil-secret défini pour le secteur résidentiel ;
 
 4° Présentation du réseau, à la maille régionale et intercommunale, sur la base d'une cartographie commentée.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2016-973 du 18 juillet 2016 - art. 3
+  - Décret n°2020-196 du 4 mars 2020 - art. 2
 
 _Cité par_:
 
   - Code de l'énergie - art. D113-3 (V)
-  - Code de l'énergie - art. D113-5 (M)
+  - Code de l'énergie - art. D113-5 (V)
 
 _Cite_:
 
-  - Code de l'énergie - art. L113-1 (V)
+  - Code de l'énergie - art. L113-1
 
 
 ###### Article D113-3
@@ -36389,7 +36433,7 @@ qu'arrête le ministre chargé de l'énergie, en fonction des catégories d'opé
 Toute diffusion au public s'accompagne d'une mention indiquant que s'agissant de données statistiques, leur précision et leur
 fiabilité ne peut être garantie, en particulier pour les petits ensembles, y compris pour les meilleurs indices de qualité.
 
-IV. - Le service statistique du ministère chargé de l'énergie publie chaque année, avant le 1er septembre, dans un standard
+IV. - Le service statistique du ministère chargé de l'énergie publie chaque année, avant le 1er octobre, dans un standard
 ouvert aisément réutilisable, l'intégralité des informations diffusables telles que définies au III et transmises par les
 gestionnaires de réseaux, en faisant état des données non transmises par les opérateurs, des contrôles de cohérence
 effectués, de leurs résultats et des contrôles n'ayant pu être effectués à ce stade.
@@ -36442,7 +36486,9 @@ titre de laquelle elles demandent les données en citant l'alinéa du V du prés
 données sont mises à disposition de ces personnes publiques dans un délai qui ne peut excéder deux mois à compter de la
 réception de la demande complète. Lorsque ces données n'ont pas encore été transmises au service statistique du ministère
 chargé de l'énergie, en application du deuxième alinéa du I, les gestionnaires de réseau regroupent ces données et les
-envoient chaque trimestre au service statistique du ministère chargé de l'énergie.
+envoient chaque année au service statistique du ministère chargé de l'énergie. Les formalités de demande des données auprès
+de chacun des gestionnaires de réseau sont publiées sur le site internet du service statistique du ministère en charge de
+l'énergie.
 
 La diffusion de ces données au public par ces personnes publiques n'est pas soumise au calendrier de la première année de
 publication mentionné au III. Toutefois ces données ne peuvent être diffusées au public qu'après un examen, par la personne
@@ -36462,6 +36508,12 @@ demande complète.
 VIII. - Le traitement, par un tiers aux gestionnaires de réseaux visés par cet article, des données mentionnées aux 1°, 2° et
 3° de l'article D. 113-2 faisant l'objet d'une transmission ou diffusion publique en application du présent article ne peut
 avoir pour objet ou pour effet de reconstituer les données individuelles des personnes concernées.
+
+**Nota:**
+
+Conformément à l'article 3 de l'arrêté du 6 mars 2020 (NOR : TRER1924916A), les informations mentionnées au V de l'article D.
+113-3 du code de l'énergie sont mises à disposition dans un format électronique ouvert, facilement réutilisable. La
+justification mentionnée au VI de cet article se fait par simple courrier du représentant légal de la personne publique.
 
 **Liens relatifs à cet article**
 
@@ -36489,7 +36541,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Décret n°2018-1126 du 11 décembre 2018 - art. 3
+  - Décret n°2020-196 du 4 mars 2020 - art. 2
 
 _Cité par_:
 
@@ -36498,13 +36550,13 @@ _Cité par_:
 
 ###### Article D113-4
 
-Pour les gestionnaires de réseaux de distribution de chaleur et de froid, sont définies les données suivantes, par réseau : 
+Pour les gestionnaires de réseaux de distribution de chaleur et de froid, sont définies les données suivantes, par réseau :
 
-1° Consommation totale annuelle par point de livraison, a minima à la sous-station, concernant le secteur résidentiel et
-inférieure ou égale au seuil-résidentiel ; 
+1° Consommation totale annuelle par point de livraison, a minima à la sous-station, concernant le secteur résidentiel
+inférieure ou égale au seuil-secret défini pour ce secteur ;
 
-2° Consommation totale annuelle par bâtiment résidentiel dont la consommation résidentielle est inférieure ou égale au seuil-
-résidentiel. 
+2° Part de la consommation totale annuelle par bâtiment dont la consommation résidentielle est inférieure ou égale au seuil-
+secret défini pour ce secteur.
 
 Après avis de la Commission nationale de l'informatique et des libertés, le ministre chargé de l'énergie arrête les modalités
 de recueil et de gestion du consentement nécessaire à la transmission aux personnes publiques des données visées au présent
@@ -36512,30 +36564,40 @@ article pour l'exercice de leurs compétences.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2016-973 du 18 juillet 2016 - art. 3
+  - Décret n°2020-196 du 4 mars 2020 - art. 2
 
 
 ###### Article D113-5
 
-La transmission ou la mise à disposition des données mentionnées à l'article D. 133-2 n'est pas facturée y compris pour les
+La transmission ou la mise à disposition des données mentionnées à l'article D. 113-2 n'est pas facturée y compris pour les
 données par bâtiment fournies par les gestionnaires de réseaux après traitement informatique fondé uniquement sur la base de
 leurs référentiels d'adresses.
 
-**Nota:**
+**Liens relatifs à cet article**
 
-Au lieu de " D. 133-2 ", il convient de lire " D. 113-2 ".
+_Modifié par_:
+
+  - Décret n°2020-196 du 4 mars 2020 - art. 2
+
+_Cite_:
+
+  - Code de l'énergie - art. D113-2 (V)
+
+
+###### Article D113-6
+
+Les clients aux extrémités des réseaux de distribution doivent, au plus tard le 30 novembre de l'année précédant la collecte,
+transmettre aux gestionnaires de réseaux de chaleur et de froid concernés le SIRET et le code NAF sur deux positions (88
+modalités) des activités des locaux livrés à une date comprise entre le 1er et le 31 août de l'année en cours. Ils
+transmettent également le code NAF du site lorsqu'il est différent de celui du client.
 
 **Liens relatifs à cet article**
 
 _Créé par_:
 
-  - Décret n°2016-973 du 18 juillet 2016 - art. 3
-
-_Cite_:
-
-  - Code de l'énergie - art. D113-2 (V)
+  - Décret n°2020-196 du 4 mars 2020 - art. 2
 
 
 ### TITRE II : LES OBLIGATIONS DE SERVICE PUBLIC ET LA PROTECTION DES CONSOMMATEURS<a id=352></a>
