@@ -1,5 +1,5 @@
 # Code de l'énergie  
-Version Consolidée au 2020-03-07
+Version Consolidée au 2020-04-01
 ## Contenu: 
   - [Partie législative (art. L100-1 à L731-1)](#1)
     - [LIVRE IER : L'ORGANISATION GENERALE  DU SECTEUR DE L'ENERGIE (art. L100-1 à L161-6)](#2)
@@ -75736,15 +75736,16 @@ _Cite_:
 
 Tout projet mentionné à l'article L. 641-2 du présent code doit être notifié au ministre chargé de l'énergie pour qu'il y
 donne son accord dans les conditions prévues à cet article, sauf s'il entre dans le cadre d'une opération d'investissement
-direct soumise à contrôle en application des articles L. 151 et R. 151 à R. 153 du code monétaire et financier.
+direct soumise à contrôle en application des articles L. 151-1 à L. 151-7 et R. 151-1 à R. 151-17 du code monétaire et
+financier. 
 
 Le dossier de notification comporte une présentation générale du projet, une estimation de son coût, l'indication de ses
 justifications techniques et économiques ainsi que de ses conséquences éventuelles sur l'approvisionnement pétrolier du
 pays. 
 
 Pour les projets entrant dans le cadre d'une opération d'investissement direct soumise à contrôle en application des articles
-L. 151 et R. 151 à R. 153 du code monétaire et financier, la notification de cette opération au ministre chargé de l'économie
-vaut notification au sens et pour l'application de l'article L. 641-2 du présent code.
+L. 151-1 à L. 151-7 et R. 151-1 à R. 151-17 du code monétaire et financier, la notification de cette opération au ministre
+chargé de l'économie vaut notification au sens et pour l'application de l'article L. 641-2 du présent code.
 
 **Liens relatifs à cet article**
 
@@ -75752,13 +75753,14 @@ _Codifié par_:
 
   - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2015-1823 du 30 décembre 2015 - art.
+  - Décret n°2019-1590 du 31 décembre 2019 - art. 3
 
 _Cite_:
 
-  - Code de l'énergie - art. L641-2 (V)
+  - Code monétaire et financier - art. L151-1
+  - Code monétaire et financier - art. R151-1
 
 
 ###### Article R641-3
