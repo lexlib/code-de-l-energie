@@ -1,5 +1,5 @@
 # Code de l'énergie  
-Version Consolidée au 2020-04-03
+Version Consolidée au 2020-04-24
 ## Contenu: 
   - [Partie législative (art. L100-1 à L731-1)](#1)
     - [LIVRE IER : L'ORGANISATION GENERALE  DU SECTEUR DE L'ENERGIE (art. L100-1 à L161-6)](#2)
@@ -42137,18 +42137,28 @@ _Créé par_:
 
 ###### Article D141-12-6
 
-Le critère de défaillance du système électrique mentionné à l'article L. 141-7 est fixé à une durée moyenne de défaillance
-annuelle de trois heures pour des raisons de déséquilibre entre l'offre et la demande d'électricité.
+Le critère de défaillance du système électrique mentionné à l'article L. 141-7 est tel que :
+
+- la durée moyenne de défaillance annuelle est inférieure à trois heures ;
+
+- et la durée moyenne de recours au délestage pour des raisons d'équilibre offre-demande est inférieure à deux heures. 
+
+La défaillance se définit comme la nécessité de recourir aux moyens exceptionnels, contractualisés et non contractualisés,
+pour assurer l'équilibre entre l'offre et la demande d'électricité. Les moyens exceptionnels incluent le recours aux
+capacités interruptibles mentionnées à l'article L. 321-19, l'appel aux gestes citoyens, la sollicitation des gestionnaires
+de réseaux de transport frontaliers hors mécanismes de marché, la dégradation des marges d'exploitation, la baisse de tension
+sur les réseaux, et en dernier recours le délestage de consommateurs.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2016-1442 du 27 octobre 2016 - art. 8 (V)
+  - Décret n°2020-456 du 21 avril 2020 - art. 9 (V)
 
 _Cite_:
 
-  - Code de l'énergie - art. L141-7 (V)
+  - Code de l'énergie - art. L141-7
+  - Code de l'énergie - art. L321-19
 
 
 ##### Section 3 : La programmation des capacités d'approvisionnement en gaz naturel<a id=409></a>
