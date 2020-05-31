@@ -1,5 +1,5 @@
 # Code de l'énergie  
-Version Consolidée au 2020-04-24
+Version Consolidée au 2020-06-01
 ## Contenu: 
   - [Partie législative (art. L100-1 à L731-1)](#1)
     - [LIVRE IER : L'ORGANISATION GENERALE  DU SECTEUR DE L'ENERGIE (art. L100-1 à L161-6)](#2)
@@ -45077,11 +45077,10 @@ a) Vendus sur le territoire national aux ménages et aux entreprises du secteur 
 b) Mis à la consommation sur le territoire national pour la consommation des ménages et des entreprises du secteur tertiaire
 pour les années suivantes ;
 
-2° Les volumes de carburants pour automobiles mentionnés aux indices d'identification 11,11 bis, 11 ter, 22, 22 bis et 55 de
-l'article 265 du code des douanes, mis à la consommation sur le territoire national ;
+2° Les volumes de carburants pour automobiles, hors gaz de pétrole liquéfié, mis à la consommation sur le territoire
+national ;
 
-3° Les volumes de gaz de pétrole liquéfié carburant pour automobiles mentionnés aux indices d'identification 30 ter, 31 ter
-et 34 de l'article 265 du code des douanes, mis à la consommation sur le territoire national ;
+3° Les volumes de gaz de pétrole liquéfié carburant pour automobiles mis à la consommation sur le territoire national ;
 
 4° Les volumes de chaleur et de froid vendus sur le territoire national aux ménages et aux entreprises du secteur tertiaire ;
 
@@ -45097,8 +45096,8 @@ prestation de gestion de l'énergie sont considérées comme des ventes de chale
 
 Un arrêté du ministre chargé de l'énergie précise les conditions d'application de ces dispositions, notamment les modalités
 selon lesquelles, lorsque les données statistiques relatives à un type d'énergie déterminé ne permettent pas de connaître
-avec précision la part des ventes de ce type d'énergie aux ménages et aux entreprises du secteur tertiaire, cette part peut
-être déterminée de façon forfaitaire.
+avec précision la part des ventes de ce type d'énergie aux ménages et aux entreprises du secteur tertiaire ou la part des
+ventes d'un type de carburant aux utilisateurs d'automobiles, cette part peut être déterminée de façon forfaitaire.
 
 **Liens relatifs à cet article**
 
@@ -45125,7 +45124,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2018-401 du 29 mai 2018 - art. 2
+  - Décret n°2020-655 du 29 mai 2020 - art. 1
 
 _Cite_:
 
@@ -45903,8 +45902,9 @@ _Cité par_:
 ###### Article R221-18
 
 Le volume des certificats d'économies d'énergie peut être pondéré en fonction de la nature des bénéficiaires des économies
-d'énergie, de la nature des actions d'économies d'énergie et de la situation énergétique de la zone géographique où les
-économies sont réalisées, dans des conditions arrêtées par le ministre chargé de l'énergie.
+d'énergie, de la nature des actions d'économies d'énergie, des émissions de gaz à effet de serre évitées et de la situation
+énergétique de la zone géographique où les économies sont réalisées, dans des conditions arrêtées par le ministre chargé de
+l'énergie.
 
 **Liens relatifs à cet article**
 
@@ -45914,7 +45914,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2017-1848 du 29 décembre 2017 - art. 8
+  - Décret n°2020-655 du 29 mai 2020 - art. 1
 
 
 ###### Article R221-19
@@ -46051,8 +46051,8 @@ _Cite_:
 
 ###### Article R221-24
 
-Le volume des certificats d'économies d'énergie délivrés dans le cadre des programmes mentionnés aux b à d de l'article L.
-221-7 ne peut excéder 200 milliards de kilowattheures d'énergie finale cumulée actualisés (cumac) pour chacune des périodes
+Le volume des certificats d'économies d'énergie délivrés dans le cadre des programmes mentionnés aux b à e de l'article L.
+221-7 ne peut excéder 266 milliards de kilowattheures d'énergie finale cumulée actualisés (cumac) pour chacune des périodes
 mentionnées à l'article R. 221-1.
 
 **Liens relatifs à cet article**
@@ -46063,7 +46063,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2017-1848 du 29 décembre 2017 - art. 11
+  - Décret n°2020-655 du 29 mai 2020 - art. 1
 
 _Cite_:
 
@@ -46073,7 +46073,8 @@ _Cite_:
 
 ###### Article R221-25
 
-Les certificats d'économies d'énergie délivrés sont valables dix années à compter de leur date de délivrance.
+Les certificats d'économies d'énergie délivrés à compter du 10 novembre 2019 peuvent être utilisés pour remplir l'obligation
+de la période au cours de laquelle ils ont été délivrés et l'obligation de la période suivante.
 
 **Liens relatifs à cet article**
 
@@ -46083,7 +46084,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2017-1848 du 29 décembre 2017 - art. 12
+  - Décret n°2020-655 du 29 mai 2020 - art. 1
 
 
 ##### Section 3 : Registre national des certificats d'économies d'énergie<a id=441></a>
@@ -46320,13 +46321,9 @@ _Créé par_:
 ###### Article R222-4
 
 Le premier détenteur d'un certificat d'économies d'énergie tient à la disposition des fonctionnaires et agents chargés des
-contrôles l'ensemble des documents justificatifs relatifs à la réalisation de chaque action pendant une durée de six ans à
+contrôles l'ensemble des documents justificatifs relatifs à la réalisation de chaque action pendant une durée de neuf ans à
 compter de la délivrance du certificat d'économies d'énergie. Les documents justificatifs à archiver par le premier détenteur
 d'un certificat d'économies d'énergie sont définis par arrêté du ministre chargé de l'énergie.
-
-En outre, les données techniques et financières relatives aux actions d'économies d'énergie réalisées peuvent être demandées
-par le ministre chargé de l'énergie au premier détenteur d'un certificat d'économies d'énergie à des fins d'évaluation du
-dispositif.
 
 **Liens relatifs à cet article**
 
@@ -46334,9 +46331,22 @@ _Codifié par_:
 
   - Décret n°2015-1823 du 30 décembre 2015 - art.
 
+_Modifié par_:
+
+  - Décret n°2020-655 du 29 mai 2020 - art. 1
+
+
+###### Article R222-4-1
+
+Les données techniques et financières relatives aux actions d'économies d'énergie réalisées peuvent être demandées par le
+ministre chargé de l'énergie au premier détenteur d'un certificat d'économies d'énergie à des fins d'évaluation du dispositif
+pendant une durée de cinq ans à compter de la délivrance du certificat d'économies d'énergie correspondant.
+
+**Liens relatifs à cet article**
+
 _Créé par_:
 
-  - Décret n°2015-1823 du 30 décembre 2015 - art.
+  - Décret n°2020-655 du 29 mai 2020 - art. 1
 
 
 ###### Article R222-5
@@ -46386,7 +46396,7 @@ standardisée, la catégorie des bénéficiaires des économies d'énergie, une 
 départements, une période d'engagement d'opérations d'économies d'énergie ou une période de délivrance de certificats.
 
 Cette notification vaut mise en demeure d'adresser au ministre chargé de l'énergie, dans un délai d'un mois, pour chaque
-opération de l'échantillon contrôlé, les pièces justificatives fixées par arrêté.
+opération de l'échantillon contrôlé, les documents justificatifs définis par l'arrêté mentionné à l'article R. 222-4.
 
 **Liens relatifs à cet article**
 
@@ -46394,13 +46404,13 @@ _Codifié par_:
 
   - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2015-1823 du 30 décembre 2015 - art.
+  - Décret n°2020-655 du 29 mai 2020 - art. 1
 
 _Cité par_:
 
-  - Code de l'énergie - art. R222-8 (M)
+  - Code de l'énergie - art. R222-8 (V)
 
 
 ###### Article R222-8
@@ -46409,7 +46419,7 @@ Pour chaque opération d'économies d'énergie de l'échantillon mentionné à l
 établit le volume de certificats d'économies d'énergie correspondant. Si le ministre ne constate aucun manquement dans les
 éléments nécessaires à l'établissement de ce volume et si le volume de certificats d'économies d'énergie qu'il établit n'est
 pas inférieur à celui qui a été attribué, le volume de certificats d'économies d'énergie délivrés pour l'opération est
-confirmé. Dans tous les autres cas, il est ramené à zéro. 
+confirmé. Dans tous les autres cas, il est ramené à zéro.
 
 Si le premier détenteur des certificats d'économies d'énergie ne transmet pas toutes les pièces mentionnées à l'article R.
 222-7 dans le délai imparti, le volume de certificats d'économies d'énergie pour l'opération concernée est également ramené à
@@ -46418,11 +46428,8 @@ zéro.
 La conformité de l'échantillon s'apprécie à partir de la somme des volumes de certificats d'économies d'énergie de chacune de
 ses opérations, établis conformément aux dispositions des deux premiers alinéas du présent article. L'échantillon est réputé
 conforme si le rapport entre la somme des volumes de certificats d'économies d'énergie établis pour les opérations de
-l'échantillon et la somme des volumes de certificats d'économies d'énergie délivrés pour les mêmes opérations est : 
-
-1° Pour les opérations engagées en 2012, supérieur à 91,5 % ; 
-
-2° Pour les opérations engagées à partir du 1er janvier 2013, supérieur à 95 %.
+l'échantillon et la somme des volumes de certificats d'économies d'énergie délivrés pour les mêmes opérations est supérieur à
+95 %.
 
 **Liens relatifs à cet article**
 
@@ -46430,27 +46437,49 @@ _Codifié par_:
 
   - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2015-1823 du 30 décembre 2015 - art.
+  - Décret n°2020-655 du 29 mai 2020 - art. 1
 
 _Cité par_:
 
-  - Code de l'énergie - art. R222-10 (M)
+  - Code de l'énergie - art. R222-10 (V)
 
 _Cite_:
 
   - Code de l'énergie - art. R222-7 (V)
 
 
-###### Article R222-9
+###### Article R222-10
 
-Lorsque l'échantillon n'est pas réputé conforme, le ministre chargé de l'énergie met en demeure l'intéressé de transmettre,
-dans un délai d'un mois, les preuves de la conformité réglementaire des opérations d'économies d'énergie pour lesquelles des
-manquements ont été constatés.
+Si la conformité de l'échantillon n'est pas établie dans les conditions prévues à l'article R. 222-8, le ministre chargé de
+l'énergie peut, après la notification des griefs prévue à l'article L. 222-3, prononcer les sanctions prévues à l'article L.
+222-2. La notification précise à l'intéressé le délai dont il dispose pour consulter le dossier et présenter ses
+observations. Ce délai ne peut être inférieur à trente jours francs à compter de la réception de la notification.
 
-Simultanément, le délai prévu par l'article R. 221-22 est suspendu pour les demandes de certificats d'économies d'énergies
-déposées par l'intéressé et n'ayant pas encore fait l'objet d'une délivrance de certificats.
+Le délai d'instruction des demandes de certificats d'économies d'énergie prévu aux 1° et 2° de l'article R. 221-22 est
+suspendu, à compter de la notification des griefs, pour les demandes de certificats d'économies d'énergie de l'intéressé
+déposées n'ayant pas encore fait l'objet d'une délivrance de certificats et à venir, s'agissant de ses demandes susceptibles
+d'être concernées par des manquements de même nature. La notification des griefs précise les types d'opérations d'économies
+d'énergie concernées par la suspension et les critères sur la base desquels elles ont été sélectionnées.
+
+En outre, l'intéressé est tenu, sur mise en demeure du ministre chargé de l'énergie, de :
+
+1° Rechercher, parmi ses demandes ayant donné lieu à délivrance de certificats d'économies d'énergie dans les vingt-quatre
+mois précédant la notification des griefs, les volumes affectés par des manquements de même nature et de porter à la
+connaissance du ministre chargé de l'énergie les résultats de ces vérifications ;
+
+2° Présenter dans un délai d'un mois les moyens qu'il envisage de mettre en œuvre pour éviter que le ou les manquements
+constatés se reproduisent. Faute de déférer à cette mise en demeure dans le délai imparti, le ministre chargé de l'énergie
+peut prononcer à son encontre les sanctions prévues à l'article L. 222-2.
+
+Le montant de la sanction pécuniaire prévue au 1° de l'article L. 222-2 est calculé par application de la formule :
+
+" S 2 = 0,04 euro × (volume de certificats d'économies d'énergie délivrés pour les opérations de l'échantillon-volume de
+certificats d'économies d'énergie établi par le ministre chargé de l'énergie) ".
+
+Le ministre chargé de l'énergie peut également prononcer le rejet des demandes de certificats d'économies d'énergie dont le
+délai d'instruction a été suspendu en application du deuxième alinéa du présent article.
 
 **Liens relatifs à cet article**
 
@@ -46459,58 +46488,14 @@ _Codifié par_:
   - Décret n°2015-1823 du 30 décembre 2015 - art.
 
 _Modifié par_:
-
-  - Décret n°2017-1848 du 29 décembre 2017 - art. 17
-
-_Abrogé par_:
 
   - Décret n°2020-655 du 29 mai 2020 - art. 1
 
 _Cite_:
 
-  - Code de l'énergie - art. R221-21
-  - Code de l'énergie - art. R221-22
-
-_Cité par_:
-
-  - Code de l'énergie - art. R222-10 (V)
-
-
-###### Article R222-10
-
-Si les preuves de la conformité réglementaire mentionnées à l'article R. 222-9 ne sont pas apportées dans le délai imparti ou
-si les pièces produites ne permettent pas de rendre conforme l'échantillon dans les conditions prévues à l'article R. 222-8,
-le ministre chargé de l'énergie peut prononcer les sanctions prévues à l'article L. 222-2. 
-
-En outre, l'intéressé est tenu, sur mise en demeure du ministre chargé de l'énergie, de présenter dans un délai d'un mois les
-moyens qu'il envisage de mettre en œuvre pour éviter que le ou les manquements constatés se reproduisent. Faute de déférer à
-cette mise en demeure dans le délai imparti, le ministre chargé de l'énergie peut prononcer à son encontre les sanctions
-prévues à l'article L. 222-2. 
-
-Le montant de la sanction pécuniaire prévue au 1° de l'article L. 222-2 est calculé par application de la formule : 
-
-" S 2 = 0,04 euro × (volume de certificats d'économies d'énergie délivrés pour les opérations de l'échantillon-volume de
-certificats d'économies d'énergie établi par le ministre chargé de l'énergie, le cas échéant, après production des preuves
-mentionnées à l'article R. 222-9) ". 
-
-Le ministre chargé de l'énergie peut également prononcer le rejet des demandes de certificats d'économies d'énergie dont le
-délai d'instruction a été suspendu, en application du deuxième alinéa de l'article R. 222-9.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-_Modifié par_:
-
-  - Décret n°2015-1825 du 30 décembre 2015 - art. 19
-
-_Cite_:
-
-  - Code de l'énergie - art. L222-2 (V)
+  - Code de l'énergie - art. L222-2
   - Code de l'énergie - art. R222-8 (V)
-  - Code de l'énergie - art. R222-9 (V)
+  - Code de l'énergie - art. R222-9
 
 
 ###### Article R222-12
@@ -48345,7 +48330,7 @@ véhicule mentionné au a ou au c du 1° ;
 b) Dans l'année suivant sa première immatriculation ni avant d'avoir parcouru au moins 2 000 kilomètres dans le cas d'un
 véhicule mentionné au b du 1° ;
 
-5° S'il s'agit d'un véhicule mentionné au a du 1°, émet une quantité de dioxyde de carbone inférieure ou égale à 20 grammes
+5° S'il s'agit d'un véhicule mentionné au a du 1°, émet une quantité de dioxyde de carbone inférieure ou égale à 50 grammes
 par kilomètre ;
 
 6° S'il s'agit d'un véhicule mentionné au b du 1°, utilise l'électricité (EL) comme source d'énergie ;
@@ -48353,7 +48338,16 @@ par kilomètre ;
 7° S'il s'agit d'un véhicule mentionné au c du 1°, émet une quantité de dioxyde de carbone inférieure ou égale à 20 grammes
 par kilomètre.
 
+**Nota:**
+
+Conformément à l’article 3 du décret n° 2020-656 du 30 mai 2020, ces dispositions dans leur rédaction issue du présent
+décret, sont en vigueur du 1er juin au 31 décembre 2020.
+
 **Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2015-1823 du 30 décembre 2015 - art.
 
 _Cité par_:
 
@@ -48365,7 +48359,7 @@ _Cité par_:
   - Décret n°2020-656 du 30 mai 2020 (V)
   - Décret n°2020-656 du 30 mai 2020 - art. 3 (V)
   - Code de l'énergie - art. D251-11 (V)
-  - Code de l'énergie - art. D251-13 (M)
+  - Code de l'énergie - art. D251-13 (V)
   - Code de l'énergie - art. D251-2 (Ab)
   - Code de l'énergie - art. D251-3 (M)
   - Code de l'énergie - art. D251-5 (V)
@@ -48376,7 +48370,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2020-188 du 3 mars 2020 - art. 1
+  - Décret n°2020-656 du 30 mai 2020 - art. 1
 
 _Cite_:
 
@@ -48392,7 +48386,7 @@ assisté, au sens de l'article R. 311-1 du code de la route, neuf, qui n'utilise
 par l'acquéreur dans l'année suivant son acquisition.
 
 Cette aide ne peut être attribuée que si une aide ayant le même objet a été attribuée par une collectivité territoriale ou un
-groupement de collectivités territoriales.
+groupement de collectivités territoriales. Ces deux aides sont cumulatives.
 
 Une personne physique ne peut en bénéficier qu'une fois.
 
@@ -48412,7 +48406,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2019-1526 du 30 décembre 2019 - art. 1
+  - Décret n°2020-656 du 30 mai 2020 - art. 1
 
 _Cite_:
 
@@ -48451,14 +48445,9 @@ ou à une catégorie de véhicules faisant l'objet d'une mesure des émissions d
 
 2° A fait l'objet d'une première immatriculation :
 
-a) Pour un véhicule utilisant le gazole comme carburant principal :
+a) Pour un véhicule utilisant le gazole comme carburant principal, avant le 1er janvier 2011 ;
 
-- avant le 1er janvier 2006 si le bénéficiaire de la prime à la conversion définie par le présent article a un revenu fiscal
-de référence par part inférieur ou égal à 13 489 euros ;
-
-- avant le 1er janvier 2001 dans les autres cas ;
-
-b) Pour un véhicule n'utilisant pas le gazole comme carburant principal, avant le 1er janvier 1997 ;
+b) Pour un véhicule n'utilisant pas le gazole comme carburant principal, avant le 1er janvier 2006 ;
 
 3° Appartient au bénéficiaire de la prime à la conversion définie par le présent article ;
 
@@ -48486,7 +48475,14 @@ applicables aux véhicules, qui n'ont pas fait l'objet précédemment d'une prem
 commandés ou dont le contrat de location a été signé avant cette date, à condition que leur facturation ou le versement du
 premier loyer intervienne au plus tard trois mois après la publication dudit décret.
 
+Conformément à l’article 3 du décret n° 2020-656 du 30 mai 2020 tel que modifié par l'article 3 du décret n° 2020-955 du 31
+juillet 2020, ces dispositions entrent en vigueur le 1er juin 2020.
+
 **Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2015-1823 du 30 décembre 2015 - art.
 
 _Cité par_:
 
@@ -48500,7 +48496,7 @@ _Cité par_:
   - Décret n°2020-656 du 30 mai 2020 (V)
   - Décret n°2020-656 du 30 mai 2020 - art. 3 (V)
   - Code de l'énergie - art. D251-11 (V)
-  - Code de l'énergie - art. D251-13 (M)
+  - Code de l'énergie - art. D251-13 (V)
   - Code de l'énergie - art. D251-4 (V)
   - Code de l'énergie - art. D251-5 (V)
   - Code de l'énergie - art. D251-6 (V)
@@ -48509,7 +48505,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2020-188 du 3 mars 2020 - art. 1
+  - Décret n°2020-656 du 30 mai 2020 - art. 1
 
 _Cite_:
 
@@ -48519,6 +48515,39 @@ _Cite_:
   - Code de la route. - art. R311-1
   - Code de la route. - art. R322-9
   - Code de l'énergie - art. D251-1
+
+
+###### Article D251-3-1
+
+Une aide dite prime au rétrofit électrique est attribuée à toute personne physique majeure justifiant d'un domicile en France
+ou à toute personne morale justifiant d'un établissement en France et à toute administration de l'Etat qui est propriétaire
+d'un véhicule automobile terrestre à moteur qui :
+
+1° Appartient à la catégorie des voitures particulières, des camionnettes ou des véhicules à moteur à deux ou trois roues et
+quadricycles à moteur au sens de l'article R. 311-1 du code de la route ;
+
+2° A fait l'objet d'une transformation de véhicule à motorisation thermique en motorisation électrique à batterie ou à pile à
+combustible, selon les conditions définies par arrêté du ministre de l'écologie ;
+
+3° A été acquis depuis au moins un an par le bénéficiaire de l'aide mentionnée au premier alinéa ;
+
+4° N'est pas cédé par ce même bénéficiaire dans les six mois suivant son acquisition ni avant d'avoir parcouru au moins 6 000
+kilomètres.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2020-656 du 30 mai 2020 - art. 1
+
+_Cité par_:
+
+  - Décret n°2020-656 du 30 mai 2020 - art. 3 (V)
+  - Code de l'énergie - art. D251-13 (V)
+
+_Cite_:
+
+  - Code de la route. - art. R311-1
 
 
 ###### Article D251-4
@@ -48599,44 +48628,63 @@ _Cite_:
 
 ###### Article D251-7
 
-Le montant de l'aide prévue à l'article D. 251-1 est fixé comme suit :
+Le montant de l'aide prévue à l'article D. 251-1 est fixé comme suit : 
 
-1° Pour les véhicules mentionnés au 5° de l'article D. 251-1 et dont le coût d'acquisition est inférieur à 45 000 euros
-toutes taxes comprises, incluant le cas échéant le coût d'acquisition ou de location de la batterie, le montant de l'aide est
-fixé à 27 % du coût d'acquisition toutes taxes comprises, augmenté le cas échéant du coût de la batterie si celle-ci est
-prise en location, dans la limite de 6 000 euros si le véhicule est acquis ou loué par une personne physique ou de 3 000
-euros si le véhicule est acquis ou loué par une personne morale ;
+1° Pour les véhicules mentionnés au 5° de l'article D. 251-1, dont le taux d'émission de dioxyde de carbone est inférieur ou
+égal à 20 grammes par kilomètre et dont le coût d'acquisition est inférieur à 45 000 euros toutes taxes comprises, incluant
+le cas échéant le coût d'acquisition ou de location de la batterie, le montant de l'aide est fixé à 27 % du coût
+d'acquisition toutes taxes comprises, augmenté le cas échéant du coût de la batterie si celle-ci est prise en location, dans
+la limite de 7 000 euros si le véhicule est acquis ou loué par une personne physique ou de 5 000 euros si le véhicule est
+acquis ou loué par une personne morale ; 
 
-2° Pour les véhicules mentionnés au 5° du même article et dont le coût d'acquisition est compris entre 45 000 et 60 000 euros
-toutes taxes comprises, incluant le cas échéant le coût d'acquisition ou de location de la batterie, le montant de l'aide est
-fixé à 3 000 euros ;
+2° Pour les véhicules mentionnés au 5° de l'article D. 251-1, dont le taux d'émission de dioxyde de carbone est inférieur ou
+égal à 20 grammes par kilomètre et dont le coût d'acquisition est compris entre 45 000 et 60 000 euros toutes taxes
+comprises, incluant le cas échéant le coût d'acquisition ou de location de la batterie, le montant de l'aide est fixé à 3 000
+euros ; 
 
 3° Pour les camionnettes au sens de l'article R. 311-1 du code de la route ou pour les véhicules dont la source d'énergie
-comprend l'hydrogène, mentionnés au 5° de l'article D. 251-1 et dont le coût d'acquisition est supérieur à 60 000 euros
-toutes taxes comprises, incluant le cas échéant le coût d'acquisition ou de location de la batterie, le montant de l'aide est
-fixé à 3 000 euros.
+comprend l'hydrogène, mentionnés au 5° de l'article D. 251-1, dont le taux d'émission de dioxyde de carbone est inférieur ou
+égal à 20 grammes par kilomètre et dont le coût d'acquisition est supérieur à 60 000 euros toutes taxes comprises, incluant
+le cas échéant le coût d'acquisition ou de location de la batterie, le montant de l'aide est fixé à 3 000 euros. 
 
-4° Pour les véhicules mentionnés au 6° du même article, qui n'utilisent pas de batterie au plomb et dont la puissance
+4° Pour les véhicules mentionnés au 6° de l'article D. 251-1, qui n'utilisent pas de batterie au plomb et dont la puissance
 maximale nette du moteur est supérieure ou égale à 2 kilowatts en application du règlement (UE) 168/2013 du Parlement
-européen et du Conseil du 15 janvier 2013 ou à 3 kilowatts en application de la directive 2002/24/CE du Parlement européen et
-du Conseil du 18 mars 2002, le montant de l'aide est fixé à 250 euros par kilowattheures d'énergie de la batterie, sans être
-supérieur au plus faible des deux montants suivants :
+européen et du Conseil du 15 janvier 2013 ou à 3 kilowatts en application de la directive 2002/24/ CE du Parlement européen
+et du Conseil du 18 mars 2002, le montant de l'aide est fixé à 250 euros par kilowattheures d'énergie de la batterie, sans
+être supérieur au plus faible des deux montants suivants : 
 
 a) 27 % du coût d'acquisition toutes taxes comprises, augmenté le cas échéant du coût de la batterie si celle-ci est prise en
-location ;
+location ; 
 
-b) 900 euros.
+b) 900 euros. 
 
 5° Pour les véhicules mentionnés au 6° du même article qui n'utilisent pas de batterie au plomb et dont la puissance maximale
 nette du moteur est inférieure à 2 kilowatts en application du règlement (UE) 168/2013 du Parlement européen et du Conseil du
-15 janvier 2013 ou à 3 kilowatts en application de la directive 2002/24/CE du Parlement européen et du Conseil du 18 mars
-2002, le montant de l'aide est fixé à 20 % du coût d'acquisition toutes taxes comprises, sans être supérieur à 100 euros ;
+15 janvier 2013 ou à 3 kilowatts en application de la directive 2002/24/ CE du Parlement européen et du Conseil du 18 mars
+2002, le montant de l'aide est fixé à 20 % du coût d'acquisition toutes taxes comprises, sans être supérieur à 100 euros ; 
 
 6° Pour les véhicules mentionnés au 7° de l'article D. 251-1, le montant de l'aide est fixé à 27 % du coût d'acquisition
 toutes taxes comprises, augmenté le cas échéant du coût de la batterie si celle-ci est prise en location, dans la limite de 4
-000 euros.
+000 euros ; 
+
+7° Pour les véhicules mentionnés au a du 1° de l'article D. 251-1, dont le taux d'émission de dioxyde de carbone est compris
+entre 21 et 50 grammes par kilomètre, dont le coût d'acquisition est inférieur ou égal à 50 000 euros toutes taxes comprises
+et dont l'autonomie équivalente en mode tout électrique en ville déterminée en application du règlement (UE) 2017/1151 de la
+Commission du 1er juin 2017 est supérieure à 50 kilomètres, le montant de l'aide est fixé à 2000 euros ; 
+
+8° Les émissions de dioxyde de carbone mentionnées par le présent article sont celles qui sont réputées répondre aux
+conditions de l'article 1007 bis du code général des impôts conformément au second alinéa de son III.
+
+**Nota:**
+
+Conformément à l’article 3 du décret n° 2020-656 du 30 mai 2020, ces dispositions dans leur rédaction issue du présent
+décret, sont en vigueur du 1er juin au 31 décembre 2020.
 
 **Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2015-1823 du 30 décembre 2015 - art.
 
 _Cité par_:
 
@@ -48645,116 +48693,105 @@ _Cité par_:
   - Décret n°2019-1526 du 30 décembre 2019 - art. 2 (V)
   - Décret n°2020-656 du 30 mai 2020 (V)
   - Décret n°2020-656 du 30 mai 2020 - art. 3 (V)
+  - Code de l'énergie - art. D251-7 (VT)
 
 _Modifié par_:
 
-  - Décret n°2019-1526 du 30 décembre 2019 - art. 1
+  - Décret n°2020-656 du 30 mai 2020 - art. 1
 
 _Cite_:
 
-  - Code de la route. - art. R311-1 (M)
+  - Code de la route. - art. R311-1 (V)
 
 
 ###### Article D251-7-1
 
-Le montant de l'aide instituée à l'article D. 251-2 complète le montant de l'aide allouée par une collectivité territoriale
-ou un groupement de collectivités territoriales sans jamais lui être supérieur et ne peut avoir effet de porter le cumul des
-deux aides au-delà du plus faible des deux montants suivants :
-
-- 20 % du coût d'acquisition toutes taxes comprises ;
-
-- 200 euros.
+Le montant de l'aide instituée à l'article D. 251-2 est identique au montant de l'aide ayant le même objet attribuée par la
+collectivité territoriale ou le groupement de collectivités territoriales mentionnés au même article, dans la limite de 200
+euros.
 
 **Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Décret n°2019-1526 du 30 décembre 2019 - art. 1
 
 _Cité par_:
 
   - Décret n°2020-656 du 30 mai 2020 (V)
   - Décret n°2020-656 du 30 mai 2020 - art. 3 (V)
 
+_Modifié par_:
+
+  - Décret n°2020-656 du 30 mai 2020 - art. 1
+
 _Cite_:
 
-  - Code de l'énergie - art. D251-2
+  - Code de l'énergie - art. D251-2 (V)
 
 
 ###### Article D251-8
 
-Le montant de l'aide prévue à l'article D. 251-3 est déterminé par l'un ou l'autre des cas suivants :
+Le montant de l'aide prévue à l'article D. 251-3 est déterminé par l'un ou l'autre des cas suivants : 
 
-1° Pour les véhicules mentionnés au premier alinéa de l'article D. 251-3 et correspondant au 5° du D. 251-1 :
+1° Pour les véhicules mentionnés au premier alinéa de l'article D. 251-3, correspondant au 5° de l'article D. 251-1 et dont
+l'autonomie équivalente en mode tout électrique en ville déterminée en application du règlement (UE) 2017/1151 de la
+Commission du 1er juin 2017 ou du règlement (CE) n° 692/2008 de la Commission du 18 juillet 2008 est supérieure à 50
+kilomètres : 
 
-a) Le montant de l'aide est fixé à 80 % du prix d'acquisition, dans la limite de 5 000 euros, si le véhicule est acquis ou
-loué soit par une personne physique dont le revenu fiscal de référence par part est inférieur ou égal à 13 489 euros et dont
-la distance entre son domicile et son lieu de travail est supérieure à 30 kilomètres ou effectuant plus de 12 000 kilomètres
-par an dans le cadre de son activité professionnelle avec son véhicule personnel, soit par une personne physique dont le
-revenu fiscal de référence par part est inférieur ou égal à 6 300 euros ;
+a) Le montant de l'aide est fixé à 80 % du prix d'acquisition, dans la limite de 5 000 euros si le véhicule est acquis ou
+loué par une personne physique dont le revenu fiscal de référence par part est inférieur ou égal à 18 000 euros ; 
 
-b) Le montant de l'aide est fixé à 2 500 euros, dans les autres cas ;
+b) Le montant de l'aide est fixé à 2 500 euros, dans les autres cas ; 
 
-2° Pour les véhicules mentionnés au premier alinéa de l'article D. 251-3 et correspondant au 6° du D. 251-1, qui n'ont pas
+2° Pour les camionnettes au sens de l'article R. 311-1 du code de la route mentionnées au 5° de l'article D. 251-1, le
+montant de l'aide est fixé à 5 000 euros ; 
+
+3° Pour les véhicules mentionnés au premier alinéa de l'article D. 251-3 et correspondant au 6° du D. 251-1, qui n'ont pas
 fait l'objet précédemment d'une première immatriculation en France ou à l'étranger, qui n'utilisent pas de batterie au plomb
 et dont la puissance maximale nette du moteur est supérieure ou égale à 2 kilowatts en application du règlement (UE) 168/2013
 du Parlement européen et du Conseil du 15 janvier 2013 ou à 3 kilowatts en application de la directive 2002/24/ CE du
-Parlement européen et du Conseil du 18 mars 2002 :
+Parlement européen et du Conseil du 18 mars 2002 : 
 
 a) Le montant de l'aide est fixé à 1 100 euros, dans la limite du coût d'acquisition du véhicule toutes taxes comprises et
 bonus écologique déduit, si le véhicule est acquis ou loué par une personne physique dont le revenu fiscal de référence par
-part est inférieur ou égal à 13 489 euros ;
+part est inférieur ou égal à 18 000 euros ; 
 
-b) Le montant de l'aide est fixé à 100 euros, dans les autres cas ;
+b) Le montant de l'aide est fixé à 100 euros, dans les autres cas ; 
 
-3° Pour les véhicules mentionnés au premier alinéa de l'article D. 251-3 et correspondant au a du 1° du D. 251-1, dont le les
-émissions de dioxyde de carbone sont inférieures ou égales à 144 grammes par kilomètre, classés “ électrique ” ou “ 1 ”, ou “
-2 ” dont la date de première immatriculation en France ou à l'étranger est postérieure au 1er septembre 2019 en application
-de l'arrêté mentionné à l'article R. 318-2 du code de la route :
-
-a) Le montant de l'aide est fixé à 1 500 euros dans la limite du coût d'acquisition du véhicule toutes taxes comprises, si le
-véhicule est acquis ou loué par une personne physique dont le revenu fiscal de référence par part est inférieur ou égal à 13
-489 euros ;
-
-b) Le montant de l'aide est fixé à 80 % du prix d'acquisition, dans la limite de 3 000 euros, si le véhicule est acquis ou
-loué soit par une personne physique dont le revenu fiscal de référence par part est inférieur ou égal à 13 489 euros et dont
-la distance entre son domicile et son lieu de travail est supérieure à 30 kilomètres ou effectuant plus de 12 000 kilomètres
-par an dans le cadre de son activité professionnelle avec son véhicule personnel, soit par une personne physique dont le
-revenu fiscal de référence par part est inférieur ou égal à 6 300 euros ;
-
-4° Pour les véhicules mentionnés au premier alinéa de l'article D. 251-3 et correspondant au a du 1° du D. 251-1, dont les
-émissions de dioxyde de carbone sont comprises entre 21 et 50 grammes par kilomètre et classés électrique ou 1 en application
-de l'arrêté mentionné à l'article R. 318-2 du code de la route, le montant de l'aide est fixé à 1 500 euros ;
+4° Pour les véhicules mentionnés au premier alinéa de l'article D. 251-3 et correspondant au a du 1° de l'article D. 251-1,
+dont le coût d'acquisition est inférieur ou égal à 50 000 euros toutes taxes comprises, dont les émissions de dioxyde de
+carbone sont inférieures ou égales à 137 grammes par kilomètre et classés “ 1 ”, ou “ 2 ” dont la date de première
+immatriculation en France ou à l'étranger est postérieure au 1er septembre 2019 en application de l'arrêté mentionné à
+l'article R. 318-2 du code de la route, le montant de l'aide est fixé à 3 000 euros dans la limite du coût d'acquisition du
+véhicule toutes taxes comprises, si le véhicule est acquis ou loué par une personne physique dont le revenu fiscal de
+référence par part est inférieur ou égal à 18 000 euros ; 
 
 5° Pour les véhicules mentionnés au premier alinéa de l'article D. 251-3 et correspondant au a du 1° du D. 251-1, dont les
-émissions de dioxyde de carbone sont comprises entre 21 et 50 grammes par kilomètre, classés 1 en application de l'arrêté
-mentionné à l'article R. 318-2 du code de la route, dont l'autonomie équivalente en mode tout électrique en ville déterminée
-en application du règlement (UE) 2017/1151 de la Commission du 1er juin 2017 est supérieure à 40 kilomètres ou l'autonomie
-déterminée en application du règlement (CE) n° 692/2008 de la Commission du 18 juillet 2008 est supérieure à 50 kilomètres :
+émissions de dioxyde de carbone sont comprises entre 21 et 50 grammes par kilomètre et classés électrique ou 1 en application
+de l'arrêté mentionné à l'article R. 318-2 du code de la route, le montant de l'aide est fixé à 1 500 euros ; 
 
-a) Le montant de l'aide est fixé à 80 % du prix d'acquisition, dans la limite de 5 000 euros, si le véhicule est acquis ou
-loué soit par une personne physique dont le revenu fiscal de référence par part est inférieur ou égal à 13 489 euros et dont
-la distance entre son domicile et son lieu de travail est supérieure à 30 kilomètres ou effectuant plus de 12 000 kilomètres
-par an dans le cadre de son activité professionnelle avec son véhicule personnel, soit par une personne physique dont le
-revenu fiscal de référence par part est inférieur ou égal à 6 300 euros ;
-
-b) Le montant de l'aide est fixé à 2 500 euros dans les autres cas ;
-
-Les émissions de dioxyde de carbone mentionnées par le présent article sont celles qui sont réputées répondre aux conditions
-de l'article 1007 bis du code général des impôts conformément au second alinéa de son III, après application, le cas échéant,
-de l'abattement prévu au dernier alinéa du III de l'article 1011 bis du même code. Pour l'application du premier alinéa du
-3°, le seuil de 144 grammes est remplacé par le seuil de 116 grammes pour les véhicules suivants :
+6° Les émissions de dioxyde de carbone mentionnées par le présent article sont celles qui sont réputées répondre aux
+conditions de l'article 1007 bis du code général des impôts conformément au second alinéa de son III, après application, le
+cas échéant, de l'abattement prévu au dernier alinéa du III de l'article 1011 bis du même code. Pour l'application du 4°, le
+seuil de 137 grammes est remplacé par le seuil de 109 grammes pour les véhicules suivants :
 
 - ceux qui ne relèvent pas du nouveau dispositif d'immatriculation, au sens du 4° de l'article 1007 du code général des
 impôts ;
 
 - ceux qui ont fait l'objet d'une immatriculation avant leur première immatriculation en France ;
 
-- ceux qui ne relèvent ni de la catégorie des voitures particulières, ni de celle des voitures accessibles en fauteuil
-roulant, ni de celle des camionnettes, et pour lesquels la première immatriculation en France intervient avant le 1er juillet
-2020.
+- ceux qui sont accessibles en fauteuil roulant ;
+
+- ceux qui ne relèvent ni de la catégorie des voitures particulières, ni de celle des camionnettes, et pour lesquels la
+première immatriculation en France intervient avant le 1er juillet 2020.
+
+**Nota:**
+
+Conformément à l’article 3 du décret n° 2020-656 du 30 mai 2020 tel que modifié par l'article 3 du décret n° 2020-955 du 31
+juillet 2020, ces dispositions entrent en vigueur le 1er juin 2020.
 
 **Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2015-1823 du 30 décembre 2015 - art.
 
 _Cité par_:
 
@@ -48766,16 +48803,65 @@ _Cité par_:
   - Décret n°2020-656 du 30 mai 2020 - art. 3 (V)
   - Décret n°2020-955 du 31 juillet 2020 - art. 2 (V)
 
-_Modifié par_:
-
-  - Décret n°2020-188 du 3 mars 2020 - art. 1
-
 _Cite_:
 
+  - 
   - Code général des impôts, CGI. - art. 1011 bis
   - Code de la route. - art. R318-2
   - Code de l'énergie - art. D251-1
   - Code de l'énergie - art. D251-3
+
+_Modifié par_:
+
+  - Décret n°2020-656 du 30 mai 2020 - art. 1
+
+
+###### Article D251-8-1
+
+Le montant de l'aide défini à l'article D. 251-8 est majoré lorsque le bénéficiaire de cette aide est soit une personne
+physique dont le domicile ou le lieu de travail est situé dans une commune dont une partie du territoire est située au sein
+d'une zone à faibles émissions mobilité définie à l'article L. 2213-4-1 du code général des collectivités territoriales, soit
+une personne morale justifiant d'un établissement dans une commune dont une partie du territoire est située au sein d'une
+zone à faibles émissions mobilité, et lorsqu'une aide ayant le même objet a été attribuée par une collectivité territoriale
+ou un groupement de collectivités territoriales sur le territoire duquel se trouve la zone à faibles émissions mobilité
+considérée.
+
+Le montant de la majoration prévue à l'alinéa précédent est identique au montant de l'aide attribuée par la collectivité
+territoriale ou le groupement de collectivités territoriales susmentionnés, dans la limite de 1 000 euros.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2020-656 du 30 mai 2020 - art. 1
+
+_Cité par_:
+
+  - Décret n°2020-656 du 30 mai 2020 - art. 3 (V)
+
+_Cite_:
+
+  - Code général des collectivités territoriales - art. L2213-4-1
+
+
+###### Article D251-8-2
+
+Le montant de l'aide prévue à l'article D. 251-3-1 est déterminé par l'un ou l'autre des cas suivants :
+
+1° Le montant de l'aide est identique à celui prévu aux 1° et 2° de l'article D. 251-8 pour les voitures particulières et les
+camionnettes ;
+
+2° Le montant de l'aide est fixé à 1 100 euros pour les véhicules à moteur à deux ou trois roues et quadricycles à moteur
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2020-656 du 30 mai 2020 - art. 1
+
+_Cité par_:
+
+  - Décret n°2020-656 du 30 mai 2020 - art. 3 (V)
 
 
 ###### Article D251-9
@@ -48918,15 +49004,18 @@ _Modifié par_:
 
 ###### Article D251-13
 
-Les demandes d'aides sont formulées au plus tard dans les six mois suivant la date de facturation du véhicule ou, dans le cas
-d'une location, de versement du premier loyer.
+Les demandes d'aides prévues aux articles D. 251-1 à D. 251-3 sont formulées au plus tard dans les six mois suivant la date
+de facturation du véhicule ou, dans le cas d'une location, de versement du premier loyer. 
 
 En cas de cumul de l'aide instituée à l'article D. 251-1 avec la prime à la conversion prévue par l'article D. 251-3, une
-seule demande de versement est présentée pour les deux aides. Leur paiement est simultané.
+seule demande de versement est présentée pour les deux aides. Leur paiement est simultané. 
 
 Par dérogation à l'alinéa précédent et sur demande expresse du ministre chargé de l'énergie, lorsque la demande de versement
 relève de la procédure instituée par l'article D. 251-9 et si les vendeurs ou loueurs de véhicules mentionnés au même article
-n'avancent que l'une ou l'autre de ces aides, deux demandes de versement distinctes peuvent être présentées.
+n'avancent que l'une ou l'autre de ces aides, deux demandes de versement distinctes peuvent être présentées. 
+
+Les demandes de l'aide prévue à l'article D. 251-3-1 sont formulées au plus tard dans les six mois suivant la facturation de
+l'installation du dispositif de conversion électrique.
 
 **Liens relatifs à cet article**
 
@@ -48934,19 +49023,20 @@ _Codifié par_:
 
   - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-_Modifié par_:
-
-  - Décret n°2019-1526 du 30 décembre 2019 - art. 1
-
 _Cité par_:
 
   - Décret n°2020-656 du 30 mai 2020 (V)
   - Décret n°2020-656 du 30 mai 2020 - art. 3 (V)
 
+_Modifié par_:
+
+  - Décret n°2020-656 du 30 mai 2020 - art. 1
+
 _Cite_:
 
-  - Code de l'énergie - art. D251-1
-  - Code de l'énergie - art. D251-3
+  - Code de l'énergie - art. D251-1 (VT)
+  - Code de l'énergie - art. D251-3 (V)
+  - Code de l'énergie - art. D251-3-1
 
 
 ### TITRE VII : L'EFFACEMENT DE CONSOMMATION D'ÉLECTRICITE<a id=467></a>
