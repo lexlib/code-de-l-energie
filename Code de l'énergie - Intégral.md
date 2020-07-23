@@ -1,5 +1,5 @@
 # Code de l'énergie  
-Version Consolidée au 2020-06-29
+Version Consolidée au 2020-07-24
 ## Contenu: 
   - [Partie législative (art. L100-1 à L731-1)](#1)
     - [LIVRE IER : L'ORGANISATION GENERALE  DU SECTEUR DE L'ENERGIE (art. L100-1 à L161-6)](#2)
@@ -56,7 +56,7 @@ d'électricité et de gaz (art. L122-1 à L122-8)](#45)
       - [TITRE III : LA COMMISSION DE REGULATION DE L'ENERGIE (art. L131-1 à L135-16)](#51)
         - [Chapitre Ier : Missions (art. L131-1 à L131-4)](#52)
         - [Chapitre II : Organisation (art. L132-1 à L132-4)](#53)
-        - [Chapitre III : Fonctionnement (art. L133-1 à L133-6)](#54)
+        - [Chapitre III : Fonctionnement (art. L133-1 à L133-7)](#54)
         - [Chapitre IV : Attributions (art. L134-1 à L134-34)](#55)
           - [Section 1 : Décisions (art. L134-1 à L134-9)](#56)
           - [Section 2 : Rapports, avis, consultations et propositions (art. L134-10 à L134-18)](#57)
@@ -7354,10 +7354,14 @@ Le comité de règlement des différends et des sanctions comprend quatre membre
 
 2° Deux conseillers à la Cour de cassation désignés par le premier président de la Cour de cassation.
 
-Le comité comprend également quatre membres suppléants, désignés selon les mêmes règles que les membres titulaires. 
+Le comité comprend également quatre membres suppléants, désignés selon les mêmes règles que les membres titulaires.
 
 Les membres du comité et leurs suppléants sont nommés pour une durée de six ans non renouvelable. Le président est nommé par
 décret pour la durée de son mandat parmi les membres du comité.
+
+En cas de vacance de la présidence du comité ou en cas d'empêchement pour quelque cause que ce soit, les fonctions du
+président sont provisoirement exercées par le membre titulaire le plus ancien et, s'il y a concours dans l'ancienneté entre
+plusieurs membres titulaires, par le doyen d'âge parmi ceux-ci.
 
 **Liens relatifs à cet article**
 
@@ -7371,7 +7375,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2017-55 du 20 janvier 2017 - art. 38
+  - Ordonnance n°2020-891 du 22 juillet 2020 - art. 2
 
 
 ###### Article L132-4
@@ -7397,10 +7401,8 @@ _Cité par_:
 
 ###### Article L133-1
 
-Le collège et le comité délibèrent à la majorité des membres présents. En cas de partage égal des voix, celle du président
-est prépondérante, sauf en matière de sanction. Lorsque le comité délibère en matière de sanction, le membre du comité qui a
-prononcé une mise en demeure en application de l'article L. 134-26 ne participe pas au délibéré des décisions prises par le
-comité en application de l'article L. 134-27.
+Le collège délibère à la majorité des membres présents. En cas de partage égal des voix, celle du président est
+prépondérante.
 
 **Liens relatifs à cet article**
 
@@ -7414,12 +7416,12 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2013-312 du 15 avril 2013 - art. 21
+  - Ordonnance n°2020-891 du 22 juillet 2020 - art. 3
 
 _Cite_:
 
   - Code de l'énergie - art. L134-26
-  - Code de l'énergie - art. L134-27
+  - Code de l'énergie - art. L134-27 (V)
 
 
 ###### Article L133-2
@@ -7563,6 +7565,25 @@ _Cite_:
 
   - Code de l'énergie - art. L142-3
   - Code des relations entre le public et l'adminis... - art. L311-5 (V)
+
+
+###### Article L133-7
+
+L'instruction et la procédure devant le comité de règlement des différends et des sanctions sont contradictoires. Chaque
+partie peut être assistée ou représentée par toute personne de son choix.
+
+Le comité délibère à la majorité des membres présents. Il ne peut délibérer que si trois au moins de ses membres, titulaires
+ou suppléants, sont présents. Il délibère hors la présence du rapporteur et, en matière de sanction, hors la présence du
+membre désigné en application de l'article L. 134-25-1. En cas de partage égal des voix, celle du président est
+prépondérante.
+
+Les audiences sont publiques. La parole est donnée en dernier à la personne mise en cause.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2020-891 du 22 juillet 2020 - art. 4
 
 
 #### Chapitre IV : Attributions<a id=55></a>
@@ -8151,7 +8172,10 @@ La saisine du comité est à l'initiative de l'une ou l'autre des parties.
 Le comité peut également être saisi en cas de différend, portant sur le respect des règles d'indépendance fixées à la section
 2 du chapitre Ier du titre Ier du présent livre, intervenant entre les gestionnaires de réseaux de transport d'électricité ou
 de gaz naturel et une des sociétés appartenant à l'entreprise verticalement intégrée, telle que définie à l'article L.
-111-10, à laquelle les gestionnaires de réseaux appartiennent.
+111-10, à laquelle les gestionnaires de réseaux appartiennent. 
+
+Les règles générales de prescription extinctives prévues aux articles 2219 à 2253 du code civil sont applicables aux demandes
+de règlement de différend présentées devant le comité.
 
 **Liens relatifs à cet article**
 
@@ -8176,10 +8200,11 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2016-1725 du 15 décembre 2016 - art. 2
+  - Ordonnance n°2020-891 du 22 juillet 2020 - art. 5
 
 _Cite_:
 
+  - Code civil - art. 2219 (V)
   - Code de l'environnement - art. L229-49
   - Code de l'énergie - art. L111-10
   - Code de l'énergie - art. L111-91
@@ -8192,25 +8217,31 @@ _Cite_:
 Dans des conditions fixées par décret en Conseil d'Etat, le comité se prononce dans un délai de deux mois, après avoir
 diligenté, si nécessaire, une enquête dans les conditions fixées aux articles L. 135-3 et L. 135-4 et mis les parties à même
 de présenter leurs observations. Le délai peut être porté à quatre mois si la production de documents est demandée à l'une ou
-l'autre des parties. Ce délai de quatre mois peut être prorogé sous réserve de l'accord de la partie plaignante. 
+l'autre des parties. Ce délai de quatre mois peut être prorogé sous réserve de l'accord de la partie plaignante.
 
 La décision du comité, qui peut être assortie d'astreintes, est motivée et précise les conditions d'ordre technique et
 financier de règlement du différend dans lesquelles l'accès aux réseaux, ouvrages et installations mentionnés à l'article L.
-134-19 ou leur utilisation sont, le cas échéant, assurés. 
+134-19 ou leur utilisation sont, le cas échéant, assurés.
 
-Lorsque cela est nécessaire pour le règlement du différend, le comité peut fixer, de manière objective, transparente, non
+Un décret en Conseil d'Etat précise les modalités du prononcé et de la liquidation des astreintes.
+
+Lorsque cela est nécessaire pour le règlement du différend, le comité fixe, de manière objective, transparente, non
 discriminatoire et proportionnée, les modalités de l'accès auxdits réseaux, ouvrages et installations ou les conditions de
-leur utilisation. 
+leur utilisation.
 
-Sa décision est notifiée aux parties et publiée au Journal officiel de la République française, sous réserve des secrets
-protégés par la loi. 
+Le comité peut également fixer un calendrier d'exécution de sa décision.
+
+Sa décision est notifiée aux parties et publiée au Journal officiel de la République française, sur le site internet de la
+Commission de régulation de l'énergie ainsi que, à son initiative, sur tout autre support, sous réserve des secrets protégés
+par la loi et de la mise en œuvre des garanties appropriées en ce qui concerne la protection des données à caractère
+personnel.
 
 Le comité peut, à la demande de la partie qui le saisit, décider que sa décision produira effet à une date antérieure à sa
 saisine, sans toutefois que cette date puisse être antérieure à la date à laquelle la contestation a été formellement élevée
 par l'une des parties pour la première fois et, en tout état de cause, sans que cette date soit antérieure de plus de deux
-ans à sa saisine. 
+ans à sa saisine.
 
-Le quatrième alinéa du présent article est applicable aux règlements de différends en cours à la date d'entrée en vigueur de
+Le septième alinéa du présent article est applicable aux règlements de différends en cours à la date d'entrée en vigueur de
 la loi n° 2017-55 du 20 janvier 2017 portant statut général des autorités administratives indépendantes et des autorités
 publiques indépendantes.
 
@@ -8226,13 +8257,13 @@ _Codifié par_:
 
 _Cite_:
 
-  - Loi n°2017-55 du 20 janvier 2017 (V)
+  - Loi n°2017-55 du 20 janvier 2017
   - Code de l'énergie - art. L134-19
   - Code de l'énergie - art. L135-3
 
 _Modifié par_:
 
-  - Loi n°2017-55 du 20 janvier 2017 - art. 38
+  - Ordonnance n°2020-891 du 22 juillet 2020 - art. 6
 
 _Cité par_:
 
@@ -8326,6 +8357,10 @@ _Créé par_:
 Les recours contre les décisions et mesures conservatoires prises par le comité de règlement des différends et des sanctions
 en application de la présente section sont de la compétence de la cour d'appel de Paris.
 
+Le président de la commission et le président du comité peuvent former un pourvoi en cassation contre l'arrêt de la cour
+d'appel de Paris ayant annulé ou réformé une décision prise en application de la présente section et peuvent présenter des
+observations devant la Cour de cassation.
+
 **Liens relatifs à cet article**
 
 _Anciens textes_:
@@ -8336,14 +8371,14 @@ _Codifié par_:
 
   - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
 
-_Créé par_:
-
-  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
-
 _Cité par_:
 
   - Décret n°2015-206 du 24 février 2015 - art. 13 (Ab)
   - Code de l'énergie - art. R134-20 (V)
+
+_Modifié par_:
+
+  - Ordonnance n°2020-891 du 22 juillet 2020 - art. 7
 
 
 ##### Section 4 : Pouvoir de sanction<a id=59></a>
@@ -8351,33 +8386,34 @@ _Cité par_:
 ###### Article L134-25
 
 Le comité de règlement des différends et des sanctions peut soit d'office, soit à la demande du ministre chargé de l'énergie,
-de l'environnement, du président de la Commission de régulation de l'énergie, d'une organisation professionnelle, d'une
-association agréée d'utilisateurs ou de toute autre personne concernée, sanctionner les manquements mentionnés aux titres Ier
-et II du présent livre et aux livres III et IV qu'il constate de la part des gestionnaires de réseaux publics de transport ou
-de distribution d'électricité, des gestionnaires de réseaux fermés de distribution d'électricité,  des opérateurs des
-ouvrages de transport ou de distribution de gaz naturel ou des exploitants des installations de stockage de gaz naturel ou
-des installations de gaz naturel liquéfié ou des exploitants de réseaux de transport et de stockage géologique de dioxyde de
-carbone ou des utilisateurs de ces réseaux, ouvrages et installations, y compris les fournisseurs d'électricité ou de gaz
-naturel, dans les conditions fixées aux articles suivants. 
+du président de la Commission de régulation de l'énergie, d'une organisation professionnelle, d'une association agréée
+d'utilisateurs ou de toute autre personne concernée, sanctionner les manquements mentionnés aux titres Ier et II du présent
+livre et aux livres III et IV qu'il constate de la part des gestionnaires de réseaux publics de transport ou de distribution
+d'électricité, des gestionnaires de réseaux fermés de distribution d'électricité, des opérateurs des ouvrages de transport ou
+de distribution de gaz naturel ou des exploitants des installations de stockage de gaz naturel ou des installations de gaz
+naturel liquéfié ou des exploitants de réseaux de transport et de stockage géologique de dioxyde de carbone ou des
+utilisateurs de ces réseaux, ouvrages et installations, y compris les fournisseurs d'électricité ou de gaz naturel, dans les
+conditions fixées aux articles suivants.
 
 Le comité de règlement des différends et des sanctions peut également, soit d'office, soit à la demande du ministre chargé de
 l'énergie, ou à la demande du président de la Commission de régulation de l'énergie, sanctionner les manquements répétés
 qu'il constate de la part du gestionnaire du réseau public de transport d'électricité ou d'un gestionnaire de réseau de
 transport de gaz naturel ou de la part des autres sociétés de l'entreprise verticalement intégrée, telle que définie à
-l'article L. 111-10, à laquelle appartient ce gestionnaire de réseau, aux règles d'indépendance mentionnées à la section 1 du
-chapitre Ier du titre Ier du présent livre, à l'obligation annuelle d'actualisation du schéma décennal de développement du
-réseau mentionné à l'article L. 321-6 ou du plan décennal de développement du réseau mentionné à l'article L. 431-6 ou au
-refus de réaliser un investissement prévu dans ce schéma ou dans ce plan. 
+l'article L. 111-10, à laquelle appartient ce gestionnaire de réseau, aux règles d'indépendance mentionnées aux sections 1 et
+2 du chapitre Ier du titre Ier du présent livre, à l'obligation annuelle d'actualisation du schéma décennal de développement
+du réseau mentionné à l'article L. 321-6 ou du plan décennal de développement du réseau mentionné à l'article L. 431-6 ou au
+refus de réaliser un investissement prévu dans ce schéma ou dans ce plan.
 
 Le comité de règlement des différends et des sanctions peut également, soit d'office, soit à la demande du ministre chargé de
-l'énergie ou de l'environnement, d'une organisation professionnelle, du président de la Commission de régulation de
-l'énergie, de l'Agence de coopération des régulateurs de l'énergie instituée par le règlement (CE) n° 713/2009 du Parlement
-européen et du Conseil du 13 juillet 2009 instituant une agence de coopération des régulateurs de l'énergie ou de toute autre
-personne concernée, sanctionner les manquements aux règles définies aux articles 3, 4, 5, 8, 9 et 15 du règlement (UE) n°
-1227/2011 du Parlement européen et du Conseil du 25 octobre 2011 concernant l'intégrité et la transparence du marché de gros
-de l'énergie ou tout autre manquement de nature à porter gravement atteinte au fonctionnement du marché de l'énergie, y
-compris du mécanisme d'obligation de capacité mentionné à l'article L. 335-2 du présent code, qu'il constate de la part de
-toute personne concernée, dans les conditions fixées aux articles L. 134-26 à L. 134-34.
+l'énergie, d'une organisation professionnelle, du président de la Commission de régulation de l'énergie, de l'Agence de
+coopération des régulateurs de l'énergie instituée par le règlement (CE) n° 713/2009 du Parlement européen et du Conseil du
+13 juillet 2009 instituant une agence de coopération des régulateurs de l'énergie ou de toute autre personne concernée,
+sanctionner les manquements aux règles définies aux articles 3, 4, 5, 8, 9 et 15 du règlement (UE) n° 1227/2011 du Parlement
+européen et du Conseil du 25 octobre 2011 concernant l'intégrité et la transparence du marché de gros de l'énergie ou tout
+autre manquement de nature à porter gravement atteinte au fonctionnement du marché de l'énergie, y compris du mécanisme
+d'obligation de capacité mentionné à l'article L. 335-2 du présent code, qu'il constate de la part de toute personne
+concernée, dans les conditions fixées aux articles L. 134-26 à L. 134-34, sans qu'il y ait lieu de la mettre préalablement en
+demeure.
 
 **Liens relatifs à cet article**
 
@@ -8391,21 +8427,55 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2016-1725 du 15 décembre 2016 - art. 2
+  - Ordonnance n°2020-891 du 22 juillet 2020 - art. 8
 
 _Cite_:
 
   - Code de l'énergie - art. L111-10
+  - Code de l'énergie - art. L134-26 (V)
   - Code de l'énergie - art. L321-6
   - Code de l'énergie - art. L335-2
   - Code de l'énergie - art. L431-6
 
 _Cité par_:
 
-  - Code de l'énergie - art. L134-26 (V)
   - Code de l'énergie - art. L134-28 (V)
   - Code de l'énergie - art. L134-29 (V)
   - Code de l'énergie - art. L135-12 (V)
+
+
+###### Article L134-25-1
+
+Dès réception de la demande de sanction, sauf cas d'irrecevabilité manifeste, le président du comité de règlement des
+différends et des sanctions désigne un membre de ce comité, titulaire ou suppléant, chargé de l'instruction avec le concours
+des agents de la Commission de régulation de l'énergie.
+
+Le membre désigné peut, lorsqu'il l'estime nécessaire, entendre la personne mise en cause ou toute autre personne utile à la
+solution du litige.
+
+Il peut également demander à la personne mise en cause ou toute autre personne concernée de lui donner tout renseignement ou
+de produire toute pièce, tout document ou toute information utile à la solution du litige.
+
+Il peut inviter les personnes mentionnées aux deux alinéas précédents à produire des observations.
+
+Il peut mettre la personne mise en cause en demeure de se conformer à ses obligations. Si elle le fait, il peut mettre fin à
+la procédure selon les modalités précisées par décret en Conseil d'Etat.
+
+Il notifie les griefs. Si les faits dont il a connaissance au cours de l'instruction lui paraissent susceptibles de
+constituer un manquement supplémentaire, le membre désigné notifie les nouveaux griefs à la personne poursuivie ainsi qu'à
+toute personne concernée et recueille leurs observations.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2020-891 du 22 juillet 2020 - art. 9
+
+_Cité par_:
+
+  - Code de l'énergie - art. L134-26 (V)
+  - Code de l'énergie - art. L134-27 (V)
+  - Code de l'énergie - art. L134-31 (V)
 
 
 ###### Article L134-26
@@ -8416,15 +8486,15 @@ réseau, d'un ouvrage ou d'une installation mentionnés à l'article L. 134-19, 
 relative à l'accès auxdits réseaux, ouvrages et installations ou à leur utilisation, à une décision prise par la Commission
 de régulation de l'énergie ou à une règle d'imputation, à un périmètre ou à un principe approuvés par elle en application des
 dispositions de la section 6 du chapitre Ier du titre Ier du livre Ier, ou aux règles et obligations mentionnées aux premier
-et deuxième alinéas de l'article L. 134-25, le président du comité désigne le membre du comité chargé de mettre, le cas
-échéant, l'auteur de l'abus, de l'entrave ou du manquement en demeure de se conformer à ces dispositions législatives ou
-réglementaires ou à ces décisions ou règles et obligations dans un délai déterminé. Il peut rendre publique cette mise en
-demeure. Est regardé comme un abus du droit d'accès régulé à l'électricité nucléaire historique tout achat d'électricité
-nucléaire historique dans le cadre du dispositif d'accès régulé à celle-ci sans intention de constituer un portefeuille de
-clients y ouvrant droit, en particulier tout achat de quantités d'électricité nucléaire historique excédant substantiellement
-celles nécessaires à l'approvisionnement de sa clientèle et sans rapport avec la réalité du développement de son activité et
-les moyens consacrés à celui-ci, et plus généralement toute action participant directement ou indirectement au détournement
-des capacités d'électricité nucléaire historique à prix régulé.
+et deuxième alinéas de l'article L. 134-25, le membre du comité désigné en application de l'article L. 134-25-1 est chargé de
+mettre, le cas échéant, l'auteur de l'abus, de l'entrave ou du manquement en demeure de se conformer à ces dispositions
+législatives ou réglementaires ou à ces décisions ou règles et obligations dans un délai déterminé. Il peut rendre publique
+cette mise en demeure. Est regardé comme un abus du droit d'accès régulé à l'électricité nucléaire historique tout achat
+d'électricité nucléaire historique dans le cadre du dispositif d'accès régulé à celle-ci sans intention de constituer un
+portefeuille de clients y ouvrant droit, en particulier tout achat de quantités d'électricité nucléaire historique excédant
+substantiellement celles nécessaires à l'approvisionnement de sa clientèle et sans rapport avec la réalité du développement
+de son activité et les moyens consacrés à celui-ci, et plus généralement toute action participant directement ou
+indirectement au détournement des capacités d'électricité nucléaire historique à prix régulé.
 
 **Liens relatifs à cet article**
 
@@ -8441,7 +8511,7 @@ _Cité par_:
   - Décret n°2015-206 du 24 février 2015 - art. 23 (Ab)
   - Décret n°2015-206 du 24 février 2015 - art. 24 (Ab)
   - Code de l'énergie - art. L133-1 (V)
-  - Code de l'énergie - art. L134-25 (M)
+  - Code de l'énergie - art. L134-25 (V)
   - Code de l'énergie - art. L134-31 (V)
   - Code de l'énergie - art. L135-12 (V)
   - Code de l'énergie - art. L335-7 (V)
@@ -8449,39 +8519,41 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2016-461 du 14 avril 2016 - art. 1
+  - Ordonnance n°2020-891 du 22 juillet 2020 - art. 10
 
 _Cite_:
 
   - Code de l'énergie - art. L134-19
+  - Code de l'énergie - art. L134-25-1
   - Code de l'énergie - art. L336-1
 
 
 ###### Article L134-27
 
 Lorsque l'intéressé ne se conforme pas dans les délais fixés à cette mise en demeure ou en cas de manquement constaté dans
-les conditions prévues à l'article L. 135-12, et après l'envoi d'une notification des griefs à l'intéressé, le comité peut
-prononcer à son encontre, en fonction de la gravité du manquement :
+les conditions prévues à l'article L. 135-12, et après l'envoi par le membre désigné en application de l'article L. 134-25-1
+d'une notification des griefs à l'intéressé, le comité peut prononcer à son encontre, en fonction de la gravité du
+manquement : 
 
 1° Soit une interdiction temporaire, pour une durée n'excédant pas un an, de l'accès aux réseaux, ouvrages et installations
-mentionnés à l'article L. 134-19 ou, en cas de manquement aux articles 3, 4 ou 5 du règlement (UE) n° 1227/2011 du Parlement
+mentionnés à l'article L. 134-19 ou, en cas de manquement aux articles 3,4 ou 5 du règlement (UE) n° 1227/2011 du Parlement
 européen et du Conseil du 25 octobre 2011 concernant l'intégrité et la transparence du marché de gros de l'énergie, de
 l'exercice de tout ou partie des activités professionnelles des personnes concernées ; 
 
 2° Soit, si le manquement n'est pas constitutif d'une infraction pénale, une sanction pécuniaire, dont le montant est
 proportionné à la gravité du manquement, à la situation de l'intéressé, à l'ampleur du dommage et aux avantages qui en sont
-tirés.
+tirés. 
 
-Ce montant ne peut excéder 3 % du chiffre d'affaires hors taxes lors du dernier exercice clos, porté à 5 % en cas de nouvelle
-violation de la même obligation dans le cas d'un manquement aux obligations de transmission d'informations ou de documents ou
-à l'obligation de donner accès à la comptabilité, ainsi qu'aux informations économiques, financières et sociales prévues à
-l'article L. 135-1. A défaut d'activité permettant de déterminer ce plafond, le montant de la sanction ne peut excéder 100
-000 euros, porté à 250 000 euros en cas de nouvelle violation de la même obligation. 
+Ce montant ne peut excéder 3 % du montant du chiffre d'affaires hors taxes lors du dernier exercice clos, porté à 5 % en cas
+de nouvelle violation de la même obligation dans le cas d'un manquement aux obligations de transmission d'informations ou de
+documents ou à l'obligation de donner accès à la comptabilité, ainsi qu'aux informations économiques, financières et sociales
+prévues à l'article L. 135-1. A défaut d'activité permettant de déterminer ce plafond, le montant de la sanction ne peut
+excéder 100 000 euros, porté à 250 000 euros en cas de nouvelle violation de la même obligation. 
 
-Dans le cas des autres manquements, il ne peut excéder 8 % du chiffre d'affaires hors taxes lors du dernier exercice clos,
-porté à 10 % en cas de nouvelle violation de la même obligation. A défaut d'activité permettant de déterminer ce plafond, le
-montant de la sanction ne peut excéder 150 000 euros, porté à 375 000 euros en cas de nouvelle violation de la même
-obligation.
+Dans le cas des autres manquements, il ne peut excéder 8 % du montant du chiffre d'affaires hors taxes lors du dernier
+exercice clos, porté à 10 % en cas de nouvelle violation de la même obligation. A défaut d'activité permettant de déterminer
+ce plafond, le montant de la sanction ne peut excéder 150 000 euros, porté à 375 000 euros en cas de nouvelle violation de la
+même obligation. 
 
 Si le manquement a déjà fait l'objet d'une sanction pécuniaire au titre d'une autre législation, la sanction pécuniaire
 éventuellement prononcée par le comité est limitée de sorte que le montant global des sanctions pécuniaires ne dépasse pas le
@@ -8499,11 +8571,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2016-461 du 14 avril 2016 - art. 1
+  - Ordonnance n°2020-891 du 22 juillet 2020 - art. 11
 
 _Cité par_:
 
-  - Code de l'énergie - art. L133-1 (M)
+  - Code de l'énergie - art. L133-1 (V)
   - Code de l'énergie - art. L134-28 (V)
   - Code de l'énergie - art. L134-29 (V)
   - Code de l'énergie - art. L134-31 (M)
@@ -8511,16 +8583,19 @@ _Cité par_:
 _Cite_:
 
   - Code de l'énergie - art. L134-19
+  - Code de l'énergie - art. L134-25-1 (V)
   - Code de l'énergie - art. L135-1
-  - Code de l'énergie - art. L135-12
+  - Code de l'énergie - art. L135-12 (V)
 
 
 ###### Article L134-28
 
-Les sanctions énumérées à l'article L. 134-27 sont également encourues lorsque le gestionnaire, l'opérateur, l'exploitant ou
-l'utilisateur d'un réseau, d'un ouvrage ou d'une installation ou le fournisseur d'électricité ou de gaz naturel mentionné à
-l'article L. 134-25 ne s'est pas conformé dans les délais requis à une décision prise par le comité en application des
-articles L. 134-20 et L. 134-22, sans qu'il y ait lieu de le mettre préalablement en demeure.
+Les sanctions énumérées à l'article L. 134-27 sont également encourues, sur saisine des parties au règlement de différend, du
+ministre chargé de l'énergie, du président de la Commission de régulation de l'énergie, d'une organisation professionnelle,
+d'une association agréée d'utilisateurs ou de toute autre personne concernée, lorsque le gestionnaire, l'opérateur,
+l'exploitant ou l'utilisateur d'un réseau, d'un ouvrage ou d'une installation ou le fournisseur d'électricité ou de gaz
+naturel mentionné à l'article L. 134-25 ne s'est pas conformé dans les délais requis à une décision prise par le comité en
+application des articles L. 134-20 et L. 134-22, sans qu'il y ait lieu de le mettre préalablement en demeure.
 
 **Liens relatifs à cet article**
 
@@ -8534,13 +8609,13 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2016-461 du 14 avril 2016 - art. 1
+  - Ordonnance n°2020-891 du 22 juillet 2020 - art. 12
 
 _Cite_:
 
-  - Code de l'énergie - art. L134-20 (V)
-  - Code de l'énergie - art. L134-22 (V)
-  - Code de l'énergie - art. L134-25 (M)
+  - Code de l'énergie - art. L134-20
+  - Code de l'énergie - art. L134-22
+  - Code de l'énergie - art. L134-25
   - Code de l'énergie - art. L134-27
 
 _Cité par_:
@@ -8550,18 +8625,18 @@ _Cité par_:
 
 ###### Article L134-29
 
-En cas de manquement, soit d'un gestionnaire, d'un opérateur ou d'un exploitant d'un réseau, d'un ouvrage ou d'une
-installation mentionné à l'article L. 134-25, soit d'une autre entreprise exerçant une activité dans le secteur de
-l'électricité ou du gaz naturel ou du transport et du stockage géologique de dioxyde de carbone, soit de toute personne qui
-effectue des transactions sur un ou plusieurs marchés de gros de l'énergie, y compris des transactions de garanties de
-capacité mentionnées à l'article L. 335-2 aux obligations de communication de documents et d'informations, ou à l'obligation
-de donner accès à leur comptabilité, ainsi qu'aux informations économiques, financières et sociales prévues à l'article L.
-135-1, le président de la Commission de régulation de l'énergie met l'intéressé en demeure de s'y conformer dans un délai
-qu'il détermine. 
+En cas de manquement constaté dans les conditions prévues à l'article L. 135-12, soit d'un gestionnaire, d'un opérateur ou
+d'un exploitant d'un réseau, d'un ouvrage ou d'une installation mentionné à l'article L. 134-25, soit d'une autre entreprise
+exerçant une activité dans le secteur de l'électricité ou du gaz naturel ou du transport et du stockage géologique de dioxyde
+de carbone, soit de toute personne qui effectue des transactions sur un ou plusieurs marchés de gros de l'énergie, y compris
+des transactions de garanties de capacité mentionnées à l'article L. 335-2 aux obligations de communication de documents et
+d'informations, ou à l'obligation de donner accès à leur comptabilité, ainsi qu'aux informations économiques, financières et
+sociales prévues à l'article L. 135-1, le président de la Commission de régulation de l'énergie met l'intéressé en demeure de
+s'y conformer dans un délai qu'il détermine. 
 
 Lorsque l'intéressé ne se conforme pas à cette mise en demeure dans le délai fixé ou fournit des renseignements incomplets ou
 erronés, le comité de règlement des différends et des sanctions peut prononcer à son encontre les sanctions prévues à
-l'article L. 134-27.
+l'article L. 134-27, sans qu'une nouvelle mise en demeure soit nécessaire.
 
 **Liens relatifs à cet article**
 
@@ -8573,16 +8648,15 @@ _Codifié par_:
 
   - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
 
-_Modifié par_:
-
-  - Loi n°2013-312 du 15 avril 2013 - art. 22
-  - Loi n°2013-312 du 15 avril 2013 - art. 23
-
 _Cité par_:
 
   - Décret n°2015-206 du 24 février 2015 - art. 22 (Ab)
   - Code de l'énergie - art. L135-12 (V)
   - Code de l'énergie - art. R134-29 (V)
+
+_Modifié par_:
+
+  - Ordonnance n°2020-891 du 22 juillet 2020 - art. 13
 
 _Cite_:
 
@@ -8624,11 +8698,9 @@ _Cite_:
 
 ###### Article L134-31
 
-Les sanctions énumérées à l'article L. 134-27 sont prononcées après que le gestionnaire, l'opérateur, l'exploitant ou
-l'utilisateur d'un réseau, d'un ouvrage ou d'une installation, le fournisseur d'électricité ou de gaz naturel ou toute
-personne qui effectue ou organise des transactions sur un ou plusieurs marchés de gros de l'énergie ou portant sur des
-garanties de capacités mentionnées à l'article L. 335-2 a reçu notification des griefs et a été mis à même de consulter le
-dossier et de présenter ses observations écrites et verbales, assisté par une personne de son choix.
+Les sanctions sont prononcées après que la personne mise en cause, qui a reçu notification des griefs par le membre désigné
+en application de l'article L. 134-25-1, a été mise à même, assistée par toute personne de son choix, de consulter le dossier
+et de présenter ses observations écrites et, lors de la séance publique, orales.
 
 **Liens relatifs à cet article**
 
@@ -8642,11 +8714,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2016-461 du 14 avril 2016 - art. 1
+  - Ordonnance n°2020-891 du 22 juillet 2020 - art. 14
 
 _Cite_:
 
-  - Code de l'énergie - art. L134-27 (M)
+  - Code de l'énergie - art. L134-25-1
 
 _Cité par_:
 
@@ -8675,10 +8747,8 @@ _Créé par_:
 
 ###### Article L134-33
 
-L'instruction et la procédure devant le comité de règlement des différends et des sanctions sont contradictoires.
-
-Le comité de règlement des différends et des sanctions ne peut être saisi de faits remontant à plus de trois ans s'il n'a été
-fait aucun acte tendant à leur recherche, leur constatation ou leur sanction.
+Le comité ne peut être saisi, ni se saisir, en vue du prononcé d'une sanction, de faits remontant à plus de trois ans s'il
+n'a été fait, pendant ce délai, aucun acte tendant à leur recherche, leur constatation ou leur sanction.
 
 **Liens relatifs à cet article**
 
@@ -8690,18 +8760,22 @@ _Codifié par_:
 
   - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
+  - Ordonnance n°2020-891 du 22 juillet 2020 - art. 15
 
 
 ###### Article L134-34
 
-Les décisions de sanction sont motivées, notifiées à l'intéressé. En fonction de la gravité du manquement elles peuvent être
-publiées au Journal officiel de la République française.
+Ces décisions de sanction sont motivées et notifiées à l'intéressé. Elles peuvent être publiées au Journal officiel de la
+République française et, selon les modalités précisées par le comité, sur le site internet de la Commission de régulation de
+l'énergie ou sur d'autres supports, notamment dans le rapport établi sur les opérations de l'exercice par les gérants, le
+conseil d'administration ou le directoire de la société sanctionnée, sous réserve des secrets protégés par la loi et de la
+mise en œuvre des garanties appropriées en ce qui concerne la protection des données à caractère personnel. Les frais de la
+publication sont supportés par la personne sanctionnée.
 
-Elles peuvent faire l'objet d'un recours de pleine juridiction et d'une demande de sursis à exécution devant le Conseil
-d'Etat.
+Elles peuvent faire l'objet d'un recours de pleine juridiction et d'une demande de suspension conformément à l'article L.
+521-1 du code de justice administrative, devant le Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
@@ -8713,9 +8787,13 @@ _Codifié par_:
 
   - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
+  - Ordonnance n°2020-891 du 22 juillet 2020 - art. 16
+
+_Cite_:
+
+  - Code de justice administrative - art. L521-1
 
 
 #### Chapitre V : Pouvoirs d'enquête et de contrôle<a id=60></a>
@@ -9091,13 +9169,14 @@ _Cite_:
 
 ###### Article L135-12
 
-Les manquements mentionnés au dernier alinéa de l'article L. 134-25 et aux articles L. 134-26, L. 134-28 et L. 134-29 sont
-constatés par les agents mentionnés à l'article L. 135-3. 
+Lorsque le président de la Commission de régulation de l'énergie saisit le comité de règlement des différends et des
+sanctions d'une demande de sanction pour les manquements mentionnés aux articles L. 134-25, L. 134-26, L. 134-28 et L.
+134-29, ces manquements sont préalablement constatés par les agents mentionnés à l'article L. 135-3. 
 
 Ces manquements font l'objet de procès-verbaux qui, ainsi que les sanctions maximales encourues, sont notifiés à la ou aux
-personnes concernées et communiqués à la Commission de régulation de l'énergie et au ministre de l'environnement dès lors que
-ces manquements ou sanctions portent sur les activités de transport ou de stockage géologique de dioxyde de carbone. La ou
-les personnes concernées sont invitées à présenter leurs observations écrites ou orales dans un délai de quinze jours à
+personnes concernées et communiqués à la Commission de régulation de l'énergie et au ministre chargé de l'énergie dès lors
+que ces manquements ou sanctions portent sur les activités de transport ou de stockage géologique de dioxyde de carbone. La
+ou les personnes concernées sont invitées à présenter leurs observations écrites ou orales dans un délai de quinze jours à
 compter de cette notification, sans préjudice des droits prévus à l'article L. 134-31.
 
 **Liens relatifs à cet article**
@@ -9110,17 +9189,17 @@ _Codifié par_:
 
   - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
 
-_Modifié par_:
-
-  - Loi n°2013-619 du 16 juillet 2013 - art. 38 (V)
-
 _Cité par_:
 
   - Décret n°2015-206 du 24 février 2015 - art. 22 (Ab)
-  - Code de l'énergie - art. L134-27 (M)
+  - Code de l'énergie - art. L134-27 (V)
   - Code de l'énergie - art. L134-29 (V)
   - Code de l'énergie - art. R134-29 (V)
   - Code de l'énergie - art. R135-5 (V)
+
+_Modifié par_:
+
+  - Ordonnance n°2020-891 du 22 juillet 2020 - art. 17
 
 _Cite_:
 
