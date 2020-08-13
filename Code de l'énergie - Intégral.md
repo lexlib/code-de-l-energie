@@ -1,5 +1,5 @@
 # Code de l'énergie  
-Version Consolidée au 2020-08-03
+Version Consolidée au 2020-08-14
 ## Contenu: 
   - [Partie législative (art. L100-1 à L731-1)](#1)
     - [LIVRE IER : L'ORGANISATION GENERALE  DU SECTEUR DE L'ENERGIE (art. L100-1 à L161-6)](#2)
@@ -682,80 +682,81 @@ relatives à la vente de biogaz (art. L446-1 A à L446-26)](#252)
       - [TITRE VI : LES CONSOMMATEURS GAZO-INTENSIFS (art. D461-1 à D461-14)](#673)
         - [Chapitre unique (art. D461-1 à D461-14)](#674)
     - [LIVRE V : LES DISPOSITIONS RELATIVES À L'UTILISATION DE L'ÉNERGIE HYDRAULIQUE (art. D511-1 à R524-6)](#675)
-      - [TITRE Ier : LES DISPOSITIONS COMMUNES AUX INSTALLATIONS HYDRAULIQUES AUTORISÉES OU CONCÉDÉES (art. D511-1)](#676)
+      - [TITRE Ier : LES DISPOSITIONS COMMUNES AUX INSTALLATIONS HYDRAULIQUES AUTORISÉES OU CONCÉDÉES (art. D511-1 à R513-2)](#676)
         - [Chapitre Ier : Les caractéristiques générales des régimes d'exploitation de l'énergie hydraulique (art. D511-1)](#677)
-      - [TITRE II : LES DISPOSITIONS RELATIVES AUX INSTALLATIONS HYDRAULIQUES CONCÉDÉES (art. R521-1 à R524-6)](#678)
-        - [Chapitre Ier : La procédure applicable aux concessions (art. R521-1 à R521-72)](#679)
-          - [Section 1 : L'octroi de la concession (art. R521-2 à R521-48)](#680)
-            - [Sous-section 1 : Lancement de la procédure (art. R521-2 à R521-5)](#681)
-            - [Sous-section 2 : Sélection du candidat pressenti (art. R521-6 à R521-11)](#682)
-            - [Sous-section 3 : Instruction de la demande du concessionnaire pressenti (art. R521-12 à R521-24)](#683)
-            - [Sous-section 4 : Octroi de la concession et déclaration d'utilité publique (art. R521-25 à R521-27)](#684)
-            - [Sous-section 5 : Règlement d'eau (art. R521-28 à R521-30)](#685)
-            - [Sous-section 6 : Approbation des projets d'exécution, autorisation et récolement des travaux d'établissement de la concession (art. R521-31 à R521-39)](#686)
-            - [Sous-section 7 : Approbation des autres travaux (art. R521-40 à R521-42)](#687)
-            - [Sous-section 8 : Dispositions relatives à la sécurité et à la sûreté des ouvrages hydrauliques concédés (art. R521-43 à R521-46)](#688)
-            - [Sous-section 9 : Dispositions diverses (art. R521-47 à R521-48)](#689)
-          - [Section 2 : Le cahier des charges de la concession (art. R521-49)](#690)
-          - [Section 3 : L'occupation ou la traversée des propriétés privées (art. R521-50 à R521-51)](#691)
-          - [Section 4 :  Les dispositions particulières à la fin de la concession et à son renouvellement (art. R521-52 à R521-66)](#692)
-            - [Sous-section 1 : Décision d'arrêt ou de poursuite de l'exploitation (art. R521-52 à R521-53)](#693)
-            - [Sous-section 2 : Fin de la concession (art. R521-54 à R521-57)](#694)
-            - [Sous-section 3 : Dispositions spécifiques au renouvellement de concession (art. R521-58 à R521-59)](#695)
-            - [Sous-section 4 : Regroupement de concessions (art. R521-60 à R521-65)](#696)
-            - [Sous-section 5 : Prorogation des concessions (art. R521-66)](#697)
-          - [Section 5 : Les sociétés d'économie mixte hydroélectriques (art. R521-67 à R521-72)](#698)
-        - [Chapitre II : Les reserves en énergie (art. D522-5 à R522-4)](#699)
-        - [Chapitre III : Les redevances proportionnelles (art. R523-1 à R523-5)](#700)
-        - [Chapitre IV :  L'information des collectivités territoriales et des habitants riverains sur l'exécution de la concession et leur participation à la gestion des usages de l'eau (art. R524-1 à R524-6)](#701)
-    - [LIVRE VI : LES DISPOSITIONS RELATIVES AU PÉTROLE, AUX BIOCARBURANTS ET BIOLIQUIDES (art. D631-1 à R671-31)](#702)
-      - [TITRE III : LE TRANSPORT (art. D631-1 à R632-4)](#703)
-        - [Chapitre Ier : Le transport par navire (art. D631-1 à D631-10)](#704)
-        - [Chapitre II : Le transport par canalisation (art. R632-1 à R632-4)](#705)
-      - [TITRE IV : LE RAFFINAGE ET LE STOCKAGE (art. R641-1 à D642-11)](#706)
-        - [Chapitre Ier : Le raffinage et les produits pétroliers (art. R641-1 à R641-16)](#707)
-          - [Section 1 : Dispositions applicables au raffinage (art. R641-1 à R641-3)](#708)
-          - [Section 2 : Dispositions applicables aux produits pétroliers et aux carburants renouvelables (art. D641-4 à R641-16)](#709)
-        - [Chapitre II : Le stockage (art. R642-1 à D642-11)](#710)
-          - [Section 1 : Le Comité professionnel des stocks stratégiques pétroliers (art. R642-1 à R642-10)](#711)
-          - [Section 2 : Dispositions diverses (art. D642-11)](#712)
-      - [TITRE VI : LES BIOCARBURANTS ET BIOLIQUIDES (art. D661-2 à R662-4)](#713)
-        - [Chapitre Ier : Obligations relatives aux biocarburants et aux bioliquides (art. D661-2 à R661-11)](#714)
-        - [Chapitre II : Contrôles et sanctions administratives (art. R662-1 à R662-4)](#715)
-      - [TITRE VII : LES DISPOSITIONS PARTICULIÈRES À L'OUTRE-MER (art. R671-1 à R671-31)](#716)
-        - [Chapitre unique (art. R671-1 à R671-31)](#717)
-          - [Section 1 : Dispositions relatives au département de la Guadeloupe et aux collectivités territoriales de la Guyane et de la Martinique (art. R671-1 à R671-13)](#718)
-            - [Sous-section 1 : Dispositions générales (art. R671-1)](#719)
-            - [Sous-section 2 : Dispositions relatives aux prix des produits pétroliers autres que le gaz de pétrole liquéfié (art. R671-2 à R671-5)](#720)
-            - [Sous-section 3 : Dispositions relatives aux prix du gaz de pétrole liquéfié (art. R671-6 à R671-10)](#721)
-            - [Sous-section 4 : Dispositions relatives aux activités de stockage de produits pétroliers (art. R671-11 à R671-12)](#722)
-            - [Sous-section 5 : Dispositions relatives à l'information du public (art. R671-13)](#723)
-          - [Section 2 : Dispositions relatives au département de La Réunion (art. R671-14 à R671-22)](#724)
-            - [Sous-section 1 : Dispositions générales (art. R671-14)](#725)
-            - [Sous-section 2 : Dispositions relatives aux prix des produits pétroliers (art. R671-15 à R671-17)](#726)
-            - [Sous-section 3 : Dispositions relatives à la distribution des produits pétroliers (art. R671-18 à R671-19)](#727)
-            - [Sous-section 4 : Dispositions relatives aux activités de stockage de produits pétroliers (art. R671-20 à R671-21)](#728)
-            - [Sous-section 5 : Dispositions relatives à l'information du public (art. R671-22)](#729)
-          - [Section 3 : Dispositions relatives au Département de Mayotte (art. R671-23 à R671-31)](#730)
-            - [Sous-section 1 : Dispositions générales (art. R671-23)](#731)
-            - [Sous-section 2 : Dispositions relatives aux prix des produits pétroliers (art. R671-24 à R671-26)](#732)
-            - [Sous-section 3 : Dispositions relatives à la distribution des produits pétroliers (art. R671-27 à R671-28)](#733)
-            - [Sous-section 4 : Dispositions relatives aux activités de stockage de produits pétroliers (art. R671-29 à R671-30)](#734)
-            - [Sous-section 5 : Dispositions relatives à l'information du public (art. R671-31)](#735)
-    - [LIVRE VII : LES DISPOSITIONS RELATIVES AUX RÉSEAUX DE CHALEUR ET DE FROID (art. R711-1 à R721-20)](#736)
-      - [TITRE Ier : LA PRODUCTION DE CHALEUR ET LE CLASSEMENT DES RÉSEAUX DE CHALEUR ET DE FROID (art. R711-1 à R712-12)](#737)
-        - [Chapitre Ier : La production de chaleur (art. R711-1 à R711-4)](#738)
-        - [Chapitre II : Le classement des reseaux de chaleur et de froid (art. R712-1 à R712-12)](#739)
-          - [Section 1 : Principes et modalités de classement des réseaux de chaleur et de froid (art. R712-1 à R712-5)](#740)
-          - [Section 2 : Effets du classement d'un réseau de chaleur ou de froid (art. R712-6 à R712-9)](#741)
-          - [Section 3 : Abrogation de la décision de classement (art. R712-10)](#742)
-          - [Section 4 : Information du public (art. L712-11)](#743)
-          - [Section 5 : Constatation des infractions (art. R712-12)](#744)
-      - [TITRE II : LE PASSAGE DES CANALISATIONS DE TRANSPORT ET DE DISTRIBUTION DE CHALEUR ET DE FROID (art. R721-1 à R721-20)](#745)
-        - [Chapitre unique (art. R721-1 à R721-20)](#746)
-          - [Section 1 : Procédure régissant la déclaration d'intérêt général des canalisations de transport de distribution de chaleur (art. R721-1 à R721-6)](#747)
-          - [Section 2 : Les servitudes (art. D721-13 à R721-12)](#748)
-          - [Section 3 : Construction, mise en service, exploitation et contrôle (art. R721-14 à R721-20)](#749)
+        - [Chapitre III : La protection du domaine public hydroélectrique concédé (art. R513-1 à R513-2)](#678)
+      - [TITRE II : LES DISPOSITIONS RELATIVES AUX INSTALLATIONS HYDRAULIQUES CONCÉDÉES (art. R521-1 à R524-6)](#679)
+        - [Chapitre Ier : La procédure applicable aux concessions (art. R521-1 à R521-72)](#680)
+          - [Section 1 : L'octroi de la concession (art. R521-2 à R521-48-2)](#681)
+            - [Sous-section 1 : Lancement de la procédure (art. R521-2 à R521-5)](#682)
+            - [Sous-section 2 : Sélection du candidat pressenti (art. R521-6 à R521-11)](#683)
+            - [Sous-section 3 : Instruction de la demande du concessionnaire pressenti (art. R521-12 à R521-24)](#684)
+            - [Sous-section 4 : Octroi de la concession et déclaration d'utilité publique (art. R521-25 à R521-27)](#685)
+            - [Sous-section 5 : Règlement d'eau (art. R521-28 à R521-30)](#686)
+            - [Sous-section 6 : Autorisation et récolement des travaux d'exécution des ouvrages à établir en application du cahier des charges de la concession (art. R521-31 à R521-37)](#687)
+            - [Sous-section 7 : Approbation des autres travaux (art. R521-38 à R521-41)](#688)
+            - [Sous-section 8 : Dispositions relatives à la sécurité et à la sûreté des ouvrages hydrauliques concédés (art. R521-43 à R521-46)](#689)
+            - [Sous-section 9 : Dispositions diverses (art. R521-47 à R521-48-2)](#690)
+          - [Section 2 : Le cahier des charges de la concession (art. R521-49)](#691)
+          - [Section 3 : L'occupation ou la traversée des propriétés privées (art. R521-50 à R521-51)](#692)
+          - [Section 4 :  Les dispositions particulières à la fin de la concession et à son renouvellement (art. R521-52 à R521-66)](#693)
+            - [Sous-section 1 : Décision d'arrêt ou de poursuite de l'exploitation (art. R521-52 à R521-53)](#694)
+            - [Sous-section 2 : Fin de la concession (art. R521-54 à R521-57)](#695)
+            - [Sous-section 3 : Dispositions spécifiques au renouvellement de concession (art. R521-58 à R521-59)](#696)
+            - [Sous-section 4 : Regroupement de concessions (art. R521-60 à R521-65)](#697)
+            - [Sous-section 5 : Prorogation des concessions (art. R521-66)](#698)
+          - [Section 5 : Les sociétés d'économie mixte hydroélectriques (art. R521-67 à R521-72)](#699)
+        - [Chapitre II : Les reserves en énergie (art. D522-5 à R522-4)](#700)
+        - [Chapitre III : Les redevances proportionnelles (art. R523-1 à R523-5)](#701)
+        - [Chapitre IV :  L'information des collectivités territoriales et des habitants riverains sur l'exécution de la concession et leur participation à la gestion des usages de l'eau (art. R524-1 à R524-6)](#702)
+    - [LIVRE VI : LES DISPOSITIONS RELATIVES AU PÉTROLE, AUX BIOCARBURANTS ET BIOLIQUIDES (art. D631-1 à R671-31)](#703)
+      - [TITRE III : LE TRANSPORT (art. D631-1 à R632-4)](#704)
+        - [Chapitre Ier : Le transport par navire (art. D631-1 à D631-10)](#705)
+        - [Chapitre II : Le transport par canalisation (art. R632-1 à R632-4)](#706)
+      - [TITRE IV : LE RAFFINAGE ET LE STOCKAGE (art. R641-1 à D642-11)](#707)
+        - [Chapitre Ier : Le raffinage et les produits pétroliers (art. R641-1 à R641-16)](#708)
+          - [Section 1 : Dispositions applicables au raffinage (art. R641-1 à R641-3)](#709)
+          - [Section 2 : Dispositions applicables aux produits pétroliers et aux carburants renouvelables (art. D641-4 à R641-16)](#710)
+        - [Chapitre II : Le stockage (art. R642-1 à D642-11)](#711)
+          - [Section 1 : Le Comité professionnel des stocks stratégiques pétroliers (art. R642-1 à R642-10)](#712)
+          - [Section 2 : Dispositions diverses (art. D642-11)](#713)
+      - [TITRE VI : LES BIOCARBURANTS ET BIOLIQUIDES (art. D661-2 à R662-4)](#714)
+        - [Chapitre Ier : Obligations relatives aux biocarburants et aux bioliquides (art. D661-2 à R661-11)](#715)
+        - [Chapitre II : Contrôles et sanctions administratives (art. R662-1 à R662-4)](#716)
+      - [TITRE VII : LES DISPOSITIONS PARTICULIÈRES À L'OUTRE-MER (art. R671-1 à R671-31)](#717)
+        - [Chapitre unique (art. R671-1 à R671-31)](#718)
+          - [Section 1 : Dispositions relatives au département de la Guadeloupe et aux collectivités territoriales de la Guyane et de la Martinique (art. R671-1 à R671-13)](#719)
+            - [Sous-section 1 : Dispositions générales (art. R671-1)](#720)
+            - [Sous-section 2 : Dispositions relatives aux prix des produits pétroliers autres que le gaz de pétrole liquéfié (art. R671-2 à R671-5)](#721)
+            - [Sous-section 3 : Dispositions relatives aux prix du gaz de pétrole liquéfié (art. R671-6 à R671-10)](#722)
+            - [Sous-section 4 : Dispositions relatives aux activités de stockage de produits pétroliers (art. R671-11 à R671-12)](#723)
+            - [Sous-section 5 : Dispositions relatives à l'information du public (art. R671-13)](#724)
+          - [Section 2 : Dispositions relatives au département de La Réunion (art. R671-14 à R671-22)](#725)
+            - [Sous-section 1 : Dispositions générales (art. R671-14)](#726)
+            - [Sous-section 2 : Dispositions relatives aux prix des produits pétroliers (art. R671-15 à R671-17)](#727)
+            - [Sous-section 3 : Dispositions relatives à la distribution des produits pétroliers (art. R671-18 à R671-19)](#728)
+            - [Sous-section 4 : Dispositions relatives aux activités de stockage de produits pétroliers (art. R671-20 à R671-21)](#729)
+            - [Sous-section 5 : Dispositions relatives à l'information du public (art. R671-22)](#730)
+          - [Section 3 : Dispositions relatives au Département de Mayotte (art. R671-23 à R671-31)](#731)
+            - [Sous-section 1 : Dispositions générales (art. R671-23)](#732)
+            - [Sous-section 2 : Dispositions relatives aux prix des produits pétroliers (art. R671-24 à R671-26)](#733)
+            - [Sous-section 3 : Dispositions relatives à la distribution des produits pétroliers (art. R671-27 à R671-28)](#734)
+            - [Sous-section 4 : Dispositions relatives aux activités de stockage de produits pétroliers (art. R671-29 à R671-30)](#735)
+            - [Sous-section 5 : Dispositions relatives à l'information du public (art. R671-31)](#736)
+    - [LIVRE VII : LES DISPOSITIONS RELATIVES AUX RÉSEAUX DE CHALEUR ET DE FROID (art. R711-1 à R721-20)](#737)
+      - [TITRE Ier : LA PRODUCTION DE CHALEUR ET LE CLASSEMENT DES RÉSEAUX DE CHALEUR ET DE FROID (art. R711-1 à R712-12)](#738)
+        - [Chapitre Ier : La production de chaleur (art. R711-1 à R711-4)](#739)
+        - [Chapitre II : Le classement des reseaux de chaleur et de froid (art. R712-1 à R712-12)](#740)
+          - [Section 1 : Principes et modalités de classement des réseaux de chaleur et de froid (art. R712-1 à R712-5)](#741)
+          - [Section 2 : Effets du classement d'un réseau de chaleur ou de froid (art. R712-6 à R712-9)](#742)
+          - [Section 3 : Abrogation de la décision de classement (art. R712-10)](#743)
+          - [Section 4 : Information du public (art. L712-11)](#744)
+          - [Section 5 : Constatation des infractions (art. R712-12)](#745)
+      - [TITRE II : LE PASSAGE DES CANALISATIONS DE TRANSPORT ET DE DISTRIBUTION DE CHALEUR ET DE FROID (art. R721-1 à R721-20)](#746)
+        - [Chapitre unique (art. R721-1 à R721-20)](#747)
+          - [Section 1 : Procédure régissant la déclaration d'intérêt général des canalisations de transport de distribution de chaleur (art. R721-1 à R721-6)](#748)
+          - [Section 2 : Les servitudes (art. D721-13 à R721-12)](#749)
+          - [Section 3 : Construction, mise en service, exploitation et contrôle (art. R721-14 à R721-20)](#750)
 # Partie législative<a id=1></a>
 
 ## LIVRE IER : L'ORGANISATION GENERALE  DU SECTEUR DE L'ENERGIE<a id=2></a>
@@ -73442,9 +73443,86 @@ _Cité par_:
   - Code de l'environnement - art. R212-37 (VD)
 
 
-### TITRE II : LES DISPOSITIONS RELATIVES AUX INSTALLATIONS HYDRAULIQUES CONCÉDÉES<a id=678></a>
+#### Chapitre III : La protection du domaine public hydroélectrique concédé<a id=678></a>
 
-#### Chapitre Ier : La procédure applicable aux concessions<a id=679></a>
+###### Article R513-1
+
+Par dérogation aux dispositions des articles R. 2122-4, R. 2122-5, R. 2122-14 et R. 2122-15 du code général de la propriété
+des personnes publiques, et sous réserve des dispositions des articles R. 4316-1 à R. 4316-10-1 du code des transports, les
+demandes de titre d'occupation sur le domaine public hydroélectrique concédé dont la durée n'excède pas le terme normal de la
+concession sont adressées au concessionnaire, qui les instruit conformément aux dispositions des articles L. 2122-1 à L.
+2122-4 ainsi que des articles R. 2122-2, R. 2122-3, R. 2122-6 et R. 2122-13 à R. 2122-17 du code général de la propriété des
+personnes publiques et dans les conditions prévues au présent article. 
+
+Le titre d'occupation est délivré par le concessionnaire après accord du préfet. Le silence gardé pendant un délai de deux
+mois à compter de la transmission au préfet du projet de titre d'occupation par le concessionnaire vaut accord du préfet. En
+cas de refus d'une autorisation par le concessionnaire, la décision définitive est prise par le préfet. 
+
+Par dérogation aux dispositions de l'article R. 2125-1 du code général de la propriété des personnes publiques, les
+conditions financières de l'occupation du domaine public hydroélectrique concédé sont fixées par le concessionnaire. 
+
+Lorsque le titre d'occupation est constitutif de droits réels, ses conditions financières sont soumises à l'accord du
+directeur départemental des finances publiques. Le silence gardé pendant un délai de deux mois à compter de la transmission
+au directeur départemental des finances publiques du projet de titre d'occupation vaut accord. Le titre précise, le cas
+échéant, les conditions ou les servitudes auxquelles l'occupation est soumise pour garantir sa compatibilité avec
+l'exploitation de la concession. 
+
+Lorsque la demande de titre d'occupation concerne un immeuble faisant l'objet d'une superposition d'affectations, le
+concessionnaire consulte les autres affectataires du domaine public. 
+
+Le concessionnaire peut déléguer la délivrance des titres d'occupation dont la durée n'excède pas le terme normal de la
+concession, par voie de convention, à l'un des autres affectataires du domaine public, sous réserve de l'accord du préfet.
+Dans ce cas, la convention de délégation prévoit les modalités de consultation de l'autorité concédante, l'avis conforme du
+concessionnaire ainsi que les modalités de répartition des redevances d'occupation entre les deux gestionnaires.
+
+**Nota:**
+
+Se reporter aux conditions d'application prévues à l'article 16 du décret n° 2020-1027 du 11 août 2020.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Décret n°2016-530 du 27 avril 2016 - art. (V)
+
+_Créé par_:
+
+  - Décret n°2020-1027 du 11 août 2020 - art. 2
+
+_Cite_:
+
+  - Code général de la propriété des personnes publ... - art. L2122-1 (V)
+  - Code général de la propriété des personnes publ... - art. R2122-13 (V)
+  - Code général de la propriété des personnes publiques. - art. R2122-14
+  - Code général de la propriété des personnes publiques. - art. R2122-15
+  - Code général de la propriété des personnes publiques. - art. R2122-2
+  - Code général de la propriété des personnes publiques. - art. R2122-3
+  - Code général de la propriété des personnes publiques. - art. R2122-4
+  - Code général de la propriété des personnes publiques. - art. R2122-5
+  - Code général de la propriété des personnes publiques. - art. R2122-6
+  - Code général de la propriété des personnes publiques. - art. R2125-1
+  - Code des transports - art. R4316-1 (V)
+
+
+###### Article R513-2
+
+Les titres d'occupation sur le domaine public hydroélectrique concédé dont la durée excède le terme normal de la concession
+comportent une clause de substitution au profit de l'Etat.
+
+**Nota:**
+
+Se reporter aux conditions d'application prévues à l'article 16 du décret n° 2020-1027 du 11 août 2020.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2020-1027 du 11 août 2020 - art. 2
+
+
+### TITRE II : LES DISPOSITIONS RELATIVES AUX INSTALLATIONS HYDRAULIQUES CONCÉDÉES<a id=679></a>
+
+#### Chapitre Ier : La procédure applicable aux concessions<a id=680></a>
 
 ###### Article R521-1
 
@@ -73491,14 +73569,14 @@ _Cite_:
   - Code de l'énergie - art. R521-49 (V)
 
 
-##### Section 1 : L'octroi de la concession<a id=680></a>
+##### Section 1 : L'octroi de la concession<a id=681></a>
 
-##### Sous-section 1 : Lancement de la procédure<a id=681></a>
+##### Sous-section 1 : Lancement de la procédure<a id=682></a>
 
 ###### Article R521-2
 
-La procédure d'octroi d'une concession d'énergie hydraulique est engagée lorsqu'il a été décidé par l'autorité administrative
-compétente : 
+La procédure d'octroi d'une concession d'énergie hydraulique est engagée lorsque l'autorité administrative compétente procède
+à la publication de l'avis de concession prévu par l'article R. 3122-1 du code de la commande publique en vue : 
 
 1° D'instaurer une concession sur un nouveau secteur géographique ; 
 
@@ -73507,10 +73585,7 @@ du présent chapitre, le cas échéant sur un périmètre différent englobant t
 
 Par exception à l'article R. 311-12, la procédure d'octroi de la concession d'énergie hydraulique prévue à la présente
 section peut tenir lieu de la procédure prévue à l'article L. 311-10. Dans ce cas, lorsque l'autorité administrative
-compétente est le préfet, elle recueille l'avis préalable du ministre chargé de l'énergie. 
-
-Le projet de décision mentionnée au premier alinéa fait l'objet d'une consultation du public selon les modalités prévues à
-l'article L. 120-1 du code de l'environnement.
+compétente est le préfet, elle recueille l'avis préalable du ministre chargé de l'énergie.
 
 **Liens relatifs à cet article**
 
@@ -73520,14 +73595,14 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2016-1129 du 17 août 2016 - art. 3
+  - Décret n°2020-1027 du 11 août 2020 - art. 3
 
 _Cite_:
 
-  - Code de l'environnement - art. L120-1
   - Code de l'énergie - art. L311-10
   - Code de l'énergie - art. L521-16
-  - Code de l'énergie - art. R311-12 (V)
+  - Code de l'énergie - art. R311-12
+  - Code de la commande publique - art. R3122-1 (V)
 
 
 ###### Article R521-3
@@ -73615,9 +73690,8 @@ _Cité par_:
 
 ###### Article R521-5
 
-Les dispositions du dernier alinéa de l'article R. 521-2 et de l'article R. 521-4 ne sont pas applicables si l'aménagement
-projeté est soumis aux dispositions des articles L. 121-8 et suivants du code de l'environnement relatifs à l'organisation du
-débat public.
+Les dispositions de l'article R. 521-4 ne sont pas applicables si l'aménagement projeté est soumis aux dispositions des
+articles L. 121-8 et suivants du code de l'environnement relatifs à l'organisation du débat public.
 
 **Liens relatifs à cet article**
 
@@ -73627,16 +73701,15 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2016-530 du 27 avril 2016 - art. 1
+  - Décret n°2020-1027 du 11 août 2020 - art. 3
 
 _Cite_:
 
   - Code de l'environnement - art. L121-8
-  - Code de l'énergie - art. R521-2 (M)
   - Code de l'énergie - art. R521-4
 
 
-##### Sous-section 2 : Sélection du candidat pressenti<a id=682></a>
+##### Sous-section 2 : Sélection du candidat pressenti<a id=683></a>
 
 ###### Article R521-6
 
@@ -73882,7 +73955,7 @@ _Modifié par_:
   - Décret n°2018-1075 du 3 décembre 2018 - art. 5
 
 
-##### Sous-section 3 : Instruction de la demande du concessionnaire pressenti<a id=683></a>
+##### Sous-section 3 : Instruction de la demande du concessionnaire pressenti<a id=684></a>
 
 ###### Article R521-12
 
@@ -74302,7 +74375,7 @@ _Cite_:
   - Code de l'énergie - art. R521-11 (V)
 
 
-##### Sous-section 4 : Octroi de la concession et déclaration d'utilité publique<a id=684></a>
+##### Sous-section 4 : Octroi de la concession et déclaration d'utilité publique<a id=685></a>
 
 ###### Article R521-25
 
@@ -74380,36 +74453,36 @@ _Cité par_:
 
 ###### Article R521-27
 
-Les modifications des contrats de concession d'énergie hydraulique sont soumises aux règles prévues par les articles 36 et 37
-du décret n° 2016-86 du 1er février 2016 relatif aux contrats de concession. 
+Les modifications des contrats de concession d'énergie hydraulique sont soumises aux règles prévues par les articles R.
+3135-1 à R. 3135-10 du code de la commande publique. 
 
-Elles sont approuvées selon les modalités prévues aux articles R. 521-25 et R. 521-26, après avoir fait l'objet des
-formalités suivantes :
+Elles sont approuvées selon les modalités prévues aux articles R. 521-25 et R. 521-26. 
 
-- les modifications de nature à entraîner des dangers ou des inconvénients significatifs au regard des principes énoncés à
-l'article L. 211-1 du code de l'environnement sont précédées d'une instruction administrative et d'une enquête publique
-conformément aux dispositions de la sous-section 3 ;
+Lorsque les modifications projetées sont soumises à évaluation environnementale en application des articles L. 122-1 et L.
+122-4 du code de l'environnement, le dossier de modification peut être soumis, outre les procédures de participation du
+public prévues par ce code, aux consultations, parmi celles prévues aux articles R. 521-17 et R. 521-18, que le préfet estime
+adaptées aux enjeux soulevés par ces modifications. 
 
-- les autres modifications ne sont pas soumises à l'enquête publique prévue à l'article R. 521-15. L'autorité administrative
-procède aux consultations qu'elle estime adaptées aux enjeux soulevés par ces modifications.
+Lorsque les modifications projetées ne sont pas soumises à évaluation environnementale en application des dispositions
+mentionnées à l'alinéa précédent mais sont de nature à entraîner des dangers ou des inconvénients significatifs au regard des
+principes énoncés à l'article L. 211-1 du code de l'environnement, elles font l'objet d'une étude d'incidence
+environnementale prévue à l'article R. 181-14 du même code. Outre la procédure de participation du public prévue par le code
+de l'environnement, le dossier de demande de modifications est soumis aux consultations, parmi celles prévues aux articles R.
+521-17 et R. 521-18, que le préfet estime adaptées aux enjeux de ces modifications. 
+
+Dans les autres cas, outre la procédure de participation du public requise, le cas échéant, en application du code de
+l'environnement, le dossier de demande de modifications est soumis aux consultations que le préfet estime adaptées aux enjeux
+de ces modifications.
+
+**Nota:**
+
+Se reporter aux conditions d'application prévues aux articles 15 et 16 du décret n° 2020-1027 du 11 août 2020.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-_Cite_:
-
-  - Décret n°2016-86 du 1er février 2016 - art. 36
-  - Décret n°2016-86 du 1er février 2016 - art. 37
-  - Code de l'environnement - art. L211-1
-  - Code de l'énergie - art. R521-15 (V)
-  - Code de l'énergie - art. R521-25 (V)
-
-_Modifié par_:
-
-  - Décret n°2016-530 du 27 avril 2016 - art. 1
 
 _Cité par_:
 
@@ -74420,8 +74493,24 @@ _Cité par_:
   - Code de l'énergie - art. R521-30 (M)
   - Code de l'énergie - art. R524-4 (V)
 
+_Modifié par_:
 
-##### Sous-section 5 : Règlement d'eau<a id=685></a>
+  - Décret n°2020-1027 du 11 août 2020 - art. 4
+
+_Cite_:
+
+  - Code de l'environnement - art. L122-1
+  - Code de l'environnement - art. L122-4
+  - Code de l'environnement - art. L211-1
+  - Code de l'environnement - art. R181-14 (V)
+  - Code de l'énergie - art. R521-17 (V)
+  - Code de l'énergie - art. R521-18 (V)
+  - Code de l'énergie - art. R521-25 (V)
+  - Code de l'énergie - art. R521-26 (V)
+  - Code de la commande publique - art. R3135-1 (V)
+
+
+##### Sous-section 5 : Règlement d'eau<a id=686></a>
 
 ###### Article R521-28
 
@@ -74477,17 +74566,27 @@ _Cite_:
 Le règlement d'eau peut être modifié à la demande du concessionnaire ou à l'initiative du préfet. Dans ce dernier cas, le
 concessionnaire est saisi pour avis du projet de modification de ce règlement. 
 
-Lorsque la modification projetée est de nature à entraîner des dangers ou des inconvénients significatifs au regard des
-principes énoncés à l'article L. 211-1 du code de l'environnement, elle fait l'objet d'une enquête publique réduite aux seuls
-territoires sur lesquels ces dangers ou inconvénients sont susceptibles d'intervenir. Dans ce cas, le préfet recueille l'avis
-du ou des conseils départementaux de l'environnement et des risques sanitaires et technologiques concernés, le cas échéant
-des autorités chargées de la gestion du domaine public concerné, du comité mentionné à l'article L. 524-1 lorsqu'il existe,
-et de tout autre organisme dont il juge l'avis utile au regard des enjeux soulevés par cette modification. Faute d'avoir été
-émis dans un délai de trois mois, les avis sont réputés favorables. 
+Lorsque la modification projetée n'est pas soumise à évaluation environnementale en application de l'article L. 122-1 du code
+de l'environnement mais présente des dangers ou inconvénients significatifs au regard des principes énoncés à l'article L.
+211-1 du même code, elle fait l'objet d'une étude d'incidence environnementale prévue à l'article R. 181-14 de ce code. 
+
+Dans tous les cas, outre la procédure de participation du public prévue par le code de l'environnement, le préfet procède à
+la consultation des autorités chargées de la gestion du domaine public concerné, à celle du comité mentionné à l'article L.
+524-1 et aux consultations, parmi celles prévues à l'article R. 521-17, qu'il estime adaptées aux enjeux de la modification
+projetée. Faute d'avoir été émis dans un délai de quarante-cinq jours à compter de la réception de la demande, les avis sont
+réputés favorables. 
+
+Le préfet peut également solliciter l'avis du conseil départemental de l'environnement et des risques sanitaires et
+technologiques sur le projet de modification du règlement d'eau. Le cinquième alinéa de l'article R. 521-18 et le premier
+alinéa de l'article R. 521-19 sont alors applicables. 
 
 Le préfet notifie au concessionnaire les avis recueillis et, le cas échéant, le projet de règlement d'eau modifié par ses
 soins. Le concessionnaire dispose d'un délai d'un mois à compter de la réception du projet pour formuler ses observations au
 préfet. Il est ensuite statué par arrêté du ou des préfets compétents.
+
+**Nota:**
+
+Se reporter aux conditions d'application prévues aux articles 15 et 16 du décret n° 2020-1027 du 11 août 2020.
 
 **Liens relatifs à cet article**
 
@@ -74500,17 +74599,21 @@ _Cité par_:
   - Décret n°2016-530 du 27 avril 2016 - art. (V)
   - Décret n°2020-1027 du 11 août 2020 - art. 15 (V)
   - Décret n°2020-1027 du 11 août 2020 - art. 16 (V)
-  - Code de l'énergie - art. R521-30 (V)
   - Code de l'énergie - art. R521-48-1 (V)
 
 _Modifié par_:
 
-  - Décret n°2016-530 du 27 avril 2016 - art. 1
+  - Décret n°2020-1027 du 11 août 2020 - art. 5
 
 _Cite_:
 
-  - Code de l'environnement - art. L211-1
-  - Code de l'énergie - art. L524-1
+  - Code de l'environnement - art. L122-1
+  - Code de l'environnement - art. L211-1 (VT)
+  - Code de l'environnement - art. R181-14 (V)
+  - Code de l'énergie - art. L524-1 (V)
+  - Code de l'énergie - art. R521-17 (V)
+  - Code de l'énergie - art. R521-18 (V)
+  - Code de l'énergie - art. R521-19 (V)
 
 
 ###### Article R521-30
@@ -74543,35 +74646,45 @@ _Cité par_:
   - Code de l'énergie - art. R521-31 (M)
 
 
-##### Sous-section 6 : Approbation des projets d'exécution, autorisation et récolement des travaux d'établissement de la concession<a id=686></a>
+##### Sous-section 6 : Autorisation et récolement des travaux d'exécution des ouvrages à établir en application du cahier des charges de la concession<a id=687></a>
 
 ###### Article R521-31
 
-Les projets d'exécution des ouvrages à établir par le concessionnaire sont adressés au préfet. Les projets de barrage sont
-conçus par un organisme agréé conformément aux dispositions des articles R. 214-129 à R. 214-132 du code de l'environnement.
-Ces projets sont accompagnés, le cas échéant, de l'étude de dangers prévue par l'article R. 214-115 du même code. 
+Au sens de la présente sous-section, le terme barrage désigne un ouvrage classé en application des articles R. 214-112 et R.
+214-114 du code de l'environnement. 
 
-Lorsque le dossier de l'ouvrage est complet, le préfet procède aux consultations jugées utiles et au minimum à celle des
-communes mentionnées au 1° de l'article R. 521-17. Leur avis est réputé favorable s'il n'a pas été émis dans un délai de deux
-mois à compter de la réception de la demande d'avis. Le préfet notifie au concessionnaire les avis recueillis et l'avis de
-l'Etat. Le concessionnaire fait part au préfet dans un délai maximum de deux mois à compter de la réception de leur
-notification de ses éventuelles observations sur ces avis. Au vu des observations du concessionnaire, le préfet statue par
-arrêté sur l'autorisation d'exécuter les travaux. 
+Les projets d'exécution des ouvrages à établir par le concessionnaire en application du cahier des charges mentionné à
+l'article L. 521-4 sont adressés au préfet. La conception des projets portant sur un barrage répond aux exigences de
+l'article R. 214-119 du code de l'environnement. Les projets d'exécution sont accompagnés, le cas échéant, de l'étude de
+dangers prévue par l'article R. 214-115 du même code. 
+
+Le préfet procède à la consultation des autorités chargées de la gestion du domaine public concerné, à celle du comité
+mentionné à l'article L. 524-1 et aux consultations, parmi celles prévues à l'article R. 521-17, qu'il estime adaptées aux
+enjeux de ces projets. Faute d'avoir été émis dans un délai de quarante-cinq jours à compter de la réception de la demande,
+les avis sont réputés favorables. 
+
+Le préfet peut également solliciter l'avis du conseil départemental de l'environnement et des risques sanitaires et
+technologiques sur les prescriptions dont il envisage d'assortir l'autorisation ou sur le refus qu'il prévoit d'opposer à la
+demande. Le cinquième alinéa de l'article R. 521-18 et le premier alinéa de l'article R. 521-19 sont alors applicables. 
+
+Le préfet notifie le projet d'arrêté ou le refus qu'il prévoit d'opposer à la demande au concessionnaire, qui dispose de deux
+mois pour présenter ses observations. Au vu des observations du concessionnaire, le préfet statue par arrêté sur
+l'autorisation d'exécuter les travaux. 
 
 Les prescriptions de cet arrêté précisent notamment la liste des documents techniques propres à justifier la sécurité de
-l'ouvrage considéré qui sont établis par l'organisme agréé mentionné au premier alinéa et les échéances auxquels ces
-documents sont transmis au préfet, dans le respect des dispositions générales prévues par l'arrêté ministériel mentionné au
-II de l'article R. 214-119 du code de l'environnement.
+l'ouvrage considéré, établis par l'organisme agréé mentionné à l'article R. 214-119 du code de l'environnement, et les
+échéances auxquelles ces documents sont transmis au préfet, dans le respect des dispositions de l'arrêté ministériel
+mentionné au II du même article.
+
+**Nota:**
+
+Se reporter aux conditions d'application prévues aux articles 15 et 16 du décret n° 2020-1027 du 11 août 2020.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-_Modifié par_:
-
-  - Décret n°2016-530 du 27 avril 2016 - art. 1
 
 _Cité par_:
 
@@ -74580,22 +74693,38 @@ _Cité par_:
   - Arrêté du 6 août 2018 - art. 4 (V)
   - Décret n°2020-1027 du 11 août 2020 - art. 15 (V)
   - Décret n°2020-1027 du 11 août 2020 - art. 16 (V)
-  - Code de l'énergie - art. R521-32 (M)
   - Code de l'énergie - art. R521-40 (M)
   - Code de l'énergie - art. R521-41 (M)
 
+_Modifié par_:
+
+  - Décret n°2020-1027 du 11 août 2020 - art. 6
+
 _Cite_:
 
-  - Code de l'environnement - art. R214-115
+  - Code de l'environnement - art. R214-112
+  - Code de l'environnement - art. R214-114
+  - Code de l'environnement - art. R214-115 (V)
   - Code de l'environnement - art. R214-119
-  - Code de l'environnement - art. R214-129
-  - Code de l'énergie - art. R521-17
+  - Code de l'énergie - art. L521-4 (V)
+  - Code de l'énergie - art. L524-1 (V)
+  - Code de l'énergie - art. R521-17 (V)
+  - Code de l'énergie - art. R521-18 (V)
+  - Code de l'énergie - art. R521-19 (V)
 
 
 ###### Article R521-32
 
-Par dérogation à l'article R. 521-31, les projets d'exécution des ouvrages sont soumis à l'approbation du ministre chargé de
-l'énergie lorsque cette approbation est expressément prescrite par le cahier des charges.
+Lorsque les incidences des projets de travaux n'ont pas pu être complètement identifiées ou appréciées dans le cadre de
+l'étude d'impact ou de l'étude d'incidence jointe à la demande de concession ou à la demande de modification d'un contrat de
+concession d'énergie hydraulique, le projet d'exécution de ces travaux comporte une actualisation de l'étude d'impact ou de
+l'étude d'incidence, ou une étude d'impact, s'il s'avère que celle-ci est requise et n'a pas été réalisée au stade de la
+demande de concession ou de la demande de modification du contrat de concession. Le projet d'exécution est soumis aux
+consultations et aux procédures de participation du public prévues par le code de l'environnement dans ces différents cas.
+
+**Nota:**
+
+Se reporter aux conditions d'application prévues aux articles 15 et 16 du décret n° 2020-1027 du 11 août 2020.
 
 **Liens relatifs à cet article**
 
@@ -74605,19 +74734,24 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2016-530 du 27 avril 2016 - art. 1
+  - Décret n°2020-1027 du 11 août 2020 - art. 6
 
 _Cite_:
 
-  - Code de l'énergie - art. R521-31 (M)
+  - Code de l'environnement
 
 
 ###### Article R521-33
 
-Si l'aménagement est situé sur une section de cours d'eau domanial ou si l'aménagement utilise l'énergie des marées, les
-projets d'exécution des ouvrages ne peuvent être approuvés par le ministre chargé de l'énergie ou par le préfet qu'après avis
-de l'autorité chargée de la gestion du domaine public concerné, qui se prononce dans les deux mois à compter de la réception
-de la demande d'avis.
+Lorsque la demande de concession ou la demande de modification d'un contrat de concession d'énergie hydraulique a fait
+l'objet d'une enquête publique et que les travaux n'ont pas été entrepris dans un délai de cinq ans à compter de l'octroi de
+la concession ou la modification du contrat de concession, les projets d'exécution de ces travaux sont soumis à une nouvelle
+enquête publique, sauf si le préfet décide de proroger sa durée de validité dans les conditions prévues par l'article R.
+123-24 du code de l'environnement.
+
+**Nota:**
+
+Se reporter aux conditions d'application prévues aux articles 15 et 16 du décret n° 2020-1027 du 11 août 2020.
 
 **Liens relatifs à cet article**
 
@@ -74627,7 +74761,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2016-530 du 27 avril 2016 - art. 1
+  - Décret n°2020-1027 du 11 août 2020 - art. 6
+
+_Cite_:
+
+  - Code de l'environnement - art. R123-24
 
 
 ###### Article R521-34
@@ -74635,6 +74773,10 @@ _Modifié par_:
 La maîtrise d'œuvre des travaux répond, lorsqu'il s'agit de barrages, aux exigences définies à l'article R. 214-120 du code
 de l'environnement.
 
+**Nota:**
+
+Se reporter aux conditions d'application prévues aux articles 15 et 16 du décret n° 2020-1027 du 11 août 2020.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
@@ -74643,18 +74785,23 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2016-530 du 27 avril 2016 - art. 1
+  - Décret n°2020-1027 du 11 août 2020 - art. 6
 
 _Cite_:
 
-  - Code de l'environnement - art. R214-120 (V)
+  - Code de l'environnement - art. R214-120
 
 
 ###### Article R521-35
 
-Les travaux de construction d'un barrage de classe A, hors travaux préliminaires, ne peuvent débuter qu'après l'intervention
-de l'avis du comité technique permanent des barrages et des ouvrages hydrauliques. Cet avis porte notamment sur la limitation
-des risques que pourrait faire courir l'ouvrage à la sécurité publique, y compris pendant la période du chantier.
+Les travaux de construction ou de reconstruction d'un barrage de classe A, hors travaux préliminaires, ne peuvent débuter
+qu'après l'intervention de l'avis du comité technique permanent des barrages et des ouvrages hydrauliques. Cet avis porte
+notamment sur la limitation des risques que pourrait faire courir l'ouvrage à la sécurité publique, y compris pendant la
+période du chantier.
+
+**Nota:**
+
+Se reporter aux conditions d'application prévues aux articles 15 et 16 du décret n° 2020-1027 du 11 août 2020.
 
 **Liens relatifs à cet article**
 
@@ -74664,7 +74811,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2016-530 du 27 avril 2016 - art. 1
+  - Décret n°2020-1027 du 11 août 2020 - art. 6
 
 
 ###### Article R521-36
@@ -74673,19 +74820,23 @@ La première mise en eau d'un barrage est réalisée suivant les dispositions de
 l'environnement. La demande de première mise en eau peut être notamment rejetée lorsque le concessionnaire ne s'est pas
 conformé au projet approuvé ou en raison des risques que le barrage construit présente pour la sécurité publique.
 
+**Nota:**
+
+Se reporter aux conditions d'application prévues aux articles 15 et 16 du décret n° 2020-1027 du 11 août 2020.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-_Modifié par_:
-
-  - Décret n°2016-530 du 27 avril 2016 - art. 1
-
 _Cité par_:
 
   - Arrêté du 13 février 2017 - art. 7 (V)
+
+_Modifié par_:
+
+  - Décret n°2020-1027 du 11 août 2020 - art. 6
 
 _Cite_:
 
@@ -74694,29 +74845,58 @@ _Cite_:
 
 ###### Article R521-37
 
-Un arrêté du ministre chargé de l'énergie précise les conditions dans lesquelles il est procédé au récolement des travaux
-avant la mise en service des ouvrages correspondants.
+Pour les barrages, il est procédé au récolement des ouvrages construits ou modifiés avant la mise en service des ouvrages
+correspondants. Pour les autres travaux, l'arrêté d'autorisation peut prévoir qu'il est procédé au récolement. Un arrêté du
+ministre chargé de l'énergie précise les conditions des opérations de récolement.
+
+**Nota:**
+
+Se reporter aux conditions d'application prévues aux articles 15 et 16 du décret n° 2020-1027 du 11 août 2020.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-_Modifié par_:
-
-  - Décret n°2016-530 du 27 avril 2016 - art. 1
 
 _Cité par_:
 
   - Arrêté du 13 février 2017 - art. 7 (V)
   - Code de l'énergie - art. R521-40 (M)
 
+_Modifié par_:
+
+  - Décret n°2020-1027 du 11 août 2020 - art. 6
+
+
+##### Sous-section 7 : Approbation des autres travaux<a id=688></a>
 
 ###### Article R521-38
 
-Un arrêté du préfet ou, si les ouvrages s'étendent sur le territoire de plusieurs départements, des préfets intéressés
-autorise la mise en service des ouvrages.
+Les projets de travaux dans le périmètre de la concession relevant des missions du concessionnaire mais ne relevant pas du
+deuxième alinéa de l'article R. 521-31 sont soumis aux formalités prévues à la sous-section 6 de la présente section, sous
+réserve des dispositions de la présente sous-section.
+
+Par dérogation aux dispositions du troisième alinéa du II de l'article R. 122-2 du code de l'environnement, les travaux
+d'entretien, de maintenance et de grosses réparations font l'objet d'une évaluation environnementale, de façon systématique
+ou après un examen au cas par cas, en application du II de l'article L. 122-1 du même code, en fonction des critères et des
+seuils précisés dans le tableau annexé à l'article R. 122-2 de ce code.
+
+Les projets d'exécution de travaux qui ne sont pas soumis à évaluation environnementale en application des dispositions de
+l'article L. 122-1 du code de l'environnement mais qui correspondent à des opérations soumises à autorisation ou à
+déclaration par la nomenclature annexée à l'article R. 214-1 du code de l'environnement, comprennent l'étude d'incidence
+environnementale prévue à l'article R. 181-14 du même code. Dans le cas où les travaux correspondent à des opérations
+soumises à déclaration par la nomenclature annexée à l'article R. 214-1 du code de l'environnement et ne modifient pas la
+géométrie, le niveau de sûreté ou la fonctionnalité d'un ouvrage de la concession, le silence gardé par le préfet plus de
+deux mois à compter de la réception des projets d'exécution vaut autorisation par le préfet de ces travaux.
+
+Les projets d'exécution de travaux qui ne sont pas soumis à évaluation environnementale, ne relèvent pas des cas prévus par
+l'alinéa précédent et ne modifient pas la géométrie, le niveau de sûreté ou la fonctionnalité d'un ouvrage de la concession
+sont dispensés d'autorisation au titre de la sous-section 6.
+
+**Nota:**
+
+Se reporter aux conditions d'application prévues aux articles 15 et 16 du décret n° 2020-1027 du 11 août 2020.
 
 **Liens relatifs à cet article**
 
@@ -74726,7 +74906,17 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2016-530 du 27 avril 2016 - art. 1
+  - Décret n°2020-1027 du 11 août 2020 - art. 6
+
+**Liens**:
+
+  - RECTIFICATION: Décret n°2020-1027 du 11 août 2020 - art., v. init.
+
+_Cite_:
+
+  - Code de l'environnement - art. L122-1
+  - Code de l'environnement - art. R*214-1
+  - Code de l'environnement - art. R122-2
 
 _Cité par_:
 
@@ -74737,9 +74927,12 @@ _Cité par_:
 
 ###### Article R521-39
 
-Un panneau indiquant la date de l'acte mentionné à l'article R. 521-25 approuvant le contrat de concession ainsi que le
-cahier des charges qui lui est annexé est apposé sur l'ouvrage ou l'installation ou à proximité de ceux-ci pendant toute la
-durée d'exécution des ouvrages.
+Les travaux présentant un caractère régulier peuvent être autorisés par le règlement d'eau prévu à l'article L. 521-2 ou par
+une autorisation spécifique unique instruite selon les modalités prévues à l'article R. 521-38.
+
+**Nota:**
+
+Se reporter aux conditions d'application prévues aux articles 15 et 16 du décret n° 2020-1027 du 11 août 2020.
 
 **Liens relatifs à cet article**
 
@@ -74749,38 +74942,30 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2016-530 du 27 avril 2016 - art. 1
+  - Décret n°2020-1027 du 11 août 2020 - art. 6
 
 _Cite_:
 
-  - Code de l'énergie - art. R521-25
+  - Code de l'énergie - art. L521-2 (V)
+  - Code de l'énergie - art. R521-38 (V)
 
-
-##### Sous-section 7 : Approbation des autres travaux<a id=687></a>
 
 ###### Article R521-40
 
-Aucune modification des ouvrages ayant fait l'objet de l'autorisation prévue à l'article R. 521-31 ne peut être exécutée
-postérieurement au récolement des travaux prévu à l'article R. 521-37 sans l'accomplissement des formalités prévues à la
-sous-section 6 de la présente section. 
+Lorsque les projets de travaux dans le périmètre de la concession réalisés par une personne autre que le concessionnaire ou
+qu'une personne agissant pour le compte de ce dernier modifient la géométrie, le niveau de sûreté ou la fonctionnalité d'un
+ouvrage de la concession, ils sont soumis aux formalités prévues à l'article R. 521-38. Ces formalités sont accomplies par le
+concessionnaire.
 
-Lorsque les travaux et modifications sont de nature à entraîner des dangers ou des inconvénients significatifs au regard des
-principes énoncés à l'article L. 211-1 du code de l'environnement, le projet d'exécution des ouvrages établi conformément à
-l'article R. 521-31 est accompagné de tous les éléments nécessaires à l'appréciation de cette incidence. Dans ce cas,
-l'arrêté d'autorisation d'exécution des travaux fixe, s'il y a lieu, les prescriptions complémentaires après avis du conseil
-départemental de l'environnement et des risques sanitaires et technologiques. Le projet d'arrêté est notifié au
-concessionnaire qui a la faculté de se faire entendre par le conseil ou de désigner à cet effet un mandataire. Il est informé
-par le préfet au moins huit jours à l'avance de la réunion du conseil.
+**Nota:**
+
+Se reporter aux conditions d'application prévues aux articles 15 et 16 du décret n° 2020-1027 du 11 août 2020.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-_Modifié par_:
-
-  - Décret n°2016-530 du 27 avril 2016 - art. 1
 
 _Cité par_:
 
@@ -74788,43 +74973,31 @@ _Cité par_:
   - Arrêté du 13 février 2017 - art. 9 (V)
   - Code de l'énergie - art. R524-4 (V)
 
+_Modifié par_:
+
+  - Décret n°2020-1027 du 11 août 2020 - art. 6
+
 _Cite_:
 
-  - Code de l'environnement - art. L211-1
-  - Code de l'énergie - art. R521-31
-  - Code de l'énergie - art. R521-37
+  - Code de l'énergie - art. R521-38 (V)
 
 
 ###### Article R521-41
 
-Les travaux d'entretien présentant un caractère régulier ou périodique peuvent être autorisés par le règlement d'eau. 
+Les travaux visant à prévenir un danger grave et présentant un caractère d'urgence sont dispensés des formalités prévues à
+l'article R. 521-38, sous réserve d'une notification immédiate au préfet comprenant une description justifiée de la situation
+d'urgence, des modalités d'intervention ainsi que des mesures prises pour prévenir les atteintes aux principes énoncés à
+l'article L. 211-1 du code de l'environnement. 
 
-Sans préjudice de l'application du IV de l'article R. 122-2 du code de l'environnement et du IV de l'article R. 123-1 du même
-code, les travaux d'entretien des ouvrages ou les travaux effectués dans le périmètre de la concession ainsi que les grosses
-réparations sont autorisés par arrêté du préfet. Cet arrêté peut comprendre des prescriptions complémentaires, sur la base
-d'un projet d'exécution, lorsque l'importance ou l'incidence de ces travaux le justifient, notamment au regard des principes
-énoncés à l'article L. 211-1 du code de l'environnement. 
+Le préfet détermine, en tant que de besoin, les moyens de surveillance et d'intervention à mettre en œuvre par le
+concessionnaire ainsi que les mesures conservatoires nécessaires à la préservation des intérêts mentionnés ci-dessus. 
 
-Dans ce cas, afin, notamment, de garantir le respect de la gestion équilibrée et durable de la ressource en eau mentionnée à
-l'article L. 211-1 du code de l'environnement, le projet d'exécution, accompagné de tous les éléments nécessaires à
-l'appréciation de son incidence, est soumis au préfet, et l'arrêté est pris après avis du conseil départemental de
-l'environnement et des risques sanitaires et technologiques. Le projet d'arrêté est préalablement notifié au concessionnaire
-qui a la faculté de se faire entendre par le conseil ou de désigner à cet effet un mandataire. Il doit être informé par le
-préfet au moins huit jours à l'avance de la réunion du conseil. 
+Un compte rendu indiquant notamment l'incidence des travaux au regard des principes énoncés à l'article L. 211-1 du code de
+l'environnement est adressé au préfet à l'issue des travaux.
 
-Les travaux portant sur un barrage, en dehors des travaux d'entretien et de réparation courante, sont conçus par un organisme
-agréé conformément aux dispositions des articles R. 214-129 à R. 214-132 du code de l'environnement et leur maîtrise d'œuvre
-répond aux exigences définies à l'article R. 214-120 du même code. Les prescriptions complémentaires mentionnées au deuxième
-alinéa peuvent prévoir la transmission ultérieure au préfet de tout ou partie des documents mentionnés au troisième alinéa de
-l'article R. 521-31 et l'application des dispositions mentionnées aux I, II, et III de l'article R. 214-121 du code de
-l'environnement avant la remise en eau de la retenue. La demande de remise en eau peut notamment être rejetée lorsque le
-concessionnaire ne s'est pas conformé au projet approuvé ou en raison des risques que le barrage présente après travaux pour
-la sécurité publique. 
+**Nota:**
 
-Les travaux de reconstruction d'un barrage de classe A, hors travaux préliminaires, ne peuvent débuter qu'après
-l'intervention de l'avis du comité technique permanent des barrages et des ouvrages hydrauliques, rendu sur le projet
-d'exécution, portant notamment sur la limitation des risques que pourrait faire courir l'ouvrage à la sécurité publique, y
-compris pendant la période du chantier.
+Se reporter aux conditions d'application prévues aux articles 15 et 16 du décret n° 2020-1027 du 11 août 2020.
 
 **Liens relatifs à cet article**
 
@@ -74832,58 +75005,21 @@ _Codifié par_:
 
   - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-_Modifié par_:
-
-  - Décret n°2016-530 du 27 avril 2016 - art. 1
-
 _Cité par_:
 
   - Décret n°2020-453 du 21 avril 2020 - art. 1 (V)
 
-_Cite_:
-
-  - Code de l'environnement - art. L211-1
-  - Code de l'environnement - art. R122-2
-  - Code de l'environnement - art. R123-1
-  - Code de l'environnement - art. R214-120 (V)
-  - Code de l'environnement - art. R214-121
-  - Code de l'environnement - art. R214-129
-  - Code de l'énergie - art. R521-31
-
-
-###### Article R521-42
-
-Les travaux exécutés en vue de prévenir un danger grave et imminent sont dispensés des procédures prévues à la présente sous-
-section et font seulement l'objet d'un compte rendu indiquant leur incidence au regard des principes énoncés à l'article L.
-211-1 du code de l'environnement. Ce compte rendu est adressé au préfet et, le cas échéant, au ministre chargé de l'énergie.
-
-Le préfet prescrit par arrêté les mesures techniques ou administratives jugées nécessaires au regard des travaux ainsi
-exécutés.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
 _Modifié par_:
-
-  - Décret n°2016-530 du 27 avril 2016 - art. 1
-
-_Cité par_:
-
-  - Décret n°2020-453 du 21 avril 2020 - art. 1 (V)
-
-_Abrogé par_:
 
   - Décret n°2020-1027 du 11 août 2020 - art. 6
 
 _Cite_:
 
   - Code de l'environnement - art. L211-1
+  - Code de l'énergie - art. R521-38 (V)
 
 
-##### Sous-section 8 : Dispositions relatives à la sécurité et à la sûreté des ouvrages hydrauliques concédés<a id=688></a>
+##### Sous-section 8 : Dispositions relatives à la sécurité et à la sûreté des ouvrages hydrauliques concédés<a id=689></a>
 
 ###### Article R521-43
 
@@ -74985,12 +75121,13 @@ _Cite_:
 ###### Article R521-46
 
 A la demande du concessionnaire ou à sa propre initiative, le préfet peut prendre des arrêtés complémentaires à ceux
-mentionnés aux articles R. 521-44 et R. 521-45 après avis du conseil départemental de l'environnement et des risques
-sanitaires et technologiques. Ces arrêtés peuvent fixer toutes les prescriptions additionnelles que la sécurité et la sûreté
-des ouvrages hydrauliques rendent nécessaires, y compris en aval de ces ouvrages, ou atténuer celles des prescriptions
-primitives dont le maintien n'est plus justifié. Le concessionnaire est saisi pour avis de ces projets d'arrêtés
-complémentaires. Le silence gardé sur la demande du concessionnaire plus de trois mois à compter de la réception de cette
-demande vaut décision de rejet. 
+mentionnés aux articles R. 521-44 et R. 521-45 après consultation, s'il l'estime nécessaire, du conseil départemental de
+l'environnement et des risques sanitaires et technologiques. Le cinquième alinéa de l'article R. 521-18 et le premier alinéa
+de l'article R. 521-19 sont alors applicables. Ces arrêtés peuvent fixer toutes les prescriptions additionnelles que la
+sécurité et la sûreté des ouvrages hydrauliques rendent nécessaires, y compris en aval de ces ouvrages, ou atténuer celles
+des prescriptions primitives dont le maintien n'est plus justifié. Le concessionnaire est saisi pour avis de ces projets
+d'arrêtés complémentaires. Le silence gardé sur la demande du concessionnaire plus de quatre mois à compter de la réception
+de cette demande vaut décision de rejet. 
 
 Toute modification apportée par le concessionnaire au mode d'utilisation des ouvrages, de nature à entraîner un changement
 notable des éléments du dossier de demande d'exécution des travaux au regard de la sécurité et de la sûreté des ouvrages
@@ -74999,26 +75136,33 @@ préfet fixe, s'il y a lieu, des prescriptions complémentaires, dans les formes
 les modifications sont de nature à entraîner des dangers ou des inconvénients inacceptables pour la sécurité et la sûreté des
 ouvrages hydrauliques, y compris en aval des ouvrages, le préfet rejette la demande de modification par une décision motivée.
 
+**Nota:**
+
+Se reporter aux conditions d'application prévues à l'article 16 du décret n° 2020-1027 du 11 août 2020.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-_Modifié par_:
-
-  - Décret n°2016-530 du 27 avril 2016 - art. 1
-
 _Cité par_:
 
   - Décret n°2020-1027 du 11 août 2020 - art. 16 (V)
 
+_Modifié par_:
+
+  - Décret n°2020-1027 du 11 août 2020 - art. 7
+
 _Cite_:
 
+  - Code de l'énergie - art. R521-18 (V)
+  - Code de l'énergie - art. R521-19 (V)
   - Code de l'énergie - art. R521-44 (V)
+  - Code de l'énergie - art. R521-45 (V)
 
 
-##### Sous-section 9 : Dispositions diverses<a id=689></a>
+##### Sous-section 9 : Dispositions diverses<a id=690></a>
 
 ###### Article R521-47
 
@@ -75039,9 +75183,12 @@ _Modifié par_:
 ###### Article R521-48
 
 Au cas où le cahier des charges de la concession prévoit une possibilité de révision, à l'issue d'une période d'exploitation,
-du débit à maintenir dans la rivière, cette révision intervient par décision motivée émanant soit du ministre chargé de
-l'énergie, après accord des ministres contresignataires du décret approuvant le contrat de concession et le cahier des
-charges, soit du préfet, dans tous les cas après que le concessionnaire a été entendu.
+du débit à maintenir dans la rivière, cette révision intervient par décision motivée de l'autorité compétente, après avis du
+concessionnaire.
+
+**Nota:**
+
+Se reporter aux conditions d'application prévues à l'article 16 du décret n° 2020-1027 du 11 août 2020.
 
 **Liens relatifs à cet article**
 
@@ -75049,17 +75196,65 @@ _Codifié par_:
 
   - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-_Modifié par_:
-
-  - Décret n°2016-530 du 27 avril 2016 - art. 1
-
 _Cité par_:
 
   - Décret n°2020-1027 du 11 août 2020 - art. 16 (V)
   - Code de l'énergie - art. R524-4 (V)
 
+_Modifié par_:
 
-##### Section 2 : Le cahier des charges de la concession<a id=690></a>
+  - Décret n°2020-1027 du 11 août 2020 - art. 8
+
+
+###### Article R521-48-1
+
+Toute modification par le concessionnaire du mode d'utilisation des ouvrages de nature à entraîner un changement notable au
+regard de l'incidence sur les principes énoncés à l'article L. 211-1 du code de l'environnement doit, avant sa réalisation,
+être portée à la connaissance du préfet avec tous les éléments d'appréciation. Le préfet prescrit par arrêté les mesures
+rendues nécessaires par cette modification ou modifie, s'il y a lieu, le règlement d'eau de la concession dans les conditions
+prévues par l'article R. 521-29.
+
+**Nota:**
+
+Se reporter aux conditions d'application prévues à l'article 16 du décret n° 2020-1027 du 11 août 2020.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2020-1027 du 11 août 2020 - art. 9
+
+_Cite_:
+
+  - Code de l'environnement - art. L211-1
+  - Code de l'énergie - art. R521-29 (V)
+
+
+###### Article R521-48-2
+
+Sans préjudice des dispositions prévues à l'article R. 214-125 du code de l'environnement, tout incident ou accident ayant ou
+susceptible d'avoir un impact notable sur l'exécution du contrat de concession ou de causer des dangers ou inconvénients
+significatifs au regard des principes énoncés à l'article L. 211-1 du code de l'environnement doit être déclaré au préfet
+dans les meilleurs délais. Le cas échéant, les dispositions de l'article L. 211-5 du même code s'appliquent.
+
+**Nota:**
+
+Se reporter aux conditions d'application prévues à l'article 16 du décret n° 2020-1027 du 11 août 2020.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2020-1027 du 11 août 2020 - art. 9
+
+_Cite_:
+
+  - Code de l'environnement - art. L211-1
+  - Code de l'environnement - art. L211-5 (V)
+  - Code de l'environnement - art. R214-125
+
+
+##### Section 2 : Le cahier des charges de la concession<a id=691></a>
 
 ###### Article R521-49
 
@@ -75092,7 +75287,7 @@ _Cité par_:
   - Code de l'énergie - art. R521-1 (V)
 
 
-##### Section 3 : L'occupation ou la traversée des propriétés privées<a id=691></a>
+##### Section 3 : L'occupation ou la traversée des propriétés privées<a id=692></a>
 
 ###### Article R521-50
 
@@ -75139,9 +75334,9 @@ _Cite_:
   - Code de l'énergie - art. L521-11
 
 
-##### Section 4 :  Les dispositions particulières à la fin de la concession et à son renouvellement<a id=692></a>
+##### Section 4 :  Les dispositions particulières à la fin de la concession et à son renouvellement<a id=693></a>
 
-##### Sous-section 1 : Décision d'arrêt ou de poursuite de l'exploitation<a id=693></a>
+##### Sous-section 1 : Décision d'arrêt ou de poursuite de l'exploitation<a id=694></a>
 
 ###### Article R521-52
 
@@ -75201,11 +75396,13 @@ _Cite_:
 
 ###### Article R521-53
 
-Le projet de décision mentionnée au deuxième alinéa de l'article L. 521-16 fait l'objet d'une consultation selon les
-formalités prévues à l'article L. 120-1 du code de l'environnement. 
+L'autorité administrative compétente notifie au concessionnaire et publie la décision motivée mentionnée au deuxième alinéa
+de l'article L. 521-16, lorsqu'elle est prise par le ministre chargé de l'énergie, au Journal officiel de la République
+française ou, lorsqu'elle est prise par le préfet, au recueil des actes administratifs de la préfecture.
 
-L'autorité administrative notifie au concessionnaire et publie cette décision motivée au Journal officiel de la République
-française.
+**Nota:**
+
+Se reporter aux conditions d'application prévues à l'article 16 du décret n° 2020-1027 du 11 août 2020.
 
 **Liens relatifs à cet article**
 
@@ -75213,23 +75410,22 @@ _Codifié par_:
 
   - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-_Modifié par_:
-
-  - Décret n°2016-530 du 27 avril 2016 - art. 1
-
 _Cité par_:
 
   - Décret n°2016-530 du 27 avril 2016 - art. 8 (V)
   - Décret n°2020-1027 du 11 août 2020 - art. 16 (V)
   - Code de l'énergie - art. R521-54 (M)
 
+_Modifié par_:
+
+  - Décret n°2020-1027 du 11 août 2020 - art. 10
+
 _Cite_:
 
-  - Code de l'environnement - art. L120-1
-  - Code de l'énergie - art. L521-16
+  - Code de l'énergie - art. L521-16 (V)
 
 
-##### Sous-section 2 : Fin de la concession<a id=694></a>
+##### Sous-section 2 : Fin de la concession<a id=695></a>
 
 ###### Article R521-54
 
@@ -75396,7 +75592,7 @@ _Cite_:
   - Code de l'énergie - art. L521-16
 
 
-##### Sous-section 3 : Dispositions spécifiques au renouvellement de concession<a id=695></a>
+##### Sous-section 3 : Dispositions spécifiques au renouvellement de concession<a id=696></a>
 
 ###### Article R521-58
 
@@ -75477,7 +75673,7 @@ _Cité par_:
   - Code de l'énergie - art. R521-8 (VD)
 
 
-##### Sous-section 4 : Regroupement de concessions<a id=696></a>
+##### Sous-section 4 : Regroupement de concessions<a id=697></a>
 
 ###### Article R521-60
 
@@ -75743,7 +75939,7 @@ _Cité par_:
   - Code de l'énergie - art. R521-8 (M)
 
 
-##### Sous-section 5 : Prorogation des concessions<a id=697></a>
+##### Sous-section 5 : Prorogation des concessions<a id=698></a>
 
 ###### Article R521-66
 
@@ -75772,7 +75968,7 @@ _Modifié par_:
   - Décret n°2018-1075 du 3 décembre 2018 - art. 5
 
 
-##### Section 5 : Les sociétés d'économie mixte hydroélectriques<a id=698></a>
+##### Section 5 : Les sociétés d'économie mixte hydroélectriques<a id=699></a>
 
 ###### Article R521-67
 
@@ -75952,7 +76148,7 @@ _Cite_:
   - Code de l'énergie - art. R521-25
 
 
-#### Chapitre II : Les reserves en énergie<a id=699></a>
+#### Chapitre II : Les reserves en énergie<a id=700></a>
 
 ###### Article D522-5
 
@@ -76098,7 +76294,7 @@ _Créé par_:
   - Décret n°2015-1823 du 30 décembre 2015 - art.
 
 
-#### Chapitre III : Les redevances proportionnelles<a id=700></a>
+#### Chapitre III : Les redevances proportionnelles<a id=701></a>
 
 ###### Article R523-1
 
@@ -76173,26 +76369,43 @@ n représente le nombre de kilowattheures produits pendant l'année précédant 
 diminué, d'une part, de la consommation des services auxiliaires de l'aménagement hydroélectrique et, d'autre part, des
 restitutions en nature correspondant aux droits à l'usage de l'eau exercés ; 
 
-EL représente la valeur de l'indice de prix de production de l'industrie française pour le marché français-Prix de marché-CPF
-35.11-Electricité vendue aux entreprises consommatrices finales-Base 2010-(FM0D351102)-publié par l'INSEE. 
+EL représente la valeur de l'indice de prix de production de l'industrie française pour le marché français-Prix de marché-
+CPF35. 11-Electricité vendue aux entreprises consommatrices finales-Base 2010-(FM0D351102)-publié par l'INSEE. 
 
 Elle n'est pas exigible lorsque le concessionnaire est soumis à la redevance prévue à l'article L. 523-2. 
 
-Chaque année, le concessionnaire transmet au comptable public chargé de percevoir les recettes domaniales le calcul détaillé
-du montant de la redevance due au titre de l'année précédente. La redevance afférente à un exercice est payée au plus tard le
-1er avril de l'année suivant cet exercice. Le concessionnaire transmet au service chargé du contrôle de la concession une
-copie du calcul détaillé du montant de la redevance. 
+Chaque année, le concessionnaire transmet au comptable public du département d'implantation de l'usine, chargé de percevoir
+les recettes domaniales, le calcul détaillé du montant de la redevance due au titre de l'année précédente. La redevance
+afférente à un exercice est payée au plus tard le 1er avril de l'année suivant cet exercice. Le concessionnaire transmet au
+service chargé du contrôle de la concession une copie du calcul détaillé du montant de la redevance. 
 
-La première redevance est payée dans l'année qui suit la délivrance de la concession. Elle est révisée par application des
-indices mentionnés ci-dessus, au cours de la onzième année qui suit la date de délivrance de la présente concession et
-ensuite, tous les cinq ans. En tout état de cause, son montant ne peut être inférieur à une valeur définie dans le cahier des
-charges de la concession.
+La première redevance est payée dans l'année qui suit la délivrance de la concession. Elle est révisée au cours de la onzième
+année qui suit la date de délivrance de cette concession et ensuite, tous les cinq ans. A cette occasion, le montant de cette
+redevance est déterminé par la formule suivante, en substitution de la précédente : 
+
+R = n × EL × 1,798.10-6 euros 
+
+Dans laquelle : 
+
+n représente le nombre de kilowattheures produits pendant l'année précédant celle de l'établissement de la redevance,
+diminué, d'une part, de la consommation des services auxiliaires de l'aménagement hydroélectrique et, d'autre part, des
+restitutions en nature correspondant aux droits à l'usage de l'eau exercés ; 
+
+EL représente la valeur de l'indice de prix de production de l'industrie française pour le marché français-Prix de marché-
+CPF35. 11 et 35.14-Electricité vendue aux entreprises consommatrices finales-Base 2015-publié par l'INSEE, et prise au mois
+de janvier de l'année écoulée avant la dernière révision. 
+
+En tout état de cause, son montant ne peut être inférieur à une valeur définie dans le cahier des charges de la concession.
+
+**Nota:**
+
+Se reporter aux conditions d'application prévues à l'article 16 du décret n° 2020-1027 du 11 août 2020.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2016-530 du 27 avril 2016 - art. 2
+  - Décret n°2020-1027 du 11 août 2020 - art. 11
 
 _Cité par_:
 
@@ -76200,7 +76413,7 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de l'énergie - art. L523-1
+  - Code de l'énergie - art. L523-1 (V)
   - Code de l'énergie - art. L523-2 (V)
 
 
@@ -76251,7 +76464,7 @@ _Cite_:
   - Code de l'énergie - art. L523-3
 
 
-#### Chapitre IV :  L'information des collectivités territoriales et des habitants riverains sur l'exécution de la concession et leur participation à la gestion des usages de l'eau<a id=701></a>
+#### Chapitre IV :  L'information des collectivités territoriales et des habitants riverains sur l'exécution de la concession et leur participation à la gestion des usages de l'eau<a id=702></a>
 
 ###### Article R524-1
 
@@ -76347,8 +76560,9 @@ _Cite_:
 
 Le comité est consulté par le concessionnaire dans les conditions prévues à l'article L. 521-4, notamment :
 
-- préalablement à tous travaux ou opérations faisant l'objet d'une procédure d'autorisation en application des articles R.
-521-40 et R. 521-41 ;
+- préalablement à tous travaux ou opérations faisant l'objet d'une procédure d'autorisation en application de l'article R.
+521-38, lorsque ces travaux présentent des dangers ou inconvénients significatifs au regard des principes énoncés à l'article
+L. 211-1 du code de l'environnement ;
 
 - sur le projet de règlement d'eau, lors de son élaboration initiale lorsque la concession n'en dispose pas, ou lors de sa
 modification, ainsi que sur la décision mentionnée à l'article R. 521-48 ;
@@ -76367,11 +76581,15 @@ Le concessionnaire présente au comité un bilan annuel de l'exploitation de la 
 études relatives à l'environnement qu'il a réalisées. Les informations sont transmises au comité dans le respect du secret
 des affaires.
 
+**Nota:**
+
+Se reporter aux conditions d'application prévues à l'article 16 du décret n° 2020-1027 du 11 août 2020.
+
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2018-1126 du 11 décembre 2018 - art. 3
+  - Décret n°2020-1027 du 11 août 2020 - art. 12
 
 _Cité par_:
 
@@ -76425,11 +76643,11 @@ _Cite_:
   - Code de l'énergie - art. R524-4
 
 
-## LIVRE VI : LES DISPOSITIONS RELATIVES AU PÉTROLE, AUX BIOCARBURANTS ET BIOLIQUIDES<a id=702></a>
+## LIVRE VI : LES DISPOSITIONS RELATIVES AU PÉTROLE, AUX BIOCARBURANTS ET BIOLIQUIDES<a id=703></a>
 
-### TITRE III : LE TRANSPORT<a id=703></a>
+### TITRE III : LE TRANSPORT<a id=704></a>
 
-#### Chapitre Ier : Le transport par navire<a id=704></a>
+#### Chapitre Ier : Le transport par navire<a id=705></a>
 
 ###### Article D631-1
 
@@ -76727,7 +76945,7 @@ _Cite_:
   - Code de l'énergie - art. L631-1
 
 
-#### Chapitre II : Le transport par canalisation<a id=705></a>
+#### Chapitre II : Le transport par canalisation<a id=706></a>
 
 ###### Article R632-1
 
@@ -76813,11 +77031,11 @@ _Créé par_:
   - Décret n°2015-1823 du 30 décembre 2015 - art.
 
 
-### TITRE IV : LE RAFFINAGE ET LE STOCKAGE<a id=706></a>
+### TITRE IV : LE RAFFINAGE ET LE STOCKAGE<a id=707></a>
 
-#### Chapitre Ier : Le raffinage et les produits pétroliers<a id=707></a>
+#### Chapitre Ier : Le raffinage et les produits pétroliers<a id=708></a>
 
-##### Section 1 : Dispositions applicables au raffinage<a id=708></a>
+##### Section 1 : Dispositions applicables au raffinage<a id=709></a>
 
 ###### Article R641-1
 
@@ -76892,7 +77110,7 @@ _Cite_:
   - Code de l'énergie - art. L641-3 (V)
 
 
-##### Section 2 : Dispositions applicables aux produits pétroliers et aux carburants renouvelables<a id=709></a>
+##### Section 2 : Dispositions applicables aux produits pétroliers et aux carburants renouvelables<a id=710></a>
 
 ###### Article D641-4
 
@@ -77307,9 +77525,9 @@ _Cite_:
   - Code de l'énergie - art. D641-11 (V)
 
 
-#### Chapitre II : Le stockage<a id=710></a>
+#### Chapitre II : Le stockage<a id=711></a>
 
-##### Section 1 : Le Comité professionnel des stocks stratégiques pétroliers<a id=711></a>
+##### Section 1 : Le Comité professionnel des stocks stratégiques pétroliers<a id=712></a>
 
 ###### Article R642-1
 
@@ -77592,7 +77810,7 @@ _Cite_:
   - Code de l'énergie - art. R642-9 (V)
 
 
-##### Section 2 : Dispositions diverses<a id=712></a>
+##### Section 2 : Dispositions diverses<a id=713></a>
 
 ###### Article D642-11
 
@@ -77614,9 +77832,9 @@ _Cite_:
   - Code de l'énergie - art. L642-10 (V)
 
 
-### TITRE VI : LES BIOCARBURANTS ET BIOLIQUIDES<a id=713></a>
+### TITRE VI : LES BIOCARBURANTS ET BIOLIQUIDES<a id=714></a>
 
-#### Chapitre Ier : Obligations relatives aux biocarburants et aux bioliquides<a id=714></a>
+#### Chapitre Ier : Obligations relatives aux biocarburants et aux bioliquides<a id=715></a>
 
 ###### Article D661-2
 
@@ -77993,7 +78211,7 @@ _Créé par_:
   - Décret n°2015-1823 du 30 décembre 2015 - art.
 
 
-#### Chapitre II : Contrôles et sanctions administratives<a id=715></a>
+#### Chapitre II : Contrôles et sanctions administratives<a id=716></a>
 
 ###### Article R662-1
 
@@ -78095,13 +78313,13 @@ _Cite_:
   - Code de l'énergie - art. R662-1
 
 
-### TITRE VII : LES DISPOSITIONS PARTICULIÈRES À L'OUTRE-MER<a id=716></a>
+### TITRE VII : LES DISPOSITIONS PARTICULIÈRES À L'OUTRE-MER<a id=717></a>
 
-#### Chapitre unique<a id=717></a>
+#### Chapitre unique<a id=718></a>
 
-##### Section 1 : Dispositions relatives au département de la Guadeloupe et aux collectivités territoriales de la Guyane et de la Martinique<a id=718></a>
+##### Section 1 : Dispositions relatives au département de la Guadeloupe et aux collectivités territoriales de la Guyane et de la Martinique<a id=719></a>
 
-##### Sous-section 1 : Dispositions générales<a id=719></a>
+##### Sous-section 1 : Dispositions générales<a id=720></a>
 
 ###### Article R671-1
 
@@ -78121,7 +78339,7 @@ _Créé par_:
   - Décret n°2015-1823 du 30 décembre 2015 - art.
 
 
-##### Sous-section 2 : Dispositions relatives aux prix des produits pétroliers autres que le gaz de pétrole liquéfié<a id=720></a>
+##### Sous-section 2 : Dispositions relatives aux prix des produits pétroliers autres que le gaz de pétrole liquéfié<a id=721></a>
 
 ###### Article R671-2
 
@@ -78309,7 +78527,7 @@ _Cite_:
   - Code de l'énergie - art. R671-2 (V)
 
 
-##### Sous-section 3 : Dispositions relatives aux prix du gaz de pétrole liquéfié<a id=721></a>
+##### Sous-section 3 : Dispositions relatives aux prix du gaz de pétrole liquéfié<a id=722></a>
 
 ###### Article R671-6
 
@@ -78448,7 +78666,7 @@ _Cite_:
   - Code de l'énergie - art. R671-7 (V)
 
 
-##### Sous-section 4 : Dispositions relatives aux activités de stockage de produits pétroliers<a id=722></a>
+##### Sous-section 4 : Dispositions relatives aux activités de stockage de produits pétroliers<a id=723></a>
 
 ###### Article R671-11
 
@@ -78497,7 +78715,7 @@ _Cite_:
   - Code de l'énergie - art. R671-6 (V)
 
 
-##### Sous-section 5 : Dispositions relatives à l'information du public<a id=723></a>
+##### Sous-section 5 : Dispositions relatives à l'information du public<a id=724></a>
 
 ###### Article R671-13
 
@@ -78537,9 +78755,9 @@ _Cité par_:
   - Code de l'énergie - art. R671-31 (V)
 
 
-##### Section 2 : Dispositions relatives au département de La Réunion<a id=724></a>
+##### Section 2 : Dispositions relatives au département de La Réunion<a id=725></a>
 
-##### Sous-section 1 : Dispositions générales<a id=725></a>
+##### Sous-section 1 : Dispositions générales<a id=726></a>
 
 ###### Article R671-14
 
@@ -78558,7 +78776,7 @@ _Créé par_:
   - Décret n°2015-1823 du 30 décembre 2015 - art.
 
 
-##### Sous-section 2 : Dispositions relatives aux prix des produits pétroliers<a id=726></a>
+##### Sous-section 2 : Dispositions relatives aux prix des produits pétroliers<a id=727></a>
 
 ###### Article R671-15
 
@@ -78670,7 +78888,7 @@ _Cite_:
   - Code de l'énergie - art. R671-15 (V)
 
 
-##### Sous-section 3 : Dispositions relatives à la distribution des produits pétroliers<a id=727></a>
+##### Sous-section 3 : Dispositions relatives à la distribution des produits pétroliers<a id=728></a>
 
 ###### Article R671-18
 
@@ -78734,7 +78952,7 @@ _Cite_:
   - Code de l'énergie - art. R671-18 (V)
 
 
-##### Sous-section 4 : Dispositions relatives aux activités de stockage de produits pétroliers<a id=728></a>
+##### Sous-section 4 : Dispositions relatives aux activités de stockage de produits pétroliers<a id=729></a>
 
 ###### Article R671-20
 
@@ -78781,7 +78999,7 @@ _Cite_:
   - Code de l'énergie - art. R671-15 (V)
 
 
-##### Sous-section 5 : Dispositions relatives à l'information du public<a id=729></a>
+##### Sous-section 5 : Dispositions relatives à l'information du public<a id=730></a>
 
 ###### Article R671-22
 
@@ -78817,9 +79035,9 @@ _Cite_:
   - Code de l'énergie - art. R671-13 (V)
 
 
-##### Section 3 : Dispositions relatives au Département de Mayotte<a id=730></a>
+##### Section 3 : Dispositions relatives au Département de Mayotte<a id=731></a>
 
-##### Sous-section 1 : Dispositions générales<a id=731></a>
+##### Sous-section 1 : Dispositions générales<a id=732></a>
 
 ###### Article R671-23
 
@@ -78842,7 +79060,7 @@ _Cité par_:
   - Code de l'énergie - art. R671-27 (V)
 
 
-##### Sous-section 2 : Dispositions relatives aux prix des produits pétroliers<a id=732></a>
+##### Sous-section 2 : Dispositions relatives aux prix des produits pétroliers<a id=733></a>
 
 ###### Article R671-24
 
@@ -78951,7 +79169,7 @@ _Cite_:
   - Code de l'énergie - art. R671-24 (V)
 
 
-##### Sous-section 3 : Dispositions relatives à la distribution des produits pétroliers<a id=733></a>
+##### Sous-section 3 : Dispositions relatives à la distribution des produits pétroliers<a id=734></a>
 
 ###### Article R671-27
 
@@ -79016,7 +79234,7 @@ _Cite_:
   - Code de l'énergie - art. R671-27 (V)
 
 
-##### Sous-section 4 : Dispositions relatives aux activités de stockage de produits pétroliers<a id=734></a>
+##### Sous-section 4 : Dispositions relatives aux activités de stockage de produits pétroliers<a id=735></a>
 
 ###### Article R671-29
 
@@ -79063,7 +79281,7 @@ _Cite_:
   - Code de l'énergie - art. R671-24 (V)
 
 
-##### Sous-section 5 : Dispositions relatives à l'information du public<a id=735></a>
+##### Sous-section 5 : Dispositions relatives à l'information du public<a id=736></a>
 
 ###### Article R671-31
 
@@ -79098,11 +79316,11 @@ _Cite_:
   - Code de l'énergie - art. R671-13 (V)
 
 
-## LIVRE VII : LES DISPOSITIONS RELATIVES AUX RÉSEAUX DE CHALEUR ET DE FROID<a id=736></a>
+## LIVRE VII : LES DISPOSITIONS RELATIVES AUX RÉSEAUX DE CHALEUR ET DE FROID<a id=737></a>
 
-### TITRE Ier : LA PRODUCTION DE CHALEUR ET LE CLASSEMENT DES RÉSEAUX DE CHALEUR ET DE FROID<a id=737></a>
+### TITRE Ier : LA PRODUCTION DE CHALEUR ET LE CLASSEMENT DES RÉSEAUX DE CHALEUR ET DE FROID<a id=738></a>
 
-#### Chapitre Ier : La production de chaleur<a id=738></a>
+#### Chapitre Ier : La production de chaleur<a id=739></a>
 
 ###### Article R711-1
 
@@ -79214,9 +79432,9 @@ _Cite_:
   - Code de l'énergie - art. L711-3 (V)
 
 
-#### Chapitre II : Le classement des reseaux de chaleur et de froid<a id=739></a>
+#### Chapitre II : Le classement des reseaux de chaleur et de froid<a id=740></a>
 
-##### Section 1 : Principes et modalités de classement des réseaux de chaleur et de froid<a id=740></a>
+##### Section 1 : Principes et modalités de classement des réseaux de chaleur et de froid<a id=741></a>
 
 ###### Article R712-1
 
@@ -79396,7 +79614,7 @@ _Cité par_:
   - Code de l'énergie - art. R712-10 (V)
 
 
-##### Section 2 : Effets du classement d'un réseau de chaleur ou de froid<a id=741></a>
+##### Section 2 : Effets du classement d'un réseau de chaleur ou de froid<a id=742></a>
 
 ###### Article R712-6
 
@@ -79511,7 +79729,7 @@ _Cite_:
   - Code de l'énergie - art. L712-3 (V)
 
 
-##### Section 3 : Abrogation de la décision de classement<a id=742></a>
+##### Section 3 : Abrogation de la décision de classement<a id=743></a>
 
 ###### Article R712-10
 
@@ -79539,7 +79757,7 @@ _Cite_:
   - Code de l'énergie - art. R712-5 (V)
 
 
-##### Section 4 : Information du public<a id=743></a>
+##### Section 4 : Information du public<a id=744></a>
 
 ###### Article L712-11
 
@@ -79569,7 +79787,7 @@ _Cite_:
   - Code général des collectivités territoriales - art. L1413-1 (M)
 
 
-##### Section 5 : Constatation des infractions<a id=744></a>
+##### Section 5 : Constatation des infractions<a id=745></a>
 
 ###### Article R712-12
 
@@ -79591,11 +79809,11 @@ _Cite_:
   - Code de l'énergie - art. L712-4 (V)
 
 
-### TITRE II : LE PASSAGE DES CANALISATIONS DE TRANSPORT ET DE DISTRIBUTION DE CHALEUR ET DE FROID<a id=745></a>
+### TITRE II : LE PASSAGE DES CANALISATIONS DE TRANSPORT ET DE DISTRIBUTION DE CHALEUR ET DE FROID<a id=746></a>
 
-#### Chapitre unique<a id=746></a>
+#### Chapitre unique<a id=747></a>
 
-##### Section 1 : Procédure régissant la déclaration d'intérêt général des canalisations de transport de distribution de chaleur<a id=747></a>
+##### Section 1 : Procédure régissant la déclaration d'intérêt général des canalisations de transport de distribution de chaleur<a id=748></a>
 
 ###### Article R721-1
 
@@ -79738,7 +79956,7 @@ _Créé par_:
   - Décret n°2015-1823 du 30 décembre 2015 - art.
 
 
-##### Section 2 : Les servitudes<a id=748></a>
+##### Section 2 : Les servitudes<a id=749></a>
 
 ###### Article D721-13
 
@@ -79888,7 +80106,7 @@ _Créé par_:
   - Décret n°2015-1823 du 30 décembre 2015 - art.
 
 
-##### Section 3 : Construction, mise en service, exploitation et contrôle<a id=749></a>
+##### Section 3 : Construction, mise en service, exploitation et contrôle<a id=750></a>
 
 ###### Article R721-14
 
