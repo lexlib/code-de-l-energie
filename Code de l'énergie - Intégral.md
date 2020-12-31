@@ -1,5 +1,5 @@
 # Code de l'énergie  
-Version Consolidée au 2020-01-01
+Version Consolidée au 2021-01-01
 ## Contenu: 
   - [Partie législative (art. L100-1 à L731-1)](#1)
     - [LIVRE IER : L'ORGANISATION GENERALE  DU SECTEUR DE L'ENERGIE (art. L100-1 à L161-6)](#2)
@@ -498,7 +498,7 @@ relatives à la vente de biogaz (art. L446-1 à L446-5)](#244)
               - [Paragraphe 3 : Modalités de remboursement des frais de signature et de gestion du contrat d'achat cédé (art. R314-52-8)](#489)
               - [Paragraphe 4 : Modalités de transfert d'un contrat d'achat cédé d'un organisme agréé à un autre (art. R314-52-9)](#490)
               - [Paragraphe 5 : Obligations d'information (art. R314-52-10 à R314-52-11)](#491)
-          - [Section 2 : Les garanties d'origine (art. R314-66 à R314-70)](#492)
+          - [Section 2 : Les garanties d'origine (art. R314-53 à R314-70)](#492)
             - [Sous-section 1 : Définition des garanties d'origine (art. R314-53)](#493)
             - [Sous-section 2 : Désignation de l'organisme en charge du registre national des garanties d'origine et de la mise aux enchères des garanties d'origine (art. R314-54 à R314-55)](#494)
             - [Sous-section 3 : Emission, transfert et annulation des garanties d'origine (art. R314-56 à R314-67)](#495)
@@ -51607,47 +51607,6 @@ _Créé par_:
 
 ##### Section 2 : Les garanties d'origine<a id=492></a>
 
-###### Article R314-66
-
-Une garantie d'origine peut être utilisée par son titulaire pour attester de la source renouvelable de l'électricité ou de sa
-production par cogénération. Dans ce cas, le titulaire indique à l'organisme chargé de la délivrance des garanties d'origine,
-parmi les garanties qu'il détient, celles qu'il souhaite utiliser. L'organisme procède alors à l'annulation de ces garanties
-d'origine en inscrivant sur le registre le nom de leur utilisateur et la date de leur utilisation.
-
-Lorsque le titulaire est un fournisseur d'énergie souhaitant garantir à son client que l'électricité délivrée dans le cadre
-de son offre commerciale contient une part provenant de source renouvelable ou produite par cogénération, il doit utiliser
-les garanties d'origine correspondant à la part d'électricité dont la source est ainsi garantie. Le fournisseur d'électricité
-indique à l'organisme, parmi les garanties d'origine qu'il détient, celles qu'il souhaite utiliser. L'organisme procède alors
-à l'annulation de ces garanties d'origine en inscrivant sur le registre le nom du fournisseur ayant utilisé la garantie
-d'origine et la date de leur utilisation.
-
-Chaque garantie d'origine ne peut être utilisée qu'une seule fois et ne peut être utilisée que dans les douze mois suivant la
-date de fin de la période sur laquelle porte la demande de garanties d'origine.
-
-Pour attester de la source renouvelable de l'électricité consommée au titre d'une année civile, les garanties d'origine
-doivent être utilisées avant le 31 mars de l'année civile suivante. Les garanties d'origine issues d'une production d'une
-année civile donnée et utilisées après le 31 mars de l'année civile suivante certifient la consommation au titre de l'année
-civile suivante. 
-
-Les garanties d'origine doivent être délivrées, transférées et annulées de manière électronique.
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Décret n°2016-944 du 11 juillet 2016 - art. 4
-
-_Cité par_:
-
-  - Décret n°2018-243 du 5 avril 2018 - art. 6 (V)
-  - Code de l'énergie - art. R314-64 (V)
-  - Code de l'énergie - art. R314-67 (V)
-
-_Anciens textes_:
-
-  - Code de l'énergie - art. R314-37 (T)
-
-
 ##### Sous-section 1 : Définition des garanties d'origine<a id=493></a>
 
 ###### Article R314-53
@@ -52138,6 +52097,47 @@ d'origine est informé du transfert. Il conserve les noms et coordonnées des ti
 _Anciens textes_:
 
   - Code de l'énergie - art. R314-36 (T)
+
+
+###### Article R314-66
+
+Une garantie d'origine peut être utilisée par son titulaire pour attester de la source renouvelable de l'électricité ou de sa
+production par cogénération. Dans ce cas, le titulaire indique à l'organisme chargé de la délivrance des garanties d'origine,
+parmi les garanties qu'il détient, celles qu'il souhaite utiliser. L'organisme procède alors à l'annulation de ces garanties
+d'origine en inscrivant sur le registre le nom de leur utilisateur et la date de leur utilisation.
+
+Lorsque le titulaire est un fournisseur d'énergie souhaitant garantir à son client que l'électricité délivrée dans le cadre
+de son offre commerciale contient une part provenant de source renouvelable ou produite par cogénération, il doit utiliser
+les garanties d'origine correspondant à la part d'électricité dont la source est ainsi garantie. Le fournisseur d'électricité
+indique à l'organisme, parmi les garanties d'origine qu'il détient, celles qu'il souhaite utiliser. L'organisme procède alors
+à l'annulation de ces garanties d'origine en inscrivant sur le registre le nom du fournisseur ayant utilisé la garantie
+d'origine et la date de leur utilisation.
+
+Chaque garantie d'origine ne peut être utilisée qu'une seule fois et ne peut être utilisée que dans les douze mois suivant la
+date de fin de la période sur laquelle porte la demande de garanties d'origine.
+
+Pour attester de la source renouvelable de l'électricité consommée, la garantie d'origine doit provenir d'une production du
+même mois que le mois de consommation qu'elle certifie sauf dans le cas où la production n'atteint pas le seuil du
+mégawattheure sur ce mois. Dans ce cas, la garantie d'origine peut certifier une période de consommation incluse dans la
+période de production déterminée conformément à la seconde phrase du deuxième alinéa de l'article R. 314-59.
+
+Les garanties d'origine doivent être délivrées, transférées et annulées de manière électronique.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°2018-243 du 5 avril 2018 - art. 4
+
+_Cité par_:
+
+  - Décret n°2018-243 du 5 avril 2018 - art. 6 (V)
+  - Code de l'énergie - art. R314-64 (V)
+  - Code de l'énergie - art. R314-67 (V)
+
+_Anciens textes_:
+
+  - Code de l'énergie - art. R314-37 (T)
 
 
 ###### Article R314-67
