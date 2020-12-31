@@ -1,5 +1,5 @@
 # Code de l'énergie  
-Version Consolidée au 2020-11-08
+Version Consolidée au 2021-01-01
 ## Contenu: 
   - [Partie législative (art. L100-1 à L742-3)](#1)
     - [LIVRE IER : L'ORGANISATION GENERALE  DU SECTEUR DE L'ENERGIE (art. L100-1 à L161-6)](#2)
@@ -518,7 +518,7 @@ relatives à la vente de biogaz (art. L446-4 à L446-26)](#252)
               - [Paragraphe 3 : Modalités de remboursement des frais de signature et de gestion du contrat d'achat cédé (art. R314-52-8)](#509)
               - [Paragraphe 4 : Modalités de transfert d'un contrat d'achat cédé d'un organisme agréé à un autre (art. R314-52-9)](#510)
               - [Paragraphe 5 : Obligations d'information (art. R314-52-10 à R314-52-11)](#511)
-          - [Section 2 : Les garanties d'origine (art. R314-66 à R314-70)](#512)
+          - [Section 2 : Les garanties d'origine (art. R314-53 à R314-70)](#512)
             - [Sous-section 1 : Définition des garanties d'origine (art. R314-53)](#513)
             - [Sous-section 2 : Désignation de l'organisme en charge du registre national des garanties d'origine et de la mise aux enchères des garanties d'origine (art. R314-54 à R314-55)](#514)
             - [Sous-section 3 : Emission, transfert et annulation des garanties d'origine (art. R314-56 à R314-67)](#515)
@@ -48906,7 +48906,7 @@ véhicule mentionné au a ou au c du 1° ;
 b) Dans l'année suivant sa première immatriculation ni avant d'avoir parcouru au moins 2 000 kilomètres dans le cas d'un
 véhicule mentionné au b du 1° ;
 
-5° S'il s'agit d'un véhicule mentionné au a du 1°, émet une quantité de dioxyde de carbone inférieure ou égale à 50 grammes
+5° S'il s'agit d'un véhicule mentionné au a du 1°, émet une quantité de dioxyde de carbone inférieure ou égale à 20 grammes
 par kilomètre ;
 
 6° S'il s'agit d'un véhicule mentionné au b du 1°, utilise l'électricité (EL) comme source d'énergie ;
@@ -48916,14 +48916,15 @@ par kilomètre.
 
 **Nota:**
 
-Conformément à l’article 3 du décret n° 2020-656 du 30 mai 2020, ces dispositions dans leur rédaction issue du présent
-décret, sont en vigueur du 1er juin au 31 décembre 2020.
+Conformément à l’article 3 du décret n° 2020-656 du 30 mai 2020, ces dispositions dans leur rédaction antérieure au présent
+décret, sont applicables à compter du 1er janvier 2021.
+
+A compter du 1er janvier 2021, les dispositions de l'article D. 251-1 dans leur rédaction issue du présent décret restent
+applicables aux véhicules, qui n'ont pas fait l'objet précédemment d'une première immatriculation en France et à l'étranger,
+commandés ou dont le contrat de location a été signé avant le 31 décembre 2020 inclus, à condition que leur facturation ou le
+versement du premier loyer intervienne au plus tard le 31 mars 2021.
 
 **Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2015-1823 du 30 décembre 2015 - art.
 
 _Cité par_:
 
@@ -48935,7 +48936,7 @@ _Cité par_:
   - Décret n°2020-656 du 30 mai 2020 (V)
   - Décret n°2020-656 du 30 mai 2020 - art. 3 (V)
   - Code de l'énergie - art. D251-11 (V)
-  - Code de l'énergie - art. D251-13 (V)
+  - Code de l'énergie - art. D251-13 (M)
   - Code de l'énergie - art. D251-2 (Ab)
   - Code de l'énergie - art. D251-3 (M)
   - Code de l'énergie - art. D251-5 (V)
@@ -48946,7 +48947,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2020-656 du 30 mai 2020 - art. 1
+  - Décret n°2020-188 du 3 mars 2020 - art. 1
 
 _Cite_:
 
@@ -49206,24 +49207,22 @@ _Cite_:
 
 Le montant de l'aide prévue à l'article D. 251-1 est fixé comme suit : 
 
-1° Pour les véhicules mentionnés au 5° de l'article D. 251-1, dont le taux d'émission de dioxyde de carbone est inférieur ou
-égal à 20 grammes par kilomètre et dont le coût d'acquisition est inférieur à 45 000 euros toutes taxes comprises, incluant
-le cas échéant le coût d'acquisition ou de location de la batterie, le montant de l'aide est fixé à 27 % du coût
-d'acquisition toutes taxes comprises, augmenté le cas échéant du coût de la batterie si celle-ci est prise en location, dans
-la limite de 7 000 euros si le véhicule est acquis ou loué par une personne physique ou de 5 000 euros si le véhicule est
-acquis ou loué par une personne morale ; 
+1° Pour les véhicules mentionnés au 5° de l'article D. 251-1 et dont le coût d'acquisition est inférieur à 45 000 euros
+toutes taxes comprises, incluant le cas échéant le coût d'acquisition ou de location de la batterie, le montant de l'aide est
+fixé à 27 % du coût d'acquisition toutes taxes comprises, augmenté le cas échéant du coût de la batterie si celle-ci est
+prise en location, dans la limite de 6 000 euros si le véhicule est acquis ou loué par une personne physique ou de 3 000
+euros si le véhicule est acquis ou loué par une personne morale ; 
 
-2° Pour les véhicules mentionnés au 5° de l'article D. 251-1, dont le taux d'émission de dioxyde de carbone est inférieur ou
-égal à 20 grammes par kilomètre et dont le coût d'acquisition est compris entre 45 000 et 60 000 euros toutes taxes
-comprises, incluant le cas échéant le coût d'acquisition ou de location de la batterie, le montant de l'aide est fixé à 3 000
-euros ; 
+2° Pour les véhicules mentionnés au 5° du même article et dont le coût d'acquisition est compris entre 45 000 et 60 000 euros
+toutes taxes comprises, incluant le cas échéant le coût d'acquisition ou de location de la batterie, le montant de l'aide est
+fixé à 3 000 euros ; 
 
 3° Pour les camionnettes au sens de l'article R. 311-1 du code de la route ou pour les véhicules dont la source d'énergie
-comprend l'hydrogène, mentionnés au 5° de l'article D. 251-1, dont le taux d'émission de dioxyde de carbone est inférieur ou
-égal à 20 grammes par kilomètre et dont le coût d'acquisition est supérieur à 60 000 euros toutes taxes comprises, incluant
-le cas échéant le coût d'acquisition ou de location de la batterie, le montant de l'aide est fixé à 3 000 euros. 
+comprend l'hydrogène, mentionnés au 5° de l'article D. 251-1 et dont le coût d'acquisition est supérieur à 60 000 euros
+toutes taxes comprises, incluant le cas échéant le coût d'acquisition ou de location de la batterie, le montant de l'aide est
+fixé à 3 000 euros. 
 
-4° Pour les véhicules mentionnés au 6° de l'article D. 251-1, qui n'utilisent pas de batterie au plomb et dont la puissance
+4° Pour les véhicules mentionnés au 6° du même article, qui n'utilisent pas de batterie au plomb et dont la puissance
 maximale nette du moteur est supérieure ou égale à 2 kilowatts en application du règlement (UE) 168/2013 du Parlement
 européen et du Conseil du 15 janvier 2013 ou à 3 kilowatts en application de la directive 2002/24/ CE du Parlement européen
 et du Conseil du 18 mars 2002, le montant de l'aide est fixé à 250 euros par kilowattheures d'énergie de la batterie, sans
@@ -49241,26 +49240,19 @@ nette du moteur est inférieure à 2 kilowatts en application du règlement (UE)
 
 6° Pour les véhicules mentionnés au 7° de l'article D. 251-1, le montant de l'aide est fixé à 27 % du coût d'acquisition
 toutes taxes comprises, augmenté le cas échéant du coût de la batterie si celle-ci est prise en location, dans la limite de 4
-000 euros ; 
-
-7° Pour les véhicules mentionnés au a du 1° de l'article D. 251-1, dont le taux d'émission de dioxyde de carbone est compris
-entre 21 et 50 grammes par kilomètre, dont le coût d'acquisition est inférieur ou égal à 50 000 euros toutes taxes comprises
-et dont l'autonomie équivalente en mode tout électrique en ville déterminée en application du règlement (UE) 2017/1151 de la
-Commission du 1er juin 2017 est supérieure à 50 kilomètres, le montant de l'aide est fixé à 2000 euros ; 
-
-8° Les émissions de dioxyde de carbone mentionnées par le présent article sont celles qui sont réputées répondre aux
-conditions de l'article 1007 bis du code général des impôts conformément au second alinéa de son III.
+000 euros.
 
 **Nota:**
 
-Conformément à l’article 3 du décret n° 2020-656 du 30 mai 2020, ces dispositions dans leur rédaction issue du présent
-décret, sont en vigueur du 1er juin au 31 décembre 2020.
+Conformément à l’article 3 du décret n° 2020-656 du 30 mai 2020, ces dispositions dans leur rédaction antérieure au présent
+décret, sont applicables à compter du 1er janvier 2021.
+
+A compter du 1er janvier 2021, les dispositions de l'article D. 251-7 dans leur rédaction issue du présent décret restent
+applicables aux véhicules, qui n'ont pas fait l'objet précédemment d'une première immatriculation en France et à l'étranger,
+commandés ou dont le contrat de location a été signé avant le 31 décembre 2020 inclus, à condition que leur facturation ou le
+versement du premier loyer intervienne au plus tard le 31 mars 2021.
 
 **Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2015-1823 du 30 décembre 2015 - art.
 
 _Cité par_:
 
@@ -49269,11 +49261,10 @@ _Cité par_:
   - Décret n°2019-1526 du 30 décembre 2019 - art. 2 (V)
   - Décret n°2020-656 du 30 mai 2020 (V)
   - Décret n°2020-656 du 30 mai 2020 - art. 3 (V)
-  - Code de l'énergie - art. D251-7 (VT)
 
 _Modifié par_:
 
-  - Décret n°2020-656 du 30 mai 2020 - art. 1
+  - Décret n°2019-1526 du 30 décembre 2019 - art. 1
 
 _Cite_:
 
@@ -50696,48 +50687,48 @@ directives 2004/8/CE et 2006/32/CE.
 ###### Article R311-13
 
 Lorsqu'il recourt à la procédure d'appel d'offres prévue au 1° de l'article R. 311-12, le ministre chargé de l'énergie
-élabore un cahier des charges. 
+élabore un cahier des charges.
 
 Cet appel d'offres peut comprendre une ou plusieurs périodes successives.
 
-Le cahier des charges comporte notamment : 
+Le cahier des charges comporte notamment :
 
 1° La description des caractéristiques de l'appel d'offres dont, le cas échéant, le nombre de périodes mentionné au second
-alinéa de l'article R. 311-12, la zone géographique concernée et la puissance maximale recherchée ; 
+alinéa de l'article R. 311-12, la zone géographique concernée et la puissance maximale recherchée ;
 
 2° La description détaillée des installations faisant l'objet de l'appel d'offres et des conditions qui leur sont
-applicables, notamment : 
+applicables, notamment :
 
-a) Des caractéristiques énergétiques et techniques du type d'installations concerné ; 
+a) Des caractéristiques énergétiques et techniques du type d'installations concerné ;
 
 b) Des conditions économiques et financières de leur exploitation, en particulier de la durée et des modalités financières du
-contrat d'achat ou du contrat de complément de rémunération conclu, le cas échéant, en application de l'article L. 311-12 ; 
+contrat d'achat ou du contrat de complément de rémunération conclu, le cas échéant, en application de l'article L. 311-12 ;
 
 c) Des prescriptions de toute nature qui s'imposeront avant la mise en service de l'installation, pendant son exploitation ou
 lors de son démantèlement ou de la remise en état de son site d'implantation, et, le cas échéant, de l'obligation de
-constituer des garanties financières dont la nature et le montant sont précisées ; 
+constituer des garanties financières dont la nature et le montant sont précisées ;
 
-d) Du délai de mise en service industrielle de l'installation ; 
+d) Du délai de mise en service industrielle de l'installation ;
 
 3° La liste exhaustive des critères de notation des offres, leur pondération ou leur hiérarchisation ; les critères
-quantitatifs doivent, le cas échéant, représenter au moins 50 % de la pondération totale ; 
+quantitatifs doivent, le cas échéant, représenter au moins 50 % de la pondération totale ;
 
 4° La liste exhaustive des indications et des pièces à produire par les candidats pour permettre l'appréciation des offres au
 regard de ces critères ; le cas échéant, sont indiquées celles des pièces qui doivent obligatoirement être rédigées ou
-traduites en français et celles dont l'absence entraîne de droit l'élimination du dossier ; 
+traduites en français et celles dont l'absence entraîne de droit l'élimination du dossier ;
 
 5° La date et l'heure limites de dépôt des dossiers de candidature à l'appel d'offres ; cette date laisse aux candidats un
-délai pour déposer leurs offres d'au moins six mois à compter de la date de publication de l'avis au Journal officiel de
-l'Union européenne ; 
+délai pour déposer leurs offres d'au moins trente-cinq jours à compter de la date de publication de l'avis au Journal
+officiel de l'Union européenne ;
 
-6° L'adresse électronique à laquelle le candidat fait parvenir son dossier de candidature à l'appel d'offres ; 
+6° L'adresse électronique à laquelle le candidat fait parvenir son dossier de candidature à l'appel d'offres ;
 
 7° Les modalités de transmission des dossiers de candidature à l'appel d'offres qui permettent de garantir la confidentialité
 des indications et pièces contenues dans le dossier ainsi que d'identifier de façon certaine l'appel d'offres auquel il est
-répondu ; 
+répondu ;
 
 8° La date limite mentionnée à l'article R. 311-18, le délai mentionné à l'article R. 311-22 et, le cas échéant, le délai
-d'instruction des autres administrations mentionné au dernier alinéa de l'article R. 311-20 ; 
+d'instruction des autres administrations mentionné au dernier alinéa de l'article R. 311-20 ;
 
 9° Les modalités d'instruction de l'appel d'offres, notamment les délais de cette instruction.
 
@@ -50749,19 +50740,19 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2016-1129 du 17 août 2016 - art. 2
+  - Décret n°2019-1175 du 14 novembre 2019 - art. 1
 
 _Cite_:
 
   - Code de l'énergie - art. L311-12
   - Code de l'énergie - art. R311-12
   - Code de l'énergie - art. R311-18
+  - Code de l'énergie - art. R311-22
 
 _Cité par_:
 
   - Code de l'énergie - art. R311-15 (V)
   - Code de l'énergie - art. R311-20 (V)
-  - Code de l'énergie - art. R311-22 (V)
 
 
 ###### Article R311-13-1
@@ -51329,58 +51320,58 @@ _Créé par_:
 
 ###### Article R311-25-12
 
-A l'issue du dialogue concurrentiel, le ministre chargé de l'énergie établit un cahier des charges qui comporte notamment : 
+A l'issue du dialogue concurrentiel, le ministre chargé de l'énergie établit un cahier des charges qui comporte notamment :
 
-1° La description des installations faisant l'objet de la procédure et des conditions qui leur sont applicables, notamment : 
+1° La description des installations faisant l'objet de la procédure et des conditions qui leur sont applicables, notamment :
 
-a) Les caractéristiques énergétiques et techniques du type d'installations concerné ; 
+a) Les caractéristiques énergétiques et techniques du type d'installations concerné ;
 
 b) Les conditions économiques et financières de leur exploitation, notamment la durée et les modalités financières du contrat
-d'achat ou du contrat de complément de rémunération conclu, le cas échéant, en application de l'article L. 311-12 ; 
+d'achat ou du contrat de complément de rémunération conclu, le cas échéant, en application de l'article L. 311-12 ;
 
 c) Les prescriptions de toute nature qui s'imposeront avant la mise en service de l'installation, pendant son exploitation ou
 lors de son démantèlement ou de la remise en état du site d'implantation, et, le cas échéant, l'obligation de constituer des
-garanties financières dont la nature et le montant sont précisés ; 
+garanties financières dont la nature et le montant sont précisés ;
 
-d) Le délai de mise en service industrielle de l'installation ; 
+d) Le délai de mise en service industrielle de l'installation ;
 
-e) Le cas échéant, la zone géographique d'implantation de l'installation ; 
+e) Le cas échéant, la zone géographique d'implantation de l'installation ;
 
-f) La puissance recherchée ; 
+f) La puissance recherchée ;
 
 g) Le cas échéant, les prescriptions nécessaires à la prise en compte des contraintes liées à la coexistence de
-l'installation avec d'autres activités dans la zone d'implantation ; 
+l'installation avec d'autres activités dans la zone d'implantation ;
 
 h) Lorsque l'installation objet de la procédure est située sur le domaine public maritime, le cas échéant, les clauses
-mentionnées à l'article R. 311-13-1. Dans ce cas, le dernier alinéa de cet article est applicable ; 
+mentionnées à l'article R. 311-13-1. Dans ce cas, le dernier alinéa de cet article est applicable ;
 
 2° La liste exhaustive des critères de notation des offres, leur pondération ou leur hiérarchisation ; les critères
-quantitatifs doivent, le cas échéant, représenter au moins 50 % de la pondération totale ; 
+quantitatifs doivent, le cas échéant, représenter au moins 50 % de la pondération totale ;
 
 3° La liste exhaustive des indications et des pièces à produire par les candidats pour permettre l'appréciation des offres au
 regard de ces critères ; le cas échéant, sont indiquées celles des pièces qui doivent obligatoirement être rédigées ou
-traduites en français et celles dont l'absence entraîne l'élimination du dossier ; 
+traduites en français et celles dont l'absence entraîne l'élimination du dossier ;
 
-4° Les informations relatives au déroulement de la procédure, notamment : 
+4° Les informations relatives au déroulement de la procédure, notamment :
 
 a) La date et l'heure limites de dépôt des offres. Cette date laisse aux candidats un délai pour déposer leurs offres d'au
-moins six mois à compter de la date de publication de l'avis d'appel public à la concurrence au Journal officiel de l'Union
-européenne ; 
+moins trente jours à compter de la date de publication de l'avis d'appel public à la concurrence au Journal officiel de
+l'Union européenne ;
 
-b) L'adresse électronique à laquelle le candidat fait parvenir son offre ; 
+b) L'adresse électronique à laquelle le candidat fait parvenir son offre ;
 
 c) Les modalités d'instruction des offres, notamment les délais de cette instruction.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2016-1129 du 17 août 2016 - art. 2
+  - Décret n°2019-1175 du 14 novembre 2019 - art. 1
 
 _Cite_:
 
-  - Code de l'énergie - art. L311-12 (V)
-  - Code de l'énergie - art. R311-13-1 (V)
+  - Code de l'énergie - art. L311-12
+  - Code de l'énergie - art. R311-13-1
 
 
 ###### Article R311-25-13
@@ -55271,47 +55262,6 @@ _Créé par_:
 
 ##### Section 2 : Les garanties d'origine<a id=512></a>
 
-###### Article R314-66
-
-Une garantie d'origine peut être utilisée par son titulaire pour attester de la source renouvelable de l'électricité ou de sa
-production par cogénération. Dans ce cas, le titulaire indique à l'organisme chargé de la délivrance des garanties d'origine,
-parmi les garanties qu'il détient, celles qu'il souhaite utiliser. L'organisme procède alors à l'annulation de ces garanties
-d'origine en inscrivant sur le registre le nom de leur utilisateur et la date de leur utilisation.
-
-Lorsque le titulaire est un fournisseur d'énergie souhaitant garantir à son client que l'électricité délivrée dans le cadre
-de son offre commerciale contient une part provenant de source renouvelable ou produite par cogénération, il doit utiliser
-les garanties d'origine correspondant à la part d'électricité dont la source est ainsi garantie. Le fournisseur d'électricité
-indique à l'organisme, parmi les garanties d'origine qu'il détient, celles qu'il souhaite utiliser. L'organisme procède alors
-à l'annulation de ces garanties d'origine en inscrivant sur le registre le nom du fournisseur ayant utilisé la garantie
-d'origine et la date de leur utilisation.
-
-Chaque garantie d'origine ne peut être utilisée qu'une seule fois et ne peut être utilisée que dans les douze mois suivant la
-date de fin de la période sur laquelle porte la demande de garanties d'origine.
-
-Pour attester de la source renouvelable de l'électricité consommée au titre d'une année civile, les garanties d'origine
-doivent être utilisées avant le 31 mars de l'année civile suivante. Les garanties d'origine issues d'une production d'une
-année civile donnée et utilisées après le 31 mars de l'année civile suivante certifient la consommation au titre de l'année
-civile suivante. 
-
-Les garanties d'origine doivent être délivrées, transférées et annulées de manière électronique.
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Décret n°2016-944 du 11 juillet 2016 - art. 4
-
-_Cité par_:
-
-  - Décret n°2018-243 du 5 avril 2018 - art. 6 (V)
-  - Code de l'énergie - art. R314-64 (V)
-  - Code de l'énergie - art. R314-67 (V)
-
-_Anciens textes_:
-
-  - Code de l'énergie - art. R314-37 (T)
-
-
 ##### Sous-section 1 : Définition des garanties d'origine<a id=513></a>
 
 ###### Article R314-53
@@ -55802,6 +55752,47 @@ d'origine est informé du transfert. Il conserve les noms et coordonnées des ti
 _Anciens textes_:
 
   - Code de l'énergie - art. R314-36 (T)
+
+
+###### Article R314-66
+
+Une garantie d'origine peut être utilisée par son titulaire pour attester de la source renouvelable de l'électricité ou de sa
+production par cogénération. Dans ce cas, le titulaire indique à l'organisme chargé de la délivrance des garanties d'origine,
+parmi les garanties qu'il détient, celles qu'il souhaite utiliser. L'organisme procède alors à l'annulation de ces garanties
+d'origine en inscrivant sur le registre le nom de leur utilisateur et la date de leur utilisation.
+
+Lorsque le titulaire est un fournisseur d'énergie souhaitant garantir à son client que l'électricité délivrée dans le cadre
+de son offre commerciale contient une part provenant de source renouvelable ou produite par cogénération, il doit utiliser
+les garanties d'origine correspondant à la part d'électricité dont la source est ainsi garantie. Le fournisseur d'électricité
+indique à l'organisme, parmi les garanties d'origine qu'il détient, celles qu'il souhaite utiliser. L'organisme procède alors
+à l'annulation de ces garanties d'origine en inscrivant sur le registre le nom du fournisseur ayant utilisé la garantie
+d'origine et la date de leur utilisation.
+
+Chaque garantie d'origine ne peut être utilisée qu'une seule fois et ne peut être utilisée que dans les douze mois suivant la
+date de fin de la période sur laquelle porte la demande de garanties d'origine.
+
+Pour attester de la source renouvelable de l'électricité consommée, la garantie d'origine doit provenir d'une production du
+même mois que le mois de consommation qu'elle certifie sauf dans le cas où la production n'atteint pas le seuil du
+mégawattheure sur ce mois. Dans ce cas, la garantie d'origine peut certifier une période de consommation incluse dans la
+période de production déterminée conformément à la seconde phrase du deuxième alinéa de l'article R. 314-59.
+
+Les garanties d'origine doivent être délivrées, transférées et annulées de manière électronique.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°2018-243 du 5 avril 2018 - art. 4
+
+_Cité par_:
+
+  - Décret n°2018-243 du 5 avril 2018 - art. 6 (V)
+  - Code de l'énergie - art. R314-64 (V)
+  - Code de l'énergie - art. R314-67 (V)
+
+_Anciens textes_:
+
+  - Code de l'énergie - art. R314-37 (T)
 
 
 ###### Article R314-67
