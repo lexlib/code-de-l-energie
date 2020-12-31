@@ -1,5 +1,5 @@
 # Code de l'énergie  
-Version Consolidée au 2020-11-08
+Version Consolidée au 2021-01-01
 ## Contenu: 
   - [Partie législative (art. L100-1 à L731-1)](#1)
     - [LIVRE IER : L'ORGANISATION GENERALE  DU SECTEUR DE L'ENERGIE (art. L100-1 à L161-6)](#2)
@@ -507,7 +507,7 @@ relatives à la vente de biogaz (art. L446-1 à L446-26)](#247)
               - [Paragraphe 3 : Modalités de remboursement des frais de signature et de gestion du contrat d'achat cédé (art. R314-52-8)](#498)
               - [Paragraphe 4 : Modalités de transfert d'un contrat d'achat cédé d'un organisme agréé à un autre (art. R314-52-9)](#499)
               - [Paragraphe 5 : Obligations d'information (art. R314-52-10 à R314-52-11)](#500)
-          - [Section 2 : Les garanties d'origine (art. R314-66 à R314-70)](#501)
+          - [Section 2 : Les garanties d'origine (art. R314-53 à R314-70)](#501)
             - [Sous-section 1 : Définition des garanties d'origine (art. R314-53)](#502)
             - [Sous-section 2 : Désignation de l'organisme en charge du registre national des garanties d'origine et de la mise aux enchères des garanties d'origine (art. R314-54 à R314-55)](#503)
             - [Sous-section 3 : Emission, transfert et annulation des garanties d'origine (art. R314-56 à R314-67)](#504)
@@ -49449,48 +49449,48 @@ directives 2004/8/CE et 2006/32/CE.
 ###### Article R311-13
 
 Lorsqu'il recourt à la procédure d'appel d'offres prévue au 1° de l'article R. 311-12, le ministre chargé de l'énergie
-élabore un cahier des charges. 
+élabore un cahier des charges.
 
 Cet appel d'offres peut comprendre une ou plusieurs périodes successives.
 
-Le cahier des charges comporte notamment : 
+Le cahier des charges comporte notamment :
 
 1° La description des caractéristiques de l'appel d'offres dont, le cas échéant, le nombre de périodes mentionné au second
-alinéa de l'article R. 311-12, la zone géographique concernée et la puissance maximale recherchée ; 
+alinéa de l'article R. 311-12, la zone géographique concernée et la puissance maximale recherchée ;
 
 2° La description détaillée des installations faisant l'objet de l'appel d'offres et des conditions qui leur sont
-applicables, notamment : 
+applicables, notamment :
 
-a) Des caractéristiques énergétiques et techniques du type d'installations concerné ; 
+a) Des caractéristiques énergétiques et techniques du type d'installations concerné ;
 
 b) Des conditions économiques et financières de leur exploitation, en particulier de la durée et des modalités financières du
-contrat d'achat ou du contrat de complément de rémunération conclu, le cas échéant, en application de l'article L. 311-12 ; 
+contrat d'achat ou du contrat de complément de rémunération conclu, le cas échéant, en application de l'article L. 311-12 ;
 
 c) Des prescriptions de toute nature qui s'imposeront avant la mise en service de l'installation, pendant son exploitation ou
 lors de son démantèlement ou de la remise en état de son site d'implantation, et, le cas échéant, de l'obligation de
-constituer des garanties financières dont la nature et le montant sont précisées ; 
+constituer des garanties financières dont la nature et le montant sont précisées ;
 
-d) Du délai de mise en service industrielle de l'installation ; 
+d) Du délai de mise en service industrielle de l'installation ;
 
 3° La liste exhaustive des critères de notation des offres, leur pondération ou leur hiérarchisation ; les critères
-quantitatifs doivent, le cas échéant, représenter au moins 50 % de la pondération totale ; 
+quantitatifs doivent, le cas échéant, représenter au moins 50 % de la pondération totale ;
 
 4° La liste exhaustive des indications et des pièces à produire par les candidats pour permettre l'appréciation des offres au
 regard de ces critères ; le cas échéant, sont indiquées celles des pièces qui doivent obligatoirement être rédigées ou
-traduites en français et celles dont l'absence entraîne de droit l'élimination du dossier ; 
+traduites en français et celles dont l'absence entraîne de droit l'élimination du dossier ;
 
 5° La date et l'heure limites de dépôt des dossiers de candidature à l'appel d'offres ; cette date laisse aux candidats un
-délai pour déposer leurs offres d'au moins six mois à compter de la date de publication de l'avis au Journal officiel de
-l'Union européenne ; 
+délai pour déposer leurs offres d'au moins trente-cinq jours à compter de la date de publication de l'avis au Journal
+officiel de l'Union européenne ;
 
-6° L'adresse électronique à laquelle le candidat fait parvenir son dossier de candidature à l'appel d'offres ; 
+6° L'adresse électronique à laquelle le candidat fait parvenir son dossier de candidature à l'appel d'offres ;
 
 7° Les modalités de transmission des dossiers de candidature à l'appel d'offres qui permettent de garantir la confidentialité
 des indications et pièces contenues dans le dossier ainsi que d'identifier de façon certaine l'appel d'offres auquel il est
-répondu ; 
+répondu ;
 
 8° La date limite mentionnée à l'article R. 311-18, le délai mentionné à l'article R. 311-22 et, le cas échéant, le délai
-d'instruction des autres administrations mentionné au dernier alinéa de l'article R. 311-20 ; 
+d'instruction des autres administrations mentionné au dernier alinéa de l'article R. 311-20 ;
 
 9° Les modalités d'instruction de l'appel d'offres, notamment les délais de cette instruction.
 
@@ -49502,19 +49502,19 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2016-1129 du 17 août 2016 - art. 2
+  - Décret n°2019-1175 du 14 novembre 2019 - art. 1
 
 _Cite_:
 
   - Code de l'énergie - art. L311-12
   - Code de l'énergie - art. R311-12
   - Code de l'énergie - art. R311-18
+  - Code de l'énergie - art. R311-22
 
 _Cité par_:
 
   - Code de l'énergie - art. R311-15 (V)
   - Code de l'énergie - art. R311-20 (V)
-  - Code de l'énergie - art. R311-22 (V)
 
 
 ###### Article R311-13-1
@@ -50082,58 +50082,58 @@ _Créé par_:
 
 ###### Article R311-25-12
 
-A l'issue du dialogue concurrentiel, le ministre chargé de l'énergie établit un cahier des charges qui comporte notamment : 
+A l'issue du dialogue concurrentiel, le ministre chargé de l'énergie établit un cahier des charges qui comporte notamment :
 
-1° La description des installations faisant l'objet de la procédure et des conditions qui leur sont applicables, notamment : 
+1° La description des installations faisant l'objet de la procédure et des conditions qui leur sont applicables, notamment :
 
-a) Les caractéristiques énergétiques et techniques du type d'installations concerné ; 
+a) Les caractéristiques énergétiques et techniques du type d'installations concerné ;
 
 b) Les conditions économiques et financières de leur exploitation, notamment la durée et les modalités financières du contrat
-d'achat ou du contrat de complément de rémunération conclu, le cas échéant, en application de l'article L. 311-12 ; 
+d'achat ou du contrat de complément de rémunération conclu, le cas échéant, en application de l'article L. 311-12 ;
 
 c) Les prescriptions de toute nature qui s'imposeront avant la mise en service de l'installation, pendant son exploitation ou
 lors de son démantèlement ou de la remise en état du site d'implantation, et, le cas échéant, l'obligation de constituer des
-garanties financières dont la nature et le montant sont précisés ; 
+garanties financières dont la nature et le montant sont précisés ;
 
-d) Le délai de mise en service industrielle de l'installation ; 
+d) Le délai de mise en service industrielle de l'installation ;
 
-e) Le cas échéant, la zone géographique d'implantation de l'installation ; 
+e) Le cas échéant, la zone géographique d'implantation de l'installation ;
 
-f) La puissance recherchée ; 
+f) La puissance recherchée ;
 
 g) Le cas échéant, les prescriptions nécessaires à la prise en compte des contraintes liées à la coexistence de
-l'installation avec d'autres activités dans la zone d'implantation ; 
+l'installation avec d'autres activités dans la zone d'implantation ;
 
 h) Lorsque l'installation objet de la procédure est située sur le domaine public maritime, le cas échéant, les clauses
-mentionnées à l'article R. 311-13-1. Dans ce cas, le dernier alinéa de cet article est applicable ; 
+mentionnées à l'article R. 311-13-1. Dans ce cas, le dernier alinéa de cet article est applicable ;
 
 2° La liste exhaustive des critères de notation des offres, leur pondération ou leur hiérarchisation ; les critères
-quantitatifs doivent, le cas échéant, représenter au moins 50 % de la pondération totale ; 
+quantitatifs doivent, le cas échéant, représenter au moins 50 % de la pondération totale ;
 
 3° La liste exhaustive des indications et des pièces à produire par les candidats pour permettre l'appréciation des offres au
 regard de ces critères ; le cas échéant, sont indiquées celles des pièces qui doivent obligatoirement être rédigées ou
-traduites en français et celles dont l'absence entraîne l'élimination du dossier ; 
+traduites en français et celles dont l'absence entraîne l'élimination du dossier ;
 
-4° Les informations relatives au déroulement de la procédure, notamment : 
+4° Les informations relatives au déroulement de la procédure, notamment :
 
 a) La date et l'heure limites de dépôt des offres. Cette date laisse aux candidats un délai pour déposer leurs offres d'au
-moins six mois à compter de la date de publication de l'avis d'appel public à la concurrence au Journal officiel de l'Union
-européenne ; 
+moins trente jours à compter de la date de publication de l'avis d'appel public à la concurrence au Journal officiel de
+l'Union européenne ;
 
-b) L'adresse électronique à laquelle le candidat fait parvenir son offre ; 
+b) L'adresse électronique à laquelle le candidat fait parvenir son offre ;
 
 c) Les modalités d'instruction des offres, notamment les délais de cette instruction.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2016-1129 du 17 août 2016 - art. 2
+  - Décret n°2019-1175 du 14 novembre 2019 - art. 1
 
 _Cite_:
 
-  - Code de l'énergie - art. L311-12 (V)
-  - Code de l'énergie - art. R311-13-1 (V)
+  - Code de l'énergie - art. L311-12
+  - Code de l'énergie - art. R311-13-1
 
 
 ###### Article R311-25-13
@@ -54005,47 +54005,6 @@ _Créé par_:
 
 ##### Section 2 : Les garanties d'origine<a id=501></a>
 
-###### Article R314-66
-
-Une garantie d'origine peut être utilisée par son titulaire pour attester de la source renouvelable de l'électricité ou de sa
-production par cogénération. Dans ce cas, le titulaire indique à l'organisme chargé de la délivrance des garanties d'origine,
-parmi les garanties qu'il détient, celles qu'il souhaite utiliser. L'organisme procède alors à l'annulation de ces garanties
-d'origine en inscrivant sur le registre le nom de leur utilisateur et la date de leur utilisation.
-
-Lorsque le titulaire est un fournisseur d'énergie souhaitant garantir à son client que l'électricité délivrée dans le cadre
-de son offre commerciale contient une part provenant de source renouvelable ou produite par cogénération, il doit utiliser
-les garanties d'origine correspondant à la part d'électricité dont la source est ainsi garantie. Le fournisseur d'électricité
-indique à l'organisme, parmi les garanties d'origine qu'il détient, celles qu'il souhaite utiliser. L'organisme procède alors
-à l'annulation de ces garanties d'origine en inscrivant sur le registre le nom du fournisseur ayant utilisé la garantie
-d'origine et la date de leur utilisation.
-
-Chaque garantie d'origine ne peut être utilisée qu'une seule fois et ne peut être utilisée que dans les douze mois suivant la
-date de fin de la période sur laquelle porte la demande de garanties d'origine.
-
-Pour attester de la source renouvelable de l'électricité consommée au titre d'une année civile, les garanties d'origine
-doivent être utilisées avant le 31 mars de l'année civile suivante. Les garanties d'origine issues d'une production d'une
-année civile donnée et utilisées après le 31 mars de l'année civile suivante certifient la consommation au titre de l'année
-civile suivante. 
-
-Les garanties d'origine doivent être délivrées, transférées et annulées de manière électronique.
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Décret n°2016-944 du 11 juillet 2016 - art. 4
-
-_Cité par_:
-
-  - Décret n°2018-243 du 5 avril 2018 - art. 6 (V)
-  - Code de l'énergie - art. R314-64 (V)
-  - Code de l'énergie - art. R314-67 (V)
-
-_Anciens textes_:
-
-  - Code de l'énergie - art. R314-37 (T)
-
-
 ##### Sous-section 1 : Définition des garanties d'origine<a id=502></a>
 
 ###### Article R314-53
@@ -54536,6 +54495,47 @@ d'origine est informé du transfert. Il conserve les noms et coordonnées des ti
 _Anciens textes_:
 
   - Code de l'énergie - art. R314-36 (T)
+
+
+###### Article R314-66
+
+Une garantie d'origine peut être utilisée par son titulaire pour attester de la source renouvelable de l'électricité ou de sa
+production par cogénération. Dans ce cas, le titulaire indique à l'organisme chargé de la délivrance des garanties d'origine,
+parmi les garanties qu'il détient, celles qu'il souhaite utiliser. L'organisme procède alors à l'annulation de ces garanties
+d'origine en inscrivant sur le registre le nom de leur utilisateur et la date de leur utilisation.
+
+Lorsque le titulaire est un fournisseur d'énergie souhaitant garantir à son client que l'électricité délivrée dans le cadre
+de son offre commerciale contient une part provenant de source renouvelable ou produite par cogénération, il doit utiliser
+les garanties d'origine correspondant à la part d'électricité dont la source est ainsi garantie. Le fournisseur d'électricité
+indique à l'organisme, parmi les garanties d'origine qu'il détient, celles qu'il souhaite utiliser. L'organisme procède alors
+à l'annulation de ces garanties d'origine en inscrivant sur le registre le nom du fournisseur ayant utilisé la garantie
+d'origine et la date de leur utilisation.
+
+Chaque garantie d'origine ne peut être utilisée qu'une seule fois et ne peut être utilisée que dans les douze mois suivant la
+date de fin de la période sur laquelle porte la demande de garanties d'origine.
+
+Pour attester de la source renouvelable de l'électricité consommée, la garantie d'origine doit provenir d'une production du
+même mois que le mois de consommation qu'elle certifie sauf dans le cas où la production n'atteint pas le seuil du
+mégawattheure sur ce mois. Dans ce cas, la garantie d'origine peut certifier une période de consommation incluse dans la
+période de production déterminée conformément à la seconde phrase du deuxième alinéa de l'article R. 314-59.
+
+Les garanties d'origine doivent être délivrées, transférées et annulées de manière électronique.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°2018-243 du 5 avril 2018 - art. 4
+
+_Cité par_:
+
+  - Décret n°2018-243 du 5 avril 2018 - art. 6 (V)
+  - Code de l'énergie - art. R314-64 (V)
+  - Code de l'énergie - art. R314-67 (V)
+
+_Anciens textes_:
+
+  - Code de l'énergie - art. R314-37 (T)
 
 
 ###### Article R314-67
