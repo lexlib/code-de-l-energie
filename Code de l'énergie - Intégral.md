@@ -1,5 +1,5 @@
 # Code de l'énergie  
-Version Consolidée au 2021-01-01
+Version Consolidée au 2021-02-23
 ## Contenu: 
   - [Partie législative (art. L100-1 à L742-3)](#1)
     - [LIVRE IER : L'ORGANISATION GENERALE  DU SECTEUR DE L'ENERGIE (art. L100-1 à L161-6)](#2)
@@ -53430,10 +53430,7 @@ maritime métropolitain continental ou dans la zone économique exclusive du ter
 des investissements d'avenir implantées sur le domaine public maritime du territoire métropolitain continental ou dans la
 zone économique exclusive du territoire métropolitain continental ;
 
-9° Les installations de cogénération d'électricité et de chaleur valorisée à partir de gaz naturel d'une puissance installée
-inférieure ou égale à 300 kilowatts implantées sur le territoire métropolitain continental. Les arrêtés mentionnés à
-l'article R. 314-12 fixent en tant que de besoin, les modalités selon lesquelles le respect des caractéristiques mentionnées
-à l'article D. 314-14-1 est reconnu pour chaque installation ;
+9° (Supprimé) ;
 
 10° Les installations implantées sur le territoire métropolitain continental qui valorisent l'énergie dégagée par la
 combustion ou l'explosion de gaz de mine d'une puissance installée inférieure ou égale à 12 mégawatts, à la condition qu'il
@@ -53454,6 +53451,11 @@ non interconnectées au réseau métropolitain continental ;
 14° Les installations utilisant à titre principal le biogaz issu d'installations de stockage de déchets non dangereux d'une
 puissance installée inférieure ou égale à 12 mégawatts implantées dans des zones non interconnectées au réseau métropolitain
 continental.
+
+**Nota:**
+
+Conformément à l'article 2 du décret n° 2020-1079 du 21 août 2020, ces dispositions entrent en vigueur dans un délai de six
+mois suivant la publication du présent décret.
 
 **Liens relatifs à cet article**
 
@@ -53480,7 +53482,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2017-676 du 28 avril 2017 - art. 1
+  - Décret n°2020-1079 du 21 août 2020 - art. 1
 
 _Cite_:
 
@@ -53682,12 +53684,15 @@ puissance installée comprise entre 500 kilowatts et 12 mégawatts ;
 
 5° Les installations utilisant à titre principal l'énergie extraite de gîtes géothermiques ;
 
-6° Les installations de cogénération d'électricité et de chaleur valorisée à partir de gaz naturel d'une puissance installée
-strictement inférieure à 1 mégawatt. Les arrêtés mentionnés à l'article R. 314-12 fixent en tant que de besoin, les modalités
-selon lesquelles le respect des caractéristiques mentionnées à l'article D. 314-14-1 est reconnu pour chaque installation ;
+6° (Supprimé) ;
 
 7° Les installations utilisant l'énergie mécanique du vent implantées à terre ne possédant aucun aérogénérateur de puissance
 nominale supérieure à 3 MW et dans la limite de six aérogénérateurs.
+
+**Nota:**
+
+Conformément à l'article 2 du décret n° 2020-1079 du 21 août 2020, ces dispositions entrent en vigueur dans un délai de six
+mois suivant la publication du présent décret.
 
 **Liens relatifs à cet article**
 
@@ -53708,7 +53713,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2019-527 du 27 mai 2019 - art. 1
+  - Décret n°2020-1079 du 21 août 2020 - art. 1
 
 _Cite_:
 
@@ -53729,9 +53734,12 @@ producteur à réaliser un programme d'investissement :
 1° Les installations utilisant l'énergie hydraulique des lacs, des cours d'eau et des eaux captées gravitairement d'une
 puissance installée strictement inférieure à 1 mégawatt ;
 
-2° Les installations de cogénération d'électricité et de chaleur valorisée à partir de gaz naturel d'une puissance installée
-strictement inférieure à 1 mégawatt. Les arrêtés mentionnés à l'article R. 314-12 fixent en tant que de besoin, les modalités
-selon lesquelles le respect des caractéristiques mentionnées à l'article D. 314-14-1 est reconnu pour chaque installation.
+2° (Supprimé).
+
+**Nota:**
+
+Conformément à l'article 2 du décret n° 2020-1079 du 21 août 2020, ces dispositions entrent en vigueur dans un délai de six
+mois suivant la publication du présent décret.
 
 **Liens relatifs à cet article**
 
@@ -53745,7 +53753,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2017-676 du 28 avril 2017 - art. 1
+  - Décret n°2020-1079 du 21 août 2020 - art. 1
 
 _Cite_:
 
