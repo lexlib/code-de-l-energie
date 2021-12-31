@@ -1,5 +1,5 @@
 # Code de l'énergie  
-Version Consolidée au 2021-07-01
+Version Consolidée au 2022-01-01
 ## Contenu: 
   - [Partie législative (art. L100-1 à L731-1)](#1)
     - [LIVRE IER : L'ORGANISATION GENERALE  DU SECTEUR DE L'ENERGIE (art. L100-1 à L161-6)](#2)
@@ -32737,19 +32737,29 @@ _Cité par_:
 
 ###### Article L712-1
 
-Afin de favoriser le développement des énergies renouvelables, une collectivité territoriale ou un groupement de
-collectivités territoriales peut classer un réseau de distribution de chaleur et de froid existant ou à créer situé sur son
-territoire, lorsqu'il est alimenté à plus de 50 % par une énergie renouvelable ou de récupération, qu'un comptage des
-quantités d'énergie livrées par point de livraison est assuré et que l'équilibre financier de l'opération pendant la période
-d'amortissement des installations est assuré au vu des besoins à satisfaire, de la pérennité de la ressource en énergie
-renouvelable ou de récupération, et compte tenu des conditions tarifaires prévisibles. Les réseaux existants font l'objet
-d'un audit énergétique examinant les possibilités d'amélioration de leur efficacité énergétique.
+Afin de favoriser le développement des énergies renouvelables, est classé en application du présent article un réseau de
+distribution de chaleur et de froid existant ou à créer, lorsqu'il est alimenté à plus de 50 % par une énergie renouvelable
+ou de récupération, qu'un comptage des quantités d'énergie livrées par point de livraison est assuré et que l'équilibre
+financier de l'opération pendant la période d'amortissement des installations est assuré au vu des besoins à satisfaire, de
+la pérennité de la ressource en énergie renouvelable ou de récupération, et compte tenu des conditions tarifaires
+prévisibles. Les réseaux existants font l'objet d'un audit énergétique examinant les possibilités d'amélioration de leur
+efficacité énergétique. Sur délibération motivée, une collectivité territoriale ou un groupement de collectivités
+territoriales peut décider de ne pas classer un réseau de chaleur situé sur son territoire.
+
+**Nota:**
+
+Conformément au II de l'article 55 de la loi n° 2019-1147 du 8 novembre 2019, les présentes dispositions entrent en vigueur
+le 1er janvier 2022.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
   - Loi n°80-531 du 15 juillet 1980 - art. 5 (V)
+
+_Codifié par_:
+
+  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
 
 _Cité par_:
 
@@ -32759,24 +32769,27 @@ _Cité par_:
   - Code de la construction et de l'habitation. - art. R131-27 (V)
   - Code général des impôts, annexe 4, CGIAN4. - art. 121-0 AA (V)
 
-_Codifié par_:
+_Modifié par_:
 
-  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
-
-_Créé par_:
-
-  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
+  - Loi n°2019-1147 du 8 novembre 2019 - art. 55 (V)
 
 
 ###### Article L712-2
 
-La décision de classement précise la zone de desserte du réseau et définit, sur tout ou partie de la zone de desserte du
-réseau, un ou plusieurs périmètres de développement prioritaire. Ces périmètres doivent être compatibles avec les
-dispositions des documents d'urbanisme en vigueur.
+En l'absence de délibération portant décision de ne pas classer un réseau de distribution de chaleur ou de froid remplissant
+les critères de l'article L. 712-1, une collectivité territoriale ou un groupement de collectivités territoriales précise la
+zone de desserte du réseau et définit, sur tout ou partie de la zone de desserte du réseau, un ou plusieurs périmètres de
+développement prioritaire. Ces périmètres doivent être compatibles avec les dispositions des documents d'urbanisme en
+vigueur.
 
 La collectivité ou le groupement de collectivités compétent veille, en liaison avec les autorités organisatrices de la
 distribution d'électricité et de gaz, à la bonne coordination entre les différents plans de développement des réseaux
 d'énergie.
+
+**Nota:**
+
+Conformément au II de l'article 55 de la loi n° 2019-1147 du 8 novembre 2019, les présentes dispositions entrent en vigueur
+le 1er janvier 2022.
 
 **Liens relatifs à cet article**
 
@@ -32788,15 +32801,15 @@ _Codifié par_:
 
   - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
 
-_Créé par_:
-
-  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
-
 _Cité par_:
 
   - Loi n°2015-991 du 7 août 2015 - art. 59
   - Code de l'urbanisme - art. R151-53 (V)
   - Code général des collectivités territoriales - art. L5219-1 (V)
+
+_Modifié par_:
+
+  - Loi n°2019-1147 du 8 novembre 2019 - art. 55 (V)
 
 
 ###### Article L712-3
@@ -49534,6 +49547,48 @@ _Créé par_:
 _Cite_:
 
   - Code de l'énergie - art. L311-5 (V)
+
+
+###### Article D311-7-2
+
+Pour les installations situées en métropole continentale, produisant de l'électricité à partir de combustibles fossiles et
+émettant plus de 0,55 tonne d'équivalents dioxyde de carbone par mégawattheure d'électricité produite, le plafond annuel
+d'émissions de gaz à effet de serre mentionné à l'article L. 311-5-3 est fixé à 0,7 kilotonne d'équivalents dioxyde de
+carbone par mégawatt de puissance électrique installée. 
+
+Le calcul des émissions pour l'atteinte du seuil de 0,55 tonne d'équivalents dioxyde de carbone par mégawattheure et du
+plafond d'émissions prévus au précédent alinéa tient compte des règles suivantes : 
+
+1° Le niveau des émissions est déterminé sur la base du rendement de conception de l'unité de production, à savoir le
+rendement net à capacité nominale selon les normes pertinentes prévues par l'Organisation internationale de normalisation ; 
+
+2° Seules les émissions issues de combustibles fossiles sont comptabilisées ; 
+
+3° Les émissions qui ont été vérifiées comme faisant l'objet d'un captage et d'un transport en vue d'un stockage permanent
+vers un site de stockage géologique de dioxyde de carbone disposant d'un permis en vigueur conformément à l'article 6 de la
+directive 2009/31/ CE du Parlement européen et du Conseil du 23 avril 2009 relative au stockage géologique du dioxyde de
+carbone ne sont pas comptabilisées ; 
+
+4° Les émissions issues des gaz de récupération utilisés dans des installations de production d'électricité ne sont pas
+comptabilisées ; 
+
+5° Sans préjudice des méthodes de calcul pouvant être utilisées au titre d'autres réglementations, pour les installations de
+cogénération, les émissions liées à la production d'électricité sont égales aux émissions totales de l'installation
+multipliées par la production d'électricité exprimée en mégawattheures et divisées par la somme des productions d'électricité
+et d'énergie thermique exprimées en mégawattheures. 
+
+Les installations visées à l'article R. 311-2 ne sont pas soumises aux dispositions du présent article.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2019-1467 du 26 décembre 2019 - art. 1
+
+_Cite_:
+
+  - Code de l'énergie - art. L311-5-3
+  - Code de l'énergie - art. R311-2
 
 
 ###### Article R311-1
