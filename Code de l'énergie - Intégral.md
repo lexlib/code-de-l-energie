@@ -1,5 +1,5 @@
 # Code de l'énergie  
-Version Consolidée au 2022-01-01
+Version Consolidée au 2022-12-31
 ## Contenu: 
   - [Partie législative (art. L100-1 à L731-1)](#1)
     - [LIVRE IER : L'ORGANISATION GENERALE  DU SECTEUR DE L'ENERGIE (art. L100-1 à L161-6)](#2)
@@ -9268,36 +9268,48 @@ _Cite_:
 
 La programmation pluriannuelle de l'énergie se fonde sur des scénarios de besoins énergétiques associés aux activités
 consommatrices d'énergie, reposant sur différentes hypothèses d'évolution de la démographie, de la situation économique, de
-la balance commerciale et d'efficacité énergétique. Elle contient des volets relatifs : 
+la balance commerciale et d'efficacité énergétique. Elle contient des volets relatifs :
 
 1° A la sécurité d'approvisionnement. Ce volet définit les critères de sûreté du système énergétique, notamment le critère de
 défaillance mentionné à l'article L. 141-7 pour l'électricité. Il précise les mesures mises en œuvre pour garantir la
 sécurité d'approvisionnement en gaz naturel. Il peut aussi prévoir la mise en œuvre de dispositions spécifiques, comme la
 diversification des moyens de production ou des sources d'approvisionnement d'énergie, pour se prémunir des risques
 systémiques. Il précise également les besoins d'importation d'énergies fossiles, d'uranium et de biomasse et les échanges
-transfrontaliers d'électricité prévus dans le cadre de l'approvisionnement ; 
+transfrontaliers d'électricité prévus dans le cadre de l'approvisionnement ;
 
 2° A l'amélioration de l'efficacité énergétique et à la baisse de la consommation d'énergie primaire, en particulier fossile.
 Ce volet peut identifier des usages pour lesquels la substitution d'une énergie à une autre est une priorité et indique des
 priorités de baisse de la consommation d'énergie fossile par type d'énergie en fonction du facteur d'émission de gaz à effet
-de serre de chacune ; 
+de serre de chacune. Il identifie les usages pour lesquels l'amélioration de l'efficacité énergétique et la baisse de la
+consommation d'énergie primaire sont une priorité. Il contient une feuille de route de la rénovation énergétique des
+bâtiments, précisant les modalités de mise en œuvre de l'objectif de réduction de la consommation énergétique finale
+mentionné au 2° du I de l'article L. 100-4 pour les bâtiments à usage résidentiel ou tertiaire et de l'objectif de rénovation
+des bâtiments en fonction des normes “ bâtiment basse consommation ” ou assimilées mentionné au 7° du même I ;
 
-3° Au développement de l'exploitation des énergies renouvelables et de récupération ; 
+3° Au développement de l'exploitation des énergies renouvelables et de récupération. Ce volet quantifie les gisements
+d'énergies renouvelables valorisables par filière ;
 
 4° Au développement équilibré des réseaux, du stockage et de la transformation des énergies et du pilotage de la demande
 d'énergie pour favoriser notamment la production locale d'énergie, le développement des réseaux intelligents et
 l'autoproduction. Ce volet identifie notamment les interactions entre les réseaux d'électricité, de gaz et de chaleur aux
-différentes échelles pour en optimiser le fonctionnement et les coûts ; 
+différentes échelles pour en optimiser le fonctionnement et les coûts ;
 
 5° A la préservation du pouvoir d'achat des consommateurs et de la compétitivité des prix de l'énergie, en particulier pour
 les entreprises exposées à la concurrence internationale. Ce volet présente les politiques permettant de réduire le coût de
-l'énergie ; 
+l'énergie ;
 
 6° A l'évaluation des besoins de compétences professionnelles dans le domaine de l'énergie et à l'adaptation des formations à
-ces besoins. 
+ces besoins.
 
 Les volets mentionnés aux 2° à 6° précisent les enjeux de développement et de diversification des filières industrielles sur
 le territoire, de mobilisation des ressources énergétiques nationales et de création d'emplois.
+
+**Nota:**
+
+Conformément au IV de l'article 1
+  <sup>er</sup> et II de l'article 5 de la loi n° 2019-1147 du 8 novembre 2019, ces dispositions sont applicables aux
+programmations pluriannuelles de l'énergie mentionnées à l'article L. 141-1 du code de l'énergie publiées après le 31
+décembre 2022.
 
 **Liens relatifs à cet article**
 
@@ -9311,7 +9323,8 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2015-992 du 17 août 2015 - art. 176 (V)
+  - Loi n°2019-1147 du 8 novembre 2019 - art. 1 (V)
+  - Loi n°2019-1147 du 8 novembre 2019 - art. 5 (V)
 
 _Cité par_:
 
