@@ -1,5 +1,5 @@
 # Code de l'énergie  
-Version Consolidée au 2022-12-31
+Version Consolidée au 2023-07-01
 ## Contenu: 
   - [Partie législative (art. L100-1 à L731-1)](#1)
     - [LIVRE IER : L'ORGANISATION GENERALE  DU SECTEUR DE L'ENERGIE (art. L100-1 à L161-6)](#2)
@@ -4405,18 +4405,22 @@ _Cite_:
 Toute entreprise exerçant, dans le secteur du gaz naturel, une ou plusieurs des activités énumérées au présent article tient,
 dans sa comptabilité interne, des comptes séparés au titre respectivement du transport, de la distribution et du stockage du
 gaz naturel ainsi qu'au titre de l'exploitation des installations de gaz naturel liquéfié et de l'ensemble de ses autres
-activités exercées en dehors du secteur du gaz naturel. 
+activités exercées en dehors du secteur du gaz naturel.
 
-Elle établit, en outre, des comptes séparés pour ses activités de fourniture respectivement aux consommateurs finals ayant
-exercé leur éligibilité et aux consommateurs finals ne l'ayant pas exercée, et identifie, s'il y a lieu, dans sa comptabilité
-interne, les revenus provenant de la propriété des réseaux publics de distribution. 
+Elle identifie, s'il y a lieu, dans sa comptabilité interne, les revenus provenant de la propriété des réseaux publics de
+distribution.
 
 Lorsque leur effectif atteint le seuil d'assujettissement prévu à l'article L. 2323-20 du code du travail, les opérateurs
 soumis aux obligations définies au premier alinéa établissent un bilan social pour chacune des activités faisant l'objet d'un
-compte séparé. 
+compte séparé.
 
 Les opérateurs qui ne sont pas légalement tenus de publier leurs comptes annuels tiennent un exemplaire de ces comptes à la
 disposition du public dans des conditions fixées par voie réglementaire.
+
+**Nota:**
+
+Conformément au XV de l'article 63 de la loi n° 2019-1147 du 8 novembre 2019, ces dispositions entrent en vigueur le 1er
+juillet 2023.
 
 **Liens relatifs à cet article**
 
@@ -4438,7 +4442,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2015-994 du 17 août 2015 - art. 18
+  - Loi n°2019-1147 du 8 novembre 2019 - art. 63 (V)
 
 _Cite_:
 
@@ -6530,7 +6534,7 @@ aux consommateurs ;
 3° Les modalités d'évaluation des coûts entraînés par la mise en œuvre du contrat et de compensation des charges
 correspondantes ;
 
-4° L'évolution pluriannuelle des tarifs réglementés de vente de l'électricité et du gaz ;
+4° L'évolution pluriannuelle des tarifs réglementés de vente de l'électricité ;
 
 5° La politique de recherche et développement des entreprises ;
 
@@ -6552,6 +6556,11 @@ l'évolution de ces indicateurs font l'objet d'un rapport triennal transmis au P
 IV. ― Ces contrats se substituent, le cas échéant, à l'ensemble des contrats mentionnés à l'article 140 de la loi n° 2001-420
 du 15 mai 2001 relative aux nouvelles régulations économiques.
 
+**Nota:**
+
+Conformément au XV de l'article 63 de la loi n° 2019-1147 du 8 novembre 2019, ces dispositions entrent en vigueur le 1er
+juillet 2023.
+
 **Liens relatifs à cet article**
 
 _Cite_:
@@ -6560,7 +6569,7 @@ _Cite_:
   - Code général des collectivités territoriales - art. L2224-31
   - Code de l'énergie - art. L111-57
   - Code de l'énergie - art. L111-7
-  - Code de l'énergie - art. L121-32
+  - Code de l'énergie - art. L121-32 (V)
 
 _Anciens textes_:
 
@@ -6580,7 +6589,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2019-486 du 22 mai 2019 - art. 142
+  - Loi n°2019-1147 du 8 novembre 2019 - art. 63 (V)
 
 
 ###### Article L121-47
@@ -26668,49 +26677,18 @@ _Cité par_:
   - Code de l'énergie - art. R432-6 (V)
 
 
-###### Article L441-4
+###### Article L441-5
 
-Lorsqu'un consommateur exerce le droit prévu à l'article L. 441-1 pour un site, le contrat de fourniture et de transport pour
-ce site, conclu a un prix réglementé, est résilié de plein droit, sans qu'il y ait lieu à indemnité à la charge de l'une ou
-l'autre partie.
+Lorsque l'Etat, ses établissements publics, les collectivités territoriales et leurs établissements publics exercent le droit
+prévu à l'article L. 441-1 pour l'un de leurs sites de consommation, ces personnes appliquent les procédures du code de la
+commande publique déterminées en fonction de la consommation de ce site et peuvent conserver le ou les contrats de fourniture
+de leurs autres sites de consommation. Les contrats d'achat de gaz passés en application de ces procédures peuvent être
+conclus à prix fermes ou à prix révisables pour la partie relative à la fourniture.
 
 **Nota:**
 
 Conformément au XV de l'article 63 de la loi n° 2019-1147 du 8 novembre 2019, ces dispositions entrent en vigueur le 1er
 juillet 2023.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°2003-8 du 3 janvier 2003 - art. 3 (Ab), ecqc la fin du contrat réglementé
-
-_Codifié par_:
-
-  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
-
-_Créé par_:
-
-  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
-
-_Abrogé par_:
-
-  - Loi n°2019-1147 du 8 novembre 2019 - art. 63 (V)
-
-_Cite_:
-
-  - Code de l'énergie - art. L441-1
-
-
-###### Article L441-5
-
-Les dispositions du code de la commande publique n'imposent pas à l'Etat, à ses établissement publics, aux collectivités
-territoriales et à leurs établissements publics d'exercer le droit prévu à l'article L. 441-1.
-
-Lorsqu'elles l'exercent pour l'un des sites de consommation, ces personnes appliquent les procédures de ce code déterminées
-en fonction de la consommation de ce site et peuvent conserver le ou les contrats de fourniture de leurs autres sites de
-consommation. Les contrats d'achat de gaz passés en application de ces procédures peuvent être conclus à prix fermes ou à
-prix révisables pour la partie relative à la fourniture.
 
 **Liens relatifs à cet article**
 
@@ -26724,7 +26702,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2018-1074 du 26 novembre 2018 - art. 5
+  - Loi n°2019-1147 du 8 novembre 2019 - art. 63 (V)
 
 _Cite_:
 
