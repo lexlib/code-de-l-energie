@@ -1,5 +1,5 @@
 # Code de l'énergie  
-Version Consolidée au 2021-01-01
+Version Consolidée au 2024-05-23
 ## Contenu: 
   - [Partie législative (art. L100-1 à L731-1)](#1)
     - [LIVRE IER : L'ORGANISATION GENERALE  DU SECTEUR DE L'ENERGIE (art. L100-1 à L161-6)](#2)
@@ -17294,71 +17294,6 @@ _Modifié par_:
 _Cité par_:
 
   - Décret n°2017-676 du 28 avril 2017 (V)
-
-
-###### Article L315-2
-
-L'opération d'autoconsommation est collective lorsque la fourniture d'électricité est effectuée entre un ou plusieurs
-producteurs et un ou plusieurs consommateurs finals liés entre eux au sein d'une personne morale et dont les points de
-soutirage et d'injection sont situés sur le réseau basse tension et respectent les critères, notamment de proximité
-géographique, fixés par arrêté du ministre chargé de l'énergie, après avis de la Commission de régulation de l'énergie. Le
-chapitre V du titre III du présent livre, la mise en œuvre de la tarification spéciale dite “ produit de première nécessité ”
-prévue aux articles L. 121-5 et L. 337-3 du présent code et la section 1 du chapitre IV du titre II du livre II du code de la
-consommation ne sont pas applicables aux utilisateurs participant à une opération d'autoconsommation collective.
-
-**Nota:**
-
-Conformément au I de l’article 126 de la loi n° 2019-486 du 22 mai 2019, ces dispositions s'appliquent à titre expérimental
-pour une durée de cinq ans à compter de la publication de ladite loi.
-
-Conformément au II du même article, le ministère chargé de l'énergie et la Commission de régulation de l'énergie dressent un
-bilan de l'expérimentation avant le 31 décembre 2023.
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Loi n°2017-227 du 24 février 2017 - art. 9
-  - Loi n°2019-486 du 22 mai 2019 - art. 126 (V)
-
-_Cité par_:
-
-  - Arrêté du 9 mai 2017 - art. 8 (V)
-  - Décret n°2018-243 du 5 avril 2018 (V)
-  - Code de l'énergie - art. D315-6 (V)
-  - Code de l'énergie - art. D315-9 (V)
-  - Code de l'énergie - art. L315-4 (V)
-  - Code de l'énergie - art. R314-67-1 (V)
-  - Code de l'énergie - art. R314-67-3 (V)
-
-_Cite_:
-
-  - Code de l'énergie - art. L121-5
-  - Code de l'énergie - art. L337-3
-
-
-###### Article L315-3
-
-La Commission de régulation de l'énergie établit des tarifs d'utilisation des réseaux publics de distribution d'électricité
-spécifiques pour les consommateurs participants à des opérations d'autoconsommation.
-
-**Nota:**
-
-Conformément au I de l’article 126 de la loi n° 2019-486 du 22 mai 2019, ces dispositions s'appliquent à titre expérimental
-pour une durée de cinq ans à compter de la publication de ladite loi.
-
-Conformément au II du même article, le ministère chargé de l'énergie et la Commission de régulation de l'énergie dressent un
-bilan de l'expérimentation avant le 31 décembre 2023.
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Loi n°2019-486 du 22 mai 2019 - art. 126 (V)
-
-_Cité par_:
-
-  - Code de l'énergie - art. D315-2 (V)
 
 
 ###### Article L315-4
